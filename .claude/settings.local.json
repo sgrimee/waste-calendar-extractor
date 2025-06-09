@@ -1,19 +1,26 @@
 {
   "permissions": {
     "allow": [
-      "Bash(uv run:*)",
-      "Bash(uv sync:*)",
-      "Bash(mv:*)",
-      "Bash(touch:*)",
-      "Bash(git add:*)",
+      "Bash(gh issue view:*)",
+      "Bash(gh issue comment:*)",
       "Bash(mkdir:*)",
-      "WebFetch(domain:www.niederanven.lu)",
+      "Bash(PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste.ics --format summary)",
+      "Bash(PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-de.ics --format list)",
       "Bash(ls:*)",
-      "Bash(gh run list:*)",
-      "Bash(gh run view:*)",
-      "Bash(just test)",
-      "Bash(just check)",
-      "Bash(PYTHONPATH=src uv run python -m waste_calendar_extractor *)",
+      "Bash(PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-en.ics --format list)",
+      "Bash(just view-main:*)",
+      "Bash(python -m pytest tests/ -v)",
+      "Bash(python -m pytest tests/test_extract_dates.py::TestJune2025Extraction -v)",
+      "Bash(ruff check:*)",
+      "Bash(mypy:*)",
+      "Bash(python:*)",
+      "Bash(PYTHONPATH=src uv run mypy src/ tests/)",
+      "Bash(PYTHONPATH=src python -m pytest tests/ -q)",
+      "Bash(grep:*)",
+      "Bash(PYTHONPATH=src python -m pytest tests/ -v)",
+      "Bash(rm:*)",
+      "Bash(PYTHONPATH=src python -m pytest tests/test_integration.py::TestExtractionWithGivenOutput::test_june_2025_expected_dates -v)",
+      "Bash(PYTHONPATH=src uv run mypy src/ tests/ --disable-error-code=unused-ignore)"
     ],
     "deny": []
   }
