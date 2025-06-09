@@ -38,6 +38,31 @@ The calendar includes all waste collection dates for 2025 with multilingual desc
 
 ---
 
+## Wéi de Kalenner importéieren / Kalender importieren / Comment importer le calendrier
+
+### 🇱🇺 **Lëtzebuergesch**
+Fir den Offall-Kalenner an Ärem Telefon ze kréien:
+1. Kopéiert dësen Link: `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
+2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
+3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
+4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer!
+
+### 🇩🇪 **Deutsch**
+So bekommen Sie den Müllkalender auf Ihr Handy:
+1. Kopieren Sie diesen Link: `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
+2. Öffnen Sie Ihre Kalender-App (Google Kalender, Apple Kalender, etc.)
+3. Suchen Sie nach "Kalender importieren" oder "Kalender abonnieren"
+4. Fügen Sie den Link hinzu - Ihr Handy bekommt automatisch alle Mülltermine!
+
+### 🇫🇷 **Français**
+Pour avoir le calendrier des déchets sur votre téléphone :
+1. Copiez ce lien : `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
+2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
+3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
+4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte !
+
+---
+
 ## About This Tool
 
 A Python tool to extract waste collection dates from PDF calendars published by the **Commune of Niederanven** and generate iCal files for easy calendar integration.
