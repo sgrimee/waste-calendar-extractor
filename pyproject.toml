@@ -1,0 +1,38 @@
+[project]
+name = "waste-calendar-extractor"
+version = "0.1.0"
+description = "Extract waste collection dates from PDF calendars and generate iCal files"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Waste Calendar Extractor", email = "noreply@example.com"}
+]
+keywords = ["waste", "calendar", "pdf", "ical", "luxembourg"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Utilities",
+]
+dependencies = [
+    "PyMuPDF>=1.23.0",
+    "ics>=0.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+]
+
+[project.scripts]
+extract-waste-dates = "extract_dates_from_pdf:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.0",
+]
