@@ -44,14 +44,29 @@ clean:
     rm -rf .mypy_cache/
     rm -rf .ruff_cache/
 
-# Generate waste calendar for current year
+# Generate waste calendar for current year (all languages)
 generate:
-    PYTHONPATH=src uv run python -m waste_calendar_extractor
+    PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
     cp waste-$(date +%Y).ics waste.ics
-    echo "✅ Updated waste.ics with current year calendar"
+    echo "✅ Generated all language-specific calendars and updated waste.ics"
 
-# Generate waste calendar for specific year  
+# Generate waste calendar for specific year (all languages)
 generate-year year:
-    PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}}
+    PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}} --all-languages
     cp waste-{{year}}.ics waste.ics
-    echo "✅ Updated waste.ics with {{year}} calendar"
+    echo "✅ Generated all language-specific calendars for {{year}} and updated waste.ics"
+
+# Generate calendar for specific language
+generate-lang lang:
+    PYTHONPATH=src uv run python -m waste_calendar_extractor --language {{lang}}
+    echo "✅ Generated waste-{{lang}}.ics calendar"
+
+# Generate calendar for specific language and year
+generate-lang-year lang year:
+    PYTHONPATH=src uv run python -m waste_calendar_extractor --language {{lang}} -y {{year}}
+    echo "✅ Generated waste-{{year}}-{{lang}}.ics calendar"
+
+# Download latest calendar PDF from commune website
+download:
+    PYTHONPATH=src uv run python -m waste_calendar_extractor --download
+    echo "✅ Downloaded latest calendar PDF"

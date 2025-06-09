@@ -12,7 +12,9 @@ from waste_calendar_extractor import (
     WASTE_TYPE_KEYWORDS,
     detect_month,
     extract_date_and_waste_types,
+    extract_language_from_waste_description,
     generate_ical_calendar,
+    get_waste_type_icon,
     group_elements_by_rows,
 )
 
@@ -121,7 +123,7 @@ class TestGenerateIcalCalendar(unittest.TestCase):
     """Test the generate_ical_calendar function."""
 
     @patch("builtins.open", new_callable=mock_open)
-    @patch("waste_calendar_extractor.Calendar")
+    @patch("waste_calendar_extractor.output_generator.Calendar")
     def test_generate_calendar_with_events(self, mock_calendar_class, mock_file):
         """Test generating calendar with events."""
         # Setup mock calendar
@@ -143,7 +145,7 @@ class TestGenerateIcalCalendar(unittest.TestCase):
         self.assertEqual(mock_calendar.events.add.call_count, 2)
 
     @patch("builtins.open", new_callable=mock_open)
-    @patch("waste_calendar_extractor.Calendar")
+    @patch("waste_calendar_extractor.output_generator.Calendar")
     def test_generate_calendar_empty_icons(self, mock_calendar_class, mock_file):
         """Test generating calendar with empty icons (should skip)."""
         # Setup mock calendar
@@ -185,6 +187,107 @@ class TestConstants(unittest.TestCase):
         self.assertIn("glas", WASTE_TYPE_KEYWORDS)
         self.assertIn("packaging", WASTE_TYPE_KEYWORDS)
         self.assertIn("organic", WASTE_TYPE_KEYWORDS)
+
+
+class TestExtractLanguageFromWasteDescription(unittest.TestCase):
+    """Test the extract_language_from_waste_description function."""
+
+    def test_extract_german(self):
+        """Test extracting German/Luxembourgish text."""
+        description = "Reschtoffäll | Déchets ménagers | Residual waste"
+        result = extract_language_from_waste_description(description, "de")
+        self.assertEqual(result, "Reschtoffäll")
+
+    def test_extract_french(self):
+        """Test extracting French text."""
+        description = "Pabeier a Kartong | Papier et carton | Paper and carton"
+        result = extract_language_from_waste_description(description, "fr")
+        self.assertEqual(result, "Papier et carton")
+
+    def test_extract_english(self):
+        """Test extracting English text."""
+        description = "Glas | Verre | Glass"
+        result = extract_language_from_waste_description(description, "en")
+        self.assertEqual(result, "Glass")
+
+    def test_fallback_to_first_part(self):
+        """Test fallback to first part when language not found."""
+        description = "Unknown term | Other term"
+        result = extract_language_from_waste_description(description, "de")
+        self.assertEqual(result, "Unknown term")
+
+    def test_single_part_description(self):
+        """Test with single part description."""
+        description = "Reschtoffäll"
+        result = extract_language_from_waste_description(description, "de")
+        self.assertEqual(result, "Reschtoffäll")
+
+    def test_valorlux_packaging_english(self):
+        """Test VALORLUX packaging recognition."""
+        description = "Verpackungen | (VALORLUX) | Packaging"
+        result = extract_language_from_waste_description(description, "en")
+        self.assertEqual(result, "Packaging")
+
+    def test_christmas_trees_german(self):
+        """Test Christmas trees in German."""
+        description = "Beemercher | Sapins de Noël | Christmas trees"
+        result = extract_language_from_waste_description(description, "de")
+        self.assertEqual(result, "Beemercher")
+
+    def test_old_clothes_french(self):
+        """Test old clothes in French."""
+        description = "Aalt Gezei | Vieux vêtements | Old clothes"
+        result = extract_language_from_waste_description(description, "fr")
+        self.assertEqual(result, "Vieux vêtements")
+
+
+class TestGetWasteTypeIcon(unittest.TestCase):
+    """Test the get_waste_type_icon function."""
+
+    def test_residual_waste_icon(self):
+        """Test icon for residual waste."""
+        self.assertEqual(get_waste_type_icon("Reschtoffäll"), "🗑️")
+        self.assertEqual(get_waste_type_icon("Déchets ménagers"), "🗑️")
+        self.assertEqual(get_waste_type_icon("Residual waste"), "🗑️")
+
+    def test_paper_icon(self):
+        """Test icon for paper."""
+        self.assertEqual(get_waste_type_icon("Pabeier a Kartong"), "📄")
+        self.assertEqual(get_waste_type_icon("Papier et carton"), "📄")
+        self.assertEqual(get_waste_type_icon("Paper and carton"), "📄")
+
+    def test_glass_icon(self):
+        """Test icon for glass."""
+        self.assertEqual(get_waste_type_icon("Glas"), "🪟")
+        self.assertEqual(get_waste_type_icon("Verre"), "🪟")
+        self.assertEqual(get_waste_type_icon("Glass"), "🪟")
+
+    def test_packaging_icon(self):
+        """Test icon for packaging."""
+        self.assertEqual(get_waste_type_icon("(VALORLUX)"), "📦")
+        self.assertEqual(get_waste_type_icon("Packaging"), "📦")
+        self.assertEqual(get_waste_type_icon("Emballages"), "📦")
+
+    def test_organic_icon(self):
+        """Test icon for organic waste."""
+        self.assertEqual(get_waste_type_icon("Organesch Ressourcen"), "🌱")
+        self.assertEqual(get_waste_type_icon("Ressources organiques"), "🌱")
+
+    def test_clothes_icon(self):
+        """Test icon for old clothes."""
+        self.assertEqual(get_waste_type_icon("Aalt Gezei"), "👕")
+        self.assertEqual(get_waste_type_icon("Vieux vêtements"), "👕")
+        self.assertEqual(get_waste_type_icon("Old clothes"), "👕")
+
+    def test_christmas_trees_icon(self):
+        """Test icon for Christmas trees."""
+        self.assertEqual(get_waste_type_icon("Beemercher"), "🎄")
+        self.assertEqual(get_waste_type_icon("Sapins de Noël"), "🎄")
+        self.assertEqual(get_waste_type_icon("Christmas trees"), "🎄")
+
+    def test_default_icon(self):
+        """Test default icon for unknown waste type."""
+        self.assertEqual(get_waste_type_icon("Unknown waste type"), "♻️")
 
 
 class TestIntegration(unittest.TestCase):

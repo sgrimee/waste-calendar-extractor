@@ -10,56 +10,82 @@
 
 **Ready-to-use waste collection calendar for the Commune of Niederanven, Luxembourg**
 
-## 📅 Quick Start: Use the Calendar Directly
+## 📅 Quick Start: Choose Your Language / Sprooch wielen / Sprache wählen / Choisir la langue
 
-**No installation needed!** Simply import the ready-to-use calendar into your calendar app:
+**Choose your preferred language for the calendar / Wielt Är gewënschte Sprooch / Wählen Sie Ihre Sprache / Choisissez votre langue :**
 
-### Calendar Links (iCal format)
+📋 **[🇱🇺 Lëtzebuergesch](#-lëtzebuergesch)** | **[🇩🇪 Deutsch](#-deutsch)** | **[🇫🇷 Français](#-français)** | **[🇬🇧 English / All Languages](#-english--all-languages)**
 
-**Stable URL (always current year):**
+---
+
+## 🇱🇺 **Lëtzebuergesch**
+
+**Link fir den Offall-Kalenner op Lëtzebuergesch:**
+```
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
+```
+
+**Wéi maachen:**
+1. Kopéiert dësen Link ☝️
+2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
+3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren" 
+4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen!
+
+---
+
+## 🇩🇪 **Deutsch**
+
+**Link für den Müllkalender auf Deutsch:**
+```
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
+```
+
+**So geht's:**
+1. Kopieren Sie diesen Link ☝️
+2. Öffnen Sie Ihre Kalender-App (Google Kalender, Apple Kalender, etc.)
+3. Suchen Sie nach "Kalender importieren" oder "Kalender abonnieren"
+4. Fügen Sie den Link hinzu - Ihr Handy bekommt automatisch alle Mülltermine mit Icons auf Deutsch!
+
+---
+
+## 🇫🇷 **Français**
+
+**Lien pour le calendrier des déchets en français :**
+```
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics
+```
+
+**Comment faire :**
+1. Copiez ce lien ☝️
+2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
+3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
+4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte avec des icônes en français !
+
+---
+
+## 🇬🇧 **English / All Languages**
+
+**Links for waste collection calendars:**
+
+**Multilingual (all languages in one calendar):**
 ```
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics
 ```
 
-**Specific year:**
-```
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-2025.ics
-```
+**Language-specific calendars:**
+- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics`  
+- 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics`
+- 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-en.ics`
 
-### How to Import:
-- **Google Calendar**: Settings → Import & Export → Import → Select file or paste URL
-- **Apple Calendar**: File → Import → Select file or paste URL  
-- **Outlook**: File → Open & Export → Import/Export → Select file
-- **Other apps**: Look for "Import Calendar" or "Subscribe to Calendar" and use the URL above
+**💡 How language filtering works:** Each language-specific calendar contains only waste collection events that match that language's terminology, with appropriate emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees). For example, the German calendar shows "🗑️ Reschtoffäll", while the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste". This allows users to subscribe to their preferred language without seeing multilingual duplicates.
 
-The calendar includes all waste collection dates for 2025 with multilingual descriptions.
+**How to import:**
+1. Copy the link for your preferred language ☝️
+2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
+3. Look for "Import Calendar" or "Subscribe to Calendar"
+4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons!
 
-**💡 Pro tip:** Subscribe to the stable URL in your calendar app for automatic updates when new calendars are published!
-
----
-
-## Wéi de Kalenner importéieren / Kalender importieren / Comment importer le calendrier
-
-### 🇱🇺 **Lëtzebuergesch**
-Fir den Offall-Kalenner an Ärem Telefon ze kréien:
-1. Kopéiert dësen Link: `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
-2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
-3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
-4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer!
-
-### 🇩🇪 **Deutsch**
-So bekommen Sie den Müllkalender auf Ihr Handy:
-1. Kopieren Sie diesen Link: `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
-2. Öffnen Sie Ihre Kalender-App (Google Kalender, Apple Kalender, etc.)
-3. Suchen Sie nach "Kalender importieren" oder "Kalender abonnieren"
-4. Fügen Sie den Link hinzu - Ihr Handy bekommt automatisch alle Mülltermine!
-
-### 🇫🇷 **Français**
-Pour avoir le calendrier des déchets sur votre téléphone :
-1. Copiez ce lien : `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics`
-2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
-3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
-4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte !
+**💡 Pro tip:** Subscribe to the URL in your calendar app for automatic updates when new calendars are published!
 
 ---
 
@@ -115,17 +141,28 @@ extract-waste-dates
 ### Advanced usage
 
 ```bash
+# Download latest calendar PDF from commune website
+PYTHONPATH=src uv run python -m waste_calendar_extractor --download
+
+# Generate language-specific calendars
+PYTHONPATH=src uv run python -m waste_calendar_extractor --language de  # German/Luxembourgish
+PYTHONPATH=src uv run python -m waste_calendar_extractor --language fr  # French
+PYTHONPATH=src uv run python -m waste_calendar_extractor --language en  # English
+
+# Generate all language-specific calendars at once
+PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
+
 # Specify custom PDF file
-uv run python extract_dates_from_pdf.py my-calendar.pdf
+PYTHONPATH=src uv run python -m waste_calendar_extractor my-calendar.pdf
 
 # Custom output file and year
-uv run python extract_dates_from_pdf.py -o my-calendar.ics -y 2026
+PYTHONPATH=src uv run python -m waste_calendar_extractor -o my-calendar.ics -y 2026
 
 # Verbose logging
-uv run python extract_dates_from_pdf.py -v
+PYTHONPATH=src uv run python -m waste_calendar_extractor -v
 
 # Show help
-uv run python extract_dates_from_pdf.py --help
+PYTHONPATH=src uv run python -m waste_calendar_extractor --help
 ```
 
 ## Command Line Options
@@ -133,6 +170,10 @@ uv run python extract_dates_from_pdf.py --help
 - `pdf_file`: Path to PDF file (default: `ressourcekalenner-nidderaanwen-web.pdf`)
 - `-o, --output`: Output iCal file path (default: `waste-{year}.ics`)
 - `-y, --year`: Year for the calendar (default: 2025)
+- `-l, --language`: Generate calendar for specific language (`de`=German/Luxembourgish, `fr`=French, `en`=English)
+- `--all-languages`: Generate calendars for all languages (de, fr, en)
+- `--download`: Download the latest calendar PDF from Niederanven website
+- `--download-url`: Custom URL to download PDF from (default: Niederanven website)
 - `-v, --verbose`: Enable verbose logging
 
 ## Supported Waste Types

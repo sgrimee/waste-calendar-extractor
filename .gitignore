@@ -75,6 +75,9 @@ Thumbs.db
 *.ics
 !waste-*.ics
 !waste.ics
+!waste-lb.ics
+!waste-de.ics  
+!waste-fr.ics
 *.pdf
 
 # Keep main icon but ignore other sizes
