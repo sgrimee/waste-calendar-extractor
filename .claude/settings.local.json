@@ -15,7 +15,8 @@
       "Bash(gh run view:*)",
       "Bash(PYTHONPATH=src uv run mypy src/ tests/)",
       "Bash(just test)",
-      "Bash(just check)"
+      "Bash(just check)",
+      "Bash(PYTHONPATH=src uv run python -m waste_calendar_extractor --help)"
     ],
     "deny": []
   }

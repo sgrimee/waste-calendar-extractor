@@ -115,27 +115,65 @@ The extractor recognizes various waste collection types in multiple languages:
 
 ## Development
 
-### Running tests
+This project uses [just](https://github.com/casey/just) for development commands:
 
 ```bash
-# Run all tests
-uv run python test_extract_dates.py
+# Install development dependencies
+just install
 
-# Install development dependencies (if using pip)
-pip install -e ".[dev]"
-pytest
+# Run all tests
+just test
+
+# Run all checks (format, lint, type check)
+just check
+
+# Format code and fix issues
+just format
+
+# Lint code
+just lint  
+
+# Type check with mypy
+just typecheck
+
+# Build package
+just build
+
+# Generate calendar for current year
+just generate
+
+# Generate calendar for specific year
+just generate-year 2026
+```
+
+### Manual testing (without just)
+
+```bash
+# Run tests
+PYTHONPATH=src uv run python -m pytest tests/ -v
+
+# Run checks
+uv run ruff check src/ tests/
+PYTHONPATH=src uv run mypy src/ tests/
 ```
 
 ### Project structure
 
 ```
 waste-calendar-extractor/
-├── extract_dates_from_pdf.py  # Main extraction script
-├── test_extract_dates.py      # Unit tests
-├── pyproject.toml             # Project configuration
-├── README.md                  # This file
-├── LICENSE                    # MIT license
-└── ressourcekalenner-*.pdf    # Example PDF file
+├── src/
+│   └── waste_calendar_extractor/
+│       ├── __init__.py        # Main extraction module
+│       └── py.typed           # Type checking marker
+├── tests/
+│   └── test_extract_dates.py  # Unit tests
+├── icons/
+│   └── icon.png              # Project icon
+├── justfile                  # Development commands
+├── pyproject.toml            # Project configuration
+├── README.md                 # This file
+├── LICENSE                   # MIT license
+└── waste-2025.ics           # Ready-to-use calendar file
 ```
 
 ## How it works
