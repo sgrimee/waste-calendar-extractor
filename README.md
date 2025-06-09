@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.png" alt="Waste Calendar Extractor" width="128" height="128">
+  <img src="icons/icon.png" alt="Waste Calendar Extractor" width="128" height="128">
   
   # Waste Calendar Extractor for Niederanven, Luxembourg 🇱🇺
 </div>

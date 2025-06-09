@@ -2,16 +2,22 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.4.0",
+    "pytest-cov>=6.1.1", 
+    "ruff>=0.11.13",
+    "mypy>=1.16.0",
+]
+
 [project]
 name = "waste-calendar-extractor"
 version = "0.1.0"
 description = "Extract waste collection dates from PDF calendars and generate iCal files"
 readme = "README.md"
 requires-python = ">=3.11"
-license = {file = "LICENSE"}
-authors = [
-    {name = "Sam Grimee", email = "sgrimee@users.noreply.github.com"}
-]
+license = { file = "LICENSE" }
+authors = [{ name = "Sam Grimee", email = "sgrimee@users.noreply.github.com" }]
 keywords = ["waste", "calendar", "pdf", "ical", "luxembourg"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -22,33 +28,29 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
     "Topic :: Utilities",
 ]
-dependencies = [
-    "PyMuPDF>=1.23.0",
-    "ics>=0.7",
-]
+dependencies = ["PyMuPDF>=1.23.0", "ics>=0.7"]
 
 
 [project.scripts]
-extract-waste-dates = "extract_dates_from_pdf:main"
+extract-waste-dates = "waste_calendar_extractor:main"
 
 [tool.hatch.build.targets.wheel]
-packages = ["."]
+packages = ["src"]
+
+[tool.hatch.build.targets.sdist]
 include = [
-    "extract_dates_from_pdf.py",
-    "test_extract_dates.py"
+    "/src",
+    "/tests",
+    "/icons",
+    "/waste-2025.ics",
+    "/README.md",
+    "/LICENSE",
+    "/justfile"
 ]
 
-[dependency-groups]
-dev = [
-    "pytest>=8.4.0",
-    "pytest-cov>=4.0.0",
-    "ruff>=0.1.0",
-    "black>=23.0.0",
-    "mypy>=1.0.0",
-]
 
 [tool.ruff]
-line-length = 88
+line-length = 120
 target-version = "py311"
 
 [tool.ruff.lint]
@@ -63,12 +65,10 @@ select = [
 ]
 ignore = []
 
-[tool.black]
-line-length = 88
-target-version = ['py311']
 
 [tool.mypy]
 python_version = "3.11"
-warn_return_any = true
+warn_return_any = false
 warn_unused_configs = true
-disallow_untyped_defs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true

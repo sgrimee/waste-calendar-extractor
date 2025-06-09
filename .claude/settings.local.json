@@ -12,7 +12,10 @@
       "WebFetch(domain:www.niederanven.lu)",
       "Bash(ls:*)",
       "Bash(gh run list:*)",
-      "Bash(gh run view:*)"
+      "Bash(gh run view:*)",
+      "Bash(PYTHONPATH=src uv run mypy src/ tests/)",
+      "Bash(just test)",
+      "Bash(just check)"
     ],
     "deny": []
   }

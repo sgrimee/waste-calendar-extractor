@@ -32,16 +32,16 @@ jobs:
     
     - name: Run tests
       run: |
-        uv run python test_extract_dates.py
+        PYTHONPATH=src uv run python -m pytest tests/ -v
     
     - name: Test CLI help
       run: |
-        uv run python extract_dates_from_pdf.py --help
+        PYTHONPATH=src uv run python -m waste_calendar_extractor --help
     
     - name: Test with sample PDF (if available)
       run: |
         if [ -f "ressourcekalenner-nidderaanwen-web.pdf" ]; then
-          uv run python extract_dates_from_pdf.py -o test_output.ics
+          PYTHONPATH=src uv run python -m waste_calendar_extractor -o test_output.ics
           [ -f "test_output.ics" ] && echo "✅ iCal file generated successfully"
           rm -f test_output.ics
         else
@@ -66,22 +66,15 @@ jobs:
     
     - name: Install dependencies
       run: |
-        uv add --dev ruff black mypy
+        uv sync --dev
     
     - name: Run ruff (linting)
       run: |
-        uv run ruff check extract_dates_from_pdf.py test_extract_dates.py
-      continue-on-error: true
-    
-    - name: Run black (formatting check)
-      run: |
-        uv run black --check extract_dates_from_pdf.py test_extract_dates.py
-      continue-on-error: true
+        uv run ruff check src/ tests/
     
     - name: Run mypy (type checking)
       run: |
-        uv run mypy extract_dates_from_pdf.py
-      continue-on-error: true
+        PYTHONPATH=src uv run mypy src/ tests/
 
   build:
     runs-on: ubuntu-latest

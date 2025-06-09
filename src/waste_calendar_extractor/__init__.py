@@ -16,29 +16,53 @@ from ics import Calendar, Event
 
 # Luxembourgish month names mapping
 MONTH_NAMES = [
-    "JANUAR", "FEBRUAR", "MÄERZ", "ABRËLL", "MEE", "JUNI",
-    "JULI", "AUGUST", "SEPTEMBER", "OKTOBER", "NOVEMBER", "DEZEMBER"
+    "JANUAR",
+    "FEBRUAR",
+    "MÄERZ",
+    "ABRËLL",
+    "MEE",
+    "JUNI",
+    "JULI",
+    "AUGUST",
+    "SEPTEMBER",
+    "OKTOBER",
+    "NOVEMBER",
+    "DEZEMBER",
 ]
 MONTH_NUMBERS = {month: index + 1 for index, month in enumerate(MONTH_NAMES)}
 
 # Waste collection type keywords for detection
 WASTE_TYPE_KEYWORDS = [
-    "reschtoffäll", "déchets ménagers", "residual waste",
-    "pabeier", "papier", "paper", "carton",
-    "glas", "verre", "glass",
-    "verpackungen", "emballages", "packaging", "valorlux",
-    "organesch", "organiques", "organic",
-    "aalt gezei", "vieux vêtements", "old clothes",
-    "beemercher", "sapins", "christmas trees"
+    "reschtoffäll",
+    "déchets ménagers",
+    "residual waste",
+    "pabeier",
+    "papier",
+    "paper",
+    "carton",
+    "glas",
+    "verre",
+    "glass",
+    "verpackungen",
+    "emballages",
+    "packaging",
+    "valorlux",
+    "organesch",
+    "organiques",
+    "organic",
+    "aalt gezei",
+    "vieux vêtements",
+    "old clothes",
+    "beemercher",
+    "sapins",
+    "christmas trees",
 ]
 
 
 def setup_logging(level: str = "INFO") -> None:
     """Configure logging with specified level."""
     logging.basicConfig(
-        level=getattr(logging, level.upper()),
-        format='%(asctime)s - %(levelname)s - %(message)s',
-        datefmt='%H:%M:%S'
+        level=getattr(logging, level.upper()), format="%(asctime)s - %(levelname)s - %(message)s", datefmt="%H:%M:%S"
     )
 
 
@@ -54,18 +78,12 @@ def extract_text_elements(page) -> list[dict]:
                     text = span["text"].strip()
                     if text:
                         bbox = span["bbox"]
-                        elements.append({
-                            "text": text,
-                            "x": bbox[0],
-                            "y": bbox[1]
-                        })
+                        elements.append({"text": text, "x": bbox[0], "y": bbox[1]})
 
     return elements
 
 
-def group_elements_by_rows(
-    elements: list[dict], row_tolerance: float = 10.0
-) -> list[list[dict]]:
+def group_elements_by_rows(elements: list[dict], row_tolerance: float = 10.0) -> list[list[dict]]:
     """Group text elements into rows based on Y coordinate proximity."""
     if not elements:
         return []
@@ -74,7 +92,7 @@ def group_elements_by_rows(
     elements.sort(key=lambda x: (x["y"], x["x"]))
 
     rows = []
-    current_row = []
+    current_row: list[dict] = []
     last_y = -1
 
     for elem in elements:
@@ -133,24 +151,14 @@ def process_pdf_page(page, current_month: str, year: int = 2025) -> list[dict]:
     for row in rows:
         date_found, waste_types = extract_date_and_waste_types(row)
 
-        if (
-            date_found
-            and waste_types
-            and current_month
-            and current_month in MONTH_NUMBERS
-        ):
+        if date_found and waste_types and current_month and current_month in MONTH_NUMBERS:
             try:
                 date_obj = datetime(year, MONTH_NUMBERS[current_month], date_found)
                 icons = " | ".join(waste_types)
 
-                logging.info(
-                    f"Extracted: {date_obj.strftime('%Y-%m-%d')} -> '{icons}'"
-                )
+                logging.info(f"Extracted: {date_obj.strftime('%Y-%m-%d')} -> '{icons}'")
 
-                results.append({
-                    "date": date_obj,
-                    "icons": icons
-                })
+                results.append({"date": date_obj, "icons": icons})
 
             except ValueError:
                 # Invalid day for this month
@@ -161,8 +169,8 @@ def process_pdf_page(page, current_month: str, year: int = 2025) -> list[dict]:
 
 def extract_dates_from_pdf(pdf_path: str, year: int = 2025) -> list[dict]:
     """Extract all waste collection dates from PDF file."""
-    pdf_path = Path(pdf_path)
-    if not pdf_path.exists():
+    pdf_file = Path(pdf_path)
+    if not pdf_file.exists():
         raise FileNotFoundError(f"PDF file not found: {pdf_path}")
 
     logging.info(f"Opening PDF file: {pdf_path}")
@@ -192,9 +200,7 @@ def extract_dates_from_pdf(pdf_path: str, year: int = 2025) -> list[dict]:
     return results
 
 
-def generate_ical_calendar(
-    results: list[dict], output_path: str | None = None, year: int = 2025
-) -> int:
+def generate_ical_calendar(results: list[dict], output_path: str | None = None, year: int = 2025) -> int:
     """Generate iCal calendar file from extraction results."""
     if output_path is None:
         output_path = f"waste-{year}.ics"
@@ -204,12 +210,12 @@ def generate_ical_calendar(
 
     events_added = 0
     for entry in results:
-        if entry['icons'].strip():  # Only add events with actual content
+        if entry["icons"].strip():  # Only add events with actual content
             event = Event()
-            event.name = entry['icons']
+            event.name = entry["icons"]
 
             # Set as all-day event using date (not datetime)
-            event.begin = entry['date'].date()
+            event.begin = entry["date"].date()
             event.make_all_day()
 
             # Add description with waste type details
@@ -223,7 +229,7 @@ def generate_ical_calendar(
 
     logging.info(f"Added {events_added} events to calendar.")
 
-    with open(output_path, "w", encoding='utf-8') as f:
+    with open(output_path, "w", encoding="utf-8") as f:
         f.writelines(calendar)
 
     logging.info(f"Calendar saved as '{output_path}'")
@@ -233,32 +239,17 @@ def generate_ical_calendar(
 def main():
     """Main function with command line interface."""
     parser = argparse.ArgumentParser(
-        description=(
-            "Extract waste collection dates from PDF calendars "
-            "and generate iCal files."
-        )
+        description=("Extract waste collection dates from PDF calendars and generate iCal files.")
     )
     parser.add_argument(
         "pdf_file",
         nargs="?",
         default="ressourcekalenner-nidderaanwen-web.pdf",
-        help="Path to PDF file (default: ressourcekalenner-nidderaanwen-web.pdf)"
+        help="Path to PDF file (default: ressourcekalenner-nidderaanwen-web.pdf)",
     )
-    parser.add_argument(
-        "-o", "--output",
-        help="Output iCal file path (default: waste-{year}.ics)"
-    )
-    parser.add_argument(
-        "-y", "--year",
-        type=int,
-        default=2025,
-        help="Year for the calendar (default: 2025)"
-    )
-    parser.add_argument(
-        "-v", "--verbose",
-        action="store_true",
-        help="Enable verbose logging"
-    )
+    parser.add_argument("-o", "--output", help="Output iCal file path (default: waste-{year}.ics)")
+    parser.add_argument("-y", "--year", type=int, default=2025, help="Year for the calendar (default: 2025)")
+    parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose logging")
 
     args = parser.parse_args()
 
@@ -275,8 +266,7 @@ def main():
 
         # Final summary
         logging.info(
-            f"Extraction complete. {len(results)} dates processed "
-            f"with {events_added} waste collection events found."
+            f"Extraction complete. {len(results)} dates processed with {events_added} waste collection events found."
         )
 
     except FileNotFoundError as e:
