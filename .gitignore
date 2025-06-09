@@ -74,6 +74,7 @@ Thumbs.db
 # Project specific
 *.ics
 !waste-*.ics
+!waste.ics
 *.pdf
 
 # Keep main icon but ignore other sizes

@@ -47,7 +47,11 @@ clean:
 # Generate waste calendar for current year
 generate:
     PYTHONPATH=src uv run python -m waste_calendar_extractor
+    cp waste-$(date +%Y).ics waste.ics
+    echo "✅ Updated waste.ics with current year calendar"
 
-# Generate waste calendar for specific year
+# Generate waste calendar for specific year  
 generate-year year:
     PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}}
+    cp waste-{{year}}.ics waste.ics
+    echo "✅ Updated waste.ics with {{year}} calendar"

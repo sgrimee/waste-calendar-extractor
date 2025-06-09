@@ -14,7 +14,14 @@
 
 **No installation needed!** Simply import the ready-to-use calendar into your calendar app:
 
-### Calendar Link (iCal format)
+### Calendar Links (iCal format)
+
+**Stable URL (always current year):**
+```
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics
+```
+
+**Specific year:**
 ```
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-2025.ics
 ```
@@ -26,6 +33,8 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-20
 - **Other apps**: Look for "Import Calendar" or "Subscribe to Calendar" and use the URL above
 
 The calendar includes all waste collection dates for 2025 with multilingual descriptions.
+
+**💡 Pro tip:** Subscribe to the stable URL in your calendar app for automatic updates when new calendars are published!
 
 ---
 
