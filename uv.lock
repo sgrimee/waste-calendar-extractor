@@ -412,17 +412,12 @@ dependencies = [
     { name = "pymupdf" },
 ]
 
-[package.optional-dependencies]
-dev = [
-    { name = "pytest" },
-    { name = "pytest-cov" },
-]
-
 [package.dev-dependencies]
 dev = [
     { name = "black" },
     { name = "mypy" },
     { name = "pytest" },
+    { name = "pytest-cov" },
     { name = "ruff" },
 ]
 
@@ -430,15 +425,13 @@ dev = [
 requires-dist = [
     { name = "ics", specifier = ">=0.7" },
     { name = "pymupdf", specifier = ">=1.23.0" },
-    { name = "pytest", marker = "extra == 'dev'", specifier = ">=7.0.0" },
-    { name = "pytest-cov", marker = "extra == 'dev'", specifier = ">=4.0.0" },
 ]
-provides-extras = ["dev"]
 
 [package.metadata.requires-dev]
 dev = [
     { name = "black", specifier = ">=23.0.0" },
     { name = "mypy", specifier = ">=1.0.0" },
     { name = "pytest", specifier = ">=8.4.0" },
+    { name = "pytest-cov", specifier = ">=4.0.0" },
     { name = "ruff", specifier = ">=0.1.0" },
 ]

@@ -10,7 +10,9 @@
       "Bash(git add:*)",
       "Bash(mkdir:*)",
       "WebFetch(domain:www.niederanven.lu)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh run view:*)"
     ],
     "deny": []
   }

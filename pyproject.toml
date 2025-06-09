@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = {file = "LICENSE"}
 authors = [
-    {name = "Waste Calendar Extractor", email = "noreply@example.com"}
+    {name = "Sam Grimee", email = "sgrimee@users.noreply.github.com"}
 ]
 keywords = ["waste", "calendar", "pdf", "ical", "luxembourg"]
 classifiers = [
