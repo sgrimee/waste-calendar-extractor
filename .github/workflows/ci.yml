@@ -1,0 +1,110 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12']
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+    
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "latest"
+    
+    - name: Install dependencies
+      run: |
+        uv sync --dev
+    
+    - name: Run tests
+      run: |
+        uv run python test_extract_dates.py
+    
+    - name: Test CLI help
+      run: |
+        uv run python extract_dates_from_pdf.py --help
+    
+    - name: Test with sample PDF (if available)
+      run: |
+        if [ -f "ressourcekalenner-nidderaanwen-web.pdf" ]; then
+          uv run python extract_dates_from_pdf.py -o test_output.ics
+          [ -f "test_output.ics" ] && echo "✅ iCal file generated successfully"
+          rm -f test_output.ics
+        else
+          echo "ℹ️  Sample PDF not available for testing"
+        fi
+
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "latest"
+    
+    - name: Install dependencies
+      run: |
+        uv add --dev ruff black mypy
+    
+    - name: Run ruff (linting)
+      run: |
+        uv run ruff check extract_dates_from_pdf.py test_extract_dates.py
+      continue-on-error: true
+    
+    - name: Run black (formatting check)
+      run: |
+        uv run black --check extract_dates_from_pdf.py test_extract_dates.py
+      continue-on-error: true
+    
+    - name: Run mypy (type checking)
+      run: |
+        uv run mypy extract_dates_from_pdf.py
+      continue-on-error: true
+
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "latest"
+    
+    - name: Build package
+      run: |
+        uv build
+    
+    - name: Upload build artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: dist
+        path: dist/

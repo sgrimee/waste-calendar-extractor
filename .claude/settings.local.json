@@ -7,7 +7,8 @@
       "Bash(rm:*)",
       "Bash(mv:*)",
       "Bash(touch:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }
