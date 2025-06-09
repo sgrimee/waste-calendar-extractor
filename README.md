@@ -1,15 +1,48 @@
-# Waste Calendar Extractor
+<div align="center">
+  <img src="icon.png" alt="Waste Calendar Extractor" width="128" height="128">
+  
+  # Waste Calendar Extractor for Niederanven, Luxembourg 🇱🇺
+</div>
 
 [![CI](https://github.com/sgrimee/waste-calendar-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/sgrimee/waste-calendar-extractor/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-A Python tool to extract waste collection dates from PDF calendars and generate iCal files.
+**Ready-to-use waste collection calendar for the Commune of Niederanven, Luxembourg**
+
+## 📅 Quick Start: Use the Calendar Directly
+
+**No installation needed!** Simply import the ready-to-use calendar into your calendar app:
+
+### Calendar Link (iCal format)
+```
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-2025.ics
+```
+
+### How to Import:
+- **Google Calendar**: Settings → Import & Export → Import → Select file or paste URL
+- **Apple Calendar**: File → Import → Select file or paste URL  
+- **Outlook**: File → Open & Export → Import/Export → Select file
+- **Other apps**: Look for "Import Calendar" or "Subscribe to Calendar" and use the URL above
+
+The calendar includes all waste collection dates for 2025 with multilingual descriptions.
+
+---
+
+## About This Tool
+
+A Python tool to extract waste collection dates from PDF calendars published by the **Commune of Niederanven** and generate iCal files for easy calendar integration.
+
+## Source Data
+
+This tool extracts data from the official waste collection calendar published by the **Commune of Niederanven**. 
+
+The original PDF calendar ("Ressourcekalenner") can be found on the [official Niederanven website](https://www.niederanven.lu/en/environment/waste-disposal-management). Visit their waste management section for the latest calendar updates.
 
 ## Features
 
 - 📅 Extracts dates and collection types from PDF waste collection calendars
-- 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions
+- 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions  
 - 📁 Generates iCal (.ics) files for calendar import
 - 🔍 Real-time logging shows extraction progress
 - 🧪 Comprehensive unit tests
@@ -52,7 +85,7 @@ extract-waste-dates
 uv run python extract_dates_from_pdf.py my-calendar.pdf
 
 # Custom output file and year
-uv run python extract_dates_from_pdf.py -o my-calendar.ics -y 2025
+uv run python extract_dates_from_pdf.py -o my-calendar.ics -y 2026
 
 # Verbose logging
 uv run python extract_dates_from_pdf.py -v
@@ -64,8 +97,8 @@ uv run python extract_dates_from_pdf.py --help
 ## Command Line Options
 
 - `pdf_file`: Path to PDF file (default: `ressourcekalenner-nidderaanwen-web.pdf`)
-- `-o, --output`: Output iCal file path (default: `waste_collection_calendar.ics`)
-- `-y, --year`: Year for the calendar (default: 2024)
+- `-o, --output`: Output iCal file path (default: `waste-{year}.ics`)
+- `-y, --year`: Year for the calendar (default: 2025)
 - `-v, --verbose`: Enable verbose logging
 
 ## Supported Waste Types

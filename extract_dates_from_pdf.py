@@ -120,7 +120,7 @@ def extract_date_and_waste_types(row: List[Dict]) -> Tuple[int, List[str]]:
     return date_found, waste_types
 
 
-def process_pdf_page(page, current_month: str, year: int = 2024) -> List[Dict]:
+def process_pdf_page(page, current_month: str, year: int = 2025) -> List[Dict]:
     """Process a single PDF page and extract waste collection dates."""
     results = []
     
@@ -151,7 +151,7 @@ def process_pdf_page(page, current_month: str, year: int = 2024) -> List[Dict]:
     return results
 
 
-def extract_dates_from_pdf(pdf_path: str, year: int = 2024) -> List[Dict]:
+def extract_dates_from_pdf(pdf_path: str, year: int = 2025) -> List[Dict]:
     """Extract all waste collection dates from PDF file."""
     pdf_path = Path(pdf_path)
     if not pdf_path.exists():
@@ -184,8 +184,11 @@ def extract_dates_from_pdf(pdf_path: str, year: int = 2024) -> List[Dict]:
     return results
 
 
-def generate_ical_calendar(results: List[Dict], output_path: str = "waste_collection_calendar.ics") -> int:
+def generate_ical_calendar(results: List[Dict], output_path: str = None, year: int = 2025) -> int:
     """Generate iCal calendar file from extraction results."""
+    if output_path is None:
+        output_path = f"waste-{year}.ics"
+    
     logging.info("Generating iCal calendar...")
     calendar = Calendar()
     
@@ -194,13 +197,23 @@ def generate_ical_calendar(results: List[Dict], output_path: str = "waste_collec
         if entry['icons'].strip():  # Only add events with actual content
             event = Event()
             event.name = entry['icons']
-            event.begin = entry['date']
+            
+            # Set as all-day event using date (not datetime)
+            event.begin = entry['date'].date()
+            event.make_all_day()
+            
+            # Add description with waste type details
+            event.description = f"Waste collection: {entry['icons']}"
+            
+            # Set location (optional - can be customized)
+            event.location = "Niederanven, Luxembourg"
+            
             calendar.events.add(event)
             events_added += 1
     
     logging.info(f"Added {events_added} events to calendar.")
     
-    with open(output_path, "w") as f:
+    with open(output_path, "w", encoding='utf-8') as f:
         f.writelines(calendar)
     
     logging.info(f"Calendar saved as '{output_path}'")
@@ -220,14 +233,13 @@ def main():
     )
     parser.add_argument(
         "-o", "--output",
-        default="waste_collection_calendar.ics",
-        help="Output iCal file path (default: waste_collection_calendar.ics)"
+        help="Output iCal file path (default: waste-{year}.ics)"
     )
     parser.add_argument(
         "-y", "--year",
         type=int,
-        default=2024,
-        help="Year for the calendar (default: 2024)"
+        default=2025,
+        help="Year for the calendar (default: 2025)"
     )
     parser.add_argument(
         "-v", "--verbose",
@@ -246,7 +258,7 @@ def main():
         results = extract_dates_from_pdf(args.pdf_file, args.year)
         
         # Generate iCal calendar
-        events_added = generate_ical_calendar(results, args.output)
+        events_added = generate_ical_calendar(results, args.output, args.year)
         
         # Final summary
         logging.info(f"Extraction complete. {len(results)} dates processed with {events_added} waste collection events found.")

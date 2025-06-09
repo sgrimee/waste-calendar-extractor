@@ -8,7 +8,9 @@
       "Bash(mv:*)",
       "Bash(touch:*)",
       "Bash(git add:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebFetch(domain:www.niederanven.lu)",
+      "Bash(ls:*)"
     ],
     "deny": []
   }

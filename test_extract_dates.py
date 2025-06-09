@@ -155,11 +155,11 @@ class TestGenerateIcalCalendar(unittest.TestCase):
         ]
         
         # Call function
-        events_added = generate_ical_calendar(results, "test.ics")
+        events_added = generate_ical_calendar(results, "test.ics", 2024)
         
         # Verify
         self.assertEqual(events_added, 2)
-        mock_file.assert_called_once_with("test.ics", "w")
+        mock_file.assert_called_once_with("test.ics", "w", encoding='utf-8')
         mock_calendar.events.add.call_count == 2
     
     @patch('builtins.open', new_callable=mock_open)
@@ -183,10 +183,11 @@ class TestGenerateIcalCalendar(unittest.TestCase):
         ]
         
         # Call function
-        events_added = generate_ical_calendar(results, "test.ics")
+        events_added = generate_ical_calendar(results, "test.ics", 2024)
         
         # Verify no events added
         self.assertEqual(events_added, 0)
+        mock_file.assert_called_once_with("test.ics", "w", encoding='utf-8')
 
 
 class TestConstants(unittest.TestCase):

@@ -73,5 +73,8 @@ Thumbs.db
 
 # Project specific
 *.ics
+!waste-*.ics
 *.pdf
-!ressourcekalenner-nidderaanwen-web.pdf
+
+# Keep main icon but ignore other sizes
+icon-*.png
