@@ -43,7 +43,7 @@ WASTE_TYPE_TRANSLATIONS = {
         "elektro- an elektronikapparater": "Electrical and electronic equipment",
         "aalt gezei": "Old clothes",
         "beemercher": "Christmas trees",
-    }
+    },
 }
 
 
@@ -199,8 +199,7 @@ def get_waste_type_icon(description: str) -> str:
 
     # Old clothes/textiles
     elif any(
-        term in description_lower
-        for term in ["aalt gezei", "vêtements", "vieux vêtements", "clothes", "textile"]
+        term in description_lower for term in ["aalt gezei", "vêtements", "vieux vêtements", "clothes", "textile"]
     ):
         return "👕"
 
@@ -280,14 +279,20 @@ def generate_ical_calendar(
 
 
 def generate_all_language_calendars(results: list[dict], year: int = 2025) -> dict[str, int]:
-    """Generate calendar files for all supported languages."""
+    """Generate calendar files for all supported languages and a main multilingual file."""
     languages = ["de", "fr", "en"]  # German, French, English
     generated = {}
 
+    # Generate language-specific calendars
     for lang in languages:
         events_added = generate_ical_calendar(results, None, year, lang)
         generated[lang] = events_added
         logging.info(f"Generated waste-{year}-{lang}.ics with {events_added} events")
+
+    # Generate main multilingual calendar (waste.ics)
+    main_events = generate_ical_calendar(results, "ics/waste.ics", year, None)
+    generated["main"] = main_events
+    logging.info(f"Generated waste.ics with {main_events} multilingual events")
 
     return generated
 

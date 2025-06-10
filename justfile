@@ -54,27 +54,19 @@ clean:
 
 # Clean all waste calendar files
 clean-waste:
-    @echo "🗑️ Removing all waste-* calendar files..."
-    rm -f ics/waste-*.ics
+    @echo "🗑️ Removing all waste calendar files..."
+    rm -f ics/waste-*.ics ics/waste.ics
     @echo "✅ Cleaned all waste calendar files"
 
 # Generate waste calendar for current year (all languages)
 generate: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
-    cp ics/waste-$(date +%Y).ics ics/waste.ics
-    cp ics/waste-$(date +%Y)-de.ics ics/waste-de.ics
-    cp ics/waste-$(date +%Y)-fr.ics ics/waste-fr.ics
-    cp ics/waste-$(date +%Y)-en.ics ics/waste-en.ics
-    echo "✅ Generated all language-specific calendars and updated waste.ics"
+    echo "✅ Generated all language-specific calendars and waste.ics"
 
 # Generate waste calendar for specific year (all languages)
 generate-year year: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}} --all-languages
-    cp ics/waste-{{year}}.ics ics/waste.ics
-    cp ics/waste-{{year}}-de.ics ics/waste-de.ics
-    cp ics/waste-{{year}}-fr.ics ics/waste-fr.ics
-    cp ics/waste-{{year}}-en.ics ics/waste-en.ics
-    echo "✅ Generated all language-specific calendars for {{year}} and updated waste.ics"
+    echo "✅ Generated all language-specific calendars for {{year}} and waste.ics"
 
 # Generate calendar for specific language
 generate-lang lang:

@@ -88,7 +88,7 @@ def classify_waste_symbol(drawing: dict) -> str | None:
 
     Based on debug analysis of the actual June 2025 PDF symbols:
     - 11 items with curves: Organic Resources (small circles)
-    - 23 items with curves: Problematic Waste  
+    - 23 items with curves: Problematic Waste
     - 34 items: Green Waste Collection (hedge trimming)
     - 41 items with curves: Residual Waste (dark circles)
     - 56 items with curves: Green Waste Collection (complex organic)
@@ -152,7 +152,7 @@ def extract_waste_symbols_from_page(page: fitz.Page) -> dict[int, list[str]]:
         x, y = draw_rect[0], draw_rect[1]
         width = draw_rect[2] - draw_rect[0]
         height = draw_rect[3] - draw_rect[1]
-        
+
         if (
             270 < x < 305  # Narrower bounds for actual calendar symbols
             and 80 < y < 320  # Y bounds for days 1-9 area
