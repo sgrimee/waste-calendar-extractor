@@ -36,7 +36,9 @@ The extraction follows a clear pipeline:
 just install                    # Install dev dependencies with uv
 
 # Testing
-just test                      # Run all tests with pytest
+just test                      # Run all tests including integration tests
+just test-unit                 # Run only unit tests (exclude integration) - for CI
+just test-integration          # Run only integration tests
 just test-cov                  # Run tests with coverage report
 pytest tests/test_constants.py # Run specific test module
 
@@ -84,6 +86,7 @@ uv run ruff check src/ tests/
 **PYTHONPATH Requirements**: All commands that import the package require `PYTHONPATH=src` due to the src-layout structure. The justfile handles this automatically.
 
 **Test Organization**: Tests are split into logical modules:
+
 - `test_constants.py` - Module constants validation
 - `test_pdf_extraction.py` - PDF processing functions  
 - `test_output_generation.py` - Calendar generation and language filtering
@@ -95,13 +98,17 @@ uv run ruff check src/ tests/
 
 **Calendar File Naming**: Generated files follow pattern `waste-{year}-{lang}.ics` (e.g., `waste-2025-de.ics`). The main multilingual file is `waste.ics`.
 
+**CI Configuration**: GitHub Actions workflow (`.github/workflows/ci.yml`) runs unit tests only, excluding integration tests that require the PDF file. Use `just test-unit` locally to replicate CI behavior.
+
 ## Module Dependencies
 
 **Core Dependencies**:
+
 - `PyMuPDF>=1.23.0` - PDF text extraction
 - `ics>=0.7` - iCal calendar generation
 
 **Development Dependencies**:
+
 - `pytest>=8.4.0` - Testing framework (uses pytest, not unittest)
 - `ruff>=0.11.13` - Code formatting and linting
 - `mypy>=1.16.0` - Type checking
