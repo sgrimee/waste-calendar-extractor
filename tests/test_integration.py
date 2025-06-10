@@ -35,7 +35,7 @@ def test_2025_expected_dates(month, date, expected_types):
     from waste_calendar_extractor.calendar_processor import extract_dates_from_pdf
 
     # Path to the real PDF file
-    pdf_path = "tests/2025.pdf"
+    pdf_path = "pdf/2025.pdf"
 
     # Extract all dates from the PDF
     all_results = extract_dates_from_pdf(pdf_path, year=2025)
@@ -72,6 +72,7 @@ def test_2025_expected_dates(month, date, expected_types):
         "paper": ["paper", "pabeier", "papier", "carton", "kartong"],
         "problematic": ["problematic", "problematesch", "problématique", "problemoff"],
         "packaging": ["packaging", "verpack", "emballage", "valorlux"],
+        "special": ["special", "pluschtier", "speziell", "spécial"],
     }
 
     # Check that all expected types are found and no unexpected types are present
