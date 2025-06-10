@@ -85,22 +85,6 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 
 ---
 
-## 🔗 All Available Calendars
-
-For users who want to see all available options or need multiple languages:
-
-- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics`
-- 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics`
-- 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-en.ics`
-
-**💡 How the calendars work:**
-
-- The **default calendar** (`waste.ics`) contains events using the original Luxembourgish terms from the PDF (e.g., "🗑️ Reschtoffäll", "🌱 Organesch Ressourcen")
-- **Language-specific calendars** contain translated events for that language only. For example, the German calendar shows "🗑️ Reschtoffäll", the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste"
-- All calendars include helpful emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees)
-
-This allows users to choose between the original terms or their preferred translated language.
-
 **💡 Pro tip:** Subscribe to the URL in your calendar app for automatic updates when new calendars are published!
 
 ---
