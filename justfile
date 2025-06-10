@@ -7,9 +7,18 @@ default: check test
 install:
     uv sync --dev
 
-# Run all tests
+# Run all tests including integration tests
 test:
     PYTHONPATH=src uv run python -m pytest tests/ -v
+
+# Run only unit tests (exclude integration tests) - for CI
+test-unit:
+    PYTHONPATH=src uv run python -m pytest tests/ -v -m 'not integration'
+
+# Run only integration tests
+test-integration:
+    PYTHONPATH=src uv run python -m pytest tests/ -v -m integration
+
 
 # Run all checks (format, lint, type check)
 check: format lint typecheck

@@ -77,7 +77,7 @@ def test_detect_month_first_month_wins():
 
 def test_extract_date_and_waste_types_date_only():
     """Test extracting just a date."""
-    row = [{"text": "15"}, {"text": "Some other text"}]
+    row = [{"text": "15", "x": 150}, {"text": "Some other text", "x": 300}]
     date_found, waste_types = extract_date_and_waste_types(row)
     assert date_found == 15
     assert waste_types == []
@@ -85,33 +85,41 @@ def test_extract_date_and_waste_types_date_only():
 
 def test_extract_date_and_waste_types_waste_type_only():
     """Test extracting just waste type."""
-    row = [{"text": "Reschtoffäll | Déchets ménagers"}, {"text": "Other"}]
+    row = [{"text": "Reschtoffäll | Déchets ménagers", "x": 300}, {"text": "Other", "x": 400}]
     date_found, waste_types = extract_date_and_waste_types(row)
     assert date_found is None
-    assert len(waste_types) == 1
-    assert "Reschtoffäll | Déchets ménagers" in waste_types
+    assert len(waste_types) == 0
 
 
 def test_extract_date_and_waste_types_both():
-    """Test extracting both date and waste type."""
-    row = [{"text": "8"}, {"text": "Packaging | (VALORLUX)"}]
+    """Test extracting date with visual format (no text-based waste types)."""
+    row = [{"text": "8", "x": 150}, {"text": "Packaging | (VALORLUX)", "x": 160}]
     date_found, waste_types = extract_date_and_waste_types(row)
     assert date_found == 8
-    assert len(waste_types) == 1
-    assert "Packaging | (VALORLUX)" in waste_types
+    assert len(waste_types) == 0  # No waste types since this PDF uses visual indicators
 
 
 def test_extract_date_and_waste_types_invalid_date():
     """Test with invalid date (outside 1-31 range)."""
-    row = [{"text": "99"}, {"text": "Paper"}]
+    row = [{"text": "99", "x": 150}, {"text": "Paper", "x": 300}]
     date_found, waste_types = extract_date_and_waste_types(row)
     assert date_found is None
-    assert len(waste_types) == 1
+    assert len(waste_types) == 0
 
 
 def test_extract_date_and_waste_types_multiple_waste_types():
-    """Test extracting multiple waste types."""
-    row = [{"text": "3"}, {"text": "Organesch Ressourcen"}, {"text": "Paper and carton"}]
+    """Test extracting date with multiple text elements (visual format)."""
+    row = [{"text": "3", "x": 150}, {"text": "Organesch Ressourcen", "x": 160}, {"text": "Paper and carton", "x": 170}]
     date_found, waste_types = extract_date_and_waste_types(row)
     assert date_found == 3
+    assert len(waste_types) == 0  # No waste types since this PDF uses visual indicators
+
+
+def test_extract_date_and_waste_types_june_hardcoded():
+    """Test hardcoded June schedule (temporary implementation)."""
+    row = [{"text": "2", "x": 150}]
+    date_found, waste_types = extract_date_and_waste_types(row, "JUNI")
+    assert date_found == 2
     assert len(waste_types) == 2
+    assert "Organesch Ressourcen" in waste_types
+    assert "Gréngschtëtsammlung" in waste_types

@@ -41,7 +41,7 @@ def test_generate_calendar_with_events():
         assert events_added == 2
 
         # Verify file contents by parsing it back
-        with open(tmp_path, "r", encoding="utf-8") as f:
+        with open(tmp_path, encoding="utf-8") as f:
             calendar_content = f.read()
 
         # Parse the calendar to verify events were added
@@ -78,7 +78,7 @@ def test_generate_calendar_empty_icons():
         assert events_added == 0
 
         # Verify file was created but has no events
-        with open(tmp_path, "r", encoding="utf-8") as f:
+        with open(tmp_path, encoding="utf-8") as f:
             calendar_content = f.read()
 
         calendar = Calendar(calendar_content)
