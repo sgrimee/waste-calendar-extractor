@@ -68,17 +68,26 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 
 ---
 
-### 🇬🇧 **English / All Languages**
+### 🇬🇧 **English**
 
-**Links for waste collection calendars:**
-
-**Original Luxembourgish (default calendar):**
+**Link for the waste collection calendar in English:**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-en.ics
 ```
 
-**Language-specific calendars:**
+**How to use:**
+
+1. Copy this link ☝️
+2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
+3. Look for "Import Calendar" or "Subscribe to Calendar"
+4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons in English!
+
+---
+
+## 🔗 All Available Calendars
+
+For users who want to see all available options or need multiple languages:
 
 - 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics`
 - 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics`
@@ -91,13 +100,6 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 - All calendars include helpful emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees)
 
 This allows users to choose between the original terms or their preferred translated language.
-
-**How to import:**
-
-1. Copy the link for your preferred language ☝️
-2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
-3. Look for "Import Calendar" or "Subscribe to Calendar"
-4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons!
 
 **💡 Pro tip:** Subscribe to the URL in your calendar app for automatic updates when new calendars are published!
 
