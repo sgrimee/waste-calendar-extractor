@@ -27,7 +27,8 @@
       "Bash(git add:*)",
       "Bash(mv:*)",
       "Bash(uv run ruff:*)",
-      "Bash(PYTHONPATH=src uv run ruff check src/ tests/)"
+      "Bash(PYTHONPATH=src uv run ruff check src/ tests/)",
+      "Bash(PYTHONPATH=src uv run ruff check --fix src/ tests/)"
     ],
     "deny": []
   }
