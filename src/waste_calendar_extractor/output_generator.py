@@ -174,30 +174,34 @@ def generate_ical_calendar(
     events_added = 0
     for entry in results:
         if entry["icons"].strip():  # Only add events with actual content
-            event = Event()
+            # Split multi-type entries (separated by |) into separate events
+            waste_types = [waste_type.strip() for waste_type in entry["icons"].split("|") if waste_type.strip()]
 
-            # Extract language-specific description if language is specified
-            if language:
-                localized_name = extract_language_from_waste_description(entry["icons"], language)
-                # Get appropriate icon for the waste type
-                icon = get_waste_type_icon(localized_name)
-                event.name = f"{icon} {localized_name}"
-                event.description = f"Waste collection: {localized_name}"
-            else:
-                # Get appropriate icon for the waste type
-                icon = get_waste_type_icon(entry["icons"])
-                event.name = f"{icon} {entry['icons']}"
-                event.description = f"Waste collection: {entry['icons']}"
+            for waste_type in waste_types:
+                event = Event()
 
-            # Set as all-day event using date (not datetime)
-            event.begin = entry["date"].date()
-            event.make_all_day()
+                # Extract language-specific description if language is specified
+                if language:
+                    localized_name = extract_language_from_waste_description(waste_type, language)
+                    # Get appropriate icon for the waste type
+                    icon = get_waste_type_icon(localized_name)
+                    event.name = f"{icon} {localized_name}"
+                    event.description = f"Waste collection: {localized_name}"
+                else:
+                    # Get appropriate icon for the waste type
+                    icon = get_waste_type_icon(waste_type)
+                    event.name = f"{icon} {waste_type}"
+                    event.description = f"Waste collection: {waste_type}"
 
-            # Set location (optional - can be customized)
-            event.location = "Niederanven, Luxembourg"
+                # Set as all-day event using date (not datetime)
+                event.begin = entry["date"].date()
+                event.make_all_day()
 
-            calendar.events.add(event)
-            events_added += 1
+                # Set location (optional - can be customized)
+                event.location = "Niederanven, Luxembourg"
+
+                calendar.events.add(event)
+                events_added += 1
 
     logging.info(f"Added {events_added} events to calendar.")
 
