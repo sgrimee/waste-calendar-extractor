@@ -14,6 +14,34 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 import pytest
 
 
+@pytest.fixture(scope="module")
+def extracted_2025_results():
+    """Extract PDF data once for all tests in this module."""
+    from waste_calendar_extractor.calendar_processor import extract_dates_from_pdf
+
+    # Path to the real PDF file
+    pdf_path = "pdf/2025.pdf"
+
+    # Extract all dates from the PDF once
+    return extract_dates_from_pdf(pdf_path, year=2025)
+
+
+def _get_type_patterns():
+    """Get the waste type patterns for matching."""
+    return {
+        "organic": ["organic", "organesch", "organique", "ressources"],
+        "hedge": ["hedge", "hecken", "haies", "sapins", "gréngschtët", "grengschtet"],
+        "residual": ["residual", "rescht", "ménager"],
+        "electric": ["electric", "elektro", "électrique"],
+        "paper": ["paper", "pabeier", "papier", "carton", "kartong"],
+        "problematic": ["problematic", "problematesch", "problématique", "problemoff"],
+        "packaging": ["packaging", "verpack", "emballage", "valorlux"],
+        "special": ["special", "pluschtier", "speziell", "spécial"],
+        "bulky": ["bulky", "sperrmüll", "encombrants"],
+        "glass": ["glass", "glas", "verre"],
+    }
+
+
 @pytest.mark.integration
 @pytest.mark.parametrize(
     "month,date,expected_types",
@@ -51,20 +79,13 @@ import pytest
         (6, 30, ["organic"]),
     ],
 )
-def test_2025_expected_dates(month, date, expected_types):
+def test_2025_expected_dates(extracted_2025_results, month, date, expected_types):
     """Test that the correct dates are extracted for specific months in 2025 using real PDF extraction."""
-    from waste_calendar_extractor.calendar_processor import extract_dates_from_pdf
-
-    # Path to the real PDF file
-    pdf_path = "pdf/2025.pdf"
-
-    # Extract all dates from the PDF
-    all_results = extract_dates_from_pdf(pdf_path, year=2025)
 
     # Filter to only specific month/date results
     month_results = [
         result
-        for result in all_results
+        for result in extracted_2025_results
         if result["date"].month == month and result["date"].year == 2025 and result["date"].day == date
     ]
 
@@ -85,16 +106,7 @@ def test_2025_expected_dates(month, date, expected_types):
 
     # Flexible matching for waste types since the actual PDF may use different languages/formats
     result_icons = result["icons"].lower()
-    type_patterns = {
-        "organic": ["organic", "organesch", "organique", "ressources"],
-        "hedge": ["hedge", "hecken", "haies", "sapins", "gréngschtët", "grengschtet"],
-        "residual": ["residual", "rescht", "ménager"],
-        "electric": ["electric", "elektro", "électrique"],
-        "paper": ["paper", "pabeier", "papier", "carton", "kartong"],
-        "problematic": ["problematic", "problematesch", "problématique", "problemoff"],
-        "packaging": ["packaging", "verpack", "emballage", "valorlux"],
-        "special": ["special", "pluschtier", "speziell", "spécial"],
-    }
+    type_patterns = _get_type_patterns()
 
     # Check that all expected types are found and no unexpected types are present
     found_types = []
