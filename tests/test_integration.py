@@ -28,6 +28,27 @@ import pytest
         (6, 7, ["organic"]),
         (6, 8, []),  # No collection
         (6, 9, []),  # No collection
+        (6, 10, ["bulky", "residual"]),  # Bulky waste
+        (6, 11, []),  # No collection
+        (6, 12, []),  # No collection
+        (6, 13, []),  # No collection
+        (6, 14, []),  # No collection
+        (6, 15, []),  # No collection
+        (6, 16, ["organic"]),
+        (6, 17, ["residual"]),
+        (6, 18, []),  # No collection
+        (6, 19, ["paper"]),
+        (6, 20, ["packaging"]),
+        (6, 21, ["organic"]),
+        (6, 22, []),  # No collection
+        (6, 23, []),  # No collection
+        (6, 24, ["residual"]),
+        (6, 25, []),  # No collection
+        (6, 26, ["glass"]),
+        (6, 27, []),  # No collection
+        (6, 28, []),
+        (6, 29, []),  # No collection
+        (6, 30, ["organic"]),
     ],
 )
 def test_2025_expected_dates(month, date, expected_types):
