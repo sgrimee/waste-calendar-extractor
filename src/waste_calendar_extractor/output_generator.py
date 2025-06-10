@@ -221,76 +221,155 @@ def generate_all_language_calendars(results: list[dict], year: int = 2025) -> di
     return generated
 
 
-def download_calendar_pdf(url: str, output_path: str) -> bool:
-    """Download the waste calendar PDF from the commune website."""
+def find_pdf_links_from_webpage(url: str) -> list[str]:
+    """
+    Scrape webpage to find PDF links related to waste calendar.
+    Returns list of found PDF URLs.
+    """
     try:
-        logging.info(f"Downloading calendar PDF from: {url}")
+        # Add headers to mimic a browser request
+        request = urllib.request.Request(
+            url,
+            headers={
+                "User-Agent": (
+                    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                )
+            },
+        )
 
-        # Check if the URL is a direct PDF link or a webpage
-        if url.endswith(".pdf"):
-            # Direct PDF link - download directly
-            urllib.request.urlretrieve(url, output_path)
-        else:
-            # Webpage - need to parse HTML to find PDF link
-            with urllib.request.urlopen(url) as response:
-                html_content = response.read().decode("utf-8")
+        with urllib.request.urlopen(request, timeout=10) as response:
+            html_content = response.read().decode("utf-8")
 
-            # Look for PDF links in the HTML content
-            pdf_patterns = [
-                r'href=["\']([^"\']*\.pdf[^"\']*)["\']',  # href="something.pdf"
-                r'href=["\']([^"\']*ressource[^"\']*\.pdf[^"\']*)["\']',  # ressource calendar PDF
-                r'href=["\']([^"\']*calendar[^"\']*\.pdf[^"\']*)["\']',  # calendar PDF
-                r'href=["\']([^"\']*waste[^"\']*\.pdf[^"\']*)["\']',  # waste PDF
-            ]
+        # Look for PDF links in the HTML content with specific patterns for Niederanven
+        pdf_patterns = [
+            r'href=["\']([^"\']*ressourcekalenner[^"\']*\.pdf[^"\']*)["\']',  # ressourcekalenner PDF (priority)
+            r'href=["\']([^"\']*ressource[^"\']*\.pdf[^"\']*)["\']',  # ressource calendar PDF
+            r'href=["\']([^"\']*calendar[^"\']*\.pdf[^"\']*)["\']',  # calendar PDF
+            r'href=["\']([^"\']*waste[^"\']*\.pdf[^"\']*)["\']',  # waste PDF
+            r'href=["\']([^"\']*nidderaanwen[^"\']*\.pdf[^"\']*)["\']',  # Niederanven-specific PDF
+            r'href=["\']([^"\']*\.pdf[^"\']*)["\']',  # any PDF
+        ]
 
-            # Debug: look for any PDF links
-            all_links = re.findall(r'href=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
-            pdf_links = [link for link in all_links if ".pdf" in link.lower()]
-            logging.debug(f"Found {len(all_links)} total links, {len(pdf_links)} PDF links: {pdf_links}")
+        # Find all links first for debugging
+        all_links = re.findall(r'href=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
+        pdf_links = [link for link in all_links if ".pdf" in link.lower()]
+        logging.debug(f"Found {len(all_links)} total links, {len(pdf_links)} PDF links")
 
-            pdf_url = None
+        found_pdfs = []
 
-            # Try to find PDF links
-            for pattern in pdf_patterns:
-                matches = re.findall(pattern, html_content, re.IGNORECASE)
-                if matches:
-                    pdf_url = matches[0]
-                    break
+        # Try patterns in order of priority
+        for pattern in pdf_patterns:
+            matches = re.findall(pattern, html_content, re.IGNORECASE)
+            for match in matches:
+                # Make URL absolute if needed
+                if match.startswith("/"):
+                    base_url = "/".join(url.split("/")[:3])  # https://domain.com
+                    match = base_url + match
+                elif not match.startswith("http"):
+                    base_url = "/".join(url.split("/")[:-1])  # Remove last part
+                    match = base_url + "/" + match
 
-            # Use first PDF link found if available
-            if not pdf_url and pdf_links:
-                pdf_url = pdf_links[0]
-                logging.info(f"Using first PDF link found: {pdf_url}")
+                if match not in found_pdfs:
+                    found_pdfs.append(match)
 
-            if not pdf_url:
-                logging.error("Could not find PDF download link in the webpage")
-                logging.error(f"Sample links found: {all_links[:10]}...")
-                logging.error("Please check the Niederanven website manually to find the current PDF URL")
-                logging.error("You can specify a direct PDF URL using --download-url")
-                return False
+        logging.debug(f"Found {len(found_pdfs)} potential PDF URLs: {found_pdfs}")
+        return found_pdfs
 
-            # Make URL absolute if it's relative
-            if pdf_url.startswith("/"):
-                base_url = "/".join(url.split("/")[:3])  # https://domain.com
-                pdf_url = base_url + pdf_url
-            elif not pdf_url.startswith("http"):
-                base_url = "/".join(url.split("/")[:-1])  # Remove last part
-                pdf_url = base_url + "/" + pdf_url
-
-            logging.info(f"Found PDF URL: {pdf_url}")
-
-            # Download the actual PDF
-            urllib.request.urlretrieve(pdf_url, output_path)
-
-        # Verify it's actually a PDF file
-        with open(output_path, "rb") as f:
-            header = f.read(4)
-            if header != b"%PDF":
-                logging.error(f"Downloaded file is not a valid PDF (header: {header})")
-                return False
-
-        logging.info(f"Successfully downloaded PDF to: {output_path}")
-        return True
     except Exception as e:
-        logging.error(f"Failed to download PDF: {e}")
+        logging.warning(f"Failed to scrape webpage for PDF links: {e}")
+        return []
+
+
+def download_calendar_pdf(url: str, output_path: str) -> bool:
+    """
+    Download the waste calendar PDF using a robust multi-strategy approach.
+
+    Strategy:
+    1. Try direct PDF download if URL ends with .pdf
+    2. Try scraping the webpage for PDF links
+    3. Fall back to known working PDF URLs for Niederanven
+    """
+
+    # Known working PDF URLs as fallbacks (can be updated as needed)
+    fallback_urls = [
+        "https://www.niederanven.lu/media/aefb09c8-9716-4141-bee0-1c2ac3a7557b/ressourcekalenner-nidderaanwen-web.pdf",
+        # Add more known URLs here as they are discovered
+    ]
+
+    urls_to_try = []
+
+    # Strategy 1: Direct PDF download
+    if url.endswith(".pdf"):
+        urls_to_try.append(url)
+        logging.info(f"Attempting direct PDF download from: {url}")
+    else:
+        # Strategy 2: Scrape webpage for PDF links
+        logging.info(f"Scraping webpage for PDF links: {url}")
+        scraped_pdfs = find_pdf_links_from_webpage(url)
+        urls_to_try.extend(scraped_pdfs)
+
+        # Strategy 3: Add fallback URLs if scraping didn't find anything
+        if not scraped_pdfs:
+            logging.info("No PDF links found by scraping, trying fallback URLs")
+            urls_to_try.extend(fallback_urls)
+
+    # Remove duplicates while preserving order
+    seen = set()
+    unique_urls = []
+    for u in urls_to_try:
+        if u not in seen:
+            seen.add(u)
+            unique_urls.append(u)
+    urls_to_try = unique_urls
+
+    if not urls_to_try:
+        logging.error("No PDF URLs to try")
         return False
+
+    # Try each URL until one works
+    for i, pdf_url in enumerate(urls_to_try):
+        try:
+            logging.info(f"Attempting download {i + 1}/{len(urls_to_try)}: {pdf_url}")
+
+            # Add headers to mimic browser request
+            request = urllib.request.Request(
+                pdf_url,
+                headers={
+                    "User-Agent": (
+                        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+                    )
+                },
+            )
+
+            # Download the PDF
+            with urllib.request.urlopen(request, timeout=30) as response:
+                with open(output_path, "wb") as f:
+                    f.write(response.read())
+
+            # Verify it's actually a PDF file
+            with open(output_path, "rb") as f:
+                header = f.read(4)
+                if header != b"%PDF":
+                    logging.warning(f"Downloaded file is not a valid PDF (header: {header!r}), trying next URL")
+                    continue
+
+            logging.info(f"Successfully downloaded PDF to: {output_path}")
+            logging.info(f"Working PDF URL: {pdf_url}")
+            return True
+
+        except Exception as e:
+            logging.warning(f"Failed to download from {pdf_url}: {e}")
+            continue
+
+    # If we get here, all URLs failed
+    logging.error("Failed to download PDF from any of the attempted URLs")
+    logging.error("Manual intervention required:")
+    logging.error("1. Visit https://www.niederanven.lu/en/environment/waste-disposal-management")
+    logging.error("2. Look for the waste calendar PDF download")
+    logging.error("3. Copy the direct PDF URL and use --download-url parameter")
+    logging.error(
+        "Example: python -m waste_calendar_extractor --download --download-url 'https://..../ressourcekalenner.pdf'"
+    )
+    return False
