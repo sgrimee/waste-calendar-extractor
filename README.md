@@ -1,16 +1,15 @@
 <div align="center">
   <img src="icons/icon.png" alt="Waste Calendar Extractor" width="128" height="128">
   
-  # Waste Calendar Extractor for Niederanven, Luxembourg 🇱🇺
+# Waste Calendar Extractor for Niederanven, Luxembourg 🇱🇺
+
 </div>
 
 [![CI](https://github.com/sgrimee/waste-calendar-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/sgrimee/waste-calendar-extractor/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
-**Ready-to-use waste collection calendar for the Commune of Niederanven, Luxembourg**
-
-## 📅 Quick Start: Choose Your Language / Sprooch wielen / Sprache wählen / Choisir la langue
+## 📅 Quick Start
 
 **Choose your preferred language for the calendar / Wielt Är gewënschte Sprooch / Wählen Sie Ihre Sprache / Choisissez votre langue :**
 
@@ -18,29 +17,33 @@
 
 ---
 
-## 🇱🇺 **Lëtzebuergesch**
+### 🇱🇺 **Lëtzebuergesch**
 
 **Link fir den Offall-Kalenner op Lëtzebuergesch:**
-```
+
+```link
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
 ```
 
 **Wéi maachen:**
+
 1. Kopéiert dësen Link ☝️
 2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
-3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren" 
+3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
 4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen!
 
 ---
 
-## 🇩🇪 **Deutsch**
+### 🇩🇪 **Deutsch**
 
 **Link für den Müllkalender auf Deutsch:**
-```
+
+```link
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
 ```
 
 **So geht's:**
+
 1. Kopieren Sie diesen Link ☝️
 2. Öffnen Sie Ihre Kalender-App (Google Kalender, Apple Kalender, etc.)
 3. Suchen Sie nach "Kalender importieren" oder "Kalender abonnieren"
@@ -48,14 +51,16 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de
 
 ---
 
-## 🇫🇷 **Français**
+### 🇫🇷 **Français**
 
 **Lien pour le calendrier des déchets en français :**
-```
+
+```link
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics
 ```
 
 **Comment faire :**
+
 1. Copiez ce lien ☝️
 2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
 3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
@@ -63,23 +68,26 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr
 
 ---
 
-## 🇬🇧 **English / All Languages**
+### 🇬🇧 **English / All Languages**
 
 **Links for waste collection calendars:**
 
 **Multilingual (all languages in one calendar):**
-```
+
+```link
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics
 ```
 
 **Language-specific calendars:**
-- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics`  
+
+- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics`
 - 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics`
 - 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-en.ics`
 
 **💡 How language filtering works:** Each language-specific calendar contains only waste collection events that match that language's terminology, with appropriate emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees). For example, the German calendar shows "🗑️ Reschtoffäll", while the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste". This allows users to subscribe to their preferred language without seeing multilingual duplicates.
 
 **How to import:**
+
 1. Copy the link for your preferred language ☝️
 2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
 3. Look for "Import Calendar" or "Subscribe to Calendar"
@@ -95,7 +103,7 @@ A Python tool to extract waste collection dates from PDF calendars published by 
 
 ### ⚠️ Important Disclaimer
 
-**This is an unofficial hobby project and is not endorsed by, affiliated with, or maintained by the Commune of Niederanven.** The data extracted from PDF calendars may be inaccurate or incomplete. 
+**This is an unofficial hobby project and is not endorsed by, affiliated with, or maintained by the Commune of Niederanven.** The data extracted from PDF calendars may be inaccurate or incomplete.
 
 **No warranty or guarantee is provided regarding the accuracy, completeness, or reliability of the waste collection information.** Users are responsible for verifying collection dates independently and should not rely solely on this tool for waste collection scheduling.
 
@@ -105,14 +113,14 @@ For official and authoritative waste collection information, always consult the 
 
 ## Source Data
 
-This tool extracts data from the official waste collection calendar published by the **Commune of Niederanven**. 
+This tool extracts data from the official waste collection calendar published by the **Commune of Niederanven**.
 
 The original PDF calendar ("Ressourcekalenner") can be found on the [official Niederanven website](https://www.niederanven.lu/en/environment/waste-disposal-management). Visit their waste management section for the latest calendar updates.
 
 ## Features
 
 - 📅 Extracts dates and collection types from PDF waste collection calendars
-- 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions  
+- 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions
 - 📁 Generates iCal (.ics) files for calendar import
 - 🔍 Real-time logging shows extraction progress
 - 🧪 Comprehensive unit tests
@@ -216,7 +224,7 @@ just check
 just format
 
 # Lint code
-just lint  
+just lint
 
 # Type check with mypy
 just typecheck
@@ -244,7 +252,7 @@ PYTHONPATH=src uv run mypy src/ tests/
 
 ### Project structure
 
-```
+```bash
 waste-calendar-extractor/
 ├── src/
 │   └── waste_calendar_extractor/
