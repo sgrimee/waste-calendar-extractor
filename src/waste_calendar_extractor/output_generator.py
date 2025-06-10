@@ -9,15 +9,68 @@ import urllib.request
 
 from ics import Calendar, Event
 
+# Translation mappings for waste types
+WASTE_TYPE_TRANSLATIONS = {
+    "de": {
+        # Luxembourgish to German/Luxembourgish (keep original)
+        "reschtoffäll": "Reschtoffäll",
+        "organesch ressourcen": "Organesch Ressourcen",
+        "pabeier a kartong": "Pabeier a Kartong",
+        "gréngschtëtsammlung": "Gréngschtëtsammlung",
+        "problemoffäll": "Problemoffäll",
+        "elektro- an elektronikapparater": "Elektro- an Elektronikapparater",
+        "aalt gezei": "Aalt Gezei",
+        "beemercher": "Beemercher",
+    },
+    "fr": {
+        # Luxembourgish to French
+        "reschtoffäll": "Déchets ménagers",
+        "organesch ressourcen": "Déchets organiques",
+        "pabeier a kartong": "Papier et carton",
+        "gréngschtëtsammlung": "Collecte de sapins de Noël",
+        "problemoffäll": "Déchets problématiques",
+        "elektro- an elektronikapparater": "Appareils électriques et électroniques",
+        "aalt gezei": "Vieux vêtements",
+        "beemercher": "Sapins de Noël",
+    },
+    "en": {
+        # Luxembourgish to English
+        "reschtoffäll": "Residual waste",
+        "organesch ressourcen": "Organic waste",
+        "pabeier a kartong": "Paper and carton",
+        "gréngschtëtsammlung": "Christmas tree collection",
+        "problemoffäll": "Hazardous waste",
+        "elektro- an elektronikapparater": "Electrical and electronic equipment",
+        "aalt gezei": "Old clothes",
+        "beemercher": "Christmas trees",
+    }
+}
+
+
+def translate_waste_type(waste_type: str, language: str) -> str:
+    """Translate a waste type from Luxembourgish to the target language."""
+    waste_type_lower = waste_type.lower().strip()
+
+    if language in WASTE_TYPE_TRANSLATIONS:
+        return WASTE_TYPE_TRANSLATIONS[language].get(waste_type_lower, waste_type)
+
+    return waste_type
+
 
 def extract_language_from_waste_description(description: str, language: str) -> str:
     """Extract language-specific part from multilingual waste description, preserving additional information."""
+    # First try to translate if it's a known Luxembourgish term
+    translated = translate_waste_type(description, language)
+    if translated != description:
+        return translated
+
     # Split by | to get different language variants
     parts = [part.strip() for part in description.split("|") if part.strip()]
 
-    # If no parts or only one part, return original description
+    # If no parts or only one part, try translation again on the trimmed version
     if len(parts) <= 1:
-        return description.strip()
+        translated = translate_waste_type(description.strip(), language)
+        return translated
 
     # Language-specific patterns - prefer parts that contain language-specific terms
     if language == "de":  # German/Luxembourgish
@@ -145,12 +198,26 @@ def get_waste_type_icon(description: str) -> str:
         return "🌱"
 
     # Old clothes/textiles
-    elif any(term in description_lower for term in ["aalt gezei", "vêtements", "clothes", "textile"]):
+    elif any(
+        term in description_lower
+        for term in ["aalt gezei", "vêtements", "vieux vêtements", "clothes", "textile"]
+    ):
         return "👕"
 
-    # Christmas trees
-    elif any(term in description_lower for term in ["beemercher", "sapins", "christmas trees", "tannen"]):
+    # Christmas trees and green waste collection
+    elif any(
+        term in description_lower
+        for term in ["beemercher", "sapins", "gréngschtëtsammlung", "collecte de sapins", "christmas trees", "tannen"]
+    ):
         return "🎄"
+
+    # Hazardous/problem waste
+    elif any(term in description_lower for term in ["problemoffäll", "problématiques", "hazardous"]):
+        return "⚠️"
+
+    # Electronic equipment
+    elif any(term in description_lower for term in ["elektro", "électroniques", "electronic", "appareils"]):
+        return "📱"
 
     # Default waste icon
     else:
