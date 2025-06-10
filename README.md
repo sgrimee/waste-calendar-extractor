@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 
 **Links for waste collection calendars:**
 
-**Multilingual (all languages in one calendar):**
+**Original Luxembourgish (default calendar):**
 
 ```link
 https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste.ics
@@ -84,7 +84,12 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 - 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics`
 - 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-en.ics`
 
-**💡 How language filtering works:** Each language-specific calendar contains only waste collection events that match that language's terminology, with appropriate emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees). For example, the German calendar shows "🗑️ Reschtoffäll", while the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste". This allows users to subscribe to their preferred language without seeing multilingual duplicates.
+**💡 How the calendars work:** 
+- The **default calendar** (`waste.ics`) contains events using the original Luxembourgish terms from the PDF (e.g., "🗑️ Reschtoffäll", "🌱 Organesch Ressourcen")
+- **Language-specific calendars** contain translated events for that language only. For example, the German calendar shows "🗑️ Reschtoffäll", the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste"
+- All calendars include helpful emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees)
+
+This allows users to choose between the original terms or their preferred translated language.
 
 **How to import:**
 
