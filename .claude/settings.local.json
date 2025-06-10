@@ -22,7 +22,8 @@
       "Bash(find:*)",
       "Bash(PYTHONPATH=src uv run python -c \"\nfrom waste_calendar_extractor.calendar_processor import extract_dates_from_pdf\nresults = extract_dates_from_pdf('tests/2025.pdf', year=2025)\nprint(f'Total results: {len(results)}')\nfor result in results[:10]:  # Show first 10 results\n    print(f'Date: {result[\\\"date\\\"]}, Icons: {result[\\\"icons\\\"]}')\n\")",
       "Bash(PYTHONPATH=src uv run python -c \"\nimport fitz\ndoc = fitz.open('tests/2025.pdf')\nprint(f'Number of pages: {len(doc)}')\nif len(doc) > 0:\n    page = doc[0]\n    text = page.get_text()\n    print(f'First 200 chars of page 0: {text[:200]}')\ndoc.close()\n\")",
-      "Bash(PYTHONPATH=src uv run python:*)"
+      "Bash(PYTHONPATH=src uv run python:*)",
+      "WebFetch(domain:www.niederanven.lu)"
     ],
     "deny": []
   }

@@ -44,8 +44,8 @@ def main():
     )
     parser.add_argument(
         "--download-url",
-        default="https://www.niederanven.lu/en/environment/waste-disposal-management",
-        help="URL to download the calendar PDF from (default: Niederanven website)",
+        default="https://www.niederanven.lu/media/aefb09c8-9716-4141-bee0-1c2ac3a7557b/ressourcekalenner-nidderaanwen-web.pdf",
+        help="URL to download the calendar PDF from (default: direct PDF from Niederanven website)",
     )
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose logging")
 

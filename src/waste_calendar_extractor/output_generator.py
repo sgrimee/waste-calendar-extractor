@@ -4,6 +4,7 @@ Output generation functions for waste collection calendars.
 """
 
 import logging
+import re
 import urllib.request
 
 from ics import Calendar, Event
@@ -224,7 +225,70 @@ def download_calendar_pdf(url: str, output_path: str) -> bool:
     """Download the waste calendar PDF from the commune website."""
     try:
         logging.info(f"Downloading calendar PDF from: {url}")
-        urllib.request.urlretrieve(url, output_path)
+
+        # Check if the URL is a direct PDF link or a webpage
+        if url.endswith(".pdf"):
+            # Direct PDF link - download directly
+            urllib.request.urlretrieve(url, output_path)
+        else:
+            # Webpage - need to parse HTML to find PDF link
+            with urllib.request.urlopen(url) as response:
+                html_content = response.read().decode("utf-8")
+
+            # Look for PDF links in the HTML content
+            pdf_patterns = [
+                r'href=["\']([^"\']*\.pdf[^"\']*)["\']',  # href="something.pdf"
+                r'href=["\']([^"\']*ressource[^"\']*\.pdf[^"\']*)["\']',  # ressource calendar PDF
+                r'href=["\']([^"\']*calendar[^"\']*\.pdf[^"\']*)["\']',  # calendar PDF
+                r'href=["\']([^"\']*waste[^"\']*\.pdf[^"\']*)["\']',  # waste PDF
+            ]
+
+            # Debug: look for any PDF links
+            all_links = re.findall(r'href=["\']([^"\']+)["\']', html_content, re.IGNORECASE)
+            pdf_links = [link for link in all_links if ".pdf" in link.lower()]
+            logging.debug(f"Found {len(all_links)} total links, {len(pdf_links)} PDF links: {pdf_links}")
+
+            pdf_url = None
+
+            # Try to find PDF links
+            for pattern in pdf_patterns:
+                matches = re.findall(pattern, html_content, re.IGNORECASE)
+                if matches:
+                    pdf_url = matches[0]
+                    break
+
+            # Use first PDF link found if available
+            if not pdf_url and pdf_links:
+                pdf_url = pdf_links[0]
+                logging.info(f"Using first PDF link found: {pdf_url}")
+
+            if not pdf_url:
+                logging.error("Could not find PDF download link in the webpage")
+                logging.error(f"Sample links found: {all_links[:10]}...")
+                logging.error("Please check the Niederanven website manually to find the current PDF URL")
+                logging.error("You can specify a direct PDF URL using --download-url")
+                return False
+
+            # Make URL absolute if it's relative
+            if pdf_url.startswith("/"):
+                base_url = "/".join(url.split("/")[:3])  # https://domain.com
+                pdf_url = base_url + pdf_url
+            elif not pdf_url.startswith("http"):
+                base_url = "/".join(url.split("/")[:-1])  # Remove last part
+                pdf_url = base_url + "/" + pdf_url
+
+            logging.info(f"Found PDF URL: {pdf_url}")
+
+            # Download the actual PDF
+            urllib.request.urlretrieve(pdf_url, output_path)
+
+        # Verify it's actually a PDF file
+        with open(output_path, "rb") as f:
+            header = f.read(4)
+            if header != b"%PDF":
+                logging.error(f"Downloaded file is not a valid PDF (header: {header})")
+                return False
+
         logging.info(f"Successfully downloaded PDF to: {output_path}")
         return True
     except Exception as e:
