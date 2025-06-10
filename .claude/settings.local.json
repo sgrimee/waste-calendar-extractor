@@ -26,7 +26,8 @@
       "WebFetch(domain:www.niederanven.lu)",
       "Bash(git add:*)",
       "Bash(mv:*)",
-      "Bash(uv run ruff:*)"
+      "Bash(uv run ruff:*)",
+      "Bash(PYTHONPATH=src uv run ruff check src/ tests/)"
     ],
     "deny": []
   }
