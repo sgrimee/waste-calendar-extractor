@@ -23,7 +23,7 @@ def process_pdf_page(page: fitz.Page, current_month: str, year: int = 2025) -> l
 
     # Process each row to find date + waste type combinations
     for row in rows:
-        date_found, waste_types = extract_date_and_waste_types(row, current_month)
+        date_found, waste_types = extract_date_and_waste_types(row, current_month, page)
 
         if date_found and waste_types and current_month and current_month in MONTH_NUMBERS:
             try:
