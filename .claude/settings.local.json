@@ -24,7 +24,8 @@
       "Bash(PYTHONPATH=src uv run python -c \"\nimport fitz\ndoc = fitz.open('tests/2025.pdf')\nprint(f'Number of pages: {len(doc)}')\nif len(doc) > 0:\n    page = doc[0]\n    text = page.get_text()\n    print(f'First 200 chars of page 0: {text[:200]}')\ndoc.close()\n\")",
       "Bash(PYTHONPATH=src uv run python:*)",
       "WebFetch(domain:www.niederanven.lu)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }

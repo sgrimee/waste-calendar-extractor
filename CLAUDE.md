@@ -118,3 +118,8 @@ uv run ruff check src/ tests/
 Tests use **pytest with dependency injection** rather than mocking where possible. For example, `create_mock_extraction_function()` creates test doubles instead of using `@patch`. File I/O tests use real temporary files with proper cleanup.
 
 Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., waste type icon mappings).
+
+## Conventions
+
+- pdf files should be saved in the pdf/ folder
+- ics files should be saved in the ics/ folder
