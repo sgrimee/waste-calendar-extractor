@@ -2,458 +2,458 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:47f0b36a-93d9-4058-9d66-0eaddec47ea4@47f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:9ea50032-87f6-4653-a388-d154e4598fe6@9ea5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:8b8b33b6-9321-4233-8d93-a392fbf4898e@8b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:60a7b1e8-274f-4341-9669-80ecff50b6ad@60a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:2dce0e0b-c3a6-4c72-ac8a-7e18247fb155@2dce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:558bcca8-d61f-4e15-a281-9900ed4c01ea@558b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:7accbf7e-8002-4160-9a05-8b17f80d0ac7@7acc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250507
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:a9f97d47-afe7-4b1e-b15c-e0d0547eac8f@a9f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:faa7fd38-9678-4362-8cbc-0341bc389538@faa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:1c031da1-36c2-42d1-8abe-b6dfe0481b9a@1c03.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:f9295c5a-a905-46f5-af38-b25eaaf19ee6@f929.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:0fc26b1d-e53e-43bf-97a4-629e716f1b5d@0fc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:7d434028-9a27-4020-a6ff-cd9238954895@7d43.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250402
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:fa997a89-9d07-451b-88e8-710c1a520365@fa99.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:6233560c-94bf-4e14-8bf4-880a0e6ab6f7@6233.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:af44d2c0-2b62-4008-9561-7cea3cc55c31@af44.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Déchets organiques
+DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:6d5b0126-3dec-48fd-a5e2-6eb561d02d9b@6d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:bbcdfeb7-ffa3-4121-8d10-a3f8bdc05c35@bbcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:b1c4d9e3-f11e-45dc-803d-28108ffcfc99@b1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:85b69116-baf3-4962-89f5-22c8b4319571@85b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250903
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:672dc0f4-ecda-49b9-97db-2998bc9d2094@672d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:75e499b6-832e-422a-b5bd-de60fa90dbbc@75e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:39535641-38ab-4d46-beaa-f399d910aa2d@3953.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:acd474dd-0462-4465-aa11-aec18087d687@acd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250402
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:3e695756-ba51-4b3a-8a2a-46ebbc9f1a27@3e69.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:8e601193-2532-4aaa-b07e-a0d1afbbbf3c@8e60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:98c405d6-b97e-4c56-b3b9-36ef438d92c2@98c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:af9df9cf-1bcf-4f2f-b064-41bf37b3718c@af9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:6c2169cf-b2b0-44df-973e-3a6eb5ccf8d9@6c21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:c638cb3d-8b96-412a-8ab7-7d2a432143da@c638.org
+SUMMARY:📄 Papier et carton
+UID:e85c02b9-864a-48d5-a166-64414a59437e@e85c.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
 DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Papier et carton
-UID:e95426a1-f0f2-4f2c-bc64-6b70a6c829e9@e954.org
+UID:168a9c0d-2939-4918-a453-cea0d61c6302@168a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:156d4ecf-eb7e-4bc0-9ae3-3e25bb70cc5c@156d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:1333b3bf-a35e-4fe2-aa9e-a435faebfedf@1333.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:0b2f1a44-fb54-4dc9-b300-1b240398e433@0b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:2b754d83-aab1-43d9-9ff8-6c4c47b19bb5@2b75.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:3263fc40-4271-429e-a3f9-405a0963bea9@3263.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250108
+DTSTART;VALUE=DATE:20250708
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🌱 Déchets organiques
-UID:ab6e4562-9c5b-4477-814f-c19f0bc9a10f@ab6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:4b46ba6c-4830-4a5d-9772-d4d8d244aece@4b46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250108
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:9ba7776e-1dc2-4e3d-b21a-694517c79b95@9ba7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:9709b50c-04be-4229-b3e2-852a39c6995c@9709.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:b0412e0f-cd70-45f0-96d2-a5c638df7618@b041.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:70677aee-c85c-4959-9001-122c6e4d0941@7067.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:86f428f9-96cc-4256-bb9f-7a8cd6aaeab3@86f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:4fc4c125-f586-4c55-a62b-076d3a42b74d@4fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:abf0785f-c758-4666-aaef-e2092180aec9@abf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:32b6a9c1-8ba5-43c9-96b7-26a681c89c18@32b6.org
+UID:9436a697-6e0f-46ce-8d6b-f68697c0fa62@9436.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
 DESCRIPTION:Waste collection: Appareils électriques et électroniques
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📱 Appareils électriques et électroniques
-UID:1e7243e5-a105-4528-b160-a2998aca8547@1e72.org
+UID:0545325f-99e0-4d61-a0d9-c4b9417a2235@0545.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:8a109673-dde2-4bdb-bb58-cf4486eaa529@8a10.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
+DTSTART;VALUE=DATE:20250806
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:59b115e3-0223-4f4e-94d8-f207c76da91b@59b1.org
+UID:21feedd6-82c9-4690-bf7b-e09b9d8533db@21fe.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
+DTSTART;VALUE=DATE:20250507
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:327c6861-de35-41f7-a01f-825fbb52e408@327c.org
+UID:c752c1dd-0e11-4a76-8feb-f0b452738884@c752.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Collecte de sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Collecte de sapins de Noël
-UID:ba560e22-0f25-4b15-8eda-543efdce0bf2@ba56.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
+DTSTART;VALUE=DATE:20251209
 DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Papier et carton
-UID:8003bc2d-39cf-4226-9ad4-28ab7a92d14d@8003.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:4b6f0c7d-13cb-4695-ab85-0423aceb1a5a@4b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:01cf6849-c465-411b-be47-cb05adff7343@01cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:c35c1b27-8d19-4c0c-899a-0ff8089af387@c35c.org
+UID:6cd527ab-bb6c-4434-bfaa-57aa4c4efc0b@6cd5.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250211
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:00a02666-978a-4180-a2bb-4babc8300d09@00a0.org
+UID:56911a59-c9af-41f3-b8e6-f5d8f6be2f00@5691.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0b71c536-08eb-4eee-93da-90cc42a4caac@0b71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Papier et carton
+UID:4cf047a4-9354-4980-8b5b-adfefa02c560@4cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250108
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f44f182b-d8fa-42aa-9a05-34a691308829@f44f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:6c8dc504-12d6-4851-9aa4-f6285be95df7@6c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Papier et carton
+UID:8ef63d24-eaab-4595-b212-ec811a5c6da0@8ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:72bfe699-44e0-46d5-9aed-b8289a808949@72bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:077c5b9c-587f-4b12-ae48-954d57dc0836@077c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:4bda8900-8b94-44bb-bdb7-11a7f1aab309@4bda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:ad30f0a2-f317-49cc-a0f3-febd178c8448@ad30.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d6382359-c518-401c-8342-8a673cbc0017@d638.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bcbc3359-72ae-4566-9b9a-eed92c348ed0@bcbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:c9f03a0d-73b4-4f53-96e9-f9c0518c3376@c9f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cd47996f-4dd7-45a0-b60c-91fca008928f@cd47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Papier et carton
+UID:3c8db002-21f6-4d40-82b9-049ebdab833c@3c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:8c2d14aa-c036-43c8-8aae-374ef2a41fc3@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:46078984-e416-456f-b291-14b980541c9c@4607.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:4ba106cc-1d32-43a3-b20b-d99105ce168b@4ba1.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250610
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:a7a01cc6-4b2c-481f-a980-5e9306b38b31@a7a0.org
+UID:7df2da9f-ca2d-4ec4-9b89-aef1f02ae137@7df2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:51e37a76-338b-4837-8399-dbab11256560@51e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:a9592fdc-6e08-4bc0-ba4b-36662649f06b@a959.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Papier et carton
+UID:93b89766-a227-4071-9e0a-e0f7152b5e4b@93b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:84b8540c-46ac-4bca-946b-da45868d6ef8@84b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:fe95e5e4-41c3-4d20-ad1f-d68e09adda5b@fe95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cb92e25e-fcd9-41db-a58b-0ff882ed0835@cb92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:bdc1579c-95df-421f-8c44-28d5d82bbf39@bdc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Papier et carton
+UID:39d3feb0-d7bc-495e-bc25-d2fd7a10b6ea@39d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:84238bc9-5b84-4ad8-b360-152bbf221d5d@8423.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:72f9ca6a-ee1e-4622-8a40-7c71be5bc3dd@72f9.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250305
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:aa4ca70e-815f-4dda-900f-70d28a300db2@aa4c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:5f8fdb07-706b-4cba-93d2-7abc88d523a1@5f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:43977362-7437-40fd-b09d-81f650358df0@4397.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets organiques
-UID:3c331615-7641-4edf-b359-138b4f46d4ee@3c33.org
+UID:34ec5a6a-7999-4b22-9ae6-1ede9e03e5fc@34ec.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1ef37a4d-71c3-422a-aada-f1882fc56081@1ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🌱 Déchets organiques
-UID:bc048da5-6331-43eb-9031-6eeaa7272c8e@bc04.org
+UID:fa5da3b2-595b-4dea-8d40-0b0e0ad6b92c@fa5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:5a40551f-12a9-4c5c-a202-bf30ce305d88@5a40.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250507
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🌱 Déchets organiques
-UID:c25a4a84-e6e2-45f0-b433-c00f34b747eb@c25a.org
+UID:d51adfb8-04a8-4725-9335-035e96bcd7ff@d51a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:b3081871-26a6-4f56-b67a-cf5071b2f51b@b308.org
+UID:ed6bb479-7622-4fd7-b2d9-f00f1af56328@ed6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:14569694-331b-4a9a-b195-8584e133435a@1456.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:e8cc4307-137b-4309-88ef-54ac38bc748c@e8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:ab580201-439b-49f1-bf11-4acb6748dcc4@ab58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:dd5d5559-dc0a-4d42-b320-0b1375b6dc6c@dd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:34bff575-2e0b-4edd-8f53-fb8f49e97332@34bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:c44b892d-b097-4986-8a90-ea0ab76fed72@c44b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d70763ac-a795-401e-b1de-ac76a7278011@d707.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:95192cb8-5167-4cd0-a009-6b64c91ef9cd@9519.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:964c7050-e6c0-497b-b2fd-dbe2a3cf72db@964c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c07a4c3e-a574-44b5-b951-2f6340bb1c4e@c07a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:79838705-71c4-4280-8ae9-2aa23b0db159@7983.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:0c26acc5-e5e5-4ebe-a4aa-8b60a00aa42a@0c26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:d8b3ec5a-b8eb-46e1-b77a-4e713e755f04@d8b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:a6cd0c55-d729-4404-9f7f-1fac2ad1b9ca@a6cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:5b28f700-5fba-4141-8545-96ae18be310d@5b28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:993742d0-e6f0-494a-ad98-62eb2f25d474@9937.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Collecte de sapins de Noël
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Collecte de sapins de Noël
+UID:9b765a7d-a2cf-41fd-89c4-95c759471803@9b76.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250108
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:6620264d-3a92-4b87-b440-8c9355f0bf77@6620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:8e2a3a01-75c3-4642-8ced-8c2e8468e0f2@8e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5dc860d1-69ce-49b7-9ef4-52cf08f8edd8@5dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:e9fc57f8-a296-48d5-b8bf-7c7fd8437687@e9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Déchets organiques
+UID:38ad879b-24e2-4145-b929-bf74b02fc317@38ad.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:e0ee72a5-0b67-4287-a97f-5235a7a6798d@e0ee.org
+UID:46614737-4992-4c2d-8d4b-db1cd5d325a2@4661.org
 END:VEVENT
 END:VCALENDAR

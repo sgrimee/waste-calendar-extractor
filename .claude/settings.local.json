@@ -25,7 +25,8 @@
       "Bash(PYTHONPATH=src uv run python:*)",
       "WebFetch(domain:www.niederanven.lu)",
       "Bash(git add:*)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(uv run ruff:*)"
     ],
     "deny": []
   }
