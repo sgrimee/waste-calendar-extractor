@@ -25,8 +25,8 @@ def main():
     parser.add_argument(
         "pdf_file",
         nargs="?",
-        default="ressourcekalenner-nidderaanwen-web.pdf",
-        help="Path to PDF file (default: ressourcekalenner-nidderaanwen-web.pdf)",
+        default="pdf/ressourcekalenner-nidderaanwen-web.pdf",
+        help="Path to PDF file (default: pdf/ressourcekalenner-nidderaanwen-web.pdf)",
     )
     parser.add_argument("-o", "--output", help="Output iCal file path (default: waste-{year}.ics)")
     parser.add_argument("-y", "--year", type=int, default=2025, help="Year for the calendar (default: 2025)")

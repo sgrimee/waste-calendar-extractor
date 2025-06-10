@@ -52,7 +52,7 @@ just typecheck                 # Run mypy type checking
 just generate                  # Generate all language calendars for current year
 just generate-year 2026        # Generate for specific year
 just generate-lang de          # Generate German/Luxembourgish only
-just clean-waste              # Remove all generated waste-*.ics files
+just clean-waste              # Remove all generated ics/waste-*.ics files
 
 # Calendar viewing
 just view-all                  # View all generated calendars in summary
@@ -96,7 +96,7 @@ uv run ruff check src/ tests/
 
 **Package Management**: Project uses `uv` for fast dependency management. Fallback to `pip install -e .` if uv unavailable.
 
-**Calendar File Naming**: Generated files follow pattern `waste-{year}-{lang}.ics` (e.g., `waste-2025-de.ics`). The main multilingual file is `waste.ics`.
+**Calendar File Naming**: Generated files follow pattern `ics/waste-{year}-{lang}.ics` (e.g., `ics/waste-2025-de.ics`). The main multilingual file is `ics/waste.ics`. PDF files are stored in the `pdf/` folder.
 
 **CI Configuration**: GitHub Actions workflow (`.github/workflows/ci.yml`) runs unit tests only, excluding integration tests that require the PDF file. Use `just test-unit` locally to replicate CI behavior.
 

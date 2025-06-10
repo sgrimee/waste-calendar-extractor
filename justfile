@@ -55,36 +55,36 @@ clean:
 # Clean all waste calendar files
 clean-waste:
     @echo "🗑️ Removing all waste-* calendar files..."
-    rm -f waste-*.ics
+    rm -f ics/waste-*.ics
     @echo "✅ Cleaned all waste calendar files"
 
 # Generate waste calendar for current year (all languages)
 generate: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
-    cp waste-$(date +%Y).ics waste.ics
-    cp waste-$(date +%Y)-de.ics waste-de.ics
-    cp waste-$(date +%Y)-fr.ics waste-fr.ics
-    cp waste-$(date +%Y)-en.ics waste-en.ics
+    cp ics/waste-$(date +%Y).ics ics/waste.ics
+    cp ics/waste-$(date +%Y)-de.ics ics/waste-de.ics
+    cp ics/waste-$(date +%Y)-fr.ics ics/waste-fr.ics
+    cp ics/waste-$(date +%Y)-en.ics ics/waste-en.ics
     echo "✅ Generated all language-specific calendars and updated waste.ics"
 
 # Generate waste calendar for specific year (all languages)
 generate-year year: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}} --all-languages
-    cp waste-{{year}}.ics waste.ics
-    cp waste-{{year}}-de.ics waste-de.ics
-    cp waste-{{year}}-fr.ics waste-fr.ics
-    cp waste-{{year}}-en.ics waste-en.ics
+    cp ics/waste-{{year}}.ics ics/waste.ics
+    cp ics/waste-{{year}}-de.ics ics/waste-de.ics
+    cp ics/waste-{{year}}-fr.ics ics/waste-fr.ics
+    cp ics/waste-{{year}}-en.ics ics/waste-en.ics
     echo "✅ Generated all language-specific calendars for {{year}} and updated waste.ics"
 
 # Generate calendar for specific language
 generate-lang lang:
     PYTHONPATH=src uv run python -m waste_calendar_extractor --language {{lang}}
-    echo "✅ Generated waste-{{lang}}.ics calendar"
+    echo "✅ Generated ics/waste-{{lang}}.ics calendar"
 
 # Generate calendar for specific language and year
 generate-lang-year lang year:
     PYTHONPATH=src uv run python -m waste_calendar_extractor --language {{lang}} -y {{year}}
-    echo "✅ Generated waste-{{year}}-{{lang}}.ics calendar"
+    echo "✅ Generated ics/waste-{{year}}-{{lang}}.ics calendar"
 
 # Download latest calendar PDF from commune website
 download:
@@ -94,20 +94,20 @@ download:
 # View iCS calendar files
 view-main:
     @echo "📅 Viewing main waste.ics calendar:"
-    PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste.ics
+    PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer ics/waste.ics
 
 view-all:
     @echo "📅 Viewing all generated calendars:"
     @echo "\n🇩🇪 German/Luxembourgish calendar:"
-    @if [ -f waste-2025-de.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-de.ics --format summary; else echo "File not found: waste-2025-de.ics"; fi
+    @if [ -f ics/waste-2025-de.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer ics/waste-2025-de.ics --format summary; else echo "File not found: ics/waste-2025-de.ics"; fi
     @echo "\n🇫🇷 French calendar:"
-    @if [ -f waste-2025-fr.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-fr.ics --format summary; else echo "File not found: waste-2025-fr.ics"; fi
+    @if [ -f ics/waste-2025-fr.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer ics/waste-2025-fr.ics --format summary; else echo "File not found: ics/waste-2025-fr.ics"; fi
     @echo "\n🇬🇧 English calendar:"
-    @if [ -f waste-2025-en.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-en.ics --format summary; else echo "File not found: waste-2025-en.ics"; fi
+    @if [ -f ics/waste-2025-en.ics ]; then PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer ics/waste-2025-en.ics --format summary; else echo "File not found: ics/waste-2025-en.ics"; fi
 
 view-lang lang:
     @echo "📅 Viewing {{lang}} calendar:"
-    PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer waste-2025-{{lang}}.ics
+    PYTHONPATH=src uv run python -m waste_calendar_extractor.ics_viewer ics/waste-2025-{{lang}}.ics
 
 view-file file:
     @echo "📅 Viewing calendar: {{file}}"

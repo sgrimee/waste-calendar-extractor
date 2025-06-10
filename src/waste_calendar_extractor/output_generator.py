@@ -164,9 +164,9 @@ def generate_ical_calendar(
 
     if output_path is None:
         if language:
-            output_path = f"waste-{year}-{language}.ics"
+            output_path = f"ics/waste-{year}-{language}.ics"
         else:
-            output_path = f"waste-{year}.ics"
+            output_path = f"ics/waste-{year}.ics"
 
     logging.info(f"Generating iCal calendar{' for ' + language if language else ''}...")
     calendar = Calendar()

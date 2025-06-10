@@ -22,7 +22,7 @@
 **Link fir den Offall-Kalenner op Lëtzebuergesch:**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics
 ```
 
 **Wéi maachen:**
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de
 **Link für den Müllkalender auf Deutsch:**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics
 ```
 
 **So geht's:**
@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de
 **Lien pour le calendrier des déchets en français :**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics
 ```
 
 **Comment faire :**
@@ -75,14 +75,14 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr
 **Multilingual (all languages in one calendar):**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste.ics
 ```
 
 **Language-specific calendars:**
 
-- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-de.ics`
-- 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-fr.ics`
-- 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste-en.ics`
+- 🇩🇪 **German/Luxembourgish:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics`
+- 🇫🇷 **French:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics`
+- 🇬🇧 **English:** `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-en.ics`
 
 **💡 How language filtering works:** Each language-specific calendar contains only waste collection events that match that language's terminology, with appropriate emoji icons (🗑️ for waste, 📄 for paper, 🪟 for glass, 📦 for packaging, 🌱 for organic, 👕 for clothes, 🎄 for Christmas trees). For example, the German calendar shows "🗑️ Reschtoffäll", while the French calendar displays "🗑️ Déchets ménagers", and the English calendar shows "🗑️ Residual waste". This allows users to subscribe to their preferred language without seeing multilingual duplicates.
 
@@ -185,8 +185,8 @@ PYTHONPATH=src uv run python -m waste_calendar_extractor --help
 
 ## Command Line Options
 
-- `pdf_file`: Path to PDF file (default: `ressourcekalenner-nidderaanwen-web.pdf`)
-- `-o, --output`: Output iCal file path (default: `waste-{year}.ics`)
+- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
+- `-o, --output`: Output iCal file path (default: `ics/waste-{year}.ics`)
 - `-y, --year`: Year for the calendar (default: 2025)
 - `-l, --language`: Generate calendar for specific language (`de`=German/Luxembourgish, `fr`=French, `en`=English)
 - `--all-languages`: Generate calendars for all languages (de, fr, en)
@@ -262,11 +262,16 @@ waste-calendar-extractor/
 │   └── test_extract_dates.py  # Unit tests
 ├── icons/
 │   └── icon.png              # Project icon
+├── ics/
+│   └── waste-2025-*.ics      # Generated calendar files
+├── pdf/
+│   └── *.pdf                 # PDF source files
+├── debug/
+│   └── *.py                  # Debug and troubleshooting scripts
 ├── justfile                  # Development commands
 ├── pyproject.toml            # Project configuration
 ├── README.md                 # This file
-├── LICENSE                   # MIT license
-└── waste-2025.ics           # Ready-to-use calendar file
+└── LICENSE                   # MIT license
 ```
 
 ## How it works
