@@ -93,6 +93,16 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/waste.ic
 
 A Python tool to extract waste collection dates from PDF calendars published by the **Commune of Niederanven** and generate iCal files for easy calendar integration.
 
+### ⚠️ Important Disclaimer
+
+**This is an unofficial hobby project and is not endorsed by, affiliated with, or maintained by the Commune of Niederanven.** The data extracted from PDF calendars may be inaccurate or incomplete. 
+
+**No warranty or guarantee is provided regarding the accuracy, completeness, or reliability of the waste collection information.** Users are responsible for verifying collection dates independently and should not rely solely on this tool for waste collection scheduling.
+
+**The developer assumes no responsibility or liability for any consequences arising from the use of this software or the calendar data it generates, including but not limited to missed collections, fines, or other damages.**
+
+For official and authoritative waste collection information, always consult the official resources provided by the Commune of Niederanven.
+
 ## Source Data
 
 This tool extracts data from the official waste collection calendar published by the **Commune of Niederanven**. 
