@@ -19,6 +19,9 @@ test-unit:
 test-integration:
     PYTHONPATH=src uv run python -m pytest tests/ -v -m integration
 
+# Run tests with coverage
+test-cov:
+    PYTHONPATH=src uv run python -m pytest tests/ --cov=waste_calendar_extractor --cov-report=term-missing
 
 # Run all checks (format, lint, type check)
 check: format lint typecheck
@@ -35,10 +38,6 @@ lint:
 # Type check with mypy
 typecheck:
     PYTHONPATH=src uv run mypy src/ tests/
-
-# Run tests with coverage
-test-cov:
-    PYTHONPATH=src uv run python -m pytest tests/ --cov=waste_calendar_extractor --cov-report=term-missing
 
 # Build the package
 build:
@@ -63,12 +62,18 @@ clean-waste:
 generate: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
     cp waste-$(date +%Y).ics waste.ics
+    cp waste-$(date +%Y)-de.ics waste-de.ics
+    cp waste-$(date +%Y)-fr.ics waste-fr.ics
+    cp waste-$(date +%Y)-en.ics waste-en.ics
     echo "✅ Generated all language-specific calendars and updated waste.ics"
 
 # Generate waste calendar for specific year (all languages)
 generate-year year: clean-waste
     PYTHONPATH=src uv run python -m waste_calendar_extractor -y {{year}} --all-languages
     cp waste-{{year}}.ics waste.ics
+    cp waste-{{year}}-de.ics waste-de.ics
+    cp waste-{{year}}-fr.ics waste-fr.ics
+    cp waste-{{year}}-en.ics waste-en.ics
     echo "✅ Generated all language-specific calendars for {{year}} and updated waste.ics"
 
 # Generate calendar for specific language
