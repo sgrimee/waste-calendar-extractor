@@ -12,18 +12,22 @@ This is a waste collection calendar extractor that extracts dates and waste type
 
 The extraction follows a clear pipeline:
 
-1. **PDF Analysis** (`pdf_extractor.py`) - Uses PyMuPDF to extract positioned text elements
+1. **PDF Analysis** (`pdf_extractor.py`) - Uses area-based extraction with predefined calendar and legend coordinates
 2. **Calendar Processing** (`calendar_processor.py`) - Orchestrates the extraction workflow, processes pages sequentially  
 3. **Output Generation** (`output_generator.py`) - Creates iCal files with language filtering and emoji icons
 4. **CLI Interface** (`cli.py`) - Handles argument parsing and user interaction
 
 ### Key Architectural Patterns
 
+**Area-Based PDF Extraction**: Uses predefined coordinate areas (`page_areas.json`) to separate calendar content (left side) from legend information (right side). This eliminates confusion between calendar symbols and legend text.
+
+**Legend Extraction**: Extracts waste type definitions from the legend area on page 2 only, providing consistent multilingual descriptions throughout the calendar.
+
 **Multilingual Support**: Each waste type description contains multiple languages separated by `|` (e.g., "Reschtoffäll | Déchets ménagers | Residual waste"). The `extract_language_from_waste_description()` function filters these based on language-specific patterns and fallback strategies.
 
-**Month Detection**: Uses Luxembourgish month names (`JANUAR`, `MÄERZ`, etc.) to track calendar progression across PDF pages.
+**Month Detection**: Uses Luxembourgish month names (`Januar`, `MÄERZ`, etc.) to track calendar progression across PDF pages.
 
-**Spatial Text Processing**: Groups text elements by Y-coordinate proximity to identify calendar rows, then matches dates (1-31) with waste type keywords in the same row.
+**Symbol Classification**: Simplified waste symbol classification based on drawing complexity (item count and curve presence) rather than complex heuristics.
 
 **Dependency Injection for Testing**: Tests use factory functions to create mock services rather than patching, making them more maintainable.
 
@@ -123,3 +127,11 @@ Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., w
 
 - pdf files should be saved in the pdf/ folder
 - ics files should be saved in the ics/ folder
+
+## Memory Notes
+
+- The telephone icon and the arrow icon do not represent collection types, they just mean the user need to book the collection by phone or web in advance for the collection type represented by the icon that follows.
+
+## Memories
+
+- The test data in the integration test is correct. Never assume it is wrong. If you assume that, it is because your logic is flawed

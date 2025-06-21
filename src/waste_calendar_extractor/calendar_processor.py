@@ -10,25 +10,22 @@ from pathlib import Path
 import fitz  # PyMuPDF
 
 from .constants import MONTH_NUMBERS
-from .pdf_extractor import detect_month, extract_date_and_waste_types, extract_text_elements, group_elements_by_rows
+from .pdf_extractor import detect_month, extract_date_and_waste_types, extract_legend_mapping, load_page_areas
 
 
-def process_pdf_page(page: fitz.Page, current_month: str, year: int = 2025) -> list[dict]:
+def process_pdf_page(page: fitz.Page, current_month: str, year: int = 2025, legend_mapping: dict[str, str] | None = None) -> list[dict]:
     """Process a single PDF page and extract waste collection dates."""
     results = []
 
-    # Extract and group text elements
-    elements = extract_text_elements(page)
-    rows = group_elements_by_rows(elements)
+    # Extract all dates and waste types from the page using area-based extraction
+    date_waste_map = extract_date_and_waste_types(page, current_month, legend_mapping)
 
-    # Process each row to find date + waste type combinations
-    for row in rows:
-        date_found, waste_types = extract_date_and_waste_types(row, current_month, page)
-
-        if date_found and waste_types and current_month and current_month in MONTH_NUMBERS:
+    # Convert to results format
+    for date_num, waste_descriptions in date_waste_map.items():
+        if waste_descriptions and current_month and current_month in MONTH_NUMBERS:
             try:
-                date_obj = datetime(year, MONTH_NUMBERS[current_month], date_found)
-                icons = " | ".join(waste_types)
+                date_obj = datetime(year, MONTH_NUMBERS[current_month], date_num)
+                icons = " | ".join(waste_descriptions)
 
                 logging.info(f"Extracted: {date_obj.strftime('%Y-%m-%d')} -> '{icons}'")
 
@@ -55,8 +52,15 @@ def extract_dates_from_pdf(pdf_path: str, year: int = 2025) -> list[dict]:
 
     results = []
     current_month = ""
+    legend_mapping = {}
 
-    import logging
+    # Extract legend from page 2 (index 1) if available
+    if len(doc) > 1:
+        page_2 = doc[1]
+        areas = load_page_areas()
+        legend_area = areas["legend_area"]
+        legend_mapping = extract_legend_mapping(page_2, legend_area)
+        logging.info(f"Extracted legend mapping with {len(legend_mapping)} waste types")
 
     for page_num in range(len(doc)):
         page = doc[page_num]
@@ -70,7 +74,7 @@ def extract_dates_from_pdf(pdf_path: str, year: int = 2025) -> list[dict]:
             logging.info(f"Found month: {current_month} on page {page_num + 1}")
 
         if current_month:
-            page_results = process_pdf_page(page, current_month, year)
+            page_results = process_pdf_page(page, current_month, year, legend_mapping)
             results.extend(page_results)
 
     doc.close()
