@@ -70,7 +70,9 @@ def areas_per_day(page: fitz.Page) -> list[fitz.Rect]:
                     day_positions.append(
                         {
                             "day": int(text),
-                            "y": bbox[1],  # Top coordinate of the day number
+                            "y_top": bbox[1],  # Top coordinate of the day number
+                            "y_bottom": bbox[3],  # Bottom coordinate of the day number
+                            "y_center": (bbox[1] + bbox[3]) / 2,
                         }
                     )
 
@@ -83,24 +85,46 @@ def areas_per_day(page: fitz.Page) -> list[fitz.Rect]:
     num_days = len(day_positions)
     logger.debug(f"Found {num_days} days in calendar")
 
-    # Calculate row height based on day number positions
-    # The calendar has consistent vertical spacing between days
-    total_height = day_positions[-1]["y"] - day_positions[0]["y"]
-    row_height = total_height / (num_days - 1)
+    # Calculate day areas based on uniform row spacing
+    # From the analysis, we know that days have consistent 23.2 spacing between centers
+    # and the day number text is centered within each row
 
-    # Create rectangular areas for each day
+    # Calculate row boundaries based on day number positions and consistent spacing
+    if not day_positions:
+        return []
+
+    # Calculate average spacing between consecutive day centers
+    if len(day_positions) > 1:
+        total_spacing = sum(
+            day_positions[i]["y_center"] - day_positions[i - 1]["y_center"] for i in range(1, len(day_positions))
+        )
+        avg_spacing = total_spacing / (len(day_positions) - 1)
+    else:
+        avg_spacing = 23.2  # Default based on observed pattern
+
+    # Calculate grid line positions - these are the horizontal separators between rows
+    grid_lines = []
+
+    # First grid line: half spacing above day 1 center
+    first_day_center = day_positions[0]["y_center"]
+    grid_lines.append(first_day_center - (avg_spacing / 2))
+
+    # Grid lines between days: positioned halfway between consecutive day centers
+    for i in range(len(day_positions) - 1):
+        curr_center = day_positions[i]["y_center"]
+        next_center = day_positions[i + 1]["y_center"]
+        grid_line = (curr_center + next_center) / 2
+        grid_lines.append(grid_line)
+
+    # Last grid line: half spacing below last day center
+    last_day_center = day_positions[-1]["y_center"]
+    grid_lines.append(last_day_center + (avg_spacing / 2))
+
+    # Create day areas spanning between consecutive grid lines
     areas = []
-    for i, day_pos in enumerate(day_positions):
-        # Each day gets a horizontal strip across the calendar width
-        # The height extends from halfway above to halfway below the day number
-        y_top = day_pos["y"] - (row_height / 2)
-        y_bottom = day_pos["y"] + (row_height / 2)
-
-        # For the first and last days, extend to the calendar boundaries
-        if i == 0:
-            y_top = CALENDAR_AREA["y0"]
-        if i == num_days - 1:
-            y_bottom = CALENDAR_AREA["y1"]
+    for i in range(len(day_positions)):
+        y_top = grid_lines[i]  # Start at grid line above day
+        y_bottom = grid_lines[i + 1]  # End at grid line below day
 
         day_area = fitz.Rect(
             CALENDAR_AREA["x0"],  # Left edge of calendar
@@ -111,7 +135,7 @@ def areas_per_day(page: fitz.Page) -> list[fitz.Rect]:
         areas.append(day_area)
 
         logger.debug(
-            f"Day {day_pos['day']:2d}: y={day_pos['y']:6.1f}, area=({day_area.x0:.1f}, {day_area.y0:.1f}, {day_area.x1:.1f}, {day_area.y1:.1f})"
+            f"Day {day_positions[i]['day']:2d}: day_y_center={day_positions[i]['y_center']:6.1f}, area=({day_area.x0:.1f}, {day_area.y0:.1f}, {day_area.x1:.1f}, {day_area.y1:.1f}) height={y_bottom - y_top:.1f}"
         )
 
     logger.debug(f"Generated {len(areas)} day areas for {num_days} days")
