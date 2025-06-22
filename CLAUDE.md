@@ -118,3 +118,6 @@ Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., w
 
 - The telephone icon and the arrow icon do not represent collection types, they just mean the user need to book the collection by phone or web in advance for the collection type represented by the icon that follows.
 - The `test_2025_expected_dates` test validates specific expected outcomes. The test must be considered correct and must not be changed.
+- Create all your temporary scripts in the debug/ folder.
+- Save temporary pdf to the debug folder, not the pdf/ folder. That one is for persistent pdfs.
+- The areas for each day have the same exact dimensions. For monthes with less than 31 days, there are empty rows at the bottom, so the total height of a month calendar is always 31 times the height of the box for one day
