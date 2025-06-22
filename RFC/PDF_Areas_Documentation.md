@@ -7,18 +7,21 @@ This document describes the detected calendar and legend areas from the waste co
 ## Page Layout Analysis
 
 The PDF pages (2-14) contain:
+
 - **Left Side**: Monthly calendar grid with dates and waste collection icons
 - **Right Side**: Legend explaining waste types and collection instructions
 
 ## Detected Coordinates (Page 2 Template)
 
 ### Calendar Area (Left Side)
+
 - **Top-left corner**: (54.5, 39.0)
 - **Bottom-right corner**: (328.4, 808.3)
 - **Dimensions**: 273.9 × 769.3 pixels
 - **Content**: Monthly calendar grid, dates, weekday names, waste collection icons
 
 ### Legend Area (Right Side)
+
 - **Top-left corner**: (373.0, 15.6)
 - **Bottom-right corner**: (593.0, 812.5)
 - **Dimensions**: 220.1 × 796.9 pixels

@@ -21,13 +21,7 @@ The extraction follows a clear pipeline:
 
 **Area-Based PDF Extraction**: Uses predefined coordinate areas (`page_areas.json`) to separate calendar content (left side) from legend information (right side). This eliminates confusion between calendar symbols and legend text.
 
-**Legend Extraction**: Extracts waste type definitions from the legend area on page 2 only, providing consistent multilingual descriptions throughout the calendar.
-
-**Multilingual Support**: Each waste type description contains multiple languages separated by `|` (e.g., "Reschtoffäll | Déchets ménagers | Residual waste"). The `extract_language_from_waste_description()` function filters these based on language-specific patterns and fallback strategies.
-
-**Month Detection**: Uses Luxembourgish month names (`Januar`, `MÄERZ`, etc.) to track calendar progression across PDF pages.
-
-**Symbol Classification**: Simplified waste symbol classification based on drawing complexity (item count and curve presence) rather than complex heuristics.
+**Symbol Classification**: TBD
 
 **Dependency Injection for Testing**: Tests use factory functions to create mock services rather than patching, making them more maintainable.
 
@@ -73,12 +67,9 @@ just clean                     # Remove build artifacts
 ```bash
 # Testing
 PYTHONPATH=src uv run python -m pytest tests/ -v
-PYTHONPATH=src uv run python -m pytest tests/test_integration.py::test_june_2025_expected_dates -v
 
 # Running the extractor
-PYTHONPATH=src uv run python -m waste_calendar_extractor --help
-PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages -v
-PYTHONPATH=src uv run python -m waste_calendar_extractor --download
+PYTHONPATH=src uv run python -m waste_cal
 
 # Type checking and linting
 PYTHONPATH=src uv run mypy src/ tests/
@@ -87,20 +78,15 @@ uv run ruff check src/ tests/
 
 ## Important Development Notes
 
+**Imports**: All imports should be absolute and ordered as per ruff standard.
+
 **PYTHONPATH Requirements**: All commands that import the package require `PYTHONPATH=src` due to the src-layout structure. The justfile handles this automatically.
 
-**Test Organization**: Tests are split into logical modules:
-
-- `test_constants.py` - Module constants validation
-- `test_pdf_extraction.py` - PDF processing functions  
-- `test_output_generation.py` - Calendar generation and language filtering
-- `test_integration.py` - End-to-end scenarios and expected extraction results
-
-**Expected Extraction Results**: The `test_june_2025_expected_dates` test validates specific expected outcomes for June 2025, including verification that days 1 and 8 have no waste collection.
+**Test Organization**: Tests are split into logical modules following the name and path of the modules they test.
 
 **Package Management**: Project uses `uv` for fast dependency management. Fallback to `pip install -e .` if uv unavailable.
 
-**Calendar File Naming**: Generated files follow pattern `ics/waste-{year}-{lang}.ics` (e.g., `ics/waste-2025-de.ics`). The main multilingual file is `ics/waste.ics`. PDF files are stored in the `pdf/` folder.
+**Calendar File Naming**: Generated files follow pattern `ics/waste-{year}-{lang}.ics` (e.g., `ics/waste-2025-de.ics`). PDF files are stored in the `pdf/` folder.
 
 **CI Configuration**: GitHub Actions workflow (`.github/workflows/ci.yml`) runs unit tests only, excluding integration tests that require the PDF file. Use `just test-unit` locally to replicate CI behavior.
 
@@ -128,10 +114,7 @@ Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., w
 - pdf files should be saved in the pdf/ folder
 - ics files should be saved in the ics/ folder
 
-## Memory Notes
-
-- The telephone icon and the arrow icon do not represent collection types, they just mean the user need to book the collection by phone or web in advance for the collection type represented by the icon that follows.
-
 ## Memories
 
-- The test data in the integration test is correct. Never assume it is wrong. If you assume that, it is because your logic is flawed
+- The telephone icon and the arrow icon do not represent collection types, they just mean the user need to book the collection by phone or web in advance for the collection type represented by the icon that follows.
+- The `test_2025_expected_dates` test validates specific expected outcomes. The test must be considered correct and must not be changed.

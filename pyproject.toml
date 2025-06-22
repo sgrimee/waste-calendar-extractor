@@ -12,11 +12,11 @@ dev-dependencies = [
 ]
 
 [project]
-name = "waste-calendar-extractor"
+name = "waste-cal"
 version = "0.1.0"
 description = "Extract waste collection dates from PDF calendars and generate iCal files"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 license = { file = "LICENSE" }
 authors = [{ name = "Sam Grimee", email = "sgrimee@users.noreply.github.com" }]
 keywords = ["waste", "calendar", "pdf", "ical", "luxembourg"]
@@ -29,30 +29,16 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
     "Topic :: Utilities",
 ]
-dependencies = ["PyMuPDF>=1.23.0", "ics>=0.7"]
+dependencies = ["PyMuPDF>=1.23.0", "ics>=0.7", "loguru>=0.7.3"]
 
-
-[project.scripts]
-extract-waste-dates = "waste_calendar_extractor:main"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src"]
-
-[tool.hatch.build.targets.sdist]
-include = [
-    "/src",
-    "/tests",
-    "/icons",
-    "/waste-2025.ics",
-    "/README.md",
-    "/LICENSE",
-    "/justfile"
-]
+packages = ["waste-cal"]
 
 
 [tool.ruff]
 line-length = 120
-target-version = "py311"
+target-version = "py312"
 
 [tool.ruff.lint]
 select = [
@@ -68,7 +54,7 @@ ignore = []
 
 
 [tool.mypy]
-python_version = "3.11"
+python_version = "3.12"
 warn_return_any = false
 warn_unused_configs = true
 disallow_untyped_defs = false
@@ -79,6 +65,13 @@ markers = [
     "integration: marks tests as integration tests (require PDF file, may be excluded from CI)",
 ]
 testpaths = ["tests"]
-python_files = ["test_*.py"]
-python_classes = ["Test*"]
-python_functions = ["test_*"]
+pythonpath = ["src"]
+norecursedirs = [
+    "*.egg-info",
+    ".git",
+    ".tox",
+    "build",
+    "dist",
+    "temp",
+    "unused",
+]
