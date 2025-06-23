@@ -73,6 +73,36 @@ class CalendarData:
 
         return "\n".join(lines)
 
+    def to_ical(self, language: Languages, year: int) -> str:
+        """
+        Convert calendar data to iCal format.
+
+        Args:
+            language: Language for waste type descriptions
+            year: Year for the calendar
+
+        Returns:
+            iCal format string
+        """
+        from ics import Calendar, Event
+
+        calendar = Calendar()
+
+        for date in self.get_all_dates():
+            waste_types = self._collections[date]
+
+            for waste_type in waste_types:
+                event = Event()
+                event.name = f"{waste_type.icon()} {waste_type.description(language)}"
+                event.begin = date
+                event.description = f"Waste collection: {waste_type.description(language)}"
+                event.location = "Niederanven, Luxembourg"
+                event.make_all_day()
+
+                calendar.events.add(event)
+
+        return calendar.serialize()
+
 
 def extract_calendar_data(pdf_path: str, year: int) -> CalendarData:
     """

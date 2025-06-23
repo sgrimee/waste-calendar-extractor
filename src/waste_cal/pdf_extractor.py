@@ -14,8 +14,9 @@ The extraction pipeline:
 3. Map symbols to dates using row-based spatial matching
 """
 
+import logging
+
 import fitz
-from loguru import logger
 
 # Calendar area coordinates (left side of page where calendar content is located)
 CALENDAR_AREA = {"x0": 54.5, "y0": 39.0, "x1": 328.4, "y1": 808.3}
@@ -33,7 +34,7 @@ def read_pdf(file_path: str) -> fitz.Document:
     """
     try:
         doc = fitz.open(file_path)
-        logger.debug(f"PDF opened successfully: {file_path}")
+        logging.debug(f"PDF opened successfully: {file_path}")
         return doc
     except Exception as e:
         raise ValueError(f"Could not read PDF file: {file_path}") from e
@@ -155,7 +156,7 @@ def _generate_day_areas(day_positions: list[dict[str, int | float]], grid_lines:
         )
         areas.append(day_area)
 
-        logger.debug(
+        logging.debug(
             f"""Day {day_positions[i]["day"]:2d}: day_y_center={day_positions[i]["y_center"]:6.1f},
             area=({day_area.x0:.1f}, {day_area.y0:.1f}, {day_area.x1:.1f}, {day_area.y1:.1f})
             height={y_bottom - y_top:.1f}"""
@@ -176,13 +177,13 @@ def areas_per_day(page) -> list[fitz.Rect]:
     """
     day_positions = _extract_day_positions(page)
     num_days = len(day_positions)
-    logger.debug(f"Found {num_days} days in calendar")
+    logging.debug(f"Found {num_days} days in calendar")
 
     spacing = _calculate_day_spacing(day_positions)
     grid_lines = _calculate_grid_lines(day_positions, spacing)
     areas = _generate_day_areas(day_positions, grid_lines)
 
-    logger.debug(f"Generated {len(areas)} day areas for {num_days} days")
+    logging.debug(f"Generated {len(areas)} day areas for {num_days} days")
     return areas
 
 
@@ -232,14 +233,14 @@ def drawing_info(drawing) -> str:
     for i, item in enumerate(items):
         # Items are tuples, not dictionaries
         if isinstance(item, tuple) and len(item) > 0:
-            item_type = item[0] if len(item) > 0 else 'unknown'
+            item_type = item[0] if len(item) > 0 else "unknown"
             lines.append(f"  Item {i}: {item_type} (tuple with {len(item)} elements)")
             lines.append(f"    Content: {item}")
         else:
             # Handle case where item might be a dictionary (for compatibility)
-            item_type = item.get('type', 'unknown') if hasattr(item, 'get') else str(type(item))
+            item_type = item.get("type", "unknown") if hasattr(item, "get") else str(type(item))
             lines.append(f"  Item {i}: {item_type}")
-            if hasattr(item, 'get') and "p" in item:  # Path data
+            if hasattr(item, "get") and "p" in item:  # Path data
                 points = item["p"]
                 lines.append(f"    Points: {len(points)} coordinates")
                 if points:
@@ -277,6 +278,3 @@ def render_drawing_to_image(page, drawing, output_path: str, scale: float = 4.0)
 
     print(f"Drawing rendered to: {output_path}")
     print(f"Image size: {pixmap.width if pixmap else 'unknown'} x {pixmap.height if pixmap else 'unknown'}")
-
-
-

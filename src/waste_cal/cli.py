@@ -8,6 +8,7 @@ import datetime
 import logging
 
 from waste_cal.calendar_processor import extract_calendar_data
+from waste_cal.ical_generator import generate_all_ical_files, generate_ical_file
 from waste_cal.month import Month
 from waste_cal.research import extract_month_drawings
 from waste_cal.waste_types import Languages
@@ -41,8 +42,7 @@ def main():
         "-l",
         "--language",
         choices=["de", "fr", "en"],
-        default="en",
-        help="""Language for text output (de=German, fr=French, en=English). Default: en""",
+        help="""Language for output (de=German, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)""",
     )
     extract_parser.add_argument(
         "-y",
@@ -52,9 +52,9 @@ def main():
         help="Year for calendar extraction (default: current year)"
     )
     extract_parser.add_argument(
-        "--text-output",
+        "--text",
         action="store_true",
-        help="Output as text instead of generating iCal files"
+        help="Output as text instead of generating iCal files (default: generate iCal files)"
     )
 
     # Drawings extraction command
@@ -95,20 +95,27 @@ def main():
     elif args.command == "extract" or args.command is None:
         # Default behavior - extract calendar
         try:
-            # Map language string to enum
-            language_map = {"de": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
-            language = language_map[args.language]
-
             logging.info(f"Extracting calendar data from {args.pdf_file} for year {args.year}")
             calendar_data = extract_calendar_data(args.pdf_file, args.year)
 
-            if args.text_output:
+            if args.text:
                 # Output as text
+                language_map = {"de": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
+                language = language_map.get(args.language, Languages.EN)
                 print(calendar_data.to_text(language))
             else:
-                # Future: generate iCal files
-                logging.info("iCal generation not yet implemented - use --text-output for now")
-                print(calendar_data.to_text(language))
+                # Generate iCal files
+                if args.language:
+                    # Generate single language file
+                    language_map = {"de": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
+                    language = language_map[args.language]
+                    filepath = generate_ical_file(calendar_data, language, args.year)
+                    logging.info(f"Generated iCal file: {filepath}")
+                else:
+                    # Generate all language files
+                    filepaths = generate_all_ical_files(calendar_data, args.year)
+                    for filepath in filepaths:
+                        logging.info(f"Generated iCal file: {filepath}")
 
         except Exception as e:
             logging.error(f"Error extracting calendar: {e}")
