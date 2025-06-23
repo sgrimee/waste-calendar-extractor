@@ -6,7 +6,7 @@ Usage:
     python -m waste_calendar_extractor.ics_viewer <ics_file>
 """
 
-from .viewer import main
+from waste_cal.ics_viewer.viewer import main
 
 if __name__ == "__main__":
     main()

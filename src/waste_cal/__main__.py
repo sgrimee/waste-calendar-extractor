@@ -3,7 +3,7 @@
 Main entry point for the waste_calendar_extractor package.
 """
 
-from .cli import main
+from waste_cal.cli import main
 
 if __name__ == "__main__":
     exit(main())

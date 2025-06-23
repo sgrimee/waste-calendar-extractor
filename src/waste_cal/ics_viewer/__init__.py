@@ -12,6 +12,6 @@ This module includes:
 - Verification utilities
 """
 
-from .viewer import generate_calendar_view, main, view_ics_file
+from waste_cal.ics_viewer.viewer import generate_calendar_view, main, view_ics_file
 
 __all__ = ["main", "view_ics_file", "generate_calendar_view"]

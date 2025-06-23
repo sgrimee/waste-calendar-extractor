@@ -5,6 +5,8 @@ Command-line interface for the waste calendar extractor.
 
 import argparse
 import logging
+from waste_cal.research import extract_month_drawings
+from waste_cal.month import Month
 
 
 def setup_logging(level: str = "INFO") -> None:
