@@ -11,6 +11,9 @@ dev-dependencies = [
     "matplotlib>=3.10.3",
 ]
 
+[tool.uv.sources]
+waste-cal = { workspace = true }
+
 [project]
 name = "waste-cal"
 version = "0.1.0"
@@ -31,8 +34,11 @@ classifiers = [
 ]
 dependencies = [
     "PyMuPDF>=1.23.0",
- "ics>=0.7",
+    "ics>=0.7",
 ]
+
+[project.scripts]
+waste-cal = "waste_cal.__main__:main"
 
 
 [tool.hatch.build.targets.wheel]

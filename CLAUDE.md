@@ -49,7 +49,7 @@ just typecheck                 # Run mypy type checking
 # Calendar generation
 just generate                  # Generate all language calendars for current year
 just generate-year 2026        # Generate for specific year
-just generate-lang de          # Generate German/Luxembourgish only
+just generate-lang lu          # Generate Luxembourgish only
 just clean-waste              # Remove all generated ics/waste-*.ics files
 
 # Calendar viewing

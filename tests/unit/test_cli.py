@@ -54,14 +54,14 @@ class TestMain:
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py", "extract", "test.pdf"])
+    @patch("sys.argv", ["cli.py", "test.pdf"])
     @patch("builtins.print")
     def test_main_extract_command_basic(self, mock_print, mock_generate_all, mock_extract, mock_setup_logging):
         """Test main function with basic extract command."""
         # Setup mock calendar data
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_all.return_value = ["ics/waste-en.ics", "ics/waste-fr.ics", "ics/waste-de.ics"]
+        mock_generate_all.return_value = ["ics/waste-en.ics", "ics/waste-fr.ics", "ics/waste-lu.ics"]
 
         result = main()
 
@@ -75,7 +75,7 @@ class TestMain:
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "extract", "test.pdf", "--language", "fr", "--year", "2025"])
+    @patch("sys.argv", ["cli.py", "test.pdf", "--language", "fr", "--year", "2025"])
     @patch("builtins.print")
     def test_main_extract_with_options(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging):
         """Test main function with language and year options."""
@@ -93,7 +93,7 @@ class TestMain:
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("sys.argv", ["cli.py", "extract", "--text"])
+    @patch("sys.argv", ["cli.py", "--text"])
     @patch("builtins.print")
     def test_main_extract_text_output(self, mock_print, mock_extract, mock_setup_logging):
         """Test main function with text output flag."""
@@ -108,25 +108,9 @@ class TestMain:
         mock_print.assert_called_once_with("Mock calendar output")
 
     @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_month_drawings")
-    @patch("sys.argv", ["cli.py", "drawings", "january", "test.pdf"])
-    def test_main_drawings_command(self, mock_extract_drawings, mock_setup_logging):
-        """Test main function with drawings extraction command."""
-        result = main()
+    # Drawings command has been removed - this test is no longer needed
 
-        assert result == 0
-        mock_setup_logging.assert_called_once_with("INFO")
-        mock_extract_drawings.assert_called_once_with("test.pdf", "january", "debug")
-
-    @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_month_drawings")
-    @patch("sys.argv", ["cli.py", "drawings", "february", "test.pdf", "--output-dir", "custom"])
-    def test_main_drawings_with_output_dir(self, mock_extract_drawings, mock_setup_logging):
-        """Test main function with drawings command and custom output directory."""
-        result = main()
-
-        assert result == 0
-        mock_extract_drawings.assert_called_once_with("test.pdf", "february", "custom")
+    # Drawings command has been removed - this test is no longer needed
 
     @patch("waste_cal.cli.setup_logging")
     @patch("sys.argv", ["cli.py", "--verbose"])
@@ -140,13 +124,13 @@ class TestMain:
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py", "extract"])  # Need to specify extract command explicitly
+    @patch("sys.argv", ["cli.py"])  # Need to specify extract command explicitly
     @patch("builtins.print")
     def test_main_no_command_defaults_to_extract(self, mock_print, mock_generate_all, mock_extract, mock_setup_logging):
         """Test main function with extract command (default behavior)."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_all.return_value = ["ics/waste-en.ics", "ics/waste-fr.ics", "ics/waste-de.ics"]
+        mock_generate_all.return_value = ["ics/waste-en.ics", "ics/waste-fr.ics", "ics/waste-lu.ics"]
 
         result = main()
 
@@ -160,7 +144,7 @@ class TestMain:
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("sys.argv", ["cli.py", "extract"])
+    @patch("sys.argv", ["cli.py"])
     @patch("logging.error")
     def test_main_extract_exception_handling(self, mock_log_error, mock_extract, mock_setup_logging):
         """Test main function handles exceptions during extraction."""
@@ -172,30 +156,20 @@ class TestMain:
         mock_log_error.assert_called_once_with("Error extracting calendar: Test extraction error")
 
     @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_month_drawings")
-    @patch("sys.argv", ["cli.py", "drawings", "march"])
-    @patch("logging.error")
-    def test_main_drawings_exception_handling(self, mock_log_error, mock_extract_drawings, mock_setup_logging):
-        """Test main function handles exceptions during drawings extraction."""
-        mock_extract_drawings.side_effect = Exception("Test drawings error")
-
-        result = main()
-
-        assert result == 1
-        mock_log_error.assert_called_once_with("Error extracting drawings: Test drawings error")
+    # Drawings command has been removed - this test is no longer needed
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "extract", "--language", "de"])
+    @patch("sys.argv", ["cli.py", "--language", "lu"])
     @patch("builtins.print")
     def test_main_language_mapping(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging):
         """Test that language strings are correctly mapped to enum values."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_single.return_value = "ics/waste-de.ics"
+        mock_generate_single.return_value = "ics/waste-lu.ics"
 
-        # Test German -> Luxembourgish mapping
+        # Test Luxembourgish mapping
         result = main()
 
         assert result == 0
@@ -206,7 +180,7 @@ class TestMain:
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "extract", "--language", "en"])
+    @patch("sys.argv", ["cli.py", "--language", "en"])
     @patch("builtins.print")
     def test_main_english_language(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging):
         """Test English language selection."""
@@ -224,7 +198,7 @@ class TestMain:
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
     @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "extract", "--language", "fr"])
+    @patch("sys.argv", ["cli.py", "--language", "fr"])
     @patch("builtins.print")
     def test_main_french_language(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging):
         """Test French language selection."""

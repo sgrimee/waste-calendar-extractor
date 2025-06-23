@@ -45,7 +45,7 @@ just view-main
 just view-all
 
 # View specific language calendar
-just view-lang de    # German/Luxembourgish
+just view-lang lu    # Luxembourgish
 just view-lang fr    # French
 just view-lang en    # English
 

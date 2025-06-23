@@ -22,7 +22,7 @@
 **Link fir den Offall-Kalenner op Lëtzebuergesch:**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-lu.ics
 ```
 
 **Wéi maachen:**
@@ -39,7 +39,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 **Link für den Müllkalender auf Deutsch:**
 
 ```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-de.ics
+https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-lu.ics
 ```
 
 **So geht's:**
@@ -120,21 +120,12 @@ The original PDF calendar ("Ressourcekalenner") can be found on the [official Ni
 
 ## Installation
 
-### Using uv (recommended)
-
 ```bash
 git clone https://github.com/yourusername/waste-calendar-extractor.git
 cd waste-calendar-extractor
 uv sync
 ```
 
-### Using pip
-
-```bash
-git clone https://github.com/yourusername/waste-calendar-extractor.git
-cd waste-calendar-extractor
-pip install -e .
-```
 
 ## Usage
 
@@ -142,179 +133,58 @@ pip install -e .
 
 ```bash
 # Extract calendar from default PDF file (generates iCal files)
-PYTHONPATH=src uv run python -m waste_cal extract
+uv run waste-cal extract
 
 # Or use the shorthand
-PYTHONPATH=src uv run python -m waste_cal
+uv run waste-cal
+
+# Traditional method (also works)
+uv run python -m waste_cal
 ```
 
 ### Advanced usage
 
 ```bash
 # Generate language-specific calendars
-PYTHONPATH=src uv run python -m waste_cal extract --language de  # German/Luxembourgish
-PYTHONPATH=src uv run python -m waste_cal extract --language fr  # French
-PYTHONPATH=src uv run python -m waste_cal extract --language en  # English
+uv run waste-cal --language lu  # Luxembourgish
+uv run waste-cal --language fr  # French
+uv run waste-cal --language en  # English
 
 # Specify custom PDF file
-PYTHONPATH=src uv run python -m waste_cal extract my-calendar.pdf
+uv run waste-cal my-calendar.pdf
 
 # Custom year
-PYTHONPATH=src uv run python -m waste_cal extract --year 2026
+uv run waste-cal --year 2026
 
 # Output as text instead of generating iCal files
-PYTHONPATH=src uv run python -m waste_cal extract --text
+uv run waste-cal --text
 
 # Text output in specific language
-PYTHONPATH=src uv run python -m waste_cal extract --text --language de
-
-# Extract drawings from specific month for analysis
-PYTHONPATH=src uv run python -m waste_cal drawings january
-PYTHONPATH=src uv run python -m waste_cal drawings march --output-dir my-debug
+uv run waste-cal --text --language lu
 
 # Verbose logging
-PYTHONPATH=src uv run python -m waste_cal extract --verbose
+uv run waste-cal --verbose
 
 # Show help
-PYTHONPATH=src uv run python -m waste_cal --help
-PYTHONPATH=src uv run python -m waste_cal extract --help
-PYTHONPATH=src uv run python -m waste_cal drawings --help
+uv run waste-cal --help
 ```
 
 ## Command Line Options
 
-### Main Command
-
+- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
+- `-l, --language {lu,fr,en}`: Language for output (lu=Luxembourgish, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)
+- `-y, --year YEAR`: Year for calendar extraction (default: current year)
+- `--text`: Output as text instead of generating iCal files (default: generate iCal files)
 - `-v, --verbose`: Enable verbose logging
 - `-h, --help`: Show help message and exit
 
-### Extract Subcommand
-
-- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
-- `-l, --language {de,fr,en}`: Language for output (de=German/Luxembourgish, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)
-- `-y, --year YEAR`: Year for calendar extraction (default: current year)
-- `--text`: Output as text instead of generating iCal files (default: generate iCal files)
-
 ### Drawings Subcommand
+
+This is used only for debugging.
 
 - `month`: Month name to extract drawings from (january, february, march, april, may, june, july, august, september, october, november, december)
 - `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
 - `-o, --output-dir OUTPUT_DIR`: Output directory for drawing images (default: debug)
-
-## Supported Waste Types
-
-The extractor recognizes various waste collection types in multiple languages:
-
-- **Residual waste** (Reschtoffäll, Déchets ménagers)
-- **Paper & Carton** (Pabeier a Kartong, Papier et carton)
-- **Glass** (Glas, Verre)
-- **Packaging** (Verpackungen, Emballages, VALORLUX)
-- **Organic waste** (Organesch Ressourcen, Ressources organiques)
-- **Old clothes** (Aalt Gezei, Vieux vêtements)
-- **Christmas trees** (Beemercher, Sapins de Noël)
-
-## Development
-
-This project uses [just](https://github.com/casey/just) for development commands:
-
-```bash
-# Install development dependencies
-just install
-
-# Run all tests
-just test
-
-# Run all checks (format, lint, type check)
-just check
-
-# Format code and fix issues
-just format
-
-# Lint code
-just lint
-
-# Type check with mypy
-just typecheck
-
-# Build package
-just build
-
-# Generate calendar for current year
-just generate
-
-# Generate calendar for specific year
-just generate-year 2026
-```
-
-### Manual testing (without just)
-
-```bash
-# Run tests
-PYTHONPATH=src uv run python -m pytest tests/ -v
-
-# Run checks
-uv run ruff check src/ tests/
-PYTHONPATH=src uv run mypy src/ tests/
-```
-
-### Project structure
-
-```bash
-waste-calendar-extractor/
-├── src/
-│   └── waste_cal/
-│       ├── __init__.py            # Package initialization
-│       ├── __main__.py            # CLI entry point
-│       ├── calendar_processor.py  # Calendar processing logic
-│       ├── cli.py                 # Command line interface
-│       ├── drawing.py             # Drawing analysis and classification
-│       ├── ical_generator.py      # iCal file generation
-│       ├── month.py               # Month processing
-│       ├── pdf_extractor.py       # PDF text extraction
-│       ├── waste_types.py         # Waste type definitions
-│       ├── ics_viewer/            # Calendar viewing utilities
-│       └── py.typed               # Type checking marker
-├── tests/
-│   └── unit/                     # Unit tests
-│       ├── test_calendar_processor.py
-│       ├── test_cli.py
-│       ├── test_drawing.py
-│       ├── test_ics_viewer.py
-│       ├── test_month.py
-│       ├── test_pdf_extractor.py
-│       └── test_waste_types.py
-├── RFC/                          # Technical documentation
-│   ├── RFC-01-PDF_Areas_Documentation.md
-│   ├── RFC-02-Waste-Type-Classification.md
-│   └── best_practices.md
-├── icons/
-│   └── icon.png                  # Project icon
-├── ics/
-│   └── waste-*.ics               # Generated calendar files
-├── pdf/
-│   └── *.pdf                     # PDF source files
-├── debug/
-│   └── *.py                      # Debug and analysis scripts
-├── justfile                      # Development commands
-├── pyproject.toml                # Project configuration
-├── CLAUDE.md                     # Claude Code instructions
-├── README.md                     # This file
-└── LICENSE                       # MIT license
-```
-
-## How it works
-
-1. **PDF Analysis**: Uses PyMuPDF to extract positioned text elements from each page
-2. **Month Detection**: Identifies Luxembourgish month names to track calendar progression
-3. **Row Grouping**: Groups text elements by Y-coordinate to identify calendar rows
-4. **Pattern Matching**: Matches dates (1-31) with waste type keywords in the same row
-5. **iCal Generation**: Creates calendar events using the `ics` library
-
-## Requirements
-
-- Python >=3.11
-- PyMuPDF for PDF processing
-- ics for calendar generation
 
 ## License
 

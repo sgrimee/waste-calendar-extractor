@@ -84,6 +84,7 @@ def pdf_doc():
     return read_pdf("pdf/2025.pdf")
 
 
+@pytest.mark.integration
 def test_areas_per_day_correct_count(pdf_doc) -> None:
     """Test that areas_per_day returns correct number of areas for each month."""
 
@@ -114,6 +115,7 @@ def test_areas_per_day_correct_count(pdf_doc) -> None:
             )
 
 
+@pytest.mark.integration
 def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
     """Test that day areas provide complete coverage with no gaps or overlaps."""
     from waste_cal.pdf_extractor import CALENDAR_AREA
@@ -153,6 +155,7 @@ def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
     )
 
 
+@pytest.mark.integration
 def test_areas_per_day_uniform_height(pdf_doc) -> None:
     """Test that day areas have consistent height based on uniform spacing."""
     # Test with January (31 days)
@@ -174,6 +177,7 @@ def test_areas_per_day_uniform_height(pdf_doc) -> None:
     )
 
 
+@pytest.mark.integration
 def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
     """Test that areas_per_day works correctly for months with different numbers of days."""
     test_months = [
@@ -200,6 +204,7 @@ def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
             assert areas[i].y1 <= areas[i + 1].y0, f"Area {i} should not overlap with area {i+1}"
 
 
+@pytest.mark.integration
 def test_areas_per_day_rectangle_properties(pdf_doc) -> None:
     """Test that returned areas are valid rectangles with correct properties."""
     from waste_cal.pdf_extractor import CALENDAR_AREA
@@ -242,9 +247,10 @@ def test_areas_per_day_error_handling() -> None:
 class TestReadPdf:
     """Test read_pdf function."""
 
+    @pytest.mark.integration
     def test_read_pdf_success(self):
         """Test that read_pdf successfully opens a valid PDF file."""
-        # This test uses the real PDF file - could be marked as integration test
+        # This test uses the real PDF file - marked as integration test
         pdf_path = "pdf/2025.pdf"
         doc = read_pdf(pdf_path)
 

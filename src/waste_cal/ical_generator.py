@@ -48,7 +48,7 @@ def generate_ical_file(calendar_data: CalendarData, language: Languages, year: i
 
     # Determine filename based on language
     language_codes = {
-        Languages.LU: "de",  # Luxembourgish uses German file suffix
+        Languages.LU: "lu",  # Luxembourgish uses lu file suffix
         Languages.FR: "fr",
         Languages.EN: "en",
     }
