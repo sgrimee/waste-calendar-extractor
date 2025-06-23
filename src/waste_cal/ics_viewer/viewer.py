@@ -17,7 +17,7 @@ import argparse
 import calendar
 import sys
 from collections import defaultdict
-from datetime import date
+from datetime import date, datetime
 from pathlib import Path
 
 try:
@@ -26,6 +26,21 @@ try:
 except ImportError:
     print("Error: ics library not found. Install with: uv add ics")
     sys.exit(1)
+
+
+def get_event_date(event_begin: date | datetime | None) -> date | None:
+    """Extract date from event begin property, handling both date and datetime objects."""
+    if event_begin is None:
+        return None
+    if isinstance(event_begin, datetime):
+        return event_begin.date()
+    elif isinstance(event_begin, date):
+        return event_begin
+    else:
+        # Handle Mock objects or other types that might have a date() method
+        if hasattr(event_begin, "date") and callable(event_begin.date):
+            return event_begin.date()
+        return event_begin
 
 
 # Color codes for terminal output
@@ -108,13 +123,14 @@ def group_events_by_month(events: list[Event]) -> dict[tuple, list[Event]]:
 
     for event in events:
         if event.begin:
-            event_date = event.begin.date()
-            month_key = (event_date.year, event_date.month)
-            events_by_month[month_key].append(event)
+            event_date = get_event_date(event.begin)
+            if event_date:
+                month_key = (event_date.year, event_date.month)
+                events_by_month[month_key].append(event)
 
     # Sort events within each month
     for month_events in events_by_month.values():
-        month_events.sort(key=lambda e: e.begin.date())
+        month_events.sort(key=lambda e: get_event_date(e.begin) or date.min)
 
     return dict(events_by_month)
 
@@ -125,8 +141,8 @@ def generate_monthly_calendar(year: int, month: int, events: list[Event]) -> str
     events_by_day = defaultdict(list)
     for event in events:
         if event.begin:
-            event_date = event.begin.date()
-            if event_date.year == year and event_date.month == month:
+            event_date = get_event_date(event.begin)
+            if event_date and event_date.year == year and event_date.month == month:
                 events_by_day[event_date.day].append(event)
 
     # Generate calendar
@@ -166,13 +182,15 @@ def generate_event_listing(events: list[Event]) -> str:
     current_date = None
 
     # Sort events by date
-    sorted_events = sorted(events, key=lambda e: e.begin.date() if e.begin else date.min)
+    sorted_events = sorted(events, key=lambda e: get_event_date(e.begin) or date.min)
 
     for event in sorted_events:
         if not event.begin:
             continue
 
-        event_date = event.begin.date()
+        event_date = get_event_date(event.begin)
+        if not event_date:
+            continue
 
         # Add date header if it's a new date
         if current_date != event_date:
@@ -213,7 +231,9 @@ def generate_summary_statistics(events: list[Event]) -> str:
             continue
 
         total_events += 1
-        event_date = event.begin.date()
+        event_date = get_event_date(event.begin)
+        if not event_date:
+            continue
 
         # Update date range
         if date_range[0] is None or event_date < date_range[0]:
