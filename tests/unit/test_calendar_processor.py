@@ -148,8 +148,8 @@ class TestCalendarData:
 
         # Add waste types in non-alphabetical order
         calendar_data.add_collection(date, WasteType.RESIDUAL)  # "residual"
-        calendar_data.add_collection(date, WasteType.ORGANIC)   # "organic"
-        calendar_data.add_collection(date, WasteType.GLASS)     # "glass"
+        calendar_data.add_collection(date, WasteType.ORGANIC)  # "organic"
+        calendar_data.add_collection(date, WasteType.GLASS)  # "glass"
 
         result = calendar_data.to_text(Languages.EN)
 
@@ -164,13 +164,11 @@ class TestCalendarData:
 class TestExtractCalendarData:
     """Test extract_calendar_data function."""
 
-    @patch('waste_cal.calendar_processor.detect_waste_type_from_drawing')
-    @patch('waste_cal.calendar_processor.is_drawing_in_box')
-    @patch('waste_cal.calendar_processor.areas_per_day')
-    @patch('waste_cal.calendar_processor.read_pdf')
-    def test_extract_calendar_data_basic(
-        self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box, mock_detect
-    ):
+    @patch("waste_cal.calendar_processor.detect_waste_type_from_drawing")
+    @patch("waste_cal.calendar_processor.is_drawing_in_box")
+    @patch("waste_cal.calendar_processor.areas_per_day")
+    @patch("waste_cal.calendar_processor.read_pdf")
+    def test_extract_calendar_data_basic(self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box, mock_detect):
         """Test basic calendar data extraction."""
         # Setup mocks
         mock_doc = MagicMock()
@@ -210,8 +208,8 @@ class TestExtractCalendarData:
         mock_read_pdf.assert_called_once_with("test.pdf")
         mock_doc.close.assert_called_once()
 
-    @patch('waste_cal.calendar_processor.read_pdf')
-    @patch('waste_cal.calendar_processor.areas_per_day')
+    @patch("waste_cal.calendar_processor.read_pdf")
+    @patch("waste_cal.calendar_processor.areas_per_day")
     def test_extract_calendar_data_invalid_date(self, mock_areas_per_day, mock_read_pdf):
         """Test extraction handles invalid dates gracefully."""
         # Setup mocks for February
@@ -232,10 +230,10 @@ class TestExtractCalendarData:
         assert isinstance(result, CalendarData)
         # Should not have any collections for Feb 30th (invalid date)
 
-    @patch('waste_cal.calendar_processor.detect_waste_type_from_drawing')
-    @patch('waste_cal.calendar_processor.is_drawing_in_box')
-    @patch('waste_cal.calendar_processor.areas_per_day')
-    @patch('waste_cal.calendar_processor.read_pdf')
+    @patch("waste_cal.calendar_processor.detect_waste_type_from_drawing")
+    @patch("waste_cal.calendar_processor.is_drawing_in_box")
+    @patch("waste_cal.calendar_processor.areas_per_day")
+    @patch("waste_cal.calendar_processor.read_pdf")
     def test_extract_calendar_data_no_waste_type_detected(
         self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box, mock_detect
     ):
@@ -264,12 +262,10 @@ class TestExtractCalendarData:
         # Should have no collections since waste type detection returned None
         assert result.get_all_dates() == []
 
-    @patch('waste_cal.calendar_processor.is_drawing_in_box')
-    @patch('waste_cal.calendar_processor.areas_per_day')
-    @patch('waste_cal.calendar_processor.read_pdf')
-    def test_extract_calendar_data_drawing_not_in_box(
-        self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box
-    ):
+    @patch("waste_cal.calendar_processor.is_drawing_in_box")
+    @patch("waste_cal.calendar_processor.areas_per_day")
+    @patch("waste_cal.calendar_processor.read_pdf")
+    def test_extract_calendar_data_drawing_not_in_box(self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box):
         """Test extraction when drawing is not in day box."""
         # Setup mocks
         mock_doc = MagicMock()
@@ -294,8 +290,8 @@ class TestExtractCalendarData:
         # Should have no collections since drawing was not in day box
         assert result.get_all_dates() == []
 
-    @patch('waste_cal.calendar_processor.areas_per_day')
-    @patch('waste_cal.calendar_processor.read_pdf')
+    @patch("waste_cal.calendar_processor.areas_per_day")
+    @patch("waste_cal.calendar_processor.read_pdf")
     def test_extract_calendar_data_short_pdf(self, mock_read_pdf, mock_areas_per_day):
         """Test extraction with PDF that has fewer pages than expected."""
         # Setup mock with only 2 pages (should skip months that don't exist)
@@ -316,10 +312,10 @@ class TestExtractCalendarData:
         assert isinstance(result, CalendarData)
         mock_doc.close.assert_called_once()
 
-    @patch('waste_cal.calendar_processor.detect_waste_type_from_drawing')
-    @patch('waste_cal.calendar_processor.is_drawing_in_box')
-    @patch('waste_cal.calendar_processor.areas_per_day')
-    @patch('waste_cal.calendar_processor.read_pdf')
+    @patch("waste_cal.calendar_processor.detect_waste_type_from_drawing")
+    @patch("waste_cal.calendar_processor.is_drawing_in_box")
+    @patch("waste_cal.calendar_processor.areas_per_day")
+    @patch("waste_cal.calendar_processor.read_pdf")
     def test_extract_calendar_data_multiple_drawings_same_day(
         self, mock_read_pdf, mock_areas_per_day, mock_is_drawing_in_box, mock_detect
     ):
@@ -355,7 +351,7 @@ class TestExtractCalendarData:
         assert WasteType.PAPER in collections
         assert len(collections) == 2
 
-    @patch('waste_cal.calendar_processor.read_pdf')
+    @patch("waste_cal.calendar_processor.read_pdf")
     def test_extract_calendar_data_pdf_cleanup(self, mock_read_pdf):
         """Test that PDF document is properly closed even if exception occurs."""
         mock_doc = MagicMock()

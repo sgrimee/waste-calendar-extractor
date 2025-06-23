@@ -88,8 +88,8 @@ class TestFormatEventName:
 class TestLoadIcsFile:
     """Test load_ics_file function."""
 
-    @patch('builtins.open', mock_open(read_data='BEGIN:VCALENDAR\nEND:VCALENDAR'))
-    @patch('waste_cal.ics_viewer.viewer.Calendar')
+    @patch("builtins.open", mock_open(read_data="BEGIN:VCALENDAR\nEND:VCALENDAR"))
+    @patch("waste_cal.ics_viewer.viewer.Calendar")
     def test_load_ics_file_success(self, mock_calendar):
         """Test successful loading of iCS file."""
         mock_cal = Mock()
@@ -98,11 +98,11 @@ class TestLoadIcsFile:
         result = load_ics_file("test.ics")
 
         assert result == mock_cal
-        mock_calendar.assert_called_once_with('BEGIN:VCALENDAR\nEND:VCALENDAR')
+        mock_calendar.assert_called_once_with("BEGIN:VCALENDAR\nEND:VCALENDAR")
 
-    @patch('sys.exit')
-    @patch('builtins.print')
-    @patch('builtins.open', side_effect=FileNotFoundError())
+    @patch("sys.exit")
+    @patch("builtins.print")
+    @patch("builtins.open", side_effect=FileNotFoundError())
     def test_load_ics_file_not_found(self, mock_open, mock_print, mock_exit):
         """Test loading non-existent iCS file."""
         load_ics_file("nonexistent.ics")
@@ -110,9 +110,9 @@ class TestLoadIcsFile:
         mock_exit.assert_called_once_with(1)
         mock_print.assert_called_once()
 
-    @patch('sys.exit')
-    @patch('builtins.print')
-    @patch('builtins.open', side_effect=Exception("Test error"))
+    @patch("sys.exit")
+    @patch("builtins.print")
+    @patch("builtins.open", side_effect=Exception("Test error"))
     def test_load_ics_file_exception(self, mock_open, mock_print, mock_exit):
         """Test loading iCS file with exception."""
         load_ics_file("error.ics")
@@ -285,11 +285,11 @@ class TestGenerateSummaryStatistics:
 class TestViewIcsFile:
     """Test view_ics_file function."""
 
-    @patch('waste_cal.ics_viewer.viewer.load_ics_file')
-    @patch('waste_cal.ics_viewer.viewer.generate_summary_statistics')
-    @patch('waste_cal.ics_viewer.viewer.generate_event_listing')
-    @patch('waste_cal.ics_viewer.viewer.group_events_by_month')
-    @patch('waste_cal.ics_viewer.viewer.generate_monthly_calendar')
+    @patch("waste_cal.ics_viewer.viewer.load_ics_file")
+    @patch("waste_cal.ics_viewer.viewer.generate_summary_statistics")
+    @patch("waste_cal.ics_viewer.viewer.generate_event_listing")
+    @patch("waste_cal.ics_viewer.viewer.group_events_by_month")
+    @patch("waste_cal.ics_viewer.viewer.generate_monthly_calendar")
     def test_view_ics_file_full_format(
         self, mock_monthly_cal, mock_group_events, mock_listing, mock_summary, mock_load
     ):
@@ -311,7 +311,7 @@ class TestViewIcsFile:
         assert "Summary content" in result
         assert "Listing content" in result
 
-    @patch('waste_cal.ics_viewer.viewer.load_ics_file')
+    @patch("waste_cal.ics_viewer.viewer.load_ics_file")
     def test_view_ics_file_no_events(self, mock_load):
         """Test view_ics_file with no events."""
         mock_cal = Mock()
@@ -322,8 +322,8 @@ class TestViewIcsFile:
 
         assert "No events found in calendar" in result
 
-    @patch('waste_cal.ics_viewer.viewer.load_ics_file')
-    @patch('waste_cal.ics_viewer.viewer.generate_summary_statistics')
+    @patch("waste_cal.ics_viewer.viewer.load_ics_file")
+    @patch("waste_cal.ics_viewer.viewer.generate_summary_statistics")
     def test_view_ics_file_summary_format(self, mock_summary, mock_load):
         """Test view_ics_file with summary format only."""
         mock_cal = Mock()
@@ -341,7 +341,7 @@ class TestViewIcsFile:
 class TestGenerateCalendarView:
     """Test generate_calendar_view function."""
 
-    @patch('waste_cal.ics_viewer.viewer.view_ics_file')
+    @patch("waste_cal.ics_viewer.viewer.view_ics_file")
     def test_generate_calendar_view(self, mock_view):
         """Test generate_calendar_view calls view_ics_file with full format."""
         mock_view.return_value = "Calendar view"

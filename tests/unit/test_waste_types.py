@@ -57,9 +57,7 @@ class TestWasteTypeDescription:
             (WasteType.CHRISTMAS_TREES, Languages.EN, "Christmas trees"),
         ],
     )
-    def test_description_returns_correct_translation(
-        self, waste_type: WasteType, language: Languages, expected: str
-    ):
+    def test_description_returns_correct_translation(self, waste_type: WasteType, language: Languages, expected: str):
         """Test that description returns correct translation for each waste type and language."""
         result = waste_type.description(language)
         assert result == expected

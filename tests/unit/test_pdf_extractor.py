@@ -127,11 +127,11 @@ def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
     # All areas should have the same width (full calendar width)
     expected_width = CALENDAR_AREA["x1"] - CALENDAR_AREA["x0"]
     for i, area in enumerate(areas):
-        assert area.x0 == CALENDAR_AREA["x0"], f"Day {i+1} area should start at calendar left edge"
-        assert area.x1 == CALENDAR_AREA["x1"], f"Day {i+1} area should end at calendar right edge"
+        assert area.x0 == CALENDAR_AREA["x0"], f"Day {i + 1} area should start at calendar left edge"
+        assert area.x1 == CALENDAR_AREA["x1"], f"Day {i + 1} area should end at calendar right edge"
         width = area.x1 - area.x0
         assert abs(width - expected_width) < 0.1, (
-            f"Day {i+1} width {width} should equal calendar width {expected_width}"
+            f"Day {i + 1} width {width} should equal calendar width {expected_width}"
         )
 
     # Adjacent areas should share boundaries (no gaps)
@@ -139,7 +139,7 @@ def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
         current_bottom = areas[i].y1
         next_top = areas[i + 1].y0
         assert abs(current_bottom - next_top) < 0.1, (
-            f"Gap between day {i+1} and day {i+2}: {abs(current_bottom - next_top)}"
+            f"Gap between day {i + 1} and day {i + 2}: {abs(current_bottom - next_top)}"
         )
 
     # First area should start near calendar top
@@ -168,7 +168,7 @@ def test_areas_per_day_uniform_height(pdf_doc) -> None:
     # All heights should be very similar (within 1 point tolerance for rounding)
     avg_height = sum(heights) / len(heights)
     for i, height in enumerate(heights):
-        assert abs(height - avg_height) < 1.0, f"Day {i+1} height {height} differs too much from average {avg_height}"
+        assert abs(height - avg_height) < 1.0, f"Day {i + 1} height {height} differs too much from average {avg_height}"
 
     # Height should be approximately 23.2 points based on known spacing
     expected_height = 23.2
@@ -181,9 +181,9 @@ def test_areas_per_day_uniform_height(pdf_doc) -> None:
 def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
     """Test that areas_per_day works correctly for months with different numbers of days."""
     test_months = [
-        (4, 30),   # April - 30 days
-        (1, 31),   # January - 31 days
-        (2, 28),   # February - 28 days (2025 is not a leap year)
+        (4, 30),  # April - 30 days
+        (1, 31),  # January - 31 days
+        (2, 28),  # February - 28 days (2025 is not a leap year)
     ]
 
     for month_index, expected_days in test_months:
@@ -200,8 +200,8 @@ def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
 
         # Check that areas are properly ordered (top to bottom)
         for i in range(len(areas) - 1):
-            assert areas[i].y0 < areas[i + 1].y0, f"Area {i} should be above area {i+1}"
-            assert areas[i].y1 <= areas[i + 1].y0, f"Area {i} should not overlap with area {i+1}"
+            assert areas[i].y0 < areas[i + 1].y0, f"Area {i} should be above area {i + 1}"
+            assert areas[i].y1 <= areas[i + 1].y0, f"Area {i} should not overlap with area {i + 1}"
 
 
 @pytest.mark.integration
@@ -215,20 +215,20 @@ def test_areas_per_day_rectangle_properties(pdf_doc) -> None:
 
     for i, area in enumerate(areas):
         # Should be valid rectangle
-        assert area.x0 < area.x1, f"Day {i+1} area should have positive width"
-        assert area.y0 < area.y1, f"Day {i+1} area should have positive height"
+        assert area.x0 < area.x1, f"Day {i + 1} area should have positive width"
+        assert area.y0 < area.y1, f"Day {i + 1} area should have positive height"
 
         # Should be within calendar bounds
-        assert area.x0 >= CALENDAR_AREA["x0"] - 0.1, f"Day {i+1} left edge should be within calendar"
-        assert area.x1 <= CALENDAR_AREA["x1"] + 0.1, f"Day {i+1} right edge should be within calendar"
-        assert area.y0 >= CALENDAR_AREA["y0"] - 15.0, f"Day {i+1} top edge should be within calendar (with margin)"
-        assert area.y1 <= CALENDAR_AREA["y1"] + 0.1, f"Day {i+1} bottom edge should be within calendar"
+        assert area.x0 >= CALENDAR_AREA["x0"] - 0.1, f"Day {i + 1} left edge should be within calendar"
+        assert area.x1 <= CALENDAR_AREA["x1"] + 0.1, f"Day {i + 1} right edge should be within calendar"
+        assert area.y0 >= CALENDAR_AREA["y0"] - 15.0, f"Day {i + 1} top edge should be within calendar (with margin)"
+        assert area.y1 <= CALENDAR_AREA["y1"] + 0.1, f"Day {i + 1} bottom edge should be within calendar"
 
         # Should have reasonable dimensions
         width = area.x1 - area.x0
         height = area.y1 - area.y0
-        assert width > 200, f"Day {i+1} width {width} should be reasonable"
-        assert 15 < height < 40, f"Day {i+1} height {height} should be reasonable (15-40 points)"
+        assert width > 200, f"Day {i + 1} width {width} should be reasonable"
+        assert 15 < height < 40, f"Day {i + 1} height {height} should be reasonable (15-40 points)"
 
 
 def test_areas_per_day_error_handling() -> None:
@@ -263,7 +263,7 @@ class TestReadPdf:
         with pytest.raises(ValueError, match="Could not read PDF file"):
             read_pdf("nonexistent/file.pdf")
 
-    @patch('fitz.open')
+    @patch("fitz.open")
     def test_read_pdf_invalid_file(self, mock_fitz_open):
         """Test that read_pdf raises appropriate error for invalid file."""
         # Mock fitz.open to raise an exception as if the file is invalid
@@ -288,32 +288,15 @@ class TestExtractDayPositions:
                             "spans": [
                                 {
                                     "text": "1",
-                                    "bbox": [50, 100, 60, 110]  # x0, y0, x1, y1
+                                    "bbox": [50, 100, 60, 110],  # x0, y0, x1, y1
                                 },
-                                {
-                                    "text": "2",
-                                    "bbox": [50, 125, 60, 135]
-                                },
-                                {
-                                    "text": "not_a_day",
-                                    "bbox": [50, 150, 60, 160]
-                                }
+                                {"text": "2", "bbox": [50, 125, 60, 135]},
+                                {"text": "not_a_day", "bbox": [50, 150, 60, 160]},
                             ]
                         }
                     ]
                 },
-                {
-                    "lines": [
-                        {
-                            "spans": [
-                                {
-                                    "text": "3",
-                                    "bbox": [50, 175, 60, 185]
-                                }
-                            ]
-                        }
-                    ]
-                }
+                {"lines": [{"spans": [{"text": "3", "bbox": [50, 175, 60, 185]}]}]},
             ]
         }
         mock_page.get_text.return_value = mock_text_dict
@@ -340,7 +323,7 @@ class TestExtractDayPositions:
                         {
                             "spans": [
                                 {"text": "No days here", "bbox": [50, 100, 60, 110]},
-                                {"text": "Just text", "bbox": [50, 125, 60, 135]}
+                                {"text": "Just text", "bbox": [50, 125, 60, 135]},
                             ]
                         }
                     ]
@@ -364,7 +347,7 @@ class TestExtractDayPositions:
                                 {"text": "0", "bbox": [50, 100, 60, 110]},  # Invalid (too low)
                                 {"text": "1", "bbox": [50, 125, 60, 135]},  # Valid
                                 {"text": "32", "bbox": [50, 150, 60, 160]},  # Invalid (too high)
-                                {"text": "15", "bbox": [50, 175, 60, 185]}  # Valid
+                                {"text": "15", "bbox": [50, 175, 60, 185]},  # Valid
                             ]
                         }
                     ]
@@ -389,7 +372,7 @@ class TestCalculateDaySpacing:
             {"day": 1, "y_center": 100.0},
             {"day": 2, "y_center": 125.0},
             {"day": 3, "y_center": 150.0},
-            {"day": 4, "y_center": 175.0}
+            {"day": 4, "y_center": 175.0},
         ]
 
         spacing = _calculate_day_spacing(day_positions)
@@ -399,10 +382,7 @@ class TestCalculateDaySpacing:
 
     def test_calculate_day_spacing_two_days(self):
         """Test spacing calculation with two days."""
-        day_positions = [
-            {"day": 1, "y_center": 100.0},
-            {"day": 2, "y_center": 130.0}
-        ]
+        day_positions = [{"day": 1, "y_center": 100.0}, {"day": 2, "y_center": 130.0}]
 
         spacing = _calculate_day_spacing(day_positions)
         assert spacing == 30.0
@@ -427,11 +407,7 @@ class TestCalculateGridLines:
 
     def test_calculate_grid_lines_basic(self):
         """Test grid line calculation with basic day positions."""
-        day_positions = [
-            {"day": 1, "y_center": 100.0},
-            {"day": 2, "y_center": 125.0},
-            {"day": 3, "y_center": 150.0}
-        ]
+        day_positions = [{"day": 1, "y_center": 100.0}, {"day": 2, "y_center": 125.0}, {"day": 3, "y_center": 150.0}]
         spacing = 25.0
 
         grid_lines = _calculate_grid_lines(day_positions, spacing)
@@ -461,10 +437,7 @@ class TestGenerateDayAreas:
 
     def test_generate_day_areas_basic(self):
         """Test day area generation with basic inputs."""
-        day_positions = [
-            {"day": 1, "y_center": 100.0},
-            {"day": 2, "y_center": 125.0}
-        ]
+        day_positions = [{"day": 1, "y_center": 100.0}, {"day": 2, "y_center": 125.0}]
         grid_lines = [87.5, 112.5, 137.5]
 
         areas = _generate_day_areas(day_positions, grid_lines)
@@ -483,6 +456,7 @@ class TestGenerateDayAreas:
 
         # Both areas should span full calendar width
         from waste_cal.pdf_extractor import CALENDAR_AREA
+
         for area in areas:
             assert area.x0 == CALENDAR_AREA["x0"]
             assert area.x1 == CALENDAR_AREA["x1"]
@@ -535,7 +509,7 @@ class TestDrawingInfo:
             "fill": "red",
             "stroke": "black",
             "width": 2,
-            "items": []
+            "items": [],
         }
 
         info = drawing_info(drawing)
@@ -550,13 +524,7 @@ class TestDrawingInfo:
 
     def test_drawing_info_with_items(self):
         """Test drawing_info with items."""
-        drawing = {
-            "type": "path",
-            "items": [
-                ("line", 10, 20, 30, 40),
-                ("curve", 50, 60)
-            ]
-        }
+        drawing = {"type": "path", "items": [("line", 10, 20, 30, 40), ("curve", 50, 60)]}
 
         info = drawing_info(drawing)
 
@@ -590,8 +558,8 @@ class TestRenderDrawingToImage:
         captured = capsys.readouterr()
         assert "Warning: Drawing has no rect information" in captured.out
 
-    @patch('fitz.Matrix')
-    @patch('builtins.print')
+    @patch("fitz.Matrix")
+    @patch("builtins.print")
     def test_render_drawing_to_image_success(self, mock_print, mock_matrix):
         """Test successful rendering of drawing to image."""
         mock_page = Mock()

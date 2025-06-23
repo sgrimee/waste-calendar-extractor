@@ -68,9 +68,18 @@ class TestMonthPageIndex:
     def test_page_index_sequential(self):
         """Test that page indices are sequential from 1 to 12."""
         months = [
-            Month.JANUARY, Month.FEBRUARY, Month.MARCH, Month.APRIL,
-            Month.MAY, Month.JUNE, Month.JULY, Month.AUGUST,
-            Month.SEPTEMBER, Month.OCTOBER, Month.NOVEMBER, Month.DECEMBER
+            Month.JANUARY,
+            Month.FEBRUARY,
+            Month.MARCH,
+            Month.APRIL,
+            Month.MAY,
+            Month.JUNE,
+            Month.JULY,
+            Month.AUGUST,
+            Month.SEPTEMBER,
+            Month.OCTOBER,
+            Month.NOVEMBER,
+            Month.DECEMBER,
         ]
 
         for i, month in enumerate(months, start=1):

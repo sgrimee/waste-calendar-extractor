@@ -108,11 +108,6 @@ class TestMain:
         mock_print.assert_called_once_with("Mock calendar output")
 
     @patch("waste_cal.cli.setup_logging")
-    # Drawings command has been removed - this test is no longer needed
-
-    # Drawings command has been removed - this test is no longer needed
-
-    @patch("waste_cal.cli.setup_logging")
     @patch("sys.argv", ["cli.py", "--verbose"])
     @patch("builtins.print")
     def test_main_verbose_flag(self, mock_print, mock_setup_logging):
@@ -154,9 +149,6 @@ class TestMain:
 
         assert result == 1
         mock_log_error.assert_called_once_with("Error extracting calendar: Test extraction error")
-
-    @patch("waste_cal.cli.setup_logging")
-    # Drawings command has been removed - this test is no longer needed
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
