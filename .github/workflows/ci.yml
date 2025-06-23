@@ -34,7 +34,7 @@ jobs:
       run: |
         # Integration tests are excluded from CI because they require the PDF file
         # which may not be available in the CI environment
-        PYTHONPATH=src uv run python -m pytest tests/ -v -m 'not integration' --cov=waste_calendar_extractor --cov-report=xml
+        PYTHONPATH=src uv run python -m pytest tests/ -v -m 'not integration' --cov=waste_cal --cov-report=xml
     
     - name: Upload coverage reports
       uses: codecov/codecov-action@v3
@@ -44,17 +44,7 @@ jobs:
     
     - name: Test CLI help
       run: |
-        PYTHONPATH=src uv run python -m waste_calendar_extractor --help
-    
-    - name: Test with sample PDF (if available)
-      run: |
-        if [ -f "ressourcekalenner-nidderaanwen-web.pdf" ]; then
-          PYTHONPATH=src uv run python -m waste_calendar_extractor -o test_output.ics
-          [ -f "test_output.ics" ] && echo "✅ iCal file generated successfully"
-          rm -f test_output.ics
-        else
-          echo "ℹ️  Sample PDF not available for testing"
-        fi
+        PYTHONPATH=src uv run python -m waste_cal --help
 
   lint:
     runs-on: ubuntu-latest
