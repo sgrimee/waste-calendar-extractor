@@ -72,7 +72,7 @@ jobs:
     
     - name: Run mypy (type checking)
       run: |
-        PYTHONPATH=src uv run mypy src/ tests/
+        uv run mypy src/ tests/
 
   build:
     runs-on: ubuntu-latest
