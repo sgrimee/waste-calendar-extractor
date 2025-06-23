@@ -68,7 +68,8 @@ def detect_waste_type_from_drawing(drawing) -> WasteType | None:
     if color_matches(0.729, 0.884, 0.977) and first_item_type == "c":
         return WasteType.PACKAGING
 
-    # Rule 4: ORGANIC - Green color and small rectangle (from test: Color=(0.201, 0.570, 0.252), Size=(7.7x13.2), Items=4)
+    # Rule 4: ORGANIC - Green color and small rectangle
+    # (from test: Color=(0.201, 0.570, 0.252), Size=(7.7x13.2), Items=4)
     if color_matches(0.201, 0.570, 0.252) and size_matches(7.7, 13.2):
         return WasteType.ORGANIC
 
@@ -76,11 +77,13 @@ def detect_waste_type_from_drawing(drawing) -> WasteType | None:
     if color_matches(0.343, 0.341, 0.339, tolerance=0.02) and size_matches(7.7, 13.2):
         return WasteType.RESIDUAL
 
-    # Rule 6: ELECTRIC - Dark/black color, larger size (from test: Color=(0.114, 0.116, 0.111), Size=(12.4x15.9), Items=34)
+    # Rule 6: ELECTRIC - Dark/black color, larger size
+    # (from test: Color=(0.114, 0.116, 0.111), Size=(12.4x15.9), Items=34)
     if color_matches(0.114, 0.116, 0.111, tolerance=0.02) and width > 10 and item_count > 30:
         return WasteType.ELECTRIC
 
-    # Rule 7: CHRISTMAS_TREES - Green color, larger size (from test: Color=(0.201, 0.570, 0.252), Size=(11.6x15.1), Items=34)
+    # Rule 7: CHRISTMAS_TREES - Green color, larger size
+    # (from test: Color=(0.201, 0.570, 0.252), Size=(11.6x15.1), Items=34)
     if color_matches(0.201, 0.570, 0.252) and width > 10 and item_count > 30:
         return WasteType.CHRISTMAS_TREES
 
@@ -96,7 +99,8 @@ def detect_waste_type_from_drawing(drawing) -> WasteType | None:
     if color_matches(0.585, 0.418, 0.264) and width > 10 and item_count > 50:
         return WasteType.HEDGE
 
-    # Rule 11: CLOTHERS - Orange color, different size (from test: Color=(0.939, 0.490, 0.000), Size=(14.7x6.0), Items=9)
+    # Rule 11: CLOTHERS - Orange color, different size
+    # (from test: Color=(0.939, 0.490, 0.000), Size=(14.7x6.0), Items=9)
     if color_matches(0.939, 0.490, 0.000) and height < 8 and width > 10:
         return WasteType.CLOTHERS
 

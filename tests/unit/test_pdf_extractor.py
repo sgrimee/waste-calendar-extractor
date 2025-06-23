@@ -115,13 +115,17 @@ def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
         assert area.x0 == CALENDAR_AREA["x0"], f"Day {i+1} area should start at calendar left edge"
         assert area.x1 == CALENDAR_AREA["x1"], f"Day {i+1} area should end at calendar right edge"
         width = area.x1 - area.x0
-        assert abs(width - expected_width) < 0.1, f"Day {i+1} width {width} should equal calendar width {expected_width}"
+        assert abs(width - expected_width) < 0.1, (
+            f"Day {i+1} width {width} should equal calendar width {expected_width}"
+        )
 
     # Adjacent areas should share boundaries (no gaps)
     for i in range(len(areas) - 1):
         current_bottom = areas[i].y1
         next_top = areas[i + 1].y0
-        assert abs(current_bottom - next_top) < 0.1, f"Gap between day {i+1} and day {i+2}: {abs(current_bottom - next_top)}"
+        assert abs(current_bottom - next_top) < 0.1, (
+            f"Gap between day {i+1} and day {i+2}: {abs(current_bottom - next_top)}"
+        )
 
     # First area should start near calendar top
     first_top = areas[0].y0
@@ -131,7 +135,9 @@ def test_areas_per_day_uniform_coverage(pdf_doc) -> None:
     # Last area should end near calendar bottom
     last_bottom = areas[-1].y1
     calendar_bottom = CALENDAR_AREA["y1"]
-    assert last_bottom <= calendar_bottom, f"Last day area bottom {last_bottom} should be <= calendar bottom {calendar_bottom}"
+    assert last_bottom <= calendar_bottom, (
+        f"Last day area bottom {last_bottom} should be <= calendar bottom {calendar_bottom}"
+    )
 
 
 def test_areas_per_day_uniform_height(pdf_doc) -> None:
@@ -150,7 +156,9 @@ def test_areas_per_day_uniform_height(pdf_doc) -> None:
 
     # Height should be approximately 23.2 points based on known spacing
     expected_height = 23.2
-    assert abs(avg_height - expected_height) < 2.0, f"Average height {avg_height} should be close to expected {expected_height}"
+    assert abs(avg_height - expected_height) < 2.0, (
+        f"Average height {avg_height} should be close to expected {expected_height}"
+    )
 
 
 def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
@@ -169,7 +177,9 @@ def test_areas_per_day_different_month_lengths(pdf_doc) -> None:
         if month_index == 2:  # February
             assert len(areas) in [28, 29], f"February should have 28-29 areas, found {len(areas)}"
         else:
-            assert len(areas) == expected_days, f"Month {month_index} should have {expected_days} areas, found {len(areas)}"
+            assert len(areas) == expected_days, (
+                f"Month {month_index} should have {expected_days} areas, found {len(areas)}"
+            )
 
         # Check that areas are properly ordered (top to bottom)
         for i in range(len(areas) - 1):
