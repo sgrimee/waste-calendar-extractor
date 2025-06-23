@@ -11,12 +11,6 @@
 
 ## 📅 Quick Start
 
-**Choose your preferred language for the calendar / Wielt Är gewënschte Sprooch / Wählen Sie Ihre Sprache / Choisissez votre langue :**
-
-📋 **[🇱🇺 Lëtzebuergesch](#-lëtzebuergesch)** | **[🇩🇪 Deutsch](#-deutsch)** | **[🇫🇷 Français](#-français)** | **[🇬🇧 English / All Languages](#-english--all-languages)**
-
----
-
 ### 🇱🇺 **Lëtzebuergesch**
 
 **Link fir den Offall-Kalenner op Lëtzebuergesch:**
@@ -31,23 +25,6 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
 3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
 4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen!
-
----
-
-### 🇩🇪 **Deutsch**
-
-**Link für den Müllkalender auf Deutsch:**
-
-```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-lu.ics
-```
-
-**So geht's:**
-
-1. Kopieren Sie diesen Link ☝️
-2. Öffnen Sie Ihre Kalender-App (Google Kalender, Apple Kalender, etc.)
-3. Suchen Sie nach "Kalender importieren" oder "Kalender abonnieren"
-4. Fügen Sie den Link hinzu - Ihr Handy bekommt automatisch alle Mülltermine mit Icons auf Deutsch!
 
 ---
 
@@ -126,16 +103,12 @@ cd waste-calendar-extractor
 uv sync
 ```
 
-
 ## Usage
 
 ### Basic usage
 
 ```bash
 # Extract calendar from default PDF file (generates iCal files)
-uv run waste-cal extract
-
-# Or use the shorthand
 uv run waste-cal
 
 # Traditional method (also works)
