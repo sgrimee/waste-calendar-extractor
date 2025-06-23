@@ -1,7 +1,8 @@
 # Justfile for waste-calendar-extractor project
 
-# Default recipe - run all checks and tests
-default: check test
+# Default recipe - list all available targets
+default:
+    @just --list
 
 # Install development dependencies
 install:
