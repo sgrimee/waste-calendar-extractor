@@ -94,7 +94,8 @@ class CalendarData:
             for waste_type in waste_types:
                 event = Event()
                 event.name = f"{waste_type.icon()} {waste_type.description(language)}"
-                event.begin = date
+                # Convert date to datetime for icalendar compatibility
+                event.begin = datetime.datetime.combine(date, datetime.time())
                 event.description = f"Waste collection: {waste_type.description(language)}"
                 event.location = "Niederanven, Luxembourg"
                 event.make_all_day()

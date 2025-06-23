@@ -236,17 +236,24 @@ def drawing_info(drawing) -> str:
             item_type = item[0] if len(item) > 0 else "unknown"
             lines.append(f"  Item {i}: {item_type} (tuple with {len(item)} elements)")
             lines.append(f"    Content: {item}")
-        else:
-            # Handle case where item might be a dictionary (for compatibility)
-            item_type = item.get("type", "unknown") if hasattr(item, "get") else str(type(item))
+        elif isinstance(item, dict):
+            # Handle case where item is a dictionary
+            item_type = item.get("type", "unknown")
             lines.append(f"  Item {i}: {item_type}")
-            if hasattr(item, "get") and "p" in item:  # Path data
-                points = item["p"]
-                lines.append(f"    Points: {len(points)} coordinates")
-                if points:
-                    lines.append(f"    First point: ({points[0][0]:.1f}, {points[0][1]:.1f})")
-                    if len(points) > 1:
-                        lines.append(f"    Last point: ({points[-1][0]:.1f}, {points[-1][1]:.1f})")
+            if "p" in item:  # Path data
+                try:
+                    points = item.get("p", [])
+                    lines.append(f"    Points: {len(points)} coordinates")
+                    if points:
+                        lines.append(f"    First point: ({points[0][0]:.1f}, {points[0][1]:.1f})")
+                        if len(points) > 1:
+                            lines.append(f"    Last point: ({points[-1][0]:.1f}, {points[-1][1]:.1f})")
+                except (KeyError, TypeError, IndexError, AttributeError):
+                    lines.append("    Could not access path data")
+        else:
+            # Handle other types
+            lines.append(f"  Item {i}: {type(item).__name__}")
+            lines.append(f"    Content: {item}")
 
     return "\n".join(lines)
 

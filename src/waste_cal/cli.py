@@ -42,27 +42,29 @@ def main():
         "-l",
         "--language",
         choices=["de", "fr", "en"],
-        help="""Language for output (de=German, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)""",
+        help=(
+            "Language for output (de=German, fr=French, en=English). "
+            "For iCal: generates only specified language file. "
+            "For text: uses specified language (default: en)"
+        ),
     )
     extract_parser.add_argument(
         "-y",
         "--year",
         type=int,
         default=datetime.datetime.now().year,
-        help="Year for calendar extraction (default: current year)"
+        help="Year for calendar extraction (default: current year)",
     )
     extract_parser.add_argument(
         "--text",
         action="store_true",
-        help="Output as text instead of generating iCal files (default: generate iCal files)"
+        help="Output as text instead of generating iCal files (default: generate iCal files)",
     )
 
     # Drawings extraction command
     drawings_parser = subparsers.add_parser("drawings", help="Extract drawings from a specific month")
     drawings_parser.add_argument(
-        "month",
-        choices=[month.value for month in Month],
-        help="Month name to extract drawings from"
+        "month", choices=[month.value for month in Month], help="Month name to extract drawings from"
     )
     drawings_parser.add_argument(
         "pdf_file",
@@ -71,9 +73,7 @@ def main():
         help="Path to PDF file (default: pdf/ressourcekalenner-nidderaanwen-web.pdf)",
     )
     drawings_parser.add_argument(
-        "-o", "--output-dir",
-        default="debug",
-        help="Output directory for drawing images (default: debug)"
+        "-o", "--output-dir", default="debug", help="Output directory for drawing images (default: debug)"
     )
 
     # Global options
