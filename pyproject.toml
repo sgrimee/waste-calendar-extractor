@@ -29,7 +29,10 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
     "Topic :: Utilities",
 ]
-dependencies = ["PyMuPDF>=1.23.0", "ics>=0.7", "loguru>=0.7.3"]
+dependencies = [
+    "PyMuPDF>=1.23.0",
+ "ics>=0.7",
+]
 
 
 [tool.hatch.build.targets.wheel]
