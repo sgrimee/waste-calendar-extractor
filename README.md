@@ -141,50 +141,65 @@ pip install -e .
 ### Basic usage
 
 ```bash
-# Extract from default PDF file
-uv run python extract_dates_from_pdf.py
+# Extract calendar from default PDF file (generates iCal files)
+PYTHONPATH=src uv run python -m waste_cal extract
 
-# Or if installed as package
-extract-waste-dates
+# Or use the shorthand
+PYTHONPATH=src uv run python -m waste_cal
 ```
 
 ### Advanced usage
 
 ```bash
-# Download latest calendar PDF from commune website
-PYTHONPATH=src uv run python -m waste_calendar_extractor --download
-
 # Generate language-specific calendars
-PYTHONPATH=src uv run python -m waste_calendar_extractor --language de  # German/Luxembourgish
-PYTHONPATH=src uv run python -m waste_calendar_extractor --language fr  # French
-PYTHONPATH=src uv run python -m waste_calendar_extractor --language en  # English
-
-# Generate all language-specific calendars at once
-PYTHONPATH=src uv run python -m waste_calendar_extractor --all-languages
+PYTHONPATH=src uv run python -m waste_cal extract --language de  # German/Luxembourgish
+PYTHONPATH=src uv run python -m waste_cal extract --language fr  # French
+PYTHONPATH=src uv run python -m waste_cal extract --language en  # English
 
 # Specify custom PDF file
-PYTHONPATH=src uv run python -m waste_calendar_extractor my-calendar.pdf
+PYTHONPATH=src uv run python -m waste_cal extract my-calendar.pdf
 
-# Custom output file and year
-PYTHONPATH=src uv run python -m waste_calendar_extractor -o my-calendar.ics -y 2026
+# Custom year
+PYTHONPATH=src uv run python -m waste_cal extract --year 2026
+
+# Output as text instead of generating iCal files
+PYTHONPATH=src uv run python -m waste_cal extract --text
+
+# Text output in specific language
+PYTHONPATH=src uv run python -m waste_cal extract --text --language de
+
+# Extract drawings from specific month for analysis
+PYTHONPATH=src uv run python -m waste_cal drawings january
+PYTHONPATH=src uv run python -m waste_cal drawings march --output-dir my-debug
 
 # Verbose logging
-PYTHONPATH=src uv run python -m waste_calendar_extractor -v
+PYTHONPATH=src uv run python -m waste_cal extract --verbose
 
 # Show help
-PYTHONPATH=src uv run python -m waste_calendar_extractor --help
+PYTHONPATH=src uv run python -m waste_cal --help
+PYTHONPATH=src uv run python -m waste_cal extract --help
+PYTHONPATH=src uv run python -m waste_cal drawings --help
 ```
 
 ## Command Line Options
 
-- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
-- `-o, --output`: Output iCal file path (default: `ics/waste-{year}.ics`)
-- `-y, --year`: Year for the calendar (default: 2025)
-- `-l, --language`: Generate calendar for specific language (`de`=German/Luxembourgish, `fr`=French, `en`=English)
-- `--all-languages`: Generate calendars for all languages (de, fr, en)
-- `--download`: Download the latest calendar PDF from Niederanven website
-- `--download-url`: Custom URL to download PDF from (default: Niederanven website)
+### Main Command
+
 - `-v, --verbose`: Enable verbose logging
+- `-h, --help`: Show help message and exit
+
+### Extract Subcommand
+
+- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
+- `-l, --language {de,fr,en}`: Language for output (de=German/Luxembourgish, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)
+- `-y, --year YEAR`: Year for calendar extraction (default: current year)
+- `--text`: Output as text instead of generating iCal files (default: generate iCal files)
+
+### Drawings Subcommand
+
+- `month`: Month name to extract drawings from (january, february, march, april, may, june, july, august, september, october, november, december)
+- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
+- `-o, --output-dir OUTPUT_DIR`: Output directory for drawing images (default: debug)
 
 ## Supported Waste Types
 
@@ -247,23 +262,44 @@ PYTHONPATH=src uv run mypy src/ tests/
 ```bash
 waste-calendar-extractor/
 ├── src/
-│   └── waste_calendar_extractor/
-│       ├── __init__.py        # Main extraction module
-│       └── py.typed           # Type checking marker
+│   └── waste_cal/
+│       ├── __init__.py            # Package initialization
+│       ├── __main__.py            # CLI entry point
+│       ├── calendar_processor.py  # Calendar processing logic
+│       ├── cli.py                 # Command line interface
+│       ├── drawing.py             # Drawing analysis and classification
+│       ├── ical_generator.py      # iCal file generation
+│       ├── month.py               # Month processing
+│       ├── pdf_extractor.py       # PDF text extraction
+│       ├── waste_types.py         # Waste type definitions
+│       ├── ics_viewer/            # Calendar viewing utilities
+│       └── py.typed               # Type checking marker
 ├── tests/
-│   └── test_extract_dates.py  # Unit tests
+│   └── unit/                     # Unit tests
+│       ├── test_calendar_processor.py
+│       ├── test_cli.py
+│       ├── test_drawing.py
+│       ├── test_ics_viewer.py
+│       ├── test_month.py
+│       ├── test_pdf_extractor.py
+│       └── test_waste_types.py
+├── RFC/                          # Technical documentation
+│   ├── RFC-01-PDF_Areas_Documentation.md
+│   ├── RFC-02-Waste-Type-Classification.md
+│   └── best_practices.md
 ├── icons/
-│   └── icon.png              # Project icon
+│   └── icon.png                  # Project icon
 ├── ics/
-│   └── waste-2025-*.ics      # Generated calendar files
+│   └── waste-*.ics               # Generated calendar files
 ├── pdf/
-│   └── *.pdf                 # PDF source files
+│   └── *.pdf                     # PDF source files
 ├── debug/
-│   └── *.py                  # Debug and troubleshooting scripts
-├── justfile                  # Development commands
-├── pyproject.toml            # Project configuration
-├── README.md                 # This file
-└── LICENSE                   # MIT license
+│   └── *.py                      # Debug and analysis scripts
+├── justfile                      # Development commands
+├── pyproject.toml                # Project configuration
+├── CLAUDE.md                     # Claude Code instructions
+├── README.md                     # This file
+└── LICENSE                       # MIT license
 ```
 
 ## How it works
