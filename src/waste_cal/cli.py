@@ -4,10 +4,13 @@ Command-line interface for the waste calendar extractor.
 """
 
 import argparse
+import datetime
 import logging
 
+from waste_cal.calendar_processor import extract_calendar_data
 from waste_cal.month import Month
 from waste_cal.research import extract_month_drawings
+from waste_cal.waste_types import Languages
 
 
 def setup_logging(level: str = "INFO") -> None:
@@ -38,8 +41,20 @@ def main():
         "-l",
         "--language",
         choices=["de", "fr", "en"],
-        help="""Generate only the calendar for a specific language (de=German, fr=French, en=English). If not specified,
-        all languages will be generated.""",
+        default="en",
+        help="""Language for text output (de=German, fr=French, en=English). Default: en""",
+    )
+    extract_parser.add_argument(
+        "-y",
+        "--year",
+        type=int,
+        default=datetime.datetime.now().year,
+        help="Year for calendar extraction (default: current year)"
+    )
+    extract_parser.add_argument(
+        "--text-output",
+        action="store_true",
+        help="Output as text instead of generating iCal files"
     )
 
     # Drawings extraction command
@@ -79,7 +94,24 @@ def main():
             return 1
     elif args.command == "extract" or args.command is None:
         # Default behavior - extract calendar
-        logging.info("Calendar extraction not yet implemented")
-        pass
+        try:
+            # Map language string to enum
+            language_map = {"de": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
+            language = language_map[args.language]
+
+            logging.info(f"Extracting calendar data from {args.pdf_file} for year {args.year}")
+            calendar_data = extract_calendar_data(args.pdf_file, args.year)
+
+            if args.text_output:
+                # Output as text
+                print(calendar_data.to_text(language))
+            else:
+                # Future: generate iCal files
+                logging.info("iCal generation not yet implemented - use --text-output for now")
+                print(calendar_data.to_text(language))
+
+        except Exception as e:
+            logging.error(f"Error extracting calendar: {e}")
+            return 1
 
     return 0
