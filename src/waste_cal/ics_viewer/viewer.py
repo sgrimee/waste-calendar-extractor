@@ -17,8 +17,10 @@ import argparse
 import calendar
 import sys
 from collections import defaultdict
+from collections.abc import Sequence
 from datetime import date, datetime
 from pathlib import Path
+from typing import Any
 
 try:
     from ics import Calendar
@@ -28,8 +30,8 @@ except ImportError:
     sys.exit(1)
 
 
-def get_event_date(event_begin: date | datetime | None) -> date | None:
-    """Extract date from event begin property, handling both date and datetime objects."""
+def get_event_date(event_begin: Any) -> date | None:
+    """Extract date from event begin property, handling both date, datetime, and Arrow objects."""
     if event_begin is None:
         return None
     if isinstance(event_begin, datetime):
@@ -37,10 +39,19 @@ def get_event_date(event_begin: date | datetime | None) -> date | None:
     elif isinstance(event_begin, date):
         return event_begin
     else:
-        # Handle Mock objects or other types that might have a date() method
+        # Handle Arrow objects or other types that might have a date() method
         if hasattr(event_begin, "date") and callable(event_begin.date):
-            return event_begin.date()
-        return event_begin
+            result = event_begin.date()
+            return result if isinstance(result, date) else None
+        # Handle Arrow objects that might have a date attribute
+        if hasattr(event_begin, "date"):
+            arrow_date = event_begin.date
+            if callable(arrow_date):
+                result = arrow_date()
+                return result if isinstance(result, date) else None
+            else:
+                return arrow_date if isinstance(arrow_date, date) else None
+        return None
 
 
 # Color codes for terminal output
@@ -117,7 +128,7 @@ def load_ics_file(file_path: str) -> Calendar:
         sys.exit(1)
 
 
-def group_events_by_month(events: list[Event]) -> dict[tuple, list[Event]]:
+def group_events_by_month(events: Sequence[Event]) -> dict[tuple, list[Event]]:
     """Group events by year and month."""
     events_by_month = defaultdict(list)
 
@@ -135,7 +146,7 @@ def group_events_by_month(events: list[Event]) -> dict[tuple, list[Event]]:
     return dict(events_by_month)
 
 
-def generate_monthly_calendar(year: int, month: int, events: list[Event]) -> str:
+def generate_monthly_calendar(year: int, month: int, events: Sequence[Event]) -> str:
     """Generate a monthly calendar view with events."""
     # Group events by day
     events_by_day = defaultdict(list)
@@ -173,7 +184,7 @@ def generate_monthly_calendar(year: int, month: int, events: list[Event]) -> str
     return header + "\n".join(calendar_lines) + "\n"
 
 
-def generate_event_listing(events: list[Event]) -> str:
+def generate_event_listing(events: Sequence[Event]) -> str:
     """Generate a detailed listing of events."""
     if not events:
         return colorize_text("No events found", Colors.GRAY)

@@ -6,6 +6,7 @@ from extracted waste collection data.
 """
 
 import os
+from datetime import datetime
 from pathlib import Path
 
 from ics import Calendar, Event
@@ -39,7 +40,8 @@ def generate_ical_file(calendar_data: CalendarData, language: Languages, year: i
         for waste_type in waste_types:
             event = Event()
             event.name = f"{waste_type.icon()} {waste_type.description(language)}"
-            event.begin = date
+            # Convert date to datetime for ics library compatibility
+            event.begin = datetime.combine(date, datetime.min.time())
             event.description = f"Waste collection: {waste_type.description(language)}"
             event.location = "Niederanven, Luxembourg"
             event.make_all_day()
