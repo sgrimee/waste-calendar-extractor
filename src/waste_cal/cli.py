@@ -5,8 +5,9 @@ Command-line interface for the waste calendar extractor.
 
 import argparse
 import logging
-from waste_cal.research import extract_month_drawings
+
 from waste_cal.month import Month
+from waste_cal.research import extract_month_drawings
 
 
 def setup_logging(level: str = "INFO") -> None:
@@ -21,10 +22,10 @@ def main():
     parser = argparse.ArgumentParser(
         description=("Extract waste collection dates from PDF calendars and generate iCal files.")
     )
-    
+
     # Create subparsers for different commands
     subparsers = parser.add_subparsers(dest="command", help="Available commands")
-    
+
     # Default extraction command
     extract_parser = subparsers.add_parser("extract", help="Extract waste calendar (default)")
     extract_parser.add_argument(
@@ -40,7 +41,7 @@ def main():
         help="""Generate only the calendar for a specific language (de=German, fr=French, en=English). If not specified,
         all languages will be generated.""",
     )
-    
+
     # Drawings extraction command
     drawings_parser = subparsers.add_parser("drawings", help="Extract drawings from a specific month")
     drawings_parser.add_argument(
@@ -59,7 +60,7 @@ def main():
         default="debug",
         help="Output directory for drawing images (default: debug)"
     )
-    
+
     # Global options
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose logging")
 
@@ -80,5 +81,5 @@ def main():
         # Default behavior - extract calendar
         logging.info("Calendar extraction not yet implemented")
         pass
-    
+
     return 0

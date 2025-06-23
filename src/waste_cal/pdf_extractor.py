@@ -39,7 +39,7 @@ def read_pdf(file_path: str) -> fitz.Document:
         raise ValueError(f"Could not read PDF file: {file_path}") from e
 
 
-def _extract_day_positions(page: fitz.Page) -> list[dict[str, int | float]]:
+def _extract_day_positions(page) -> list[dict[str, int | float]]:
     """
     Extract day numbers and their positions from the calendar area.
 
@@ -164,7 +164,7 @@ def _generate_day_areas(day_positions: list[dict[str, int | float]], grid_lines:
     return areas
 
 
-def areas_per_day(page: fitz.Page) -> list[fitz.Rect]:
+def areas_per_day(page) -> list[fitz.Rect]:
     """
     Get the rectangular areas for each day in the calendar.
 
@@ -230,19 +230,27 @@ def drawing_info(drawing) -> str:
     lines.append(f"Items count: {len(items)}")
 
     for i, item in enumerate(items):
-        lines.append(f"  Item {i}: {item.get('type', 'unknown')}")
-        if "p" in item:  # Path data
-            points = item["p"]
-            lines.append(f"    Points: {len(points)} coordinates")
-            if points:
-                lines.append(f"    First point: ({points[0][0]:.1f}, {points[0][1]:.1f})")
-                if len(points) > 1:
-                    lines.append(f"    Last point: ({points[-1][0]:.1f}, {points[-1][1]:.1f})")
+        # Items are tuples, not dictionaries
+        if isinstance(item, tuple) and len(item) > 0:
+            item_type = item[0] if len(item) > 0 else 'unknown'
+            lines.append(f"  Item {i}: {item_type} (tuple with {len(item)} elements)")
+            lines.append(f"    Content: {item}")
+        else:
+            # Handle case where item might be a dictionary (for compatibility)
+            item_type = item.get('type', 'unknown') if hasattr(item, 'get') else str(type(item))
+            lines.append(f"  Item {i}: {item_type}")
+            if hasattr(item, 'get') and "p" in item:  # Path data
+                points = item["p"]
+                lines.append(f"    Points: {len(points)} coordinates")
+                if points:
+                    lines.append(f"    First point: ({points[0][0]:.1f}, {points[0][1]:.1f})")
+                    if len(points) > 1:
+                        lines.append(f"    Last point: ({points[-1][0]:.1f}, {points[-1][1]:.1f})")
 
     return "\n".join(lines)
 
 
-def render_drawing_to_image(page: fitz.Page, drawing, output_path: str, scale: float = 4.0) -> None:
+def render_drawing_to_image(page, drawing, output_path: str, scale: float = 4.0) -> None:
     """
     Render a drawing to a PNG image file for visual inspection.
 
@@ -269,5 +277,6 @@ def render_drawing_to_image(page: fitz.Page, drawing, output_path: str, scale: f
 
     print(f"Drawing rendered to: {output_path}")
     print(f"Image size: {pixmap.width if pixmap else 'unknown'} x {pixmap.height if pixmap else 'unknown'}")
+
 
 
