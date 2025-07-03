@@ -6,10 +6,11 @@ from extracted waste collection data.
 """
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 from ics import Calendar, Event
+from ics.alarm import DisplayAlarm
 from waste_cal.calendar_processor import CalendarData
 from waste_cal.waste_types import Languages
 
@@ -45,6 +46,14 @@ def generate_ical_file(calendar_data: CalendarData, language: Languages, year: i
             event.description = f"Waste collection: {waste_type.description(language)}"
             event.location = "Niederanven, Luxembourg"
             event.make_all_day()
+
+            # Add alarm for regular collection types
+            if waste_type.has_alarm():
+                alarm = DisplayAlarm()
+                alarm.display_text = waste_type.alarm_message(language)
+                # Trigger at 20:30 the day before collection
+                alarm.trigger = timedelta(days=-1, hours=20, minutes=30)
+                event.alarms.append(alarm)
 
             calendar.events.add(event)
 

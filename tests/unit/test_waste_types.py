@@ -158,3 +158,68 @@ class TestWasteTypeEnum:
         expected_count = 11  # Based on the enum definition
         actual_count = len(list(WasteType))
         assert actual_count == expected_count
+
+
+class TestWasteTypeAlarms:
+    """Test WasteType alarm functionality."""
+
+    @pytest.mark.parametrize(
+        "waste_type,should_have_alarm",
+        [
+            # Regular collection types should have alarms
+            (WasteType.RESIDUAL, True),
+            (WasteType.ORGANIC, True),
+            (WasteType.PAPER, True),
+            (WasteType.PACKAGING, True),
+            (WasteType.GLASS, True),
+            # Special collection types should not have alarms
+            (WasteType.ELECTRIC, False),
+            (WasteType.HEDGE, False),
+            (WasteType.PROBLEMATIC, False),
+            (WasteType.BULKY, False),
+            (WasteType.CLOTHERS, False),
+            (WasteType.CHRISTMAS_TREES, False),
+        ],
+    )
+    def test_has_alarm_returns_correct_value(self, waste_type: WasteType, should_have_alarm: bool):
+        """Test that has_alarm returns correct value for each waste type."""
+        result = waste_type.has_alarm()
+        assert result == should_have_alarm
+
+    @pytest.mark.parametrize(
+        "waste_type,language,expected_contains",
+        [
+            # RESIDUAL
+            (WasteType.RESIDUAL, Languages.LU, ["Moien!", "Denkt drun:", "Reschtoffäll", "muer ofgeholl"]),
+            (WasteType.RESIDUAL, Languages.FR, ["Rappel:", "Déchets ménagers", "collecté demain"]),
+            (WasteType.RESIDUAL, Languages.EN, ["Reminder:", "Residual waste", "collected tomorrow"]),
+            # ORGANIC
+            (WasteType.ORGANIC, Languages.LU, ["Moien!", "Denkt drun:", "Organesch Ressourcen", "muer ofgeholl"]),
+            (WasteType.ORGANIC, Languages.FR, ["Rappel:", "Déchets organiques", "collecté demain"]),
+            (WasteType.ORGANIC, Languages.EN, ["Reminder:", "Organic waste", "collected tomorrow"]),
+            # PAPER
+            (WasteType.PAPER, Languages.LU, ["Moien!", "Denkt drun:", "Pabeier a Kartong", "muer ofgeholl"]),
+            (WasteType.PAPER, Languages.FR, ["Rappel:", "Papier et carton", "collecté demain"]),
+            (WasteType.PAPER, Languages.EN, ["Reminder:", "Paper and cardboard", "collected tomorrow"]),
+        ],
+    )
+    def test_alarm_message_contains_expected_elements(
+        self, waste_type: WasteType, language: Languages, expected_contains: list[str]
+    ):
+        """Test that alarm message contains expected elements for each language."""
+        result = waste_type.alarm_message(language)
+        for expected_element in expected_contains:
+            assert expected_element in result
+
+    def test_alarm_message_covers_all_languages(self):
+        """Test that alarm_message method handles all languages for alarm-enabled waste types."""
+        alarm_enabled_types = [wt for wt in WasteType if wt.has_alarm()]
+
+        for waste_type in alarm_enabled_types:
+            for language in Languages:
+                # Should not raise an exception and should return a non-empty string
+                result = waste_type.alarm_message(language)
+                assert isinstance(result, str)
+                assert len(result) > 0
+                # Should contain the waste type description
+                assert waste_type.description(language) in result

@@ -137,3 +137,26 @@ class WasteType(Enum):
                 return "🔌"
             case WasteType.BULKY:
                 return "🛏️"
+
+    def has_alarm(self) -> bool:
+        """Check if this waste type should have reminder alarms."""
+        regular_collection_types = {
+            WasteType.RESIDUAL,
+            WasteType.ORGANIC,
+            WasteType.PAPER,
+            WasteType.PACKAGING,
+            WasteType.GLASS,
+        }
+        return self in regular_collection_types
+
+    def alarm_message(self, language: Languages) -> str:
+        """Get alarm message for this waste type in specified language."""
+        waste_description = self.description(language)
+
+        match language:
+            case Languages.LU:
+                return f"Moien! Denkt drun: {waste_description} gëtt muer ofgeholl."
+            case Languages.FR:
+                return f"Rappel: {waste_description} sera collecté demain."
+            case Languages.EN:
+                return f"Reminder: {waste_description} will be collected tomorrow."
