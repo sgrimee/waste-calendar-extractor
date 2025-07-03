@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 1. Kopéiert dësen Link ☝️
 2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
 3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
-4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen!
+4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen an Erënnerungen!
 
 ---
 
@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 1. Copiez ce lien ☝️
 2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
 3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
-4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte avec des icônes en français !
+4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte avec des icônes et des rappels en français !
 
 ---
 
@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 1. Copy this link ☝️
 2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
 3. Look for "Import Calendar" or "Subscribe to Calendar"
-4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons in English!
+4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons and reminder alarms in English!
 
 ---
 
@@ -91,9 +91,41 @@ The original PDF calendar ("Ressourcekalenner") can be found on the [official Ni
 - 📅 Extracts dates and collection types from PDF waste collection calendars
 - 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions
 - 📁 Generates iCal (.ics) files for calendar import
+- ⏰ **Smart reminder alarms** - Get notified at 20:30 the day before regular waste collections (residual, organic, paper, packaging, glass)
+- 🌍 **Multilingual alarms** - Reminder messages in Luxembourgish, French, and English
 - 🔍 Real-time logging shows extraction progress
 - 🧪 Comprehensive unit tests
 - 📦 Modular, well-documented code
+
+## 🔔 Reminder Alarms
+
+The generated calendars include **smart reminder alarms** to help you never miss a collection day:
+
+### ⏰ When You'll Be Reminded
+- **Time**: 20:30 (8:30 PM) the day before collection
+- **Which collections**: Only regular waste types that require preparation:
+  - 🗑️ Residual waste (Reschtoffäll / Déchets ménagers)
+  - 🥬 Organic waste (Organesch Ressourcen / Déchets organiques) 
+  - 📄 Paper and cardboard (Pabeier a Kartong / Papier et carton)
+  - 📦 Packaging (Verpackungen / Emballages)
+  - 🍾 Glass (Glas / Verre)
+
+### 🚫 No Alarms For
+Special collections that don't require advance preparation:
+- 🔌 Electric waste, 🌿 Hedge trimmings, ☣️ Problematic waste, 🛏️ Bulky items, 👕 Clothes, 🎄 Christmas trees
+
+### 🌍 Multilingual Messages
+Alarm messages are automatically localized:
+- **🇱🇺 Luxembourgish**: "Moien! Denkt drun: [waste type] gëtt muer ofgeholl."
+- **🇫🇷 French**: "Rappel: [waste type] sera collecté demain."
+- **🇬🇧 English**: "Reminder: [waste type] will be collected tomorrow."
+
+### 📱 Device Compatibility
+Alarms work with most modern calendar applications:
+- ✅ Google Calendar (Android/Web)
+- ✅ Apple Calendar (iOS/macOS)
+- ✅ Outlook (Windows/Web)
+- ✅ Most other iCal-compatible calendar apps
 
 ## Installation
 
