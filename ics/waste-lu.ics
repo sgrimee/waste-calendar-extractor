@@ -2,1438 +2,2263 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:59e900b7-5ac5-4d36-be0e-568b67c8ec19@59e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250306
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:71813f54-c47d-41c6-a935-12945e5d6d1b@7181.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:d9ba4908-641a-4fe6-a2a1-c8d42cf7bd9d@d9ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:819b8681-e43d-4a46-9d0a-f8f7d3f26ca6@819b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250403
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:e32bdc25-070c-492f-882a-75365e3815ff@e32b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:a3688f30-9c27-40f7-8204-d8b721ad633a@a368.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250218
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:d5f109b3-ff8b-4baa-b451-561d63b69c13@d5f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250107
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:544040e6-2ece-4bbf-841d-414cd7a9f41a@5440.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:6ee90191-7322-4c95-b519-143720262188@6ee9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250127
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:3b14a51d-35ed-4f88-ba63-e029ff91297b@3b14.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250106
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:456d7245-64d5-4f71-bb7f-011d73153c81@456d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250522
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:c4cd1fe7-908f-4206-8faa-441e5ef761e9@c4cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:955f408a-0566-4cf3-b3b7-698807c45898@955f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250718
 DESCRIPTION:Waste collection: Verpackungen
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📦 Verpackungen
-UID:4cb6d88e-42b0-4742-b159-3b87f815b483@4cb6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:baa31286-9b8a-4f51-a69a-d627ad39d7cc@baa3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:406127cb-5af6-4d2b-8534-3bef1721555d@4061.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:1c63b0bb-f178-4607-a484-d6d66a6b0ff3@1c63.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:49458510-69c0-4de7-ab9e-c33ffa5f81ec@4945.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250603
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:97b3fb1c-95d2-4f46-ba96-77aeae3e76d6@97b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:7b3b7fe8-6b01-4dd1-8c76-105786ecd485@7b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:6a3e7f9c-835c-4fcc-811e-ad29d1a5288f@6a3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:efce7a15-6243-4596-bc78-75a8bed621f5@efce.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:7aeced5d-b9aa-4b1b-a50b-060c971b4fac@7aec.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250807
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:177f5b58-c823-41de-98b3-1c5538ce6f35@177f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:ac23fa1f-8dd9-4f4b-a97b-52d26d65d351@ac23.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250922
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:f8697783-54c1-4e8a-9260-65edd5f0e6c0@f869.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250515
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:0331859b-bc58-41b5-b21e-96026e4ea20e@0331.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:5efa2f8e-032b-41d3-bb7c-ff5e3b4968f6@5efa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:eb7e49cd-ec4d-482d-ad6e-836fecd906e6@eb7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:f1245b45-903e-4c4f-9991-26d272615eac@f124.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250904
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:675a14d4-4b94-4db8-8bb2-82817bd94252@675a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Waste collection: Problemoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problemoffäll
-UID:31429372-ce54-48de-953c-a1843228399e@3142.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251227
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:8a93996d-3a77-4219-9afd-ee88ae86ce19@8a93.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250206
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:5ea4074d-ba08-44e2-9d64-14d8c1c30606@5ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250818
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:ad7c2185-8127-4ce8-9b13-35f63f116e1e@ad7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250703
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:d9dbb9c6-7434-43c6-8b9a-d443ca4bc93b@d9db.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:6779fb8a-8881-4777-914f-9c8c7bf3dcbb@6779.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251223
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:027bb4a0-e0c8-43e4-9f3f-4de81b56a9e7@027b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:2e3d8510-f997-47dc-9c91-ecbd4cadde72@2e3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:074df945-ae16-44ac-a0fd-3a4bf449d014@074d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:444dc200-4c18-4dee-829c-c803413cf542@444d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:6afdf0fe-2628-4afd-8482-300a24a0426d@6afd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Problemoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problemoffäll
-UID:a1bf7f7f-dba6-4766-84f6-8ea5f0057256@a1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:766227a1-ca2c-477b-9c51-90f075e38843@7662.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Beemercher
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Beemercher
-UID:7f797f6b-f458-4b12-ba2b-b363f2290814@7f79.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:54193a70-8067-4b42-ba9c-22d4f3e1c1c2@5419.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:60663e9b-c672-45ed-9e29-3b75bad2c6e3@6066.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250102
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:f41788f2-e8b4-418e-b022-c92127e9b25a@f417.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:223b6b53-a866-4c4c-b906-c31cf8356d76@223b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250721
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a5c8f486-4fd5-4901-9d69-e459663e5db1@a5c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250217
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:e8c85161-74ef-43cd-929d-7e9d8185c9d3@e8c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:4578dbbd-0ecb-4867-8ba8-346e245f5de5@4578.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250224
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:b9eb2c88-8b16-47bd-81c2-692665c2ccd5@b9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:fe8fa5a9-ad10-4fc4-bda7-dcdd1b4efca1@fe8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:796a5200-d740-4e34-827a-3afb069280c3@796a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:9d1320cb-254b-4ea8-b542-d4a790cbec93@9d13.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:0eb19901-8e8f-4fd9-9da6-6afa4293318f@0eb1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250825
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:945da45c-b9ea-4859-9503-43505db901d2@945d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:1ec733bf-744c-49ca-8454-a71aac1bc2a5@1ec7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:65e099ea-169c-4210-b077-08b6e9409b08@65e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:e4511223-60ae-4ad8-a13b-0ec197176e96@e451.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:8cd06eaf-20cd-44e1-a06e-6b1ca3ba1645@8cd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250415
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:62b56d31-0473-4d18-83ad-28916f438f19@62b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:6e21a9dc-8ca3-49e8-baa7-58e162639061@6e21.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251020
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:e13c1364-7b03-4d69-b474-d4dc76dc9c37@e13c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:1f46a14e-ea61-457b-b853-18c44ea5f880@1f46.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:242b87a4-fcb2-404c-97da-95ce36c45d85@242b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250220
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:691fa30c-36c9-4a05-a9fa-59c9bea423ed@691f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250414
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:71901257-8668-461f-ad6e-3bdb716f0b3b@7190.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:19390767-dce9-410c-ba0c-11807b1e129f@1939.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250929
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a6edf238-da53-4cea-bb86-1e3f0090b693@a6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:b02707f9-7a8a-40b0-807f-7a8708f708f1@b027.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:b9bd48ca-e465-4acb-905b-c68b0d95676d@b9bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:cc47a91b-5267-403f-b337-6b73694ff251@cc47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250728
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:d7e4a560-674f-47d2-a056-6c64c360cee0@d7e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:769bc96c-fda6-4fa6-bf1c-f1b078a759fd@769b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-DESCRIPTION:Waste collection: Problemoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problemoffäll
-UID:2ef2198d-5d3b-45f5-a5e9-09fca37bb530@2ef2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:ef47b2f2-35d2-4dc3-8710-b648babe70d2@ef47.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250314
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:ac57f9c3-1c21-41cb-a5ae-31064d94ef1f@ac57.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:b13a4421-634c-4ff8-8547-3a776c939d8e@b13a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:5fe7ad11-3e52-4254-bc4a-47b6eece8bee@5fe7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:aaeb5123-bce2-4192-a4e9-390db09dc0c6@aaeb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250811
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:2bfb8088-e5a3-4b17-a1fa-27bc1f6e2fe4@2bfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:6f3181c1-2813-4a4e-b438-bd3545240c8b@6f31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:184ff53e-30f7-4fa2-8023-907f603df9a6@184f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250116
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:6d8e312b-1935-4661-a486-9123825d9f06@6d8e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250331
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:329b5875-48d1-4fd6-84fd-ddf6f9d200de@329b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a68d5c0d-88dc-4ddb-b451-67eaa05840cc@a68d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250121
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:10b7ef7a-e0d4-40b3-b5d0-d565a7e31202@10b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:e4b00020-ebab-4c87-a6f6-c9ebc9025576@e4b0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250526
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:10ee3cc6-9515-4c72-bffe-c1206aa60f57@10ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250210
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:cdfabeb7-2184-487c-8172-1e43fdc9949a@cdfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:4249a8c8-cec7-42fb-aac0-4543a6760dbd@4249.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:de81ca71-b999-4c7a-8a49-322231bb4fb5@de81.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250225
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:9a842e4d-76b5-41f3-8faf-e48a0a91922d@9a84.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:f7c5f796-92b1-4f89-a726-bc41b5bf6ae6@f7c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:0389aee6-c0a3-4197-8e57-a3cb3ee6d491@0389.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Waste collection: Aalt Gezei
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:👕 Aalt Gezei
-UID:0cc346a7-ba6f-4cb8-af1b-054eaaac6922@0cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:2c302068-928b-4911-8886-1cd1cc599a76@2c30.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:5bed408c-2505-4f80-9ac4-c3aa48a31afd@5bed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250607
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:7c5eb6b5-c61b-4cc5-a610-e08e8c57f175@7c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:2affd04a-4f5b-4065-82c9-7d0d05e40177@2aff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:5efc270b-436a-486a-b632-aa13c9c70975@5efc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250402
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:1e4abe1a-134c-41f4-9bd2-5724b97df64a@1e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:cfe01b47-8890-4f53-8fc2-0be15806462b@cfe0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250317
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:0e042a13-4dfb-49fc-bbf9-8728b2694664@0e04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:8156b915-9d52-4525-be9e-7e11aec26b31@8156.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250214
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:26ea4156-d71a-4076-b83d-2c8b2cce4b5f@26ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:7ae3ffb0-33c7-476e-8a41-824f2095bd10@7ae3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:23ba72c3-9402-42cd-96b3-767a3517d528@23ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250821
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:75c72c1c-89fe-46c9-a0dd-7c11ec3f4853@75c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:c5322cd5-e9b2-4a69-b550-7ed39b72b716@c532.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:d07bb1ee-d470-40ea-a4f5-1c70414308dd@d07b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250204
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:3a0750c7-328a-4b69-ac02-e0b556d0c14d@3a07.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250519
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a58c4339-f8bf-44fe-9da8-d836891b2631@a58c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250117
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:1435b9fd-3073-4e2c-b7b8-6ddbfa26546f@1435.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:b3c5d5b5-f380-4467-82a2-86779f7c5781@b3c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:2f1c0c3a-e6c9-4f49-911e-71a9d9f65280@2f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:951a0ae8-a216-471d-82ef-9315d8edd6cf@951a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250310
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a60306c7-157d-4998-ae27-ab860d3156ce@a603.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251027
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a341cf6f-0975-4da3-942b-1e06981f3641@a341.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:8c2bde5a-8c61-4012-8c4f-b7570b7f4bdf@8c2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250419
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:6c65f348-0c82-4212-a650-a5abf32815bc@6c65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251222
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:68929643-a2fa-4cb3-9ec0-00f19c26b2cf@6892.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:703844b6-f6e1-40d9-b702-544bb5310e59@7038.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250805
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:fdacbcc0-a384-4441-930f-c0691f9ceed0@fdac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250108
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:290e34c4-319f-4e9a-b16c-d05d68a97ae3@290e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:0e32eb9b-fab7-4232-97f3-902b872339fc@0e32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250128
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:87138c09-986b-495a-99d0-1dd855df3fc0@8713.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250227
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:52ab1971-b7c6-49d8-a28c-fd8bb60e1eb4@52ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250923
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:9c54c875-ecb4-4e1c-81c2-35262bd7b78c@9c54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250425
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:b1f11320-5bfe-48ec-a374-b0dee5eb2ede@b1f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Problemoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problemoffäll
-UID:aad96eed-4f41-4c2d-8348-ca9e2327d290@aad9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:f96c87c6-257a-4e0c-bd52-3e8d504865a8@f96c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:ac08fafa-3a73-41d4-8856-2d805b7a7f34@ac08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:ee948672-1541-4194-bc37-890655316cc7@ee94.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:8fe38314-d4bc-426b-88c5-91664c3ae02a@8fe3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:0c861f54-89b2-4e76-a0dc-f8273b3b7de0@0c86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:032bbb72-b939-4595-acb9-8e7e4904d66c@032b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:0d65283b-15dc-49dd-be97-6909babf5bf8@0d65.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250328
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:ff3baed2-2e37-426d-8ead-d945caf78871@ff3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250523
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:fdfad317-a28f-4bba-83f3-a8d0f2016355@fdfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:d4689b79-dbb7-44c9-b6c9-d6cd4d1be5f9@d468.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:647078e7-df7a-4b93-ba57-fbcbbcd2405c@6470.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:35ca94ed-2271-411b-b656-ab4913d2542e@35ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:601b2547-bbc0-4327-8f41-d78c146098a8@601b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250203
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:434d346a-447f-411a-854d-3b3110016519@434d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:99a20242-6db9-41c9-9f40-5d9a7f697ab6@99a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:fbb4e5dc-12c9-4dc7-91bc-026795ca9619@fbb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:fbd1d7a0-d3ed-4a07-8899-a1ccc9d70321@fbd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250428
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:49b9bb97-d16f-482e-956c-68ce006c1f73@49b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:fb9f730c-d55b-4944-84c2-aa2477ef4908@fb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250318
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:939efcb3-7ca3-456b-970c-764ff1ccd2b9@939e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250527
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:45244b9c-7bda-4703-8e67-e244c4a5cb4a@4524.org
+UID:96535cb8-f05b-4db0-8eb7-4b85125bdad7@9653.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
 DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:ab2abdb7-60ed-4063-811a-5a075ef83c60@ab2a.org
+UID:e190b5d9-b526-49b3-a91a-1371ae2c4d5b@e190.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:ec2a0c46-b11d-4bee-9691-5c7b75b9550e@ec2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250729
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:6b87c145-0fec-49e7-8d1a-6122020a2578@6b87.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:2b3dc2b3-e508-4d8c-9708-5a4fa31659ee@2b3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:d4e9ffba-272a-4f2b-8e12-aa86194fc81c@d4e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:36caab57-343c-451b-9a0f-6bc4211b678d@36ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
+DTSTART;VALUE=DATE:20250513
 DESCRIPTION:Waste collection: Sperrmüll
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🛏️ Sperrmüll
-UID:3c76110b-634e-4f75-8c2b-a6bdaa0be8f3@3c76.org
+UID:c302a00d-e7ab-410e-93f7-366bd2bebc53@c302.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:2eef7404-594c-4dd4-8d57-0c0d156f5de9@2eef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:e8d43e33-50f1-42f1-a85c-50dbf7076938@e8d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250703
 DESCRIPTION:Waste collection: Pabeier a Kartong
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Pabeier a Kartong
-UID:35023ee7-8050-4482-b530-9e03bff6dc6b@3502.org
+UID:5d583b30-df3d-4e0b-a50e-f68dbb5952f0@5d58.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250908
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:61afbcee-c42d-437a-b4bb-c81679142493@61af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250108
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:769b4a44-f3c5-4655-8611-72579913f5ed@769b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250214
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:d3052277-f460-4d0d-9d49-653025836add@d305.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:98cb5dc2-64f5-4f70-8f70-72502efd4f18@98cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d963e832-0404-411e-95f3-a061dd3ae8e3@d963.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250526
 DESCRIPTION:Waste collection: Organesch Ressourcen
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🍎 Organesch Ressourcen
-UID:9535675f-7503-45d6-9439-27de4998379b@9535.org
+UID:890ae53b-c917-46ec-bf05-7a7776217362@890a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:d4325094-55e2-4341-9ab4-10b4b8fb6135@d432.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250306
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:8d216fd5-a0fe-445c-97e9-2cac86eafb0e@8d21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:5400c94e-de57-4a28-b198-9624b418d5c1@5400.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:7c7a78d5-be9f-4e0f-8293-c21f3283805e@7c7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:a1a87cb6-454e-44db-b632-101d0909d15f@a1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:3f4019c0-d0c9-490f-b691-262d03cab2c4@3f40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250220
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:0c68fff7-992b-45b0-a108-9bf62f9499df@0c68.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250804
 DESCRIPTION:Waste collection: Gréngschtëtsammlung
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🌱 Gréngschtëtsammlung
-UID:327b8d2b-0d89-4ae8-9f42-c6f13656d45d@327b.org
+UID:cbaf855b-5d07-4c3d-9ff6-54efaa4fdc25@cbaf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251230
 DESCRIPTION:Waste collection: Reschtoffäll
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Reschtoffäll
-UID:77dc690b-d473-4935-86e6-ded42b8e3368@77dc.org
+UID:0a0ef2a7-8937-48cc-ad5d-065c8c8ac40a@0a0e.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:87a68f40-5d33-4d41-91f3-eef1ec93cccf@87a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:7284d877-8f9d-4086-a30c-d2d343986737@7284.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:25e41769-cd21-490f-8a44-cc9c52e047aa@25e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:90548dd0-210e-430c-8945-5ada6360dc78@9054.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:4fa81d2d-4206-4278-848f-adeca819539f@4fa8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:0d2ce1f0-f954-4af4-9014-579410a1d4cc@0d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250718
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:c93bebdb-0ff8-4fcc-8d47-173ef865560e@c93b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Sperrmüll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:e7225113-00a6-483b-ae16-c97a498e0175@e722.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:94d30bd2-5077-4f6f-adae-0db1e7e40fa7@94d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:c28d5890-fea8-47f7-ba7a-50aeaab60aa1@c28d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250324
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:61d097ad-48dc-4860-84b8-e25db9c19a52@61d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250507
-DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:947c5a4b-1f97-401c-af33-5c000ec5399f@947c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Gréngschtëtsammlung
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Gréngschtëtsammlung
-UID:be3da4c0-3059-4f58-acf4-456652666e59@be3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:6e6f9f10-3d3e-426d-a53d-020a27a61ee4@6e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:067dac83-9b37-4ac2-ae90-680562f190ef@067d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-DESCRIPTION:Waste collection: Glas
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glas
-UID:36168c1f-424e-4810-b768-19a4c54d7223@3616.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:90ed04e7-7009-46e4-be5b-82da2671cbbd@90ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251002
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:828ba60a-a761-40d8-9321-cf4368279d5c@828b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:e85124ea-12ed-43bf-a7a2-a7cc3326a04a@e851.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251218
-DESCRIPTION:Waste collection: Pabeier a Kartong
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Pabeier a Kartong
-UID:c7c79091-f850-4906-b3ba-e27f58202ba9@c7c7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Waste collection: Organesch Ressourcen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organesch Ressourcen
-UID:a605d9cc-3c06-43f8-b6d6-01f06540fd78@a605.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:64cce644-85c2-4ee8-ad65-6fc49b6e6924@64cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250131
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:677f5813-1816-4b48-ae47-ad893e3d7d80@677f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250819
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:3d44ee7d-5203-4dad-82b6-3031f8ff5619@3d44.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250123
 DESCRIPTION:Waste collection: Glas
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🥃 Glas
-UID:b56c77f1-7047-47b8-b4bf-e0a480758a49@b56c.org
+UID:13e70e18-dc11-476d-9fd9-65e1b916bd49@13e7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Reschtoffäll
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250310
+DESCRIPTION:Waste collection: Organesch Ressourcen
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:566004dc-0ba0-4c63-b8aa-0a77b2fc24fc@5660.org
+SUMMARY:🍎 Organesch Ressourcen
+UID:1eb3cf7e-12ba-4f14-bfc4-cd05b36efee7@1eb3.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Sperrmüll
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251215
+DESCRIPTION:Waste collection: Organesch Ressourcen
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Sperrmüll
-UID:eaa44c03-4399-40be-b10b-3e3637076713@eaa4.org
+SUMMARY:🍎 Organesch Ressourcen
+UID:53289586-d5a7-4223-b920-ff9ed4868a75@5328.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250320
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:e7f4445e-c528-40b0-bd55-3ba23b425cae@e7f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:01244997-e5f9-4356-9ee5-e41044722254@0124.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251016
 DESCRIPTION:Waste collection: Pabeier a Kartong
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Pabeier a Kartong
-UID:7909d2eb-ab3f-4512-98a6-c9e072483b6e@7909.org
+UID:0ba95328-d663-4968-88fa-a8ac297ec4b0@0ba9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2e190391-2ce8-4061-a787-1a72ed42b43b@2e19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b852706c-c028-4790-ba7e-aaf1c9f959b7@b852.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250116
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:c82c7a69-d7a6-47e2-9477-ab382c39adba@c82c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:a9e1b704-fa0e-4c5b-9291-6b40c4d395c2@a9e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:2b82ca26-5e61-4c31-b130-0a873d7853ae@2b82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:1b13c66f-cf73-4ee9-ae5f-75f3d0bbaaa7@1b13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:2e362464-ce48-4dda-8773-53ab960556ab@2e36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250107
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d6a07d08-93f6-48d0-9556-98d0cd824c2a@d6a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:df42e329-d199-41ce-b8f9-db6ef6a82f24@df42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250403
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:08dedbae-f5cb-456d-8ce6-e4a77f58e260@08de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:08cfb312-9341-4dc5-8d79-ef9f87c46a90@08cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250818
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:36e75dd7-2816-4f65-8932-bb058acfa852@36e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250620
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:137f702d-cba8-42cf-b6dc-072f9b262368@137f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:24709a11-864d-4cf5-8ced-1e14a95f2693@2470.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250225
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9833f84c-55a8-4db2-ab5f-fce18baa6cfa@9833.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problemoffäll
+UID:7396668e-dffb-4b0b-bc37-0889b40e27a7@7396.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:fa3da319-9177-437f-be32-a92118c55d36@fa3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:801368d9-b9d1-4347-8300-227f5b65ebad@8013.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250127
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:13939637-ae82-4fc4-925b-b3be5c258e16@1393.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:789bce33-6c45-448b-96a3-16c905b45358@789b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250106
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:677d37fc-fa7a-4d3d-8c04-bb8e659d04ff@677d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problemoffäll
+UID:d6e2ac07-a40e-4a16-9404-32ab55050441@d6e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:349f0462-6ba7-49fe-930d-5d2a7dbc3092@349f.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250903
 DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🔌 Elektro- an Elektronikapparater
-UID:3228db4e-a3c0-4298-aeef-7b1031a89163@3228.org
+UID:82c1d906-a51b-41be-b7a1-132e7ed8d9e1@82c1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:c2c92600-6b7d-4979-b327-e1bda5125761@c2c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:dbcd625a-fc14-4ba4-aaab-d4a74ae04701@dbcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6b0314f3-eca7-4c04-aebd-29ad9019b235@6b03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d6d31040-fa85-4a7d-a97f-c15538530ab3@d6d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:df9bd991-eac4-45d4-8990-b3c8705ee0f4@df9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251002
 DESCRIPTION:Waste collection: Pabeier a Kartong
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Pabeier a Kartong
-UID:69c540f7-9725-44e3-a9a9-b457cfbe8a93@69c5.org
+UID:c86a20d2-59dd-42ad-a221-a63d6b19817c@c86a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250103
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:29074ae2-c041-4bb9-a446-8a61269791d4@2907.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:67133d9d-1021-4b69-a4ed-cde86a537ca0@6713.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250411
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:09d91c77-42e9-4e0b-a443-423c7f0d1e53@09d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Waste collection: Verpackungen
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Verpackungen
-UID:9de404ca-134e-476f-854b-b17afa3b5777@9de4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:570c8e5d-aed5-4aaf-86dc-f13b9a663f09@570c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250401
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:d8a79b7d-ad56-4d8f-ae4d-c09315e5aa27@d8a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Reschtoffäll
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Reschtoffäll
-UID:8bfb742d-1b35-47de-a148-9d507126bcfb@8bfb.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250630
 DESCRIPTION:Waste collection: Organesch Ressourcen
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🍎 Organesch Ressourcen
-UID:b6ba66bc-8f4a-40ec-a700-3731d2d0d725@b6ba.org
+UID:84d93331-c0a8-4987-aadf-61877af8f233@84d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:96e7b374-3ffd-4d65-9c8b-ffee69b8035e@96e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:49a34eb6-aeca-40d3-b521-89e3aa4f683b@49a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:bb8d440a-9245-4373-a8e2-a005f0c1d24b@bb8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250210
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:4eb58c64-1c8e-413c-8b1a-8e4ae55a2249@4eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:0a9cfd2a-46a4-4b2c-af61-2698ca1e1446@0a9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251007
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:00b2ab9d-6811-4425-89f6-770603b6f310@00b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:96c2fb44-2305-491e-8722-64bb89dd74b7@96c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:deefde98-970a-44a2-910c-69dc95b523b6@deef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250128
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bac6d665-0eee-47fb-809f-fef2564a282f@bac6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:c2f9c9f4-4c1b-4b45-b310-2747ef6357a1@c2f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:f262a7aa-e14c-45bb-9847-2e54a988aaed@f262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:ef9547e4-d8a4-4910-a461-9bfea6cb0230@ef95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:18e063d4-4351-475d-9831-97798916176e@18e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ece74c1c-26aa-40c3-805c-dbdafc5d19d8@ece7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250728
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:366002b0-8eac-4474-88d0-92094e7908b8@3660.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2b87889a-70ae-4633-888e-b2f427e00787@2b87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:23302f46-762b-42e9-93f5-984957d23f7f@2330.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250121
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9ff3c6b0-f973-4158-ad49-f2c2036d3397@9ff3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251227
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:cdc8ad69-a677-4534-b582-55cd72f1867e@cdc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:ede31a9b-fb19-4899-9232-7d7a3d8d3009@ede3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250419
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:c3ca8ac7-7e11-4542-b2a2-0c123af15986@c3ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:58fc96c7-d64f-4964-aa71-2f7b28b7ccf6@58fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:d53b3bef-5a3a-4c35-9c59-4fafcb69559e@d53b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:08dc8297-fd62-4fe0-a62d-9b9d6dbd6db5@08dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:45ee6127-009b-4f5a-8bb5-aa53978978b1@45ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:5c53aa38-307f-4c5b-8deb-877a134ad544@5c53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:c8deb1c7-e30f-4321-b39d-9288d2f7b9df@c8de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:658c4101-2703-4596-8657-f08f261a0520@658c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:4dac0a91-7d61-4cb0-85ad-fe32c766f864@4dac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:3e93a9a6-205e-45cc-b45c-c1d6d1f88bf5@3e93.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3fde8b60-3eb3-4377-a772-644ff0f5b6d7@3fde.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250131
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:5eac0fed-ddbe-4ec1-a368-61e54833cc61@5eac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:86ea67a2-c921-47ac-bb88-ad30eaa036e2@86ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:468a5511-42b2-4224-9831-e5a6a2274af9@468a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250324
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:f2e20659-c852-4fb0-b819-bef152afc924@f2e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250425
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:85d34928-ac2a-4980-b938-7d5f534c7dc6@85d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e7cf709b-53ef-4e7c-b251-2a5a99b88029@e7cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:29ae1358-b9e9-427d-82d6-6748d8509f7c@29ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:0bc55ed1-244b-4525-b217-74f4ec57510e@0bc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251120
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:0522cc53-00ed-4e6b-a3ac-7ff1f3a7e4bc@0522.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:bfd589cd-a40c-45f9-92f1-09220823febe@bfd5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:29cc2c4b-d883-4f5f-98c2-fba6489aed50@29cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:c193f83b-718b-4f1e-bc51-e25399186d3c@c193.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problemoffäll
+UID:b5229fb6-c142-4bc2-9431-a89b40080686@b522.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250929
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:a3b60ea4-1307-454f-8a3f-f81d94ef247c@a3b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250414
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:edc0a418-58d3-4c1a-b629-68799cf9dd4e@edc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251218
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:dff3c025-de37-46da-9da6-38e3b8ef8b10@dff3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:bc793d79-659e-4bb2-a74a-08a710f4a752@bc79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:583d4311-184e-4d1d-84ae-28abcf508e02@583d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250314
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:d2dfe9af-2187-4a35-868d-1137908e1828@d2df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b6ab4f95-80ae-489f-8384-59c21bd49bf9@b6ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:Waste collection: Aalt Gezei
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:👕 Aalt Gezei
+UID:38cd4087-5861-45c0-8a41-5e6b58cbbe36@38cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e459d628-6666-4dcc-97db-995d3ffcdaec@e459.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f016548c-7027-46ea-b82d-382e3db78ca1@f016.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250411
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:c63727e5-595d-422e-b8ca-118a032ebcc0@c637.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250729
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dc3a35d4-86cb-4c4c-b9ed-f7b13e36e544@dc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:0617ec62-2684-4a2a-889a-29a899be44ad@0617.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:a4ffad43-ece0-4819-b333-a47dfc96bf82@a4ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:06d32fdb-2b1a-4d17-93c7-151e7c7b0d05@06d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:16576f3d-66f6-4625-8dc9-b5eff914c75f@1657.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250320
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:2168dca3-c204-4c55-ae55-83ed3714abc2@2168.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250825
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:f4370aad-f578-40d5-b297-9291918c62fb@f437.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250401
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d326ebd6-cd4a-4bd7-a251-6bc20fac57bc@d326.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250117
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:98c2b005-1ab8-433d-8a49-3e72ea400915@98c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251124
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:432af20e-4c80-4c39-806d-81bfdd2ccc03@432a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:a3fd6faf-b972-4529-9209-739ab6ac19e5@a3fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250206
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:1b6c23ca-452b-43ec-b5fb-d48078553cfa@1b6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:e7e36507-c40f-4342-a86c-a2a9307e61c1@e7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:dc33e9bc-8de8-411e-9896-42c60448ed86@dc33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:fc26d492-9fe4-49c3-a8e2-aa4724ed7fcd@fc26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:525bc861-541b-46a2-b95b-76c84146441e@525b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250519
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:d2562018-3fb1-472d-be78-2e47d24b4192@d256.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b5cc0000-228f-4559-bd69-133ea8e8c6a2@b5cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:fde590c2-f484-427d-91b8-60d3869f14fd@fde5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problemoffäll
+UID:109ebc69-f502-499a-a60f-aa5c3f513984@109e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:b800f3d3-4bff-4ae8-9c7c-1ee5aa56ad8c@b800.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:ef98636d-e9c8-42b2-a5f2-6cc1e521bc31@ef98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:ec181206-96f7-41ba-89da-361f13ada53e@ec18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:88e24606-ec73-42ae-a343-96202560eceb@88e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5d56a690-df20-42b8-8ff0-68df70c576e3@5d56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:40a43862-aace-4c00-a1d7-dbefe1036c92@40a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:33bbd061-8aa6-4806-ac05-41cb26db9d86@33bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250908
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:21e3b635-ea96-492c-8071-4464000389de@21e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251121
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:185f1dad-aca6-408f-bb35-215b7c144310@185f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bfefef96-4f10-4261-a1ac-f7f6686f2136@bfef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250805
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bfb40e90-82fe-4fd3-b236-814831feffd8@bfb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250422
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bbac676c-0610-42e8-875b-b1b5432aa5c6@bbac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:019602ea-d9d2-4659-ac8f-fc7ad76fee13@0196.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f8ee568e-0a0a-44ad-85eb-b80917b69f81@f8ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:728e62a9-ab3c-4dd7-938f-c87001c5c2cf@728e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250304
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62c34ba5-bcc5-49db-8691-6f77e0a76130@62c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:fb165b53-661a-446a-998b-c0d5a287bcc3@fb16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:0aa98cf4-ec6e-4ad7-b423-a0808ebb2573@0aa9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250318
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9761d351-516d-4d33-9d88-7e52cb0422fe@9761.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250506
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:53b8e865-6d5b-48cd-a87b-af9a18dc0305@53b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250807
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:892cb9ff-8def-4da5-89cb-6816c34e13f1@892c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:ba12e6e4-c915-4a81-95d7-9852424a3d54@ba12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:fe0d056f-4a51-4f98-9c12-fbf3d8b5031f@fe0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:62bc8288-0caa-4980-86d4-871fef9e4594@62bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:be913889-3d6e-4ca0-aa2b-287890c17530@be91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250228
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:030730d4-e5f6-4ec1-a2e6-c7dbf3e699e4@0307.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:a28dad79-9937-4583-a379-5e3d7e364ea2@a28d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251127
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:9ce03873-2bc2-4e29-9ffd-ec997af90747@9ce0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251229
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:712fab38-4a0a-4607-9eaf-22b3cc1c628c@712f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:5a0f423b-43ab-45fe-a0d9-1aef3ffaa5f9@5a0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:cce62b71-2bbc-4d1d-8936-57b62d1e584f@cce6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9ed8d533-f8ef-4af0-821a-6f33acdff010@9ed8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250415
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:53eadafb-5d61-40b0-acc6-0d584ca019d3@53ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:25ac6a1b-de1e-4cf6-b337-a0b6bd11c1aa@25ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250218
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6edd736e-6e95-467f-9952-8ebefa948dfe@6edd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250328
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:9b8828e8-db77-49ee-b4cc-a323bcbb4597@9b88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:f0f20935-b2f4-4053-8e43-07476587a9e9@f0f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:77bd45ef-228b-4d81-8373-3a5402bf4ff6@77bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:d64e03e6-c2b8-4fd3-95b2-48c76224dfbf@d64e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:54a62094-7def-4c2c-8d66-3bb6a00add36@54a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6cb69b4e-b951-42c3-87f5-4853027c1d07@6cb6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250204
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dcfdad66-91ed-4e4f-89af-dcfe0c6d94a9@dcfd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b94daa2f-ea7d-47e7-a330-8a4a4cb69b80@b94d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:37138fd1-3cc1-4d23-9ae8-c2b89cb27ed9@3713.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:a5637475-606b-4dcd-ae76-0470e6c4c1ed@a563.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250402
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:b1054343-1d5b-46d5-abbb-66056037f82a@b105.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:caaa4913-d40f-4635-9eb5-4248b595fe8a@caaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:56d66cb8-fa4b-4ac9-844b-caba1775c651@56d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62dac0e7-c76f-49ff-ab0c-d3392fd9ca8e@62da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:33438964-fb0d-4973-a8b4-e09f6df4a82b@3343.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:e483f554-1918-4c77-b35c-af750afcc2ad@e483.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250103
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:39308ab1-58fc-41d4-84f5-63ef9029fa5e@3930.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:7cf7108d-190a-4824-81f3-786f725cdf31@7cf7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ebc65bfc-4e4c-4694-9a12-9cb43a297e32@ebc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:a27959b6-ea7c-43a9-bfa8-10b4c1ba22c8@a279.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251027
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:03bf157a-273e-4e16-8bdb-4c7ce93c0b60@03bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Verpackungen
+UID:c0617ee2-d1e9-49c4-8d69-ef754530ff0e@c061.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250227
+DESCRIPTION:Waste collection: Glas
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glas
+UID:27a9dd8b-9e93-4dc6-a647-94fa3c52af5b@27a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250507
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:21906c53-219d-4e0b-9b71-bf7946578dd9@2190.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:a0ed350a-986e-4426-a3c7-2cc5f5cefc50@a0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:7c6ea1d8-affb-4f80-8a88-b19fcfdc8288@7c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Elektro- an Elektronikapparater
+UID:4d689bff-0e90-4d3f-8735-e080318121ac@4d68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250607
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:d4ba8442-7c8b-4a07-ba64-05dc40ecb688@d4ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Gréngschtëtsammlung
+UID:9e3d84f6-f57c-4029-9590-6aba2fdfea8c@9e3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250224
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:2dad18a5-6dcc-4ebf-9dee-8803ccb4f71f@2dad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:f3d029f8-4477-4eef-a1d7-a1b85f6d187f@f3d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250102
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:0480c056-137b-4115-b23a-8fcfc54eb0a8@0480.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250721
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:199c9604-da82-49b1-b937-9918df62ae6c@199c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organesch Ressourcen
+UID:dd11a67b-bd4d-4eec-a3e6-63c9f48f5bd3@dd11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:67afdc8c-b71e-4b7f-8cee-37813238c9da@67af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:346d163a-88af-46e8-bcb8-223fec134fc9@346d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Pabeier a Kartong
+UID:0ab07820-8a2c-40c2-a77b-f0f84a0a6611@0ab0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:eac5a3db-f1b5-4431-a072-3bdbf4f26db5@eac5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Sperrmüll
+UID:3acc301f-740b-4bf2-b479-9f2d9c84c3f6@3acc.org
 END:VEVENT
 END:VCALENDAR

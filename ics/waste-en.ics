@@ -2,1438 +2,2263 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250821
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:f1b819f5-b349-4987-b078-c0192e064182@f1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250908
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:2567f3b2-6793-448a-8a2d-d969605da0ea@2567.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251020
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:87375dc7-283f-48e7-9202-ebc9e41c0baa@8737.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250224
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:378a5d9a-32cf-4be3-a869-a4cfa2bb6da7@378a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:735aa420-c6ab-4684-9ddd-7fd0088c1b5f@735a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250519
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:62fba73a-011a-4151-a6ad-d42251bb6e99@62fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250926
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:e0e5dfe3-eb08-4e16-a275-e49802251509@e0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:ff020291-1965-4c7e-9472-d3139f431927@ff02.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250903
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:20b1ea9b-60a9-4de1-a84b-e206b820f607@20b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251222
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:0863c036-1448-458b-ace2-a8ae59781dfa@0863.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251227
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:0c1745a4-eebe-4c35-80fa-6cba1b0b08da@0c17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:49089260-091e-4b32-ad95-ca0482c70201@4908.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:4be2b505-97c9-4f45-a6ff-88b1eedaac37@4be2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250106
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:1022c017-8187-44f5-ae07-1e7a4a9cc176@1022.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:99261eca-1a94-4fc7-8772-8fa5cd6c23c2@9926.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250616
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:786cef29-42f6-4adb-9194-bf4c96391499@786c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:303f896b-5346-4dc3-a31e-e004a04ee104@303f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250417
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:36726970-d5b6-4147-b6b3-de141da3e025@3672.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:28dc10b0-c9b9-44bd-b2e8-62e1cbedb7c5@28dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250425
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:85b20c85-c61a-4263-81b7-f1f81713ca90@85b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250607
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:176e40c9-ccb7-4a8c-abdc-1e8d98fdfdcf@176e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:9b6dbe71-9310-4e6f-8809-3aa973a1ddf7@9b6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:7b34fb57-e542-4e3c-ac39-df6ee809ee93@7b34.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:3b92de63-3fbf-44da-ac2b-f5d5f97a1f08@3b92.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250811
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:12e3a5bd-8640-4e1d-b6bc-b240e95fe7c6@12e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250724
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:5bb4e786-22a4-422f-88b3-a02469b594ed@5bb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:f0203916-786a-43c4-9bb2-fd86acc79db3@f020.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251021
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:b3a0e2fd-f1dc-44f8-8dc8-77f413de2448@b3a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:c1a525d8-ad1d-4e51-ac2b-9b66a759ab22@c1a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250422
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:e6ac7300-3668-415d-849d-4b0cb0c2916b@e6ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250314
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:2eef0299-bd33-4273-86a3-929e07c1d06b@2eef.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:cad93f9a-aeaa-4080-bc8a-c4a1c58626fa@cad9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:25bc1d86-056c-48e8-b40c-d4433d804aa3@25bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:784d1787-d657-46c3-a56d-f57ead3f9f76@784d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250826
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:7544f868-38de-4ca6-b826-3dd7191add76@7544.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:bbc598c2-dce9-4edf-be58-3eb22e9d67a6@bbc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:8b0102dc-a5ff-448e-8c5c-002a55352ad2@8b01.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:2096e129-5ea7-4707-a9bf-4bf60aaccb85@2096.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250904
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:34101770-a396-42d5-aac4-b6265d8e3b11@3410.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250603
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:f808878a-adab-4c44-ba35-6734c6efc25b@f808.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250228
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:63255a49-651d-4d7a-82f8-644d8e0e3a65@6325.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250419
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:e246e80b-319f-4465-a16a-54fff91f23ed@e246.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250116
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:db89c5ef-b838-4952-b05a-ab81c62537ee@db89.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:72216035-ca52-4f74-90c7-1be71a33c218@7221.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:0876ac0a-eb9b-4a1c-9ab9-e75bc557b729@0876.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:0288d2ef-7e16-4253-a9ab-16d2fc1a979c@0288.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250328
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:87ad34c0-8529-4cd6-b50e-d160c1dc5793@87ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:f659781f-7f3f-4140-b18a-45cff94efe9f@f659.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:22339098-1198-4cd3-a270-9de758661822@2233.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251027
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:202729ce-bef0-402f-9aa7-629490db8669@2027.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:99963381-bec9-40e3-a0f2-7fb140ebfdef@9996.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:c9d1c1e9-16e5-4abe-903e-2a1c60d72874@c9d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:26d5c54a-fd99-4d63-8c8e-a8b3e753000c@26d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251223
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:73ed1ec5-d24e-42da-82f2-aad6b2e516e7@73ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250318
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:4212c7ff-117f-49e4-890e-12cf1423b4f3@4212.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:94ca1c94-3f9f-494c-91a1-db305aba4f70@94ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:f89643e4-25a2-413b-b1a5-b506dbf904b5@f896.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:7d7d1552-8b5b-47b7-b814-0d6cf74d6d77@7d7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:d342a564-e2f3-420d-b279-6e5809c520be@d342.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250703
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:da227857-6f7c-4e65-9a2c-bec8c480a09f@da22.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:a0366fb5-442b-4d68-9bc0-ef0f98fd3a41@a036.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250306
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:5e6c5767-72fc-4ce6-9a07-6a617e553700@5e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250922
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:3a90351e-d9c5-4308-b519-750e42d73eb2@3a90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:00339040-c35e-4686-b4b3-8118fe2ecaa3@0033.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:e2ac9dac-1ce6-4f5e-a8fd-747fec5a6283@e2ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250121
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:19a091a9-8720-412d-8ef0-b7d9f851c786@19a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250403
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:c52d2fd4-d0c8-4911-9fd2-5129b7b1548c@c52d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:06c03a99-5dfd-4a61-9f27-216d732f0fb3@06c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250620
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:4c0eedfb-4512-4b75-8895-a853fc55c100@4c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250721
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:dbca46b9-2554-472d-8078-3d39da55e91e@dbca.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:eb7da538-bc93-4633-9e02-c3d50983d40e@eb7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:19483f77-4cf6-4dcc-a8da-09a908406e2f@1948.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250317
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:0406f836-37f2-4b9b-9658-2622de7e8715@0406.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:1f082a1b-22a8-4eca-9d1f-6a2e648966be@1f08.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:ddad4722-c053-4e60-9879-1f4defdf45d7@ddad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:631d7154-4d96-4820-8832-ee067e1edf5e@631d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:ecc48598-7195-4ce5-9ede-27b7b1feffac@ecc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250203
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:c29446c9-523d-490e-96d7-0998d141e428@c294.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:f2696ea6-b262-416d-8a83-2adefb29fadd@f269.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250428
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:54b12945-df1a-4f3d-abbb-10d15eead4fc@54b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:149a52e3-b631-4d04-9a0f-073969bb6759@149a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:10f0e892-9d33-4d94-96b8-a435110992b1@10f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250227
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:30b6e20f-ade7-4327-a7fa-885cb710691a@30b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Waste collection: Old clothes
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:👕 Old clothes
-UID:d450e6be-c74e-4aac-bbed-91399d2a1930@d450.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:c0da0d2f-886e-4d0b-9379-6baaad70b23b@c0da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250929
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:f192d1d1-9724-461d-bbc2-83832acf0142@f192.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:eaa8b3b9-752f-44c0-b5d0-175b40ab0146@eaa8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:eb6ee7a8-0da6-410b-8651-a9fe23229739@eb6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:f28dbdf2-cf8b-4c87-85f6-9eb15db96dea@f28d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Waste collection: Problematic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problematic waste
-UID:748c2b97-82bb-4b42-92d7-0dc58982ae7d@748c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:6e86ea56-5e16-4823-9674-1e78fca487f2@6e86.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:6524d23c-3be8-4b17-ac69-41ff01b0767f@6524.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:e0355c8c-e16e-48e2-ae81-98c727a18ff2@e035.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:6a4e8115-f376-4cb4-98f0-b39bf89f4451@6a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250304
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:da263b2c-d19d-468c-aaf9-842dd6db5cb6@da26.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Problematic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problematic waste
-UID:a1f9c7af-0a69-428a-b332-d2c33b524676@a1f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250523
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:8f39b00c-66fc-4fff-a88a-a04d85a6dfe4@8f39.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251002
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:b233f166-8284-47cf-bb12-2dd2ca9ed2ff@b233.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:bea850a2-7377-42cd-85c3-1fea7150ad81@bea8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:444f548c-6e4a-4df7-941a-72f3f5a2b80c@444f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250401
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:922c172e-c934-4855-af0c-77de37d71025@922c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:d172c688-97c4-4d4e-80fc-a9d0298d379e@d172.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250331
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:48bb7720-d684-4a5e-a50f-50d6ca726fa0@48bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:c1210095-1d71-45ac-a83a-2e2d8c87dcf8@c121.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:454d7c05-bda4-4918-b699-e81e1c2aceb0@454d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250210
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:4a8fe0ed-4690-4548-bd6c-e1cea66c5e6f@4a8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250728
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:2d17222d-6909-4903-b670-2ba1612fb851@2d17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:d150c3f0-bc7d-4dc7-9c04-542fe8189738@d150.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:8c406066-d4d4-488a-b6bc-934c9d4b74bf@8c40.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250819
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:4e54d01f-8ee8-463a-8eb3-176acb2f1dcb@4e54.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251218
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:85c88935-e1ea-4150-a559-cb6b3ac4950b@85c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:9a175fe0-2637-4f2a-902f-374b04de1bfe@9a17.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:3c9b7198-5581-49c7-8cf6-ab7b245b7e86@3c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250729
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:dc250443-a297-44bb-8ffa-f88d3a0c38d1@dc25.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:e708764c-07e9-492b-ae0f-cbdd0b9bcac2@e708.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:76e78df1-2102-4a96-bdcc-e51cf1d2c01f@76e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:7ce9b2dc-0094-49d0-ad06-2f3f58a6f78b@7ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250204
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:97a82b99-fc15-4030-9cbf-993082e0d8b5@97a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250217
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:ac1facee-4855-443d-a02e-4c8babded297@ac1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:e87dc340-2b0a-47dc-a944-d579baac8f1c@e87d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:3a3a38d0-3e37-48fd-ac1e-e7eabb8b1b3f@3a3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250324
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:fa0ddb5d-ca43-4c98-91ff-722b1f8a86f5@fa0d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250515
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:da42b0a1-c436-4317-9fa9-00cf762a9740@da42.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:9cfba070-aa34-476f-bc3e-0d474a8110af@9cfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:867aa080-d43d-4997-8422-a13174518a3e@867a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:697e9332-6350-40aa-a416-c5c7020567ac@697e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250825
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:44a450ee-cbe2-4c57-a8e7-2c855a8a8990@44a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:82fea6a0-6cb2-4ad0-80de-4c1d2310bdbb@82fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:b2f88032-9060-4e13-949c-412b79b8c37f@b2f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:4c0e1111-fb44-4a21-a601-26b0371a7408@4c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:50805fd4-7f67-4c65-9049-d0bc15220113@5080.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Problematic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Problematic waste
-UID:7f9dc4c9-63b7-41a0-ad88-345349363ee0@7f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250218
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:572e637e-6e2d-426c-9118-9b4204efd0ed@572e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:319e9bed-dcbb-4e0e-82c2-75d4442a1559@319e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:9dc12a38-b6ca-411d-b264-2b1a997ece51@9dc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250214
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:d46ec9fc-fc96-4a22-a10f-b69ea6b74ac6@d46e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:357c0458-6b4e-4d17-ae75-5bb7a7872d65@357c.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:8cd501cf-6c77-4131-b554-9387e52c3fc9@8cd5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251118
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:3e314824-4544-4580-b433-a622c754cd8d@3e31.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250424
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:de2f3abd-fcc0-482e-9a49-f2ca6c24a1ae@de2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:0160ad40-837f-4b1e-a7cf-6922b2dac8da@0160.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:9863003c-14b0-4449-aa70-7d0af406ca9a@9863.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250818
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:14ea90b2-e80b-4dd8-bf72-e6b4a82b1cca@14ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:6fbcedae-0507-4f51-bfd1-13c00b9661f2@6fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:5b09e32f-6a22-47eb-b869-1cfd30a5fa3b@5b09.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:87630361-563b-4a0c-b22a-12e6e5bd68ee@8763.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:4e35ecd5-afe5-41fc-873d-f7216195d4cb@4e35.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250225
 DESCRIPTION:Waste collection: Residual waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Residual waste
-UID:6fb31129-f863-4e67-8bde-92a26a40a705@6fb3.org
+UID:f8c0b49c-8a54-4a3c-9cbc-50bc6a135f68@f8c0.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:Waste collection: Residual waste
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Green waste
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:b04c6e95-8230-4ce8-82be-a38e1051bc7f@b04c.org
+SUMMARY:🌱 Green waste
+UID:c20d0666-1ec3-4a4a-8d3b-d7b0bb7ac18b@c20d.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250807
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:665d29c9-9efa-46ff-ba41-3ae2a9233362@665d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:4268de6f-599d-4397-a0df-84819b0fc84b@4268.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:aab93287-41f6-4f0e-9952-f60804a13634@aab9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:1df3b8b1-4841-4157-87d0-fb945e0ab7c3@1df3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:af3a919e-5615-4818-8ba9-8c2904f58493@af3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250128
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:6fd35877-f6d6-4ded-864f-7faed3ed59d6@6fd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250411
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:6fac7a53-9495-4016-8c03-a3fe336f3561@6fac.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250414
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:08e592d1-f524-4a57-8166-16f8c43fbaf5@08e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250701
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:90eeb603-e2af-42b3-a53d-9a914bdadc61@90ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Christmas trees
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Christmas trees
-UID:18215be7-9c3a-4ce0-9248-3c19bc0a2cb2@1821.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250718
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:7a32c8dd-49bd-4441-9cf2-02a54a50396f@7a32.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:bafd26bf-eac5-4956-8b56-a66010d3b270@bafd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250526
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:d1eaf339-5037-4aaa-bcfd-8c92c436b740@d1ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:da33bb8e-8d22-4867-a4d2-89dec0c44fa8@da33.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:77a4661a-16a1-41ee-a6f6-7099f12721fb@77a4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:b5fb637f-bba6-4c98-93ff-fde5dc99393e@b5fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250131
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:4c76b477-417d-4fc2-a8f5-f63214c98b4d@4c76.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:312e124b-d6b8-4a6f-975f-d81d0547d3c5@312e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250206
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:b9f42de9-a5db-4cb3-9c5c-e240245af74d@b9f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250415
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:f07311fe-32f1-4471-9e37-a2a77ee18216@f073.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:cb7effa8-be41-4cca-be3c-ddb4556e2885@cb7e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250103
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:2f97f35e-1417-40c8-9c2c-5214de2657d2@2f97.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:4039930e-5492-4b87-b953-2f5d391f8d8a@4039.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250117
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:61aaefd9-b65d-457a-9482-707821213a8e@61aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250522
-DESCRIPTION:Waste collection: Glass
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Glass
-UID:2bc4fb5c-75c3-487a-9aa2-d6f534f56bc1@2bc4.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250902
 DESCRIPTION:Waste collection: Residual waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Residual waste
-UID:b2afa5af-1970-479d-ae5f-6feee4151be4@b2af.org
+UID:88ac09dc-74f8-4661-814e-04a72ba44028@88ac.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250220
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:8f492d7a-3318-40a9-a071-3d18ce1dad0d@8f49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250127
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:78b5626e-8a33-475c-ae7b-f1da2af4d20f@78b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:b6148f3e-40bd-4eb0-8356-ea674f433b93@b614.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:9dff0e0b-5571-43c7-a7ed-f6964ad08308@9dff.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:cba8adad-48f3-450a-b4a2-3a4aa7126a05@cba8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Green waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Green waste
-UID:06513f8a-84aa-4aa1-b8b1-16de1c1c4228@0651.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250630
-DESCRIPTION:Waste collection: Organic waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Organic waste
-UID:2537d15d-e985-4b3b-9060-3b81991498ab@2537.org
-END:VEVENT
-BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250102
 DESCRIPTION:Waste collection: Paper and cardboard
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Paper and cardboard
-UID:aa4d5796-bb46-4109-95fb-d7e14a1467dc@aa4d.org
+UID:035a8b5a-9322-4a37-b03c-61de6db198f1@035a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251204
 DESCRIPTION:Waste collection: Paper and cardboard
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Paper and cardboard
-UID:0b999245-c655-43fb-85a8-e7f3058e5ea3@0b99.org
+UID:6796dea1-5f06-4c9f-b151-81424d87ff4e@6796.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Bulky waste
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251215
+DESCRIPTION:Waste collection: Organic waste
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:34a266c0-ca56-48a3-a765-a53d1f251757@34a2.org
+SUMMARY:🍎 Organic waste
+UID:bfb891ee-1863-4d62-ba7f-5f70a36a969e@bfb8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251016
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250415
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2354b9c4-a8f9-4787-8b4b-3eb458c03659@2354.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250519
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:3c974235-eba6-4e86-97b0-7d0d7b1dbcd5@3c97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251002
 DESCRIPTION:Waste collection: Paper and cardboard
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:📄 Paper and cardboard
-UID:1043c3f1-3e9b-4cca-b486-915d5f73664c@1043.org
+UID:f5aedcd8-dc8e-4333-b603-739da1f35c91@f5ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:af6a2959-909f-4666-aa90-6e99ec6fcecf@af6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250926
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:d683b9d0-3d64-4e45-ae93-9ad7fa47ae9a@d683.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:ba27baef-e0d8-4b1d-a2aa-f7ec017233a8@ba27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250721
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:e1ba4bbc-95b1-417b-a84f-a307addf2598@e1ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250206
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:b143caa2-b8d3-4386-b339-bd3da8bed8db@b143.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250227
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:8118f3a4-a310-4f7d-a12b-8ddcfceabc05@8118.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c7b16514-d7c1-4939-9622-77e69f2f24da@c7b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:f3c5969b-6dbe-42cd-93b3-6f2a61bb1cc4@f3c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:aa52892f-6ecc-4e67-bf41-7d4647c277fc@aa52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:319b48f4-3024-419f-a2f1-d9ebcd25b9f0@319b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:816b6715-0548-4d8c-8c94-b68b3c49701f@816b.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250402
 DESCRIPTION:Waste collection: Electric appliances
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🔌 Electric appliances
-UID:ebd734bc-1075-427e-8ea8-bc930c7190ee@ebd7.org
+UID:1edfa398-67a9-45b9-a2ef-e0773c195589@1edf.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250801
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:4f206ebf-97b9-4328-9edf-2382598a2d2d@4f20.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:129363c5-79d8-4e1d-93c4-3a45a03265f6@1293.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:b5cd7f59-542c-4088-bb6c-848aa1afcbd0@b5cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:e9020ed2-dcd4-44d8-b139-a58defeb3bb7@e902.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:3dc9a61c-b3e5-4cb6-adb4-3e59a9a59de5@3dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250108
-DESCRIPTION:Waste collection: Electric appliances
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Electric appliances
-UID:84dd6343-4675-4370-92b2-d1d1d08f9564@84dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250923
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:d124ed6e-d294-4b83-9453-481f91ff903a@d124.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250107
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:fd9b3724-0360-44a9-ab21-675b1d5f0e24@fd9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Bulky waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Bulky waste
-UID:b28baed7-cddf-4db0-8b1b-a3ca3cf87bb4@b28b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:43f53827-ba57-49a4-96d8-a460f969e660@43f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250310
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250714
 DESCRIPTION:Waste collection: Organic waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🍎 Organic waste
-UID:e144843b-bade-474f-8dab-35b19fdf2df6@e144.org
+UID:3a48ad3f-6c11-454c-b1af-843291535fc7@3a48.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250506
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:d9d786dc-1fba-4a57-85ad-baa05e2dce7e@d9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problematic waste
+UID:f2e53053-755c-4687-a1d0-55df89801e8c@f2e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:2606d3b8-711d-41a4-af7f-063f9a84af6f@2606.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250401
 DESCRIPTION:Waste collection: Residual waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Residual waste
-UID:1ceb20b4-7375-4874-9df1-9905e2f0979d@1ceb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250320
-DESCRIPTION:Waste collection: Paper and cardboard
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Paper and cardboard
-UID:8259f8f7-4351-4fec-8d59-489b2729a97e@8259.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Waste collection: Packaging
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Packaging
-UID:e113409b-e2fa-49e4-b883-0d028c03840b@e113.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250527
-DESCRIPTION:Waste collection: Residual waste
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Residual waste
-UID:26a6e21c-249a-496d-ac20-79b34c94a731@26a6.org
+UID:80932fe0-7a88-44e7-a46b-2482d0485013@8093.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250307
 DESCRIPTION:Waste collection: Problematic waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:⚠️ Problematic waste
-UID:fd94cbd8-c3fb-450a-a4cd-fc9dd042ae76@fd94.org
+UID:a2937246-a9b0-4e06-9baf-c74784867581@a293.org
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:38fdbcaa-348d-45ae-b0e0-06a4a1c506c2@38fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:680b8aa0-4c36-4ac3-a577-1de40cd05e30@680b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:dd43307e-9943-4dee-b9e4-02979ea1cd01@dd43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
 DTSTART;VALUE=DATE:20250805
 DESCRIPTION:Waste collection: Residual waste
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Residual waste
-UID:fd1be306-43f5-424d-b645-273dc20976c1@fd1b.org
+UID:bac74348-917b-4ea3-a066-ae07747293be@bac7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:a00b3f3d-63cf-4e42-8693-ecc5e82c3ed3@a00b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:3bc23765-47a6-401d-ac6c-98acc9e1ed87@3bc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8a74fb2d-85d8-465d-9f34-aee85f846cef@8a74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eeca898d-a960-4222-be17-818825d5a18f@eeca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:ebaf733d-e7f4-4fa3-818f-37bc3837d94d@ebaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:13d14e54-427b-4d82-bfa0-90bfbf428ce1@13d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:c162b2b5-01b1-4f7c-8d88-1390d5a56512@c162.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:ad0cc011-f85e-4fab-9516-2d6b58808949@ad0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251227
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:0f4bcca2-9dd9-4002-8639-fe92f0e5080d@0f4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251229
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:c7845961-a62f-46fa-801d-edf9b5150d70@c784.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:f05d1a2e-88af-45ee-9c4a-c2b2e3af271e@f05d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:4a36e550-e4ea-47e7-b805-d33c753795e1@4a36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:93da5d4f-3abd-4290-8356-a1a6b8dd300a@93da.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250507
 DESCRIPTION:Waste collection: Electric appliances
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🔌 Electric appliances
-UID:6d6e5075-c665-483b-bf7c-0590676fc18c@6d6e.org
+UID:5739d774-9b12-417c-bf29-9525e60330fe@5739.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:e98b62b3-302c-49c7-a546-33e14fcdf8cd@e98b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:1fd83c6f-319c-412f-96d1-fb1c56b9e251@1fd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250419
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:37d95e6a-b30f-4e50-bb6e-cb257c5ec877@37d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250403
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:00b272ce-4cd1-4731-87f0-a7b1ae5cf5f3@00b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:9475068a-acd5-44f8-8303-a03a205e6fa1@9475.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:f2a98f36-3d80-47cc-a8b0-503dde797455@f2a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250506
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8434ead7-04e9-464c-933e-7735b792013b@8434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:96ee5ba7-4e57-4429-aaf2-22697cc9d7b9@96ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:9af276e2-d21a-4c80-bacc-6a258770f532@9af2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250728
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:8c89d5f5-a293-4462-8c75-e2d02968d428@8c89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:2b8cc765-1d55-493f-ba49-35588ac97987@2b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:ad0fcd71-c63a-4f02-8b94-e7c91ad01c35@ad0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:01d41c94-c601-4d41-ba98-09f827bd4799@01d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:366a6a86-7bfd-45db-b2b3-dbe496d25dcc@366a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:287d02ee-d150-4d9d-928a-1b51786783cc@287d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:27b52608-ac33-4d43-94bb-e1d6775842c3@27b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ca1564d7-eb64-4bd6-9ddb-2b6cea4b713d@ca15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250328
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:8ea0e4d3-43bb-4d2a-892a-a277d6d6f4db@8ea0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:854ec1f5-a1cf-428a-a28e-d4e6c61d2a24@854e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:474b1ce4-7e96-48a2-a34f-5c64ca4f2c62@474b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:3c92ff9c-cc71-47dc-85c1-c4265ea43e2c@3c92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:fd70f008-bf55-4ded-b5b9-944f16921b56@fd70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:845d3975-f0c6-4105-accc-664e765666e9@845d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:7cd0f566-f5ca-4b59-8cd7-9591748b467d@7cd0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250314
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:201f36f6-c98b-4ce4-983e-b3ddeb78074a@201f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:dad142c6-2946-4109-a657-05dc41df4998@dad1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e960eae8-487a-4b0a-a3f3-5d89462ea50a@e960.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250107
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ab2b637d-4a0d-4564-a842-bb85a1f86cea@ab2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:95daea84-72d6-417b-99c7-9e37afa085dd@95da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251118
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:adf217f4-0c43-4b6e-a437-5df918601c55@adf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:7e65127d-7041-4a5e-a14d-8db48e23d2cb@7e65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250929
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:0e0759e3-ccce-4f69-bbb1-77ee068a368e@0e07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cf536b56-92ab-456e-9be1-feb0b529cf54@cf53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:c5316a50-fdc0-44cd-8e4c-e9656f4497a4@c531.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:35525028-ca98-4bd1-ad40-9c12eef5c2fc@3552.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250908
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:296d1eb3-0078-4b3a-82f2-0d2d6b46d4b8@296d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250131
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:1045c007-d264-4580-91e0-e6e5fe2e87c2@1045.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:684a5b51-29a6-4609-8ffb-dfdb3283c57a@684a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:b68dfdb2-2a9a-4ec6-94f3-53949da38043@b68d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d1bec9a1-5fc9-4470-89c3-a3ee80cca702@d1be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2a4e0529-bdee-484e-87b6-97c774ab8d5a@2a4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:88a9d373-bc84-4723-92ae-0e4c432f0966@88a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a11c52fa-02c4-4f3b-8ddc-ea0eac97cb45@a11c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:2c685f36-4225-49c3-b270-a07c4c15de7e@2c68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:1d9de426-eec0-4df2-8ef9-99794e762316@1d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:813816b6-95a3-4aa8-ac5c-108f4c8947c0@8138.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251120
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:30aac3e1-59ac-4d05-a8e2-5cc7d00e7af6@30aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250818
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:02032fc2-7d33-4bb2-a7d9-ead8bfc3f4c3@0203.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:40b87aa6-2c36-4730-8f7f-47f81b5b75d8@40b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250703
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:ab62581d-674a-41b7-802e-5b3238adfff5@ab62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250320
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:59e0aeb1-277a-4dfd-84b6-f85577cdd2bb@59e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:2f58c203-defa-449b-9510-4f39bb09669e@2f58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3121c9ac-3aad-4431-adb4-2df10e9fd5e0@3121.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250422
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:97bd792f-fcf2-4de3-bfa4-ec2913935778@97bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:91bc5f40-6a7c-410e-9c49-84dc7e725f8e@91bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5664e9a6-e026-4879-9781-0c4ac5af82b8@5664.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:688c7964-298f-4453-8e15-732806179982@688c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251027
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:459c54ce-2fa2-42f1-a207-7dacb027e209@459c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:596d2db5-63e7-46e4-818f-da3f27dd40a7@596d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250807
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:fe6bdd11-867d-411a-927c-d0f67cbdf1f2@fe6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251218
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:1b645e2a-7e6d-4bb0-882d-0f145dd5afc4@1b64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250214
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:88e0a0cc-c803-4ff9-b44b-20f02e58791e@88e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250220
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:d8bcc696-e475-4ac4-815e-322a1f29d484@d8bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:58234404-9b48-476b-8161-c8d331ab9341@5823.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3b9c37bf-b5ca-4f4e-89ba-d5bec0c89585@3b9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250718
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:59d528a2-51f1-44ba-af5f-e97b26435b93@59d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:321f263e-7f16-4541-8ade-829907353f43@321f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:ebc325ec-946d-4f19-8194-cf03132477f4@ebc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:40c408a3-4dbc-4c99-bc6d-b4fcd4f75166@40c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e2c88808-8d28-4d61-bea2-3cdf04bebb71@e2c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:9e0f7077-9184-4c7d-8c20-e1e3b33286d0@9e0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:42ebebde-9cba-4025-b9b1-3c94fb42cb69@42eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d81d1f82-5073-4d2a-8caf-d43e76f9c43f@d81d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251007
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2c04e293-477a-4c5d-a077-2a640512e28b@2c04.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:de13ac7c-c5eb-4d95-9c3d-01ebd1a48e23@de13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7bbc5964-2d75-4e9a-8bb2-513be08da290@7bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:fdcc7554-88ee-49d2-9464-6ccfbff8b414@fdcc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251124
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:cdbaf9b2-af0d-4604-8a60-7500e68db69f@cdba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250306
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:b852b268-f4d5-4211-85f0-891adce28386@b852.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3e051a7d-f510-4afa-8081-920953e7a52c@3e05.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:a12e7a88-38d9-466c-b82c-cc22602746e9@a12e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250424
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:e310f30d-499d-4d58-a32b-f92ce337083c@e310.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250414
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:73ca7b5d-f452-44f1-aaa9-8aa967b5aa28@73ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:3742fdcd-54eb-4219-a1f8-c923067e390e@3742.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250607
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:de40664c-680b-495e-b22b-6402def68a32@de40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:02b2a51b-e819-4403-8586-5405cd3d1ee0@02b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250411
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:2d84ba2c-268a-41c1-b8ad-2e816016169c@2d84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:0a976358-5b9d-4ca1-bf2e-6801988aacc1@0a97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:f31c94ab-dcbd-432a-9fef-7e3263eda032@f31c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250228
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:a37460fd-ebe4-4507-9ec2-39ea7f3630bd@a374.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:e6af1781-dac7-4798-ade7-a91bab96a920@e6af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251230
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c590bf9a-45a1-4bcc-a6a2-091d2da5764f@c590.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:8b1b5fd3-c1a8-4560-a8da-a6ac86076300@8b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:20d19327-549f-4fca-9f11-cb37c9fea6bd@20d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:508a8872-4475-4134-808b-90ab1de6b5bf@508a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:929093b7-b906-4e80-85a5-313a5faacb4a@9290.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:b869bcf7-0616-459a-807c-ce3b7c3fec5d@b869.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:e456c0b6-ea91-4449-96e5-b76ffc2454da@e456.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:745a2689-bf32-4ca6-bc98-c5a833602c7a@745a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:758572b2-7e90-4cde-a5d0-fbbe7c2006c2@7585.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:90a672b4-219f-4347-b45d-58a11a7b3e3b@90a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:f840c937-9017-4f25-b536-2582a87fc555@f840.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250916
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f051896b-8dce-4462-adc4-0a855d0b5ae7@f051.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:a206396a-8b26-4ea7-80bf-81a70f5dc7f7@a206.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250106
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:b6077c65-d6b1-4bf2-b1d8-02186666b9a1@b607.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:a318aea8-de55-4283-a214-51c451664112@a318.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2c6d9577-143d-4636-a1db-a3abc3f288e1@2c6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:5e011e66-fb1e-41bf-9e46-8df2501c0cd3@5e01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:825615bc-cde1-4cba-82cf-37738286dc82@8256.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:4d79c1b1-7f11-42f5-9ae9-96f06e207b92@4d79.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:1f87e7f9-7f20-448a-b446-1186217f9458@1f87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:8e94cb2f-a317-4823-85c9-76c1c5a56ce6@8e94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:cfcfa063-e25d-4191-afae-74bde3a38bf8@cfcf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:a46d3a1f-68d5-465f-b668-9fc5a2fb7d2f@a46d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:19f2dd6a-fe84-43d9-8e1d-9f5b80f8136b@19f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250620
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:7580d50f-5d4a-47b1-9bb4-43be63231e64@7580.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7f007823-227a-49f5-8b84-10495c99b572@7f00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:077af593-04e8-4856-b323-f53ddee6d6f2@077a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:0e562d4b-e3bb-4620-8dea-dfe73bf6e4b8@0e56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:c1a4ed20-7f20-4e0c-b32c-dc5dca3afcbd@c1a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250103
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:1a4c50dc-2368-484d-9800-2ddaf7912d2e@1a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:b21c2fe4-5ff3-47d4-b999-3925a953b890@b21c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:aa007dc5-d59c-44ef-9a57-aaedc90af289@aa00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:cbc8919a-3bfc-4db3-8e01-6a828e051bcd@cbc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:be781369-079a-4791-b533-d68704bb31d6@be78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:e9ca9288-f2ce-4797-a6bb-8a1c1511208b@e9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problematic waste
+UID:4d72fc65-2a0a-4419-aa66-5a8a9f8d5450@4d72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:853794b1-e9af-4ab7-b412-d48182225e2e@8537.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3534cea3-e653-4b31-89ec-060aa2cd136c@3534.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f4c63eab-a0c1-4206-8940-1d9335de018c@f4c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:0e831a4e-a2df-4d60-b8ab-d135d2a531fc@0e83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250729
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ddf59bf7-1928-4386-8271-f761bfd70f07@ddf5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:69962ef3-0889-48c9-90c4-772f33b816ea@6996.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:b3b6cc11-12e6-49f5-b3d4-9950c28e99a1@b3b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250123
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:84ee119a-0686-447c-8b01-92f52524e1e9@84ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:52bfd71f-4647-49e1-a6d9-14d14575c61f@52bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:2a3ab326-6b36-4d96-88db-13eebd0155ee@2a3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:Waste collection: Glass
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🥃 Glass
+UID:a0386e81-8e40-4899-bf21-86b04c685dd4@a038.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250108
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🔌 Electric appliances
+UID:11b12f08-2cf6-4233-9fb6-4ba7b0d58a56@11b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ffaf9fb5-458f-4c13-b180-3b5952ae4ce6@ffaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0da1074e-8b7d-4a71-b6dc-e86cb1823c73@0da1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250825
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:5c073072-c9e2-4a9c-bffc-e1800af3cebb@5c07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:81fd11ce-15f2-42f2-8961-d1f689319ab8@81fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:f220a7c6-0b97-497c-9dd6-b8a643ea949a@f220.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f9b82a2d-e532-482e-8a92-ffe5f9e5c663@f9b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:30434137-ced8-45b0-bff7-21485e456e7b@3043.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c6b6258a-1801-4e2f-84eb-6781b40de60b@c6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:Waste collection: Old clothes
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:👕 Old clothes
+UID:4110ae4f-20f3-4037-ae5b-5e8e2f738901@4110.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250117
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:3a23a4f1-bdd9-4e54-8c9c-e2a9ebd2761a@3a23.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚠️ Problematic waste
+UID:05a46887-e3ed-4790-a808-6c658c0e9617@05a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍎 Organic waste
+UID:847fd843-90e2-47d2-b729-316b66257b65@847f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a6c371ab-345f-48b0-9faf-f046eaa6a8f3@a6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:72de59df-30ba-4339-9ee3-0841d9ab3389@72de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9b7a8f29-95c6-49dc-8ad5-bf69640a73ab@9b7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250425
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:eeec1c78-9365-46bf-a6e4-f9a53dcc5f0e@eeec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🛏️ Bulky waste
+UID:acd01990-03c6-441a-98d3-420eae0329ef@acd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌱 Green waste
+UID:79c24aa0-f02b-4ec5-ab46-e3831963f9ee@79c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:c8d6d8e0-0991-48be-a4cd-94be19b455a7@c8d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Packaging
+UID:0c11a532-2282-4ccc-a5d3-a0037776fcd2@0c11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📄 Paper and cardboard
+UID:ca4db4d1-90e8-4acd-83df-4d398d332ea7@ca4d.org
 END:VEVENT
 END:VCALENDAR
