@@ -42,7 +42,7 @@ waste-cal = "waste_cal.__main__:main"
 
 
 [tool.hatch.build.targets.wheel]
-packages = ["waste-cal"]
+packages = ["src/waste_cal"]
 
 
 [tool.ruff]
@@ -90,4 +90,5 @@ filterwarnings = [
     "ignore:builtin type SwigPyPacked has no __module__ attribute:DeprecationWarning",
     "ignore:builtin type SwigPyObject has no __module__ attribute:DeprecationWarning",
     "ignore:builtin type swigvarlink has no __module__ attribute:DeprecationWarning",
+    "ignore:Behaviour of str\\(Component\\) will change in version 0.9:FutureWarning",
 ]
