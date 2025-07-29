@@ -46,17 +46,17 @@ class TestGetWasteTypeColor:
     def test_get_waste_type_color_residual(self):
         """Test color for residual waste emoji."""
         result = get_waste_type_color("Residual waste 🗑️")
-        assert result == Colors.RED
+        assert result == Colors.GRAY
 
     def test_get_waste_type_color_paper(self):
         """Test color for paper emoji."""
-        result = get_waste_type_color("Paper 📄")
+        result = get_waste_type_color("Paper 📦")
         assert result == Colors.BLUE
 
     def test_get_waste_type_color_glass(self):
         """Test color for glass emoji."""
-        result = get_waste_type_color("Glass 🪟")
-        assert result == Colors.GREEN
+        result = get_waste_type_color("Glass 🍾")
+        assert result == Colors.YELLOW
 
     def test_get_waste_type_color_no_emoji(self):
         """Test color for event without recognized emoji."""
@@ -65,8 +65,8 @@ class TestGetWasteTypeColor:
 
     def test_get_waste_type_color_multiple_emojis(self):
         """Test color selection with multiple emojis (should return first match)."""
-        result = get_waste_type_color("Mixed event 🗑️📄")
-        assert result == Colors.RED  # Should match first emoji in WASTE_TYPE_COLORS
+        result = get_waste_type_color("Mixed event 🗑️📦")
+        assert result == Colors.GRAY  # Should match first emoji in WASTE_TYPE_COLORS
 
 
 class TestFormatEventName:
@@ -75,7 +75,7 @@ class TestFormatEventName:
     def test_format_event_name_with_emoji(self):
         """Test formatting event name with emoji."""
         result = format_event_name("Residual waste 🗑️")
-        expected = colorize_text("Residual waste 🗑️", Colors.RED, bold=True)
+        expected = colorize_text("Residual waste 🗑️", Colors.GRAY, bold=True)
         assert result == expected
 
     def test_format_event_name_without_emoji(self):

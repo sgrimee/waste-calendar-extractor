@@ -71,6 +71,7 @@ class Colors:
     CYAN = "\033[96m"
     WHITE = "\033[97m"
     GRAY = "\033[90m"
+    ORANGE = "\033[38;5;208m"  # Orange color for clothes
 
     # Background colors
     BG_RED = "\033[101m"
@@ -81,16 +82,19 @@ class Colors:
     BG_CYAN = "\033[106m"
 
 
-# Waste type color mapping
+# Waste type color mapping - matching PDF colors
 WASTE_TYPE_COLORS = {
-    "🗑️": Colors.RED,  # Residual waste - red
-    "📄": Colors.BLUE,  # Paper - blue
-    "🪟": Colors.GREEN,  # Glass - green
-    "📦": Colors.YELLOW,  # Packaging - yellow
-    "🌱": Colors.GREEN,  # Organic - green
-    "👕": Colors.MAGENTA,  # Clothes - magenta
-    "🎄": Colors.GREEN,  # Christmas trees - green
-    "♻️": Colors.CYAN,  # General recycling - cyan
+    "🗑️": Colors.GRAY,    # Residual waste - gray (matches PDF)
+    "📦": Colors.BLUE,     # Paper - blue (matches PDF blue box)
+    "🍾": Colors.YELLOW,   # Glass - yellow (matches PDF bottle)
+    "♻️": Colors.CYAN,     # Packaging - light blue (matches PDF recycling symbol)
+    "🍌": Colors.GREEN,    # Organic - green (matches PDF green bin)
+    "👕": Colors.ORANGE,   # Clothes - orange (matches PDF t-shirt)
+    "🎄": Colors.GREEN,    # Christmas trees - green (matches PDF)
+    "🌿": Colors.GREEN,    # Hedge - green (matches PDF branch)
+    "☢️": Colors.YELLOW,   # Problematic - yellow warning
+    "⚡": Colors.YELLOW,   # Electric - yellow lightning
+    "🪑": Colors.RED,      # Bulky - red (matches PDF red container)
 }
 
 
