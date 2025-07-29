@@ -104,7 +104,7 @@ class TestCalendarData:
 
         result = calendar_data.to_text(Languages.EN)
 
-        assert "Paper and cardboard 📄, Residual waste 🗑️" in result
+        assert "Paper and cardboard 📦, Residual waste 🗑️" in result
 
     def test_to_text_multiple_months(self):
         """Test to_text with dates spanning multiple months."""

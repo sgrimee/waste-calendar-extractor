@@ -2,85 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Déchets problématiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Déchets problématiques
-UID:7d7ec63e-7efb-4269-8d2e-c65a6f23b58c@7d7e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250717
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:71aff047-5dd3-4169-b4f5-75a87e919fdd@71af.org
-END:VEVENT
-BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250616
+DTSTART;VALUE=DATE:20251215
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:90e70766-b5f7-4859-84af-5999dcc910b6@90e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251014
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:ae3cc673-f853-44a5-89c9-ec2afa8ec4e2@ae3c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250324
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:65a3c20e-9bc9-4753-a982-00338b31da19@65a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:9a3ee9c8-69ef-4413-97af-d311c8977e49@9a3e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250127
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:7e725f8e-f0cd-4282-a4b4-9e68ff8d4344@7e72.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250704
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:69b6df21-7342-4696-a01d-2df7f6706be6@69b6.org
+SUMMARY:🍌 Déchets organiques
+UID:932f183e-6690-4fb5-982b-7cd987ab0737@932f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,147 +22,15 @@ END:VALARM
 DTSTART;VALUE=DATE:20251120
 DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:3c2183d3-2cc5-44fa-ba7b-8c97e62ae707@3c21.org
+SUMMARY:📦 Papier et carton
+UID:98fb2592-6e95-4819-8eac-db934ba3c924@98fb.org
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Déchets ménagers
+DTSTART;VALUE=DATE:20250604
+DESCRIPTION:Waste collection: Appareils électriques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:98c68d64-fc4b-4bb8-8e4a-556561723cf6@98c6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251208
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:377acd3d-f68b-47a1-9d17-cc890bfa0ac1@377a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250320
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:4c374d53-69cd-41c4-b937-1388ad048cfa@4c37.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250128
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:65727ec6-d70b-466f-9ec6-adeff226b473@6572.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251013
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:d13d70fc-3525-498a-a3a7-326a79b6fa38@d13d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251110
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:4ebc26bf-36bd-494b-9d2f-ecde2561d841@4ebc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250626
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:e7c4250c-e466-4ebc-aed4-71b0be26435f@e7c4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251223
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:69dc026a-f9f9-445a-bbe5-20181d5daaef@69dc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251230
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:e404eea8-1344-424a-9b25-ca946c0c0d46@e404.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:2ed2f4e4-123e-48cc-9bb3-acbb85c46743@2ed2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250605
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:4f5392a6-bec9-45a2-b948-49638d57cfc9@4f53.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250328
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:7acac13c-f8ee-4528-93b5-7ec2a3de85e3@7aca.org
+SUMMARY:⚡ Appareils électriques
+UID:e1fa1697-af40-4a28-9845-5e94d44d59c5@e1fa.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -243,713 +42,7 @@ DTSTART;VALUE=DATE:20251014
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:eec814ee-3aae-41d8-98a5-5d9c68be976d@eec8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250916
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:b0574124-18ce-44c3-b0b3-cff1a43a94ff@b057.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250310
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:5c4d987b-9935-42c8-a2ad-bbf47b16c44e@5c4d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250818
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:c955aa17-503b-4b04-981a-34ba6ce8c72e@c955.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251222
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:012c73d8-ac07-459c-8d2b-52c28ee149f1@012c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250401
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:55bd95c7-2a96-4076-b47b-f21cb52c1fd6@55bd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250506
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:12aa965a-37fd-4abc-9b11-db4e1937ab41@12aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250903
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:8dfcee4d-d0fe-4bea-94f7-fafae355dd24@8dfc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250325
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:eb38e95e-e42d-4151-bde1-efb9a8a26041@eb38.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:6bc9f14e-530f-45a0-a954-e48d5afe3263@6bc9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251205
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:d7cdd7d5-5134-4772-9a07-1f758384f8d8@d7cd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251124
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:dcdf143c-4151-4a0d-91b1-93e18fe0f1b0@dcdf.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250414
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:c79fb816-b749-4ca0-a56d-e90c91810975@c79f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:32d2aeb6-2e32-4b9c-a860-1eef89a819dd@32d2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250617
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:8dfd62eb-c910-48a8-b31c-383ebfe38f1b@8dfd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250121
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:b0b1e82f-6bfc-42bb-a68b-64c6e2bc030a@b0b1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250728
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:768bc52a-6131-4b71-bf72-2c1bd8a401d4@768b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250422
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:986f4ff3-cb6b-4992-a487-8bedefe6e587@986f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250904
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:908b8202-f9d8-49e2-bb9f-a513561b4d46@908b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:9694383d-e561-4d3c-bdbf-061f97f6a2b3@9694.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:6044cee9-2e52-49d2-8221-384f9289de8b@6044.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250923
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:a8bebd87-7630-4bb3-8442-80ef62e3835d@a8be.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251227
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:b1d238e5-9625-4e56-9dde-6734cc168eaa@b1d2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250902
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:491e3307-99d1-47d0-854a-1e365a029a7a@491e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:c226e91f-b8c5-4cef-a1e2-b70ef4094807@c226.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251107
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:8aa94469-2952-4a76-aa13-28a82f764fe5@8aa9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251024
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:0e45eded-a0e2-41bd-8eee-8f3988ae9886@0e45.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250108
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:246aa42f-efe3-4e03-aa24-efea570e7ffa@246a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250117
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:6cf1fa07-178a-444a-a9f1-9758386db2c5@6cf1.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250604
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:aa606095-3029-47cc-827f-cc548eb76f44@aa60.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:4080b809-16f4-4f1e-b262-faab71e05635@4080.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250804
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:83c5476b-0607-4a0d-aa65-3aaae5d6c3b4@83c5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250912
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:56a7971c-7b41-4172-8cce-1c4fa431eda3@56a7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250729
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:4fca245e-7a59-41a7-8fae-38933747278c@4fca.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250306
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:0b14ec75-1815-4786-b1a0-91f7d7455998@0b14.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:ec87a401-a175-4708-b35c-cbf6ca79fe4c@ec87.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250619
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:4d04db3c-9016-43bc-bab1-34e29c97a1f7@4d04.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250807
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:01d0ede0-03c8-458c-8f02-8d01e9b6da90@01d0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251202
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:2795531f-6ec3-4e54-bed8-7b182cd37125@2795.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250522
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:0add5c9e-fbd8-4f8d-8cc5-897dd62a4fec@0add.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251027
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:e747c77b-a655-44d2-b952-aaa133a550d0@e747.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:819192d6-2f02-41b6-9d12-fa9cd28d5cdf@8191.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250225
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:12fb30d7-4043-44b5-9aeb-b59d6504d3b4@12fb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:2d1686ce-37ba-40aa-aa68-24f84d2e2e69@2d16.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251028
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:592d648b-e21a-4ce3-9e1c-bfe705bd9e4e@592d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250828
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:21bee406-b7d3-42ae-89c1-e69348caa061@21be.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250408
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:0f6e60d3-15fe-4bc8-be94-7b913d14ac3f@0f6e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250403
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:ac7cd0e1-ae26-47df-b91e-6be6716e326d@ac7c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251218
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:aa25f994-d468-44ce-955a-0b876520ac9e@aa25.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250527
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:2cb7218a-1c94-40f8-a24b-9f6774b20e4f@2cb7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250503
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:32981ec3-367d-46c4-9243-f55a16be4b42@3298.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251204
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:09385f9e-ee74-4a2f-9fb2-055ba3f5d15f@0938.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250331
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:aef50a98-d2a1-4061-887a-f3f08922c4ad@aef5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250801
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:d77833f7-3427-45ba-8559-53fe50978eb2@d778.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250327
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:779672a5-b15e-4f28-b826-566e83f8fab5@7796.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250411
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:7102d691-831f-42e4-847f-8084662c109c@7102.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:a11092a7-3bc8-4be2-8c66-cfe3afea1426@a110.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:c9e29edc-6d3a-4048-ab05-33f9bb3f9a1b@c9e2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250925
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:d3834fd4-2187-4bb2-9e1f-0c4245532f92@d383.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250602
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:7e20d1de-4acb-4bab-aba8-e83762f52b2c@7e20.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250515
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:41414eab-3998-4cb8-b803-a2dc3e4e1de6@4141.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250624
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:328f108d-b0c3-4469-8df0-f448bc3efdd2@328f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250829
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:e2daeb2f-6817-4e84-97f9-7f19f507a226@e2da.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:10f8a595-dc79-4aa6-b55c-4455c1c66b34@10f8.org
+UID:e06eb1b8-1c54-4987-893b-e61b115ee856@e06e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -960,32 +53,8 @@ END:VALARM
 DTSTART;VALUE=DATE:20250926
 DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:5a06b5ff-a417-43fb-835b-b3bf86cb1d7d@5a06.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250227
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:2519045d-e5c5-4118-bfa2-b3fda39151af@2519.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251007
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:df1f1964-8416-4981-b814-ce06d18c4263@df1f.org
+SUMMARY:♻️ Emballages
+UID:d5a819ca-871f-4567-ba18-ecb77959675b@d5a8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -993,102 +62,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250811
+DTSTART;VALUE=DATE:20250728
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:3cab8314-a287-4c07-a461-e972c24e3bb3@3cab.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250805
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:6cf3d912-e43f-46a4-8b0a-6c99d2e0cf41@6cf3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:9a908e34-1edb-4ff5-9d94-22c7fca73a19@9a90.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:d53aa5dd-bf8d-42c6-8421-05dbe02fc7e4@d53a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250930
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:1647caf7-7974-4a74-b0c8-7f6d6af55d76@1647.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251106
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:8767a6f1-b304-4837-807a-fb9cacaf2b13@8767.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251127
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:c8639253-04ed-42c6-9259-ef956fd51a58@c863.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250304
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:e38e61de-06e3-4011-a0d2-e78b988b8468@e38e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251023
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:d5f8dfd6-48e3-4368-8ee1-f19640cdfb5b@d5f8.org
+SUMMARY:🍌 Déchets organiques
+UID:e56da5fe-37bd-4f71-bdea-585485d67d4f@e56d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1099,118 +77,8 @@ END:VALARM
 DTSTART;VALUE=DATE:20250424
 DESCRIPTION:Waste collection: Verre
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:b6dff774-6064-48fa-a7ef-c100649925f6@b6df.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250607
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:63939eaf-d36d-43af-81bf-79a9b14e02e4@6393.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250417
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:738cf851-f172-4057-bbc6-25bdc013e1ae@738c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251020
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:b1addfe4-b005-4220-b474-0fae54d295da@b1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:192a874f-c4b5-41fd-8e1a-712bb1acec6f@192a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250825
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:69042b78-31cc-407c-a8fb-72a246ba7f4a@6904.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250429
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:ad29f1ac-0fcf-4e0a-b088-b279b5593b84@ad29.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250708
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:76805e13-1bf7-440a-999a-a7003478a036@7680.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Verre sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250123
-DESCRIPTION:Waste collection: Verre
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:07f6bcb3-604b-4183-95ca-98b5bc63d132@07f6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250606
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:3308aea3-2f0b-4fc0-a997-07c7c9b3e075@3308.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250526
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:4fccf833-6d33-4d3d-9878-bd71b771b24b@4fcc.org
+SUMMARY:🍾 Verre
+UID:4f2f161b-3501-4497-bd0b-535581b6f1b5@4f2f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1221,216 +89,8 @@ END:VALARM
 DTSTART;VALUE=DATE:20250425
 DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:72eaa9c0-42b8-410b-b7fb-6970f18634fa@72ea.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251016
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:f5e602a1-98a2-4ee2-9770-e4ff60bfff85@f5e6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:2ee4e8e2-720e-4548-aa12-0a2da343e773@2ee4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250107
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:2a8be6c9-e9e0-4350-9295-e89f68f1adc5@2a8b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251219
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:3c580aef-0020-471c-b5f5-2894e80da676@3c58.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250703
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:2d404ff1-9ceb-4716-9304-a40136754c78@2d40.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250610
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:c68dfd6e-bb1a-40ad-9983-7eb358535c63@c68d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251216
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:af79983b-2b59-443e-8bc5-9e2ec23ded92@af79.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:0559359d-1201-4d37-81a6-e75a236b49ea@0559.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250314
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:8107ea55-2f82-426a-a177-9200e9500ff7@8107.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250905
-DESCRIPTION:Waste collection: Déchets problématiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Déchets problématiques
-UID:1ba942c1-3923-48a5-8056-a998d8d1028f@1ba9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250203
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:b80038ff-a9b1-4fa6-ad3d-c577d7bcd2ed@b800.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:cf92af0c-dca9-442a-b95b-fc1f958d56f5@cf92.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250519
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:1a044066-3b42-4fb4-a504-67837410706a@1a04.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:4c49935c-2503-4aad-8d63-e39ca4b68d77@4c49.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250702
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:b236d761-e595-473a-8635-683592b90c13@b236.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250131
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:63dfbca0-6a20-4586-b625-8def5bfabf2a@63df.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250428
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:321c37e0-8dec-44b0-9a3c-0cb0ff8d980d@321c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250714
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:642e320c-f9ac-4d3e-b87d-bc8a9d8e6fab@642e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250812
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:e3398ba1-80eb-4964-839c-2ef157c9ca99@e339.org
+SUMMARY:♻️ Emballages
+UID:db679d89-cdef-4a31-bd38-db9e90e7c857@db67.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1441,15 +101,8 @@ END:VALARM
 DTSTART;VALUE=DATE:20250206
 DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:b534fdc9-52e4-4182-874d-e818961c4712@b534.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:0b3dd76a-bf92-490d-828f-84913ed8e25a@0b3d.org
+SUMMARY:📦 Papier et carton
+UID:7ec39d47-2c21-4d93-bf6b-f8032ab11d4c@7ec3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1457,104 +110,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250707
+DTSTART;VALUE=DATE:20250929
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:c4a88ade-96fd-497f-b000-76ed2ea642cf@c4a8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250523
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:7b03841c-0336-4a60-99ad-cd4e7cd42d01@7b03.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250513
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:ea63c3ab-d76b-4d0a-9643-2eb54f0d3591@ea63.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250603
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:3107cd19-4d2a-47c7-bcef-3052a6563bfe@3107.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250821
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:90225fe2-0a3c-4d5d-b442-6f339c937398@9022.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:38d48822-4459-48c7-9fd5-0cc86399ec52@38d4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250211
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:a461ca82-6819-4966-8979-984b73bb254f@a461.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250307
-DESCRIPTION:Waste collection: Déchets problématiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Déchets problématiques
-UID:5ad03f91-6c0b-4ade-99f3-65d56e2b15a5@5ad0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250816
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:39f3e674-19c4-4c83-bdec-3f9ea9c11186@39f3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250718
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:527fbf5b-cc97-468e-b4a1-91a3ccdcda17@527f.org
+SUMMARY:🍌 Déchets organiques
+UID:4564ea5f-a3e6-4c25-bdee-983ef80e1260@4564.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1562,35 +122,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250908
+DTSTART;VALUE=DATE:20250721
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:63be9dee-321c-4557-990e-d7eb167af011@63be.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251121
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:c8874c0e-2e73-4132-af50-80cb88330576@c887.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250901
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:02820fd2-9c36-4db5-9fbf-944692458abf@0282.org
+SUMMARY:🍌 Déchets organiques
+UID:c2d71748-44e5-4cb1-8cdb-080e59e710df@c2d7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1598,73 +134,47 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Verre sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250724
+DTSTART;VALUE=DATE:20250123
 DESCRIPTION:Waste collection: Verre
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🥃 Verre
-UID:defcf45c-e66f-438e-b9f2-72faeffa2641@defc.org
+SUMMARY:🍾 Verre
+UID:d83491b9-5f75-4c99-bcba-5cd081535a96@d834.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250715
-DESCRIPTION:Waste collection: Déchets ménagers
+DTSTART;VALUE=DATE:20250703
+DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:e1e3236e-dc75-4274-ac05-6ed1efebd53e@e1e3.org
+SUMMARY:📦 Papier et carton
+UID:14b6fe23-6399-4053-a85c-a7531a88659a@14b6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+DESCRIPTION:Rappel: Emballages sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250630
-DESCRIPTION:Waste collection: Déchets organiques
+DTSTART;VALUE=DATE:20250912
+DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:74678eae-6566-4fe7-8c96-8d135b1f682d@7467.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250909
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:4704f34a-2777-4d1c-aee3-3ce6a6381b20@4704.org
+SUMMARY:♻️ Emballages
+UID:06059e5e-3ea8-426e-885c-2aef216b2e18@0605.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+DESCRIPTION:Rappel: Emballages sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250512
-DESCRIPTION:Waste collection: Déchets organiques
+DTSTART;VALUE=DATE:20250214
+DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:ff3402e2-4b07-4bee-a341-b124667324ed@ff34.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250415
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:43dc3ca8-c988-4572-bf72-077a41dbb1f6@43dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250806
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:83d64821-d238-4ef2-84d9-03ffdcbead8c@83d6.org
+SUMMARY:♻️ Emballages
+UID:d94908e8-2f6e-4390-a05e-e07373632746@d949.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1676,31 +186,7 @@ DTSTART;VALUE=DATE:20251021
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:333a0ac3-af00-42da-b75a-8f25c947ca45@333a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250102
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:38f53240-5173-4f7a-a89a-d2ea38e689da@38f5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250621
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:fbd1534c-1309-4d95-8dad-8234c3211806@fbd1.org
+UID:bdefd86b-ac62-4b30-9e18-ffc88df46117@bdef.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1708,30 +194,30 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250701
+DTSTART;VALUE=DATE:20250916
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:69b83954-8f9f-458e-b5cc-38fc7f9322b9@69b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251105
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:bcc27c97-5600-454a-88ad-ab1c84ec837b@bcc2.org
+UID:a1eb65dc-74b4-4f33-a98a-7571275ddec4@a1eb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+DESCRIPTION:Rappel: Emballages sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20251117
-DESCRIPTION:Waste collection: Déchets organiques
+DTSTART;VALUE=DATE:20251121
+DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:6e880f6b-80eb-49b2-8f22-64dbf84c93d4@6e88.org
+SUMMARY:♻️ Emballages
+UID:793a24e1-b507-4c83-a75e-2805ee33236e@793a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:6e1e5ed2-0f0a-4f94-992c-a9fab0eb8a87@6e1e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1739,47 +225,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250708
+DTSTART;VALUE=DATE:20250422
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:c6d0e6a2-8cd2-4adc-ba07-cc3889ea8a8f@c6d0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:2213ec95-13e5-4d64-9acc-0f1834289b0a@2213.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250116
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:d03aa073-17f5-4012-bd2e-24de465ec161@d03a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251002
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:47c66495-49d0-40d1-ad14-aceeb987afa6@47c6.org
+UID:6f659127-fa1b-4a34-82d6-c9a3507a7887@6f65.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1791,50 +241,31 @@ DTSTART;VALUE=DATE:20251118
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:1d33cbcd-1cb1-4961-bbb7-4dc4090f7237@1d33.org
+UID:4fc9517e-166d-4e53-a227-c2a4594152e4@4fc9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250826
-DESCRIPTION:Waste collection: Déchets ménagers
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:93a01e12-6e5a-42c1-b97e-89c9466a89b1@93a0.org
+SUMMARY:🍌 Déchets organiques
+UID:1359e262-2141-4eee-8cd6-c5c8a8dcd8d0@1359.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+DESCRIPTION:Rappel: Emballages sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20251209
-DESCRIPTION:Waste collection: Déchets ménagers
+DTSTART;VALUE=DATE:20250228
+DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:1c4ef50c-61d7-46ec-aa01-844c44706195@1c4e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250819
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:b07e6c40-5dba-4c70-a016-ad4c5d0642c6@b07e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250305
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:32ea5cdc-0f55-435f-b746-f03e084f06b9@32ea.org
+SUMMARY:♻️ Emballages
+UID:952f3f44-9b0a-4a08-9fc2-5db5243ec84e@952f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1845,20 +276,46 @@ END:VALARM
 DTSTART;VALUE=DATE:20250620
 DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:5967bd38-832b-4e13-a61f-8bbce2b6c6da@5967.org
+SUMMARY:♻️ Emballages
+UID:3bd6ffe8-17c2-4cbf-9a47-edec7b2acf12@3bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250402
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:3420143f-4a1a-4776-95b0-a2db3d97c00f@3420.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:eb02fa1e-3694-4694-b94b-cbcd0b33e733@eb02.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
+DESCRIPTION:Rappel: Verre sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250214
-DESCRIPTION:Waste collection: Emballages
+DTSTART;VALUE=DATE:20250227
+DESCRIPTION:Waste collection: Verre
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:8a2b0ae5-f029-4b0d-8504-a63460bcf479@8a2b.org
+SUMMARY:🍾 Verre
+UID:31f82c04-aa58-4fea-8f27-a4dba719c4ab@31f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b24d1da3-a87f-4b97-ac48-9a7bc1584f03@b24d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1866,30 +323,18 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250204
+DTSTART;VALUE=DATE:20250729
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:8f0c8353-1b05-4f69-a29d-7d7dbc27bb73@8f0c.org
+UID:3ed1002b-cead-472a-930e-4e0d6d57bb12@3ed1.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251125
-DESCRIPTION:Waste collection: Déchets problématiques
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Sapins de Noël
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:⚠️ Déchets problématiques
-UID:6a82d1be-10e6-41ca-b2e8-16da70b0c8b0@6a82.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250224
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:f4779ef6-c442-43a5-adf1-af593465939d@f477.org
+SUMMARY:🎄 Sapins de Noël
+UID:f4b8c3a2-71fd-410b-b64e-7b90ace33caf@f4b8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1897,71 +342,23 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250217
+DTSTART;VALUE=DATE:20250811
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:b600f4bd-4d66-4904-8e33-222762d545ca@b600.org
+SUMMARY:🍌 Déchets organiques
+UID:a929bcd6-7999-4063-b741-d328077fd451@a929.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250721
-DESCRIPTION:Waste collection: Déchets organiques
+DTSTART;VALUE=DATE:20251002
+DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:64f62fbb-c77c-47b7-a14c-dbadcf1e7ebb@64f6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Emballages sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251010
-DESCRIPTION:Waste collection: Emballages
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:9c66d4d6-ef8f-47d5-a304-f4e8f4c26104@9c66.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251215
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:a6b366f9-354c-4e83-8529-36c8408fb32d@a6b3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251104
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:bb17695d-4722-4f91-a514-bb856273a880@bb17.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250915
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:971d8a76-e5f0-4fff-be66-641de34d457c@971d.org
+SUMMARY:📦 Papier et carton
+UID:db2a2a5b-50a2-4a7b-864f-6f384c1edffe@db2a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -1973,45 +370,7 @@ DTSTART;VALUE=DATE:20250218
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:f3dd3447-efdd-4b9f-b6b7-82669dd27464@f3dd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250210
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:dcdd717c-f963-4756-a649-d316ff3d5b46@dcdd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250106
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:55419e1f-2071-4c7f-bc58-7811e429df96@5541.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250311
-DESCRIPTION:Waste collection: Encombrants
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🛏️ Encombrants
-UID:9247bafa-a3db-4975-b6bd-4afe09490882@9247.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250205
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:096eb61a-547b-42e3-ae79-a0b87781949a@096e.org
+UID:58827f04-8e86-4c5f-a62b-ac22c80e39e2@5882.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2019,44 +378,18 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Emballages sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250228
+DTSTART;VALUE=DATE:20251024
 DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:98065602-3e6e-469b-912b-aad63db7ebe8@9806.org
+SUMMARY:♻️ Emballages
+UID:47a650b7-d778-42bd-bd81-34f0d2530b8d@47a6.org
 END:VEVENT
 BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251201
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:88600fd5-c572-46a3-ad10-38ce3fa67ace@8860.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250707
+DTSTART;VALUE=DATE:20250901
 DESCRIPTION:Waste collection: Déchets verts
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:a55b830b-e69e-48a2-96c5-c535c071b41b@a55b.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251203
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:13c927b3-c06c-40b4-a5cf-92b3f62f1b53@13c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250113
-DESCRIPTION:Waste collection: Sapins de Noël
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🎄 Sapins de Noël
-UID:30c3aae4-4b98-439f-85d6-be5936bd10c9@30c3.org
+SUMMARY:🌿 Déchets verts
+UID:2cee3078-538e-4b0d-a609-5517a54b6a06@2cee.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2064,35 +397,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250317
+DTSTART;VALUE=DATE:20250901
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:24148046-213d-4371-a90e-1e12f762a54d@2414.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250520
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:ee313b5c-3d37-4e11-8b38-c9d9a97bfcc7@ee31.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250722
-DESCRIPTION:Waste collection: Déchets ménagers
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🗑️ Déchets ménagers
-UID:c8061b23-6270-4e4c-bdc6-179a9e9a8a61@c806.org
+SUMMARY:🍌 Déchets organiques
+UID:416dd615-01da-4907-bea4-03ef8aabcbe9@416d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2100,11 +409,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Papier et carton sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250918
+DTSTART;VALUE=DATE:20250306
 DESCRIPTION:Waste collection: Papier et carton
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:40ea7b2a-ebd5-4113-97a7-11a21dae2f04@40ea.org
+SUMMARY:📦 Papier et carton
+UID:f994c265-b87f-4140-8c44-b36cd02df6ca@f994.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2112,130 +421,11 @@ ACTION:DISPLAY
 DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
 TRIGGER:-PT3H30M
 END:VALARM
-DTSTART;VALUE=DATE:20250929
+DTSTART;VALUE=DATE:20250324
 DESCRIPTION:Waste collection: Déchets organiques
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:16cb44c0-2faa-411c-806b-1953d284bfe4@16cb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250505
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:efa29b09-664a-42b9-83b0-28f486d759f3@efa2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:a1627f66-366a-4e5d-9f2f-7218ddf2e0cd@a162.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250402
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:4f152264-c57c-45db-b10c-ef3e4da14488@4f15.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250120
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:18df1897-8598-4b0d-9051-e5ecb14c6cd8@18df.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Papier et carton sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250220
-DESCRIPTION:Waste collection: Papier et carton
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:📄 Papier et carton
-UID:ad4fbad7-a7e8-41c8-93cb-0c29c856848e@ad4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Déchets verts
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🌱 Déchets verts
-UID:3ec83ed9-7ff0-4e6f-a57d-26a127a4dbd5@3ec8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250419
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:a6c6b550-4c6c-4ca7-99f1-ee7a9b9523d0@a6c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250507
-DESCRIPTION:Waste collection: Appareils électriques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🔌 Appareils électriques
-UID:3d24e731-eb05-4b54-a748-7209a70b7e8a@3d24.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250919
-DESCRIPTION:Waste collection: Vieux vêtements
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:👕 Vieux vêtements
-UID:95362e47-11fc-467e-85b4-130a7dc5b4f0@9536.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20251229
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:e0672190-99de-4dc8-bafa-32f6349f5a20@e067.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250922
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:5837881e-303f-4303-9856-4bdfa5d9f66a@5837.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20250407
-DESCRIPTION:Waste collection: Déchets organiques
-LOCATION:Niederanven\, Luxembourg
-SUMMARY:🍎 Déchets organiques
-UID:8b1c267c-455d-4e38-b41e-4db0f1f71ac7@8b1c.org
+SUMMARY:🍌 Déchets organiques
+UID:af2e0c7b-1c7e-4048-b5d6-3caf42fc4435@af2e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2247,7 +437,1157 @@ DTSTART;VALUE=DATE:20250318
 DESCRIPTION:Waste collection: Déchets ménagers
 LOCATION:Niederanven\, Luxembourg
 SUMMARY:🗑️ Déchets ménagers
-UID:3d5b44d9-bab6-4b87-bd78-ef4657878917@3d5b.org
+UID:15e5e6ee-cd11-4c76-9fe9-803b899a5aad@15e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2fb70f95-811f-4d4b-9eef-0eb8dff580b3@2fb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d2f58dbd-00b6-4f0d-8ce1-4e3323681d06@d2f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:179e2c61-0a28-4d80-b1ae-10db5ac32fbc@179e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1e21b8b6-8948-4b12-951b-e92cfa1a42e8@1e21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250506
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:15ba7f3c-5421-4ef7-81c7-dc325e694f8a@15ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250603
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:75b9709b-240c-4e15-bdf7-1fb62ac26e7a@75b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:30b440c0-83c0-4c9c-8b6c-1aa378e00c01@30b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ee81bfd7-de29-429d-8e8b-d06f3170a13a@ee81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250606
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7ece9ae5-b5c0-4f99-8d38-fe020096083a@7ece.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:bfad10aa-19b9-4848-9335-d05e70346727@bfad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:539c5df8-df77-482b-a083-db31700a96a7@539c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c88d44f2-d791-4668-9457-105a9e59626b@c88d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1a19be49-77c3-40b3-adde-bd6125894be4@1a19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b51cecfd-b6b3-4f24-8021-a33b870463ed@b51c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250707
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d349ae09-4a63-4d3c-8eea-9a7a2b32c2ee@d349.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250704
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d5a576f9-f5e8-4819-be5f-338368316bf1@d5a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250403
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6eb5ac95-45c2-46e9-b517-0c894bbfd5ed@6eb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250818
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:95c18aa9-7372-4c85-b252-357a29f22ad0@95c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:078f830e-18b2-4a4f-b9c1-a2cb849581bd@078f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250523
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8507c73a-2bd8-4b13-a1e8-a58e20839458@8507.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:93e298c4-7aae-4cb5-ad13-e0a8c47fa5b1@93e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7dc2017d-9b32-4dd6-8d1e-fcf6979d56ab@7dc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6574218a-a7f2-46c7-b200-c2afd8d99744@6574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:145817cb-e138-49a3-a382-1d575d153140@1458.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250605
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:85c91fb3-a887-48cf-bd88-0a3406e8c2ea@85c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250807
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9843dc91-b6cc-41ca-894b-a240b61ed781@9843.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:00018f7b-37db-4d08-b4b6-32427d4be657@0001.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9e47bc99-8305-47fa-ba0e-5261565351a3@9e47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251028
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:411ed6cc-5af2-4838-a619-ffc1c09b1c3c@411e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250107
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:31de6120-2780-4eda-af72-15acdbc5def3@31de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250108
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:cdf8406b-a64a-45c0-9248-00be70e6295f@cdf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250829
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3663f6ed-d621-4164-9ed7-481ae59282a9@3663.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:da3326cd-435e-46d1-ac31-9a623c79c3c4@da33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251203
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:fa93176d-db21-4416-8379-3696ae012da4@fa93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:680066aa-7d51-48ae-b62f-f568de97475e@6800.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5e34e04a-3fa9-42c2-8557-c9d036b73dbd@5e34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bfa6c61a-9515-490c-987f-ec022f003b24@bfa6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251208
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:03d682dc-3c55-42a4-a7b6-fff5fcfd7da9@03d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:38d637ba-5807-48ff-81f5-0a615084d2b0@38d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251001
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:3a7d7bb6-91f9-43f7-b865-7b6a4a1fb09d@3a7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eaab238a-3a81-4476-9a5e-2105454598b9@eaab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250930
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:950b61fc-2c1e-4c8d-abfe-234059317bfb@950b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7a83f27a-fb5a-40f2-a1ad-ad5a82e040fa@7a83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250519
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3ca46e32-4b15-4f60-86b7-ce9e0f03a6e2@3ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:f6c6355f-af30-4bed-8e6d-cf6642e897f5@f6c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250902
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:63524589-ac0b-4407-8e9b-b126fd06625d@6352.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251007
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7124f70d-5857-451f-96a0-3c6ad7c4bfbb@7124.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251105
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:8c3ae08e-7c6b-4313-8313-568b41a514dd@8c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251201
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0aa2fccd-06f8-4367-b6e8-30bcad5f7638@0aa2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251103
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e2131d7f-f405-400d-8068-2801c7a2f91f@e213.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251023
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f325b608-e4c4-497b-93b0-f71a4fabe195@f325.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:466431da-78b8-4f06-9798-38e249b7df49@4664.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250522
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e183a30d-3a47-4f26-bb0a-d0eb8ad801a2@e183.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:462c10b0-7d8d-47ce-972d-229d63e265b4@462c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250816
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:98d64876-ec60-4bb3-a526-ff1476ed44cc@98d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250102
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5493642e-40fe-443f-a303-551f4b678fba@5493.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250617
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f7f5b770-ee59-491b-a8ca-8767754aaded@f7f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:32b550ee-d83d-4e2a-b37d-d27728b351dc@32b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250919
+DESCRIPTION:Waste collection: Vieux vêtements
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:👕 Vieux vêtements
+UID:bfa5bf99-10c6-4691-8ab3-4503460da2bd@bfa5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251229
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:53c9644a-e4c1-4af6-b460-2fec7b065265@53c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:07e2c649-86e8-4d31-a868-4127e3255c85@07e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:948a8c11-7668-49bf-937b-12cb8e8464f8@948a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6660260c-b14f-4fbf-abf2-3c744b55cfe5@6660.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251104
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:adb3a724-206b-4e0c-b7c0-3b01651b4cf1@adb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250314
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c73eb143-1118-4465-934f-9cf48ff3946e@c73e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250515
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:385083bf-420d-46d0-aa52-2a4d8e0316e3@3850.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:1f27761e-a6fa-4e31-8950-968a352c93d6@1f27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251124
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e27c2d93-8a11-4e52-a754-c6e0fea0eb25@e27c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ee2eaef4-e4bb-46c2-a2dc-309288cad5cd@ee2e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9915ee05-8d19-425e-910a-c4c24881ac85@9915.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:705502c8-eca4-4de3-8e9e-dffd3c2dcfe1@7055.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6e70e194-d979-47c6-b5a4-a3eb09c27d1f@6e70.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250708
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:604e3089-e3ba-4fb1-9998-23a47da74068@604e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251125
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:de4b64af-de51-401b-ad3d-657fe3b928af@de4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250513
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:af440986-2eeb-40ab-a8d1-fa7b4222bc84@af44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:309873a8-5fb6-43c7-8e5d-8e2c6c2680dd@3098.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250305
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:e92cc4e6-0258-4923-94dd-09faa7c7d758@e92c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250520
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1ea07370-9be1-4d34-a3fc-b52a9f64ffe2@1ea0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250805
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:23c2cf05-a3e5-43a7-9f27-52ea156c001c@23c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250821
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7296dd3a-1114-4b4c-9494-9eedc1485561@7296.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f26a4be6-e535-4851-b314-c6aa10cee38b@f26a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250327
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c2b062ff-86c8-4a53-9724-113de85456b6@c2b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7ddabf62-d067-4d81-b976-f59f8b8a487c@7dda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250701
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:89c0c485-f1bb-4987-849f-aa315fbe495e@89c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250411
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ce20291b-8203-4b08-a20a-dd4e44d6cc90@ce20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ea59cc3f-437e-4a03-ad7a-aa495de56a20@ea59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251020
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bdbe9feb-3d52-449d-bc1d-2e9165216fe8@bdbe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9a514a5b-e8db-49a8-abb7-680ab34f4add@9a51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6c719baa-99cf-41ff-8cc8-8514b00f396e@6c71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250131
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f5152eea-fa38-4c14-9091-7f09d6b71f77@f515.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251014
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:add6b5a5-c09a-4f14-b13b-0301d0d546bf@add6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6b22547f-34a4-4ea3-a55a-e8d91003010d@6b22.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251230
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2ff1da27-51ce-42e3-acc6-30ac88522674@2ff1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250624
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2f92ddd0-6134-42c3-8b4a-2cd351a7b9cc@2f92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250415
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c7b23b16-a61c-40c9-a797-7a7f1c0ba982@c7b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250610
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a262c5d2-26a5-4128-ba61-e4f0a31f6cac@a262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250117
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bf092269-6b4a-4d13-923e-99c1779317d1@bf09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251117
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3e40f859-1e38-44b2-8f08-f42c374e92a6@3e40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250724
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:22661710-e80e-47d0-aeeb-50aaa86f5a50@2266.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250905
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:2a15ab2c-cfe9-47fd-8946-2466ef581491@2a15.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:111fa71c-8f98-4811-a094-d394168c270e@111f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250503
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0332467c-a395-49c0-bffd-2c3468107a96@0332.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251016
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1b835049-45ae-4ddd-b34e-5fb003c4814d@1b83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250925
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e36a844b-fad4-4d59-9cff-4a0607398f09@e36a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250715
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ac31b347-57f6-4da3-867a-0d719ee5e3eb@ac31.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -2258,7 +1598,667 @@ END:VALARM
 DTSTART;VALUE=DATE:20250103
 DESCRIPTION:Waste collection: Emballages
 LOCATION:Niederanven\, Luxembourg
-SUMMARY:📦 Emballages
-UID:aa6f5b50-aceb-4229-9a70-67d6cebba28d@aa6f.org
+SUMMARY:♻️ Emballages
+UID:5f60af26-2d01-4c40-9812-81077cfb575d@5f60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a7e9439c-6ead-40c9-997a-9def1d49085d@a7e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6aab3245-cc46-4b05-808b-602141ef0510@6aab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251027
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ef6b852b-61f5-47a9-877f-61ea0125a351@ef6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f08e6c81-987a-4428-b857-a3f79ee0d918@f08e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250616
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:932153a7-a899-4f8b-852a-daacfa22c8f9@9321.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250819
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c7c545b8-eeb7-4ded-a776-a5679063b625@c7c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250904
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:512b3ef3-2888-45f7-a745-a7ef50b70144@512b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250205
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:277e2c1d-d58d-4a6e-83b1-b7e5af31da53@277e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250918
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7140691a-1bed-472d-a830-b1149d5946aa@7140.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250106
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1c979e63-eaec-4163-a3e4-3f6cf45b68fd@1c97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250619
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2c6e845a-988c-4299-a776-10201b881951@2c6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251110
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:03fe7d75-4970-42ed-a0dc-0bf304688ebe@03fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250804
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:38153392-033b-4d3d-9f6c-d72869069f24@3815.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250417
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d80bebf4-eec2-4051-89a7-d7fc7be2f010@d80b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250908
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bdf6ddf5-f00d-4114-9802-60f1e7b52d34@bdf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:65ad4db6-d037-4502-9296-c62e9e78fd2a@65ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a4cabcf0-95a6-4171-849e-fff8c41f15fc@a4ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250702
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:3b2d735f-32c9-4dae-9e10-05ac5f7feda1@3b2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5311e8e5-c241-40a4-a005-844564d58488@5311.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251107
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0e5e2d41-376e-4cde-aaee-6f54cd6ff5fe@0e5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250429
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6e24a37d-b382-4e30-8a39-d9de7b1f8862@6e24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250828
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a1ed8a34-ac2c-4f9d-9f0d-873b7e4f79c3@a1ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250419
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8a7a8a91-f16f-4162-9ffd-857e85ef199e@8a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250812
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:fa531e67-781b-47b2-afc3-fc02e35caf55@fa53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250414
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ebff6017-eae3-4fb2-836b-757f30f1cb21@ebff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:e50fafaf-4b00-404b-8400-2f19c5ef863f@e50f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ef7e7a7c-0307-4ddd-bd1d-0a9026452df0@ef7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250915
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7f4d00fb-1f6e-4119-b1ac-68fde7e813b4@7f4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6c7adc14-6940-4624-b1a8-c63c16f10161@6c7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a0e6a458-7105-4d35-9e03-49cb9c83d2d9@a0e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250526
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:96ad4aa1-f8a3-46ac-8db7-aaa36fa30384@96ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250826
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:16c28964-458a-4581-bce6-17661d3e4913@16c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:be067e37-06dc-4433-85be-8b493abb15c7@be06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250722
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a33c85ca-2714-47c1-9e52-3274ab5b54f8@a33c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:87817911-0d83-4b2e-a8cc-9c8604b9a140@8781.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250909
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f9326dc-874d-44ca-9c90-0d25aaec087c@8f93.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251010
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bb033dac-7e12-4fbd-8012-2a067ce01c1a@bb03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250903
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:9471a053-b34f-4693-b0b8-bffdee2c47d1@9471.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250307
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:17d46d4b-0ae1-4edf-871c-d1189f912a1d@17d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251227
+DESCRIPTION:Waste collection: Verre
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bba320ea-8220-41a0-a2ce-0694be4b622a@bba3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:731639d9-93a3-457a-86bd-6709b42e7876@7316.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250825
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:073ffa83-fe41-4572-94ec-64b9841c9035@073f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250505
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:861c3124-0088-4acd-b790-5240cb9ed12d@861c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250607
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4af59a82-70de-4040-89a8-7587298eb08a@4af5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:24d61f8c-c59f-48f8-92c8-a54a62bfe16f@24d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251204
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:dd2c1a8e-41f6-40db-8be8-eddafff111a9@dd2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250806
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:06099ce3-a301-44d0-9d13-cc32452a2954@0609.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250602
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:7db31c76-c208-4a17-8a28-37d7cf76d2d8@7db3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250211
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:c36c5ec1-8df9-4cad-a5c0-6ada659c7dc4@c36c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250328
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:01c23a75-ace6-4066-8b94-f7fdbc43ad5b@01c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d4b134b1-92af-4133-8ff7-af71a64c1ef9@d4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250507
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:6acec4d4-d6ab-4609-80d8-822cb7c66ac7@6ace.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250630
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:787b0270-7462-4646-8215-df40e0309f85@787b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:571d3de8-0925-4b29-a03f-141e29590554@571d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251013
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2a953f5e-fb2e-49bf-b3f0-e425e38658b9@2a95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:c4345b76-d3a2-4dc1-acff-fac323d8188e@c434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20251218
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e9f5a9ad-205b-4576-afd4-cc07882c17b9@e9f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:98218290-24c3-439c-8987-5b16bfa625a2@9821.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250718
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a532f89f-2a69-4ef5-a4e9-76ad4ef169f7@a532.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20250714
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Niederanven\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2c9b2db6-5ddc-4ea2-874d-22629504ac84@2c9b.org
 END:VEVENT
 END:VCALENDAR

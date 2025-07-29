@@ -113,30 +113,30 @@ class WasteType(Enum):
                         return "Christmas trees"
 
     def icon(self) -> str:
-        """Get emoji icon for this waste type."""
+        """Get Unicode icon for this waste type."""
         match self:
             case WasteType.RESIDUAL:
                 return "🗑️"
             case WasteType.PAPER:
-                return "📄"
-            case WasteType.GLASS:
-                return "🥃"
-            case WasteType.PACKAGING:
                 return "📦"
+            case WasteType.GLASS:
+                return "🍾"
+            case WasteType.PACKAGING:
+                return "♻️"
             case WasteType.ORGANIC:
-                return "🍎"
+                return "🍌"
             case WasteType.CLOTHERS:
                 return "👕"
             case WasteType.CHRISTMAS_TREES:
                 return "🎄"
             case WasteType.HEDGE:
-                return "🌱"
+                return "🌿"
             case WasteType.PROBLEMATIC:
-                return "⚠️"
+                return "☢️"
             case WasteType.ELECTRIC:
-                return "🔌"
+                return "⚡"
             case WasteType.BULKY:
-                return "🛏️"
+                return "🪑"
 
     def has_alarm(self) -> bool:
         """Check if this waste type should have reminder alarms."""
