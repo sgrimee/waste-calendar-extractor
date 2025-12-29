@@ -24,10 +24,49 @@ The ADYS PDF has a grid layout:
 
 ## Usage
 
-### Command Line
+### Generating Combined Calendars (Recommended)
+
+The easiest way to include ADYS dates in your calendar is to use the `--include-adys` flag. This generates **two files**:
+- `ics/waste-{lang}.ics` - Standard waste calendar (without ADYS)
+- `ics/waste-{lang}-adys.ics` - Combined calendar with waste collection + ADYS bin cleaning
+
+#### Using Justfile (Easiest)
 
 ```bash
-# Extract with auto-detected year (from PDF)
+# Generate all languages with ADYS
+just generate-with-adys
+
+# Generate single language with ADYS
+just generate-lang-with-adys en
+just generate-lang-with-adys fr
+just generate-lang-with-adys lu
+
+# Generate for specific year with ADYS
+just generate-lang-year-with-adys en 2027
+```
+
+#### Using CLI Directly
+
+```bash
+# Generate all languages with ADYS (uses default pdf/adys.pdf)
+uv run waste-cal --include-adys
+
+# Single language with default ADYS path
+uv run waste-cal --language en --include-adys
+
+# Single language with custom ADYS path
+uv run waste-cal --language en --include-adys /path/to/custom-adys.pdf
+
+# Single language and custom year
+uv run waste-cal --language en --year 2027 --include-adys
+```
+
+### Extracting ADYS Dates Only
+
+For standalone extraction without generating calendars:
+
+```bash
+# Extract with auto-detected year
 just extract-adys pdf/adys.pdf
 
 # Or directly:
@@ -43,16 +82,31 @@ from waste_cal.adys_extractor import extract_adys_dates
 dates = extract_adys_dates("pdf/adys.pdf")
 for date in dates:
     print(date)  # Output: 2026-03-03, 2026-06-09, ...
-
-# Extract with explicit year
-dates = extract_adys_dates("pdf/adys.pdf", year=2027)
 ```
 
-## Output
+## Calendar Events
 
-Returns a sorted list of ISO format dates (YYYY-MM-DD):
+When ADYS dates are included in the calendar, bin cleaning events appear with:
 
+- **Icon**: 🚿 (shower - representing cleaning)
+- **Names by language**:
+  - English: "Organic bin cleaning"
+  - French: "Nettoyage poubelle organique"
+  - Luxembourgish: "Poubelle botzen"
+- **Alarms**: Same as waste collection events (day before at 20:30)
+- **Location**: Niederanven, Luxembourg
+
+Example event in calendar:
 ```
+🚿 Organic bin cleaning (2026-03-03)
+Reminder: Organic bin cleaning will be performed tomorrow.
+```
+
+### Output Dates
+
+Standalone extraction returns a sorted list of ISO format dates (YYYY-MM-DD):
+
+```python
 ['2026-03-03', '2026-06-09', '2026-09-01', '2026-12-08']
 ```
 

@@ -59,12 +59,19 @@ clean-waste:
     rm -f ics/waste-*.ics
     @echo "✅ Cleaned all waste calendar files"
 
-# Generate waste calendar for current year (all languages)
+# Generate waste calendar for current year (all languages, without ADYS)
 generate: clean-waste
     uv run waste-cal --language lu
     uv run waste-cal --language fr
     uv run waste-cal --language en
-    echo "✅ Generated all language-specific calendars"
+    @echo "✅ Generated all language-specific calendars"
+
+# Generate waste calendar with ADYS bin cleaning dates (all languages)
+generate-with-adys: clean-waste
+    uv run waste-cal --language lu --include-adys
+    uv run waste-cal --language fr --include-adys
+    uv run waste-cal --language en --include-adys
+    @echo "✅ Generated calendars with ADYS cleaning dates (both standard and -adys files)"
 
 # Generate waste calendar for specific year (all languages)
 generate-year year: clean-waste
@@ -73,15 +80,25 @@ generate-year year: clean-waste
     uv run waste-cal --language en --year {{year}}
     echo "✅ Generated all language-specific calendars for {{year}}"
 
-# Generate calendar for specific language
+# Generate calendar for specific language (without ADYS)
 generate-lang lang:
     uv run waste-cal --language {{lang}}
-    echo "✅ Generated ics/waste-{{lang}}.ics calendar"
+    @echo "✅ Generated ics/waste-{{lang}}.ics calendar"
 
-# Generate calendar for specific language and year
+# Generate calendar for specific language and year (without ADYS)
 generate-lang-year lang year:
     uv run waste-cal --language {{lang}} --year {{year}}
-    echo "✅ Generated ics/waste-{{lang}}.ics calendar"
+    @echo "✅ Generated ics/waste-{{lang}}.ics calendar"
+
+# Generate calendar for specific language with ADYS
+generate-lang-with-adys lang:
+    uv run waste-cal --language {{lang}} --include-adys
+    @echo "✅ Generated ics/waste-{{lang}}.ics and ics/waste-{{lang}}-adys.ics calendars"
+
+# Generate calendar for specific language and year with ADYS
+generate-lang-year-with-adys lang year:
+    uv run waste-cal --language {{lang}} --year {{year}} --include-adys
+    @echo "✅ Generated ics/waste-{{lang}}.ics and ics/waste-{{lang}}-adys.ics calendars"
 
 view-lang lang:
     @echo "📅 Viewing {{lang}} calendar:"

@@ -7,8 +7,14 @@ import argparse
 import datetime
 import logging
 
+from waste_cal.adys_extractor import extract_adys_dates
 from waste_cal.calendar_processor import extract_calendar_data
-from waste_cal.ical_generator import generate_all_ical_files, generate_ical_file
+from waste_cal.ical_generator import (
+    generate_all_ical_files,
+    generate_all_ical_files_with_adys,
+    generate_ical_file,
+    generate_ical_file_with_adys,
+)
 from waste_cal.waste_types import Languages
 
 
@@ -55,6 +61,14 @@ def main():
         help="Output as text instead of generating iCal files (default: generate iCal files)",
     )
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose logging")
+    parser.add_argument(
+        "--include-adys",
+        nargs="?",
+        const="pdf/adys.pdf",
+        metavar="PDF_PATH",
+        help="Include ADYS bin cleaning dates from PDF. Generates additional -adys.ics file(s). "
+        "(default path: pdf/adys.pdf)",
+    )
 
     args = parser.parse_args()
 
@@ -73,7 +87,7 @@ def main():
             language = language_map.get(args.language, Languages.EN)
             print(calendar_data.to_text(language))
         else:
-            # Generate iCal files
+            # Generate iCal files (always generate standard files)
             if args.language:
                 # Generate single language file
                 language_map = {"lu": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
@@ -85,6 +99,24 @@ def main():
                 filepaths = generate_all_ical_files(calendar_data, args.year)
                 for filepath in filepaths:
                     logging.info(f"Generated iCal file: {filepath}")
+
+            # Generate ADYS combined files if requested
+            if args.include_adys:
+                logging.info(f"Extracting ADYS dates from {args.include_adys}")
+                adys_dates = extract_adys_dates(args.include_adys)
+                logging.info(f"Found {len(adys_dates)} ADYS cleaning dates")
+
+                if args.language:
+                    # Generate single language ADYS file
+                    language_map = {"lu": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
+                    language = language_map[args.language]
+                    filepath = generate_ical_file_with_adys(calendar_data, adys_dates, language, args.year)
+                    logging.info(f"Generated iCal file with ADYS: {filepath}")
+                else:
+                    # Generate all language ADYS files
+                    filepaths = generate_all_ical_files_with_adys(calendar_data, adys_dates, args.year)
+                    for filepath in filepaths:
+                        logging.info(f"Generated iCal file with ADYS: {filepath}")
 
     except Exception as e:
         logging.error(f"Error extracting calendar: {e}")

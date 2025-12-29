@@ -7,6 +7,42 @@ class Languages(Enum):
     EN = "English"
 
 
+class AdysEventType(Enum):
+    """Event type for ADYS bin cleaning services."""
+
+    BIN_CLEANING = "bin_cleaning"
+
+    def description(self, language: Languages) -> str:
+        """Get event description in specified language."""
+        match self:
+            case AdysEventType.BIN_CLEANING:
+                match language:
+                    case Languages.LU:
+                        return "Poubelle botzen"
+                    case Languages.FR:
+                        return "Nettoyage poubelle organique"
+                    case Languages.EN:
+                        return "Organic bin cleaning"
+
+    def icon(self) -> str:
+        """Get Unicode icon for this event type."""
+        match self:
+            case AdysEventType.BIN_CLEANING:
+                return "🚿"
+
+    def alarm_message(self, language: Languages) -> str:
+        """Get alarm message for this event type in specified language."""
+        description = self.description(language)
+
+        match language:
+            case Languages.LU:
+                return f"Moien! Denkt drun: {description} gëtt muer duerchgefouert."
+            case Languages.FR:
+                return f"Rappel: {description} sera effectué demain."
+            case Languages.EN:
+                return f"Reminder: {description} will be performed tomorrow."
+
+
 class WasteType(Enum):
     RESIDUAL = "residual"
     ORGANIC = "organic"
