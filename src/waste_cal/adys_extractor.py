@@ -288,8 +288,8 @@ def _map_marks_to_dates(
     valid_candidates = [
         c
         for c in candidates
-        if isinstance(c["x_dist"], (int, float))
-        and isinstance(c["y_dist"], (int, float))
+        if isinstance(c["x_dist"], int | float)
+        and isinstance(c["y_dist"], int | float)
         and c["x_dist"] < 10
         and c["y_dist"] < 10
     ]
@@ -299,8 +299,8 @@ def _map_marks_to_dates(
         valid_candidates = [
             c
             for c in candidates
-            if isinstance(c["x_dist"], (int, float))
-            and isinstance(c["y_dist"], (int, float))
+            if isinstance(c["x_dist"], int | float)
+            and isinstance(c["y_dist"], int | float)
             and c["x_dist"] < 20
             and c["y_dist"] < 15
         ]
