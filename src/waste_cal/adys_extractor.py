@@ -15,12 +15,11 @@ Usage:
 """
 
 import logging
-from typing import Optional
 
 import fitz
 
 
-def extract_adys_dates(pdf_path: str, year: Optional[int] = None) -> list[str]:
+def extract_adys_dates(pdf_path: str, year: int | None = None) -> list[str]:
     """
     Extract cleaning dates from an ADYS PDF calendar.
 
@@ -86,7 +85,7 @@ def extract_adys_dates(pdf_path: str, year: Optional[int] = None) -> list[str]:
     return sorted(dates)
 
 
-def _extract_year_from_pdf(page) -> Optional[int]:
+def _extract_year_from_pdf(page) -> int | None:
     """Extract the year from the PDF text."""
     text = page.get_text()
 
@@ -145,7 +144,7 @@ def _extract_day_positions(page) -> dict[int, dict[str, float]]:
         Dict mapping day number -> {"x": x_coord, "y": y_coord}
     """
     text_dict = page.get_text("dict")
-    day_positions = {}
+    day_positions: dict[int, dict[str, float]] = {}
 
     for block in text_dict["blocks"]:
         if "lines" not in block:
@@ -279,22 +278,40 @@ def _map_marks_to_dates(
                     "y": mark_y,
                     "day": closest_day,
                     "month": closest_month,
-                    "x_dist": min_x_dist,
-                    "y_dist": min_y_dist,
+                    "x_dist": float(min_x_dist),
+                    "y_dist": float(min_y_dist),
                 }
             )
 
     # Filter candidates: legend marks are outliers
     # Keep marks that are very close to grid intersections
-    valid_candidates = [c for c in candidates if c["x_dist"] < 10 and c["y_dist"] < 10]
+    valid_candidates = [
+        c
+        for c in candidates
+        if isinstance(c["x_dist"], (int, float))
+        and isinstance(c["y_dist"], (int, float))
+        and c["x_dist"] < 10
+        and c["y_dist"] < 10
+    ]
 
     # If we have very few valid candidates, relax constraints slightly
     if len(valid_candidates) < 3 and len(candidates) > 0:
-        valid_candidates = [c for c in candidates if c["x_dist"] < 20 and c["y_dist"] < 15]
+        valid_candidates = [
+            c
+            for c in candidates
+            if isinstance(c["x_dist"], (int, float))
+            and isinstance(c["y_dist"], (int, float))
+            and c["x_dist"] < 20
+            and c["y_dist"] < 15
+        ]
 
     for candidate in valid_candidates:
-        month_num = month_map[candidate["month"]]
-        iso_date = f"{year:04d}-{month_num:02d}-{candidate['day']:02d}"
+        month_str = candidate["month"]
+        candidate_day: int = candidate["day"]  # type: ignore[assignment]
+        if not isinstance(month_str, str) or not isinstance(candidate_day, int):
+            continue
+        month_num = month_map[month_str]
+        iso_date = f"{year:04d}-{month_num:02d}-{candidate_day:02d}"
         dates.append(iso_date)
         logging.debug(
             f"Mark at ({candidate['x']:.0f}, {candidate['y']:.0f}) -> "
