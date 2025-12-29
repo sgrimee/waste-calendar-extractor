@@ -84,17 +84,17 @@ class Colors:
 
 # Waste type color mapping - matching PDF colors
 WASTE_TYPE_COLORS = {
-    "🗑️": Colors.GRAY,    # Residual waste - gray (matches PDF)
-    "📦": Colors.BLUE,     # Paper - blue (matches PDF blue box)
-    "🍾": Colors.YELLOW,   # Glass - yellow (matches PDF bottle)
-    "♻️": Colors.CYAN,     # Packaging - light blue (matches PDF recycling symbol)
-    "🍌": Colors.GREEN,    # Organic - green (matches PDF green bin)
-    "👕": Colors.ORANGE,   # Clothes - orange (matches PDF t-shirt)
-    "🎄": Colors.GREEN,    # Christmas trees - green (matches PDF)
-    "🌿": Colors.GREEN,    # Hedge - green (matches PDF branch)
-    "☢️": Colors.YELLOW,   # Problematic - yellow warning
-    "⚡": Colors.YELLOW,   # Electric - yellow lightning
-    "🪑": Colors.RED,      # Bulky - red (matches PDF red container)
+    "🗑️": Colors.GRAY,  # Residual waste - gray (matches PDF)
+    "📦": Colors.BLUE,  # Paper - blue (matches PDF blue box)
+    "🍾": Colors.YELLOW,  # Glass - yellow (matches PDF bottle)
+    "♻️": Colors.CYAN,  # Packaging - light blue (matches PDF recycling symbol)
+    "🍌": Colors.GREEN,  # Organic - green (matches PDF green bin)
+    "👕": Colors.ORANGE,  # Clothes - orange (matches PDF t-shirt)
+    "🎄": Colors.GREEN,  # Christmas trees - green (matches PDF)
+    "🌿": Colors.GREEN,  # Hedge - green (matches PDF branch)
+    "☢️": Colors.YELLOW,  # Problematic - yellow warning
+    "⚡": Colors.YELLOW,  # Electric - yellow lightning
+    "🪑": Colors.RED,  # Bulky - red (matches PDF red container)
 }
 
 
