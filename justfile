@@ -100,3 +100,8 @@ view-calendar file:
 
 view-list file:
     uv run python -m waste_cal.ics_viewer {{file}} --format list
+
+# Extract ADYS cleaning dates from PDF (year auto-detected from PDF title)
+extract-adys pdf:
+    @echo "Extracting ADYS cleaning dates from {{pdf}}..."
+    uv run python -m waste_cal.adys_extractor {{pdf}}
