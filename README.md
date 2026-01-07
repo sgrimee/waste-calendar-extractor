@@ -127,6 +127,14 @@ Alarms work with most modern calendar applications:
 - ✅ Outlook (Windows/Web)
 - ✅ Most other iCal-compatible calendar apps
 
+---
+
+## For Developers
+
+Everything below this line is **not required** if you just want to use the pre-generated calendars above. The following instructions are for developers who want to customize the tool, regenerate calendars from new PDFs, or contribute to the project.
+
+---
+
 ## Installation
 
 ```bash
