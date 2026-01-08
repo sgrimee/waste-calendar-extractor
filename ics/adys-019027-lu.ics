@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Poubelle botzen gëtt muer duerchgefouert.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Bin cleaning: Poubelle botzen
+LOCATION:Luxembourg
+SUMMARY:🚿 Poubelle botzen
+UID:66e0fbbf-5823-420d-960a-b98f10687871@66e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Poubelle botzen gëtt muer duerchgefouert.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20261208
+DESCRIPTION:Bin cleaning: Poubelle botzen
+LOCATION:Luxembourg
+SUMMARY:🚿 Poubelle botzen
+UID:455a8a3f-2c4a-494c-b9f5-382f75d9d780@455a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Poubelle botzen gëtt muer duerchgefouert.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Bin cleaning: Poubelle botzen
+LOCATION:Luxembourg
+SUMMARY:🚿 Poubelle botzen
+UID:b7daa599-dd83-4a3e-9f75-f8859b8247b8@b7da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Poubelle botzen gëtt muer duerchgefouert.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Bin cleaning: Poubelle botzen
+LOCATION:Luxembourg
+SUMMARY:🚿 Poubelle botzen
+UID:64c1c78d-6a99-4a7a-bb97-4cc77b62ea3b@64c1.org
+END:VEVENT
+END:VCALENDAR

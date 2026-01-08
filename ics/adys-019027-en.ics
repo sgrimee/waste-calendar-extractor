@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic bin cleaning will be performed tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Bin cleaning: Organic bin cleaning
+LOCATION:Luxembourg
+SUMMARY:🚿 Organic bin cleaning
+UID:730a431a-32a2-4cf2-8b88-b0e61fc151d2@730a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic bin cleaning will be performed tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Bin cleaning: Organic bin cleaning
+LOCATION:Luxembourg
+SUMMARY:🚿 Organic bin cleaning
+UID:aec365a2-77ff-4f9f-9d2c-7743bdc8ec3a@aec3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic bin cleaning will be performed tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Bin cleaning: Organic bin cleaning
+LOCATION:Luxembourg
+SUMMARY:🚿 Organic bin cleaning
+UID:568eb532-732a-4217-84a9-d7ec37e8bbc1@568e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic bin cleaning will be performed tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20261208
+DESCRIPTION:Bin cleaning: Organic bin cleaning
+LOCATION:Luxembourg
+SUMMARY:🚿 Organic bin cleaning
+UID:9427f02d-de0d-492a-ba8b-492c3e142f9b@9427.org
+END:VEVENT
+END:VCALENDAR

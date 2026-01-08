@@ -72,13 +72,8 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-*.ics
-!waste-*.ics
-!waste.ics
-!waste-lb.ics
-!waste-de.ics  
-!waste-fr.ics
 *.pdf
+*.csv
 
 # Keep main icon but ignore other sizes
 icons/icon-*.png

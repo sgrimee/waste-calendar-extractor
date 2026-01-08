@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
+LOCATION:Luxembourg
+SUMMARY:🚿 Nettoyage poubelle organique
+UID:2ace0feb-ab3c-4793-a7fe-bc4d7048dec9@2ace.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
+LOCATION:Luxembourg
+SUMMARY:🚿 Nettoyage poubelle organique
+UID:d1d28977-256c-4e12-ada0-0991a1c66055@d1d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
+LOCATION:Luxembourg
+SUMMARY:🚿 Nettoyage poubelle organique
+UID:21634bd2-5db5-4b31-a3f9-c2ab958bd169@2163.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20261208
+DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
+LOCATION:Luxembourg
+SUMMARY:🚿 Nettoyage poubelle organique
+UID:a6e44542-bb40-4183-8a89-d5eab2f495bf@a6e4.org
+END:VEVENT
+END:VCALENDAR
