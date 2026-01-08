@@ -15,6 +15,13 @@
 
 Offall-Kalenner fir Är Gemeng. Kopéiert de Link an Är Kalenner-App (Google Calendar, Apple Calendar, etc.) fir automatesch all d'Offall-Datumer mat Ikouen an Erënnerungen ze kréien!
 
+Wéi maacht een :
+
+Kopéiert dëse Link ☝️
+Op Är Kalenner-App opmaachen (Google Calendar, Apple Calendar, etc.)
+Sicht "Kalenner importéieren" oder "Am Kalenner abonnéieren"
+De Link derbäisetzen - Är Apparat kritt automatesch all d'Offall-Datumer mat Ikouen an Erënnerungen op Lëtzebuergesch !
+
 | Gemeng | Link |
 |--------|------|
 | Nidderaanwen | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-lu.ics` |
@@ -26,6 +33,13 @@ Offall-Kalenner fir Är Gemeng. Kopéiert de Link an Är Kalenner-App (Google Ca
 
 Calendrier des déchets pour votre commune. Copiez le lien dans votre application calendrier (Google Calendar, Apple Calendar, etc.) pour recevoir automatiquement toutes les dates de collecte avec des icônes et des rappels !
 
+Comment faire :
+
+Copiez ce lien ☝️
+Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
+Cherchez "Importer calendrier" ou "S'abonner au calendrier"
+Ajoutez le lien - votre appareil recevra automatiquement toutes les dates de collecte avec des icônes et des rappels en français !
+
 | Commune | Lien |
 |---------|------|
 | Niederanven | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-fr.ics` |
@@ -36,6 +50,13 @@ Calendrier des déchets pour votre commune. Copiez le lien dans votre applicatio
 ### 🇬🇧 English
 
 Waste collection calendar for your commune. Copy the link into your calendar app (Google Calendar, Apple Calendar, etc.) to automatically get all collection dates with icons and reminders!
+
+How to do it:
+
+Copy this link ☝️
+Open your calendar app (Google Calendar, Apple Calendar, etc.)
+Look for "Import calendar" or "Subscribe to calendar"
+Add the link - your device will automatically receive all collection dates with icons and reminders in English!
 
 | Commune | Link |
 |---------|------|
@@ -103,12 +124,12 @@ Alarm messages are automatically localized:
 - **🇫🇷 French**: "Rappel: [waste type] sera collecté demain."
 - **🇬🇧 English**: "Reminder: [waste type] will be collected tomorrow."
 
-### 📱 Device Compatibility
+### 📱 Calendar Compatibility
 Alarms work with most modern calendar applications:
-- ✅ Google Calendar (Android/Web)
-- ✅ Apple Calendar (iOS/macOS)
-- ✅ Outlook (Windows/Web)
-- ✅ Most other iCal-compatible calendar apps
+- Google Calendar (Android/Web)
+- Apple Calendar (iOS/macOS)
+- Outlook (Windows/Web)
+- Most other iCal-compatible calendar apps
 
 ---
 
