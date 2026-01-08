@@ -48,24 +48,24 @@ class TestSetupLogging:
         )
 
 
-class TestMain:
-    """Test main function."""
+class TestMainCommuneMode:
+    """Test main function in commune mode."""
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py", "test.pdf"])
+    @patch("waste_cal.cli.generate_all_commune_ical_files")
+    @patch("sys.argv", ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf"])
     @patch("builtins.print")
-    def test_main_extract_command_basic(
-        self, mock_print, mock_generate_all, mock_extract, mock_setup_logging, tmp_path
-    ):
-        """Test main function with basic extract command."""
-        # Setup mock calendar data
+    def test_commune_mode_basic(self, mock_print, mock_generate_all, mock_extract, mock_setup_logging, tmp_path):
+        """Test commune mode with basic arguments."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
         mock_generate_all.return_value = [
+            str(tmp_path / "waste-niederanven-en.ics"),
             str(tmp_path / "waste-en.ics"),
+            str(tmp_path / "waste-niederanven-fr.ics"),
             str(tmp_path / "waste-fr.ics"),
+            str(tmp_path / "waste-niederanven-lu.ics"),
             str(tmp_path / "waste-lu.ics"),
         ]
 
@@ -73,38 +73,52 @@ class TestMain:
 
         assert result == 0
         mock_setup_logging.assert_called_once_with("INFO")
-        mock_extract.assert_called_once_with("test.pdf", datetime.datetime.now().year)
-        mock_generate_all.assert_called_once_with(mock_calendar_data, datetime.datetime.now().year)
-        # Should not call print when generating iCal files
+        mock_extract.assert_called_once_with("pdf/waste-niederanven-2026.pdf", datetime.datetime.now().year)
+        mock_generate_all.assert_called_once_with(mock_calendar_data, "niederanven", datetime.datetime.now().year)
         mock_print.assert_not_called()
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "test.pdf", "--language", "fr", "--year", "2025"])
+    @patch("waste_cal.cli.generate_commune_ical_file")
+    @patch(
+        "sys.argv",
+        [
+            "cli.py",
+            "--commune",
+            "niederanven",
+            "--pdf",
+            "pdf/waste-niederanven-2025.pdf",
+            "--language",
+            "fr",
+            "--year",
+            "2025",
+        ],
+    )
     @patch("builtins.print")
-    def test_main_extract_with_options(
+    def test_commune_mode_with_options(
         self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path
     ):
-        """Test main function with language and year options."""
+        """Test commune mode with language and year options."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_single.return_value = str(tmp_path / "waste-fr.ics")
+        mock_generate_single.return_value = [
+            str(tmp_path / "waste-niederanven-fr.ics"),
+            str(tmp_path / "waste-fr.ics"),
+        ]
 
         result = main()
 
         assert result == 0
-        mock_extract.assert_called_once_with("test.pdf", 2025)
-        mock_generate_single.assert_called_once_with(mock_calendar_data, Languages.FR, 2025)
-        # Should not call print when generating iCal files
+        mock_extract.assert_called_once_with("pdf/waste-niederanven-2025.pdf", 2025)
+        mock_generate_single.assert_called_once_with(mock_calendar_data, "niederanven", Languages.FR, 2025)
         mock_print.assert_not_called()
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("sys.argv", ["cli.py", "--text"])
+    @patch("sys.argv", ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf", "--text"])
     @patch("builtins.print")
-    def test_main_extract_text_output(self, mock_print, mock_extract, mock_setup_logging):
-        """Test main function with text output flag."""
+    def test_commune_mode_text_output(self, mock_print, mock_extract, mock_setup_logging):
+        """Test commune mode with text output flag."""
         mock_calendar_data = Mock()
         mock_calendar_data.to_text.return_value = "Mock calendar output"
         mock_extract.return_value = mock_calendar_data
@@ -112,24 +126,18 @@ class TestMain:
         result = main()
 
         assert result == 0
-        # Should print the calendar data directly
         mock_print.assert_called_once_with("Mock calendar output")
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py", "--verbose"])
+    @patch("waste_cal.cli.generate_all_commune_ical_files")
+    @patch("sys.argv", ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf", "--verbose"])
     @patch("builtins.print")
-    def test_main_verbose_flag(self, mock_print, mock_generate_all, mock_extract, mock_setup_logging, tmp_path):
-        """Test main function with verbose flag."""
-        # Setup mock calendar data
+    def test_verbose_flag(self, mock_print, mock_generate_all, mock_extract, mock_setup_logging, tmp_path):
+        """Test verbose flag."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_all.return_value = [
-            str(tmp_path / "waste-en.ics"),
-            str(tmp_path / "waste-fr.ics"),
-            str(tmp_path / "waste-lu.ics"),
-        ]
+        mock_generate_all.return_value = [str(tmp_path / "waste-niederanven-en.ics")]
 
         main()
 
@@ -137,104 +145,194 @@ class TestMain:
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py"])  # Need to specify extract command explicitly
+    @patch("waste_cal.cli.generate_commune_ical_file")
+    @patch("sys.argv", ["cli.py", "--commune", "niederanven", "--pdf", "custom.pdf", "--language", "lu"])
     @patch("builtins.print")
-    def test_main_no_command_defaults_to_extract(
-        self, mock_print, mock_generate_all, mock_extract, mock_setup_logging, tmp_path
-    ):
-        """Test main function with extract command (default behavior)."""
+    def test_custom_pdf_path(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
+        """Test custom PDF path override."""
         mock_calendar_data = Mock()
         mock_extract.return_value = mock_calendar_data
-        mock_generate_all.return_value = [
-            str(tmp_path / "waste-en.ics"),
-            str(tmp_path / "waste-fr.ics"),
-            str(tmp_path / "waste-lu.ics"),
-        ]
+        mock_generate_single.return_value = [str(tmp_path / "waste-niederanven-lu.ics")]
 
         result = main()
 
         assert result == 0
-        # Should use default PDF file
-        default_pdf = "pdf/ressourcekalenner-nidderaanwen-web.pdf"
-        mock_extract.assert_called_once_with(default_pdf, datetime.datetime.now().year)
-        mock_generate_all.assert_called_once_with(mock_calendar_data, datetime.datetime.now().year)
-        # Should not call print when generating iCal files
-        mock_print.assert_not_called()
+        mock_extract.assert_called_once_with("custom.pdf", datetime.datetime.now().year)
 
     @patch("waste_cal.cli.setup_logging")
     @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_all_ical_files")
-    @patch("sys.argv", ["cli.py"])
+    @patch("sys.argv", ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf"])
     @patch("logging.error")
-    def test_main_extract_exception_handling(
-        self, mock_log_error, mock_generate_all, mock_extract, mock_setup_logging, tmp_path
-    ):
-        """Test main function handles exceptions during extraction."""
+    def test_exception_handling(self, mock_log_error, mock_extract, mock_setup_logging):
+        """Test exception handling in commune mode."""
         mock_extract.side_effect = Exception("Test extraction error")
-        # Mock the generate function even though it won't be called due to the exception
-        mock_generate_all.return_value = [
-            str(tmp_path / "waste-en.ics"),
-            str(tmp_path / "waste-fr.ics"),
-            str(tmp_path / "waste-lu.ics"),
-        ]
 
         result = main()
 
         assert result == 1
-        mock_log_error.assert_called_once_with("Error extracting calendar: Test extraction error")
+        mock_log_error.assert_called_once_with("Error: Test extraction error")
+
+
+class TestMainAdysMode:
+    """Test main function in ADYS mode."""
 
     @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "--language", "lu"])
+    @patch("waste_cal.cli.extract_adys_dates")
+    @patch("waste_cal.cli.extract_customer_id_from_filename")
+    @patch("waste_cal.cli.generate_all_adys_ical_files")
+    @patch("sys.argv", ["cli.py", "--adys", "--pdf", "pdf/adys-019027-2026.pdf"])
     @patch("builtins.print")
-    def test_main_language_mapping(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
-        """Test that language strings are correctly mapped to enum values."""
-        mock_calendar_data = Mock()
-        mock_extract.return_value = mock_calendar_data
-        mock_generate_single.return_value = str(tmp_path / "waste-lu.ics")
-
-        # Test Luxembourgish mapping
-        result = main()
-
-        assert result == 0
-        mock_generate_single.assert_called_once_with(mock_calendar_data, Languages.LU, datetime.datetime.now().year)
-        # Should not call print when generating iCal files
-        mock_print.assert_not_called()
-
-    @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "--language", "en"])
-    @patch("builtins.print")
-    def test_main_english_language(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
-        """Test English language selection."""
-        mock_calendar_data = Mock()
-        mock_extract.return_value = mock_calendar_data
-        mock_generate_single.return_value = str(tmp_path / "waste-en.ics")
+    def test_adys_mode_basic(
+        self, mock_print, mock_generate_all, mock_extract_id, mock_extract_dates, mock_setup_logging, tmp_path
+    ):
+        """Test ADYS mode with basic arguments."""
+        mock_extract_id.return_value = "019027"
+        mock_extract_dates.return_value = ["2025-03-03", "2025-06-09"]
+        mock_generate_all.return_value = [
+            str(tmp_path / "adys-019027-lu.ics"),
+            str(tmp_path / "adys-019027-fr.ics"),
+            str(tmp_path / "adys-019027-en.ics"),
+        ]
 
         result = main()
 
         assert result == 0
-        mock_generate_single.assert_called_once_with(mock_calendar_data, Languages.EN, datetime.datetime.now().year)
-        # Should not call print when generating iCal files
+        mock_extract_id.assert_called_once_with("pdf/adys-019027-2026.pdf")
+        mock_extract_dates.assert_called_once_with("pdf/adys-019027-2026.pdf")
+        mock_generate_all.assert_called_once()
         mock_print.assert_not_called()
 
     @patch("waste_cal.cli.setup_logging")
-    @patch("waste_cal.cli.extract_calendar_data")
-    @patch("waste_cal.cli.generate_ical_file")
-    @patch("sys.argv", ["cli.py", "--language", "fr"])
+    @patch("waste_cal.cli.extract_adys_dates")
+    @patch("waste_cal.cli.extract_customer_id_from_filename")
+    @patch("waste_cal.cli.generate_adys_ical_file")
+    @patch("sys.argv", ["cli.py", "--adys", "--pdf", "pdf/adys-019027-2026.pdf", "--language", "en"])
     @patch("builtins.print")
-    def test_main_french_language(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
-        """Test French language selection."""
-        mock_calendar_data = Mock()
-        mock_extract.return_value = mock_calendar_data
-        mock_generate_single.return_value = str(tmp_path / "waste-fr.ics")
+    def test_adys_mode_single_language(
+        self, mock_print, mock_generate_single, mock_extract_id, mock_extract_dates, mock_setup_logging, tmp_path
+    ):
+        """Test ADYS mode with single language."""
+        mock_extract_id.return_value = "019027"
+        mock_extract_dates.return_value = ["2025-03-03"]
+        mock_generate_single.return_value = str(tmp_path / "adys-019027-en.ics")
 
         result = main()
 
         assert result == 0
-        mock_generate_single.assert_called_once_with(mock_calendar_data, Languages.FR, datetime.datetime.now().year)
-        # Should not call print when generating iCal files
-        mock_print.assert_not_called()
+        mock_generate_single.assert_called_once()
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_adys_dates")
+    @patch("waste_cal.cli.generate_all_adys_ical_files")
+    @patch("sys.argv", ["cli.py", "--adys", "--pdf", "pdf/adys-019027-2026.pdf", "--customer-id", "019027"])
+    @patch("builtins.print")
+    def test_adys_mode_explicit_customer_id(
+        self, mock_print, mock_generate_all, mock_extract_dates, mock_setup_logging, tmp_path
+    ):
+        """Test ADYS mode with explicit customer ID."""
+        mock_extract_dates.return_value = ["2025-03-03"]
+        mock_generate_all.return_value = [str(tmp_path / "adys-019027-en.ics")]
+
+        result = main()
+
+        assert result == 0
+        # Should use explicit customer ID, not extract from filename
+        mock_generate_all.assert_called_once()
+        call_args = mock_generate_all.call_args
+        assert call_args[0][1] == "019027"  # customer_id argument
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_adys_dates")
+    @patch("sys.argv", ["cli.py", "--adys", "--pdf", "pdf/adys-019027-2026.pdf", "--text"])
+    @patch("builtins.print")
+    @patch("waste_cal.cli.extract_customer_id_from_filename")
+    def test_adys_mode_text_output(self, mock_extract_id, mock_print, mock_extract_dates, mock_setup_logging):
+        """Test ADYS mode with text output."""
+        mock_extract_id.return_value = "019027"
+        mock_extract_dates.return_value = ["2025-03-03", "2025-06-09"]
+
+        result = main()
+
+        assert result == 0
+        # Should print dates to stdout
+        assert mock_print.called
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_customer_id_from_filename")
+    @patch("sys.argv", ["cli.py", "--adys", "--pdf", "pdf/adys-019027-2026.pdf"])
+    @patch("logging.error")
+    def test_adys_mode_missing_customer_id(self, mock_log_error, mock_extract_id, mock_setup_logging):
+        """Test ADYS mode fails gracefully when customer ID cannot be extracted."""
+        mock_extract_id.return_value = None
+
+        result = main()
+
+        assert result == 1
+        mock_log_error.assert_called()
+
+
+class TestMainLanguageMapping:
+    """Test language string to enum mapping."""
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_calendar_data")
+    @patch("waste_cal.cli.generate_commune_ical_file")
+    @patch(
+        "sys.argv",
+        ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf", "--language", "lu"],
+    )
+    @patch("builtins.print")
+    def test_luxembourgish_mapping(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
+        """Test that 'lu' maps to Languages.LU."""
+        mock_calendar_data = Mock()
+        mock_extract.return_value = mock_calendar_data
+        mock_generate_single.return_value = [str(tmp_path / "waste-niederanven-lu.ics")]
+
+        result = main()
+
+        assert result == 0
+        mock_generate_single.assert_called_once()
+        call_args = mock_generate_single.call_args
+        assert call_args[0][2] == Languages.LU
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_calendar_data")
+    @patch("waste_cal.cli.generate_commune_ical_file")
+    @patch(
+        "sys.argv",
+        ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf", "--language", "fr"],
+    )
+    @patch("builtins.print")
+    def test_french_mapping(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
+        """Test that 'fr' maps to Languages.FR."""
+        mock_calendar_data = Mock()
+        mock_extract.return_value = mock_calendar_data
+        mock_generate_single.return_value = [str(tmp_path / "waste-niederanven-fr.ics")]
+
+        result = main()
+
+        assert result == 0
+        mock_generate_single.assert_called_once()
+        call_args = mock_generate_single.call_args
+        assert call_args[0][2] == Languages.FR
+
+    @patch("waste_cal.cli.setup_logging")
+    @patch("waste_cal.cli.extract_calendar_data")
+    @patch("waste_cal.cli.generate_commune_ical_file")
+    @patch(
+        "sys.argv",
+        ["cli.py", "--commune", "niederanven", "--pdf", "pdf/waste-niederanven-2026.pdf", "--language", "en"],
+    )
+    @patch("builtins.print")
+    def test_english_mapping(self, mock_print, mock_generate_single, mock_extract, mock_setup_logging, tmp_path):
+        """Test that 'en' maps to Languages.EN."""
+        mock_calendar_data = Mock()
+        mock_extract.return_value = mock_calendar_data
+        mock_generate_single.return_value = [str(tmp_path / "waste-niederanven-en.ics")]
+
+        result = main()
+
+        assert result == 0
+        mock_generate_single.assert_called_once()
+        call_args = mock_generate_single.call_args
+        assert call_args[0][2] == Languages.EN

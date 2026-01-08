@@ -9,7 +9,14 @@ import pytest
 from ics import Calendar
 from ics.alarm import DisplayAlarm
 from waste_cal.calendar_processor import CalendarData
-from waste_cal.ical_generator import generate_all_ical_files, generate_ical_file
+from waste_cal.ical_generator import (
+    generate_adys_ical_file,
+    generate_all_adys_ical_files,
+    generate_all_commune_ical_files,
+    generate_all_ical_files,
+    generate_commune_ical_file,
+    generate_ical_file,
+)
 from waste_cal.waste_types import Languages, WasteType
 
 
@@ -32,8 +39,219 @@ def create_mock_calendar_data() -> CalendarData:
     return calendar_data
 
 
-class TestGenerateIcalFile:
-    """Test generate_ical_file function."""
+class TestGenerateCommuneIcalFile:
+    """Test generate_commune_ical_file function."""
+
+    def test_generates_commune_specific_file(self):
+        """Test that generate_commune_ical_file creates a commune-specific file."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, "niederanven", Languages.EN, 2025, temp_dir)
+
+            # Should generate at least the commune-specific file
+            assert any("waste-niederanven-en.ics" in fp for fp in filepaths)
+
+            # Check file was created
+            commune_file = next(fp for fp in filepaths if "waste-niederanven-en.ics" in fp)
+            assert os.path.exists(commune_file)
+
+            # Check file content is valid iCal
+            with open(commune_file, encoding="utf-8") as f:
+                content = f.read()
+                assert "BEGIN:VCALENDAR" in content
+                assert "END:VCALENDAR" in content
+
+    def test_niederanven_generates_legacy_duplicate(self):
+        """Test that niederanven generates legacy waste-{lang}.ics duplicates."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, "niederanven", Languages.EN, 2025, temp_dir)
+
+            # Should generate both commune-specific and legacy files
+            assert len(filepaths) == 2
+
+            filenames = [os.path.basename(fp) for fp in filepaths]
+            assert "waste-niederanven-en.ics" in filenames
+            assert "waste-en.ics" in filenames
+
+            # Both files should exist and have identical content
+            for fp in filepaths:
+                assert os.path.exists(fp)
+
+    def test_other_commune_no_legacy_duplicate(self):
+        """Test that non-niederanven communes don't generate legacy duplicates."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, "schuttrange", Languages.EN, 2025, temp_dir)
+
+            # Should only generate commune-specific file, no legacy
+            assert len(filepaths) == 1
+            assert "waste-schuttrange-en.ics" in filepaths[0]
+
+    def test_commune_specific_location(self):
+        """Test that events have commune-specific location."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, "schuttrange", Languages.EN, 2025, temp_dir)
+
+            # Parse the generated calendar
+            with open(filepaths[0], encoding="utf-8") as f:
+                calendar = Calendar(f.read())
+
+            # Check event location
+            for event in calendar.events:
+                assert event.location == "Schuttrange, Luxembourg"
+
+    @pytest.mark.parametrize(
+        "language,expected_suffix",
+        [
+            (Languages.LU, "lu"),
+            (Languages.FR, "fr"),
+            (Languages.EN, "en"),
+        ],
+    )
+    def test_language_specific_filenames(self, language: Languages, expected_suffix: str):
+        """Test that files are named correctly for each language."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, "niederanven", language, 2025, temp_dir)
+
+            expected_commune_file = f"waste-niederanven-{expected_suffix}.ics"
+            assert any(expected_commune_file in fp for fp in filepaths)
+
+
+class TestGenerateAllCommuneIcalFiles:
+    """Test generate_all_commune_ical_files function."""
+
+    def test_niederanven_generates_all_files(self):
+        """Test that niederanven generates 6 files (3 commune + 3 legacy)."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_all_commune_ical_files(calendar_data, "niederanven", 2025, temp_dir)
+
+            # Should create 6 files (3 commune-specific + 3 legacy)
+            assert len(filepaths) == 6
+
+            filenames = [os.path.basename(fp) for fp in filepaths]
+
+            # Check commune-specific files
+            assert "waste-niederanven-lu.ics" in filenames
+            assert "waste-niederanven-fr.ics" in filenames
+            assert "waste-niederanven-en.ics" in filenames
+
+            # Check legacy files
+            assert "waste-lu.ics" in filenames
+            assert "waste-fr.ics" in filenames
+            assert "waste-en.ics" in filenames
+
+    def test_other_commune_generates_only_commune_files(self):
+        """Test that non-niederanven communes generate only 3 files."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_all_commune_ical_files(calendar_data, "schuttrange", 2025, temp_dir)
+
+            # Should create only 3 files (no legacy)
+            assert len(filepaths) == 3
+
+            filenames = [os.path.basename(fp) for fp in filepaths]
+            assert "waste-schuttrange-lu.ics" in filenames
+            assert "waste-schuttrange-fr.ics" in filenames
+            assert "waste-schuttrange-en.ics" in filenames
+
+
+class TestGenerateAdysIcalFile:
+    """Test generate_adys_ical_file function."""
+
+    def test_generates_adys_file(self):
+        """Test that ADYS file is generated with correct naming."""
+        adys_dates = ["2025-03-03", "2025-06-09", "2025-09-01"]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepath = generate_adys_ical_file(adys_dates, "019027", Languages.EN, 2025, temp_dir)
+
+            assert filepath.endswith("adys-019027-en.ics")
+            assert os.path.exists(filepath)
+
+            # Check file content is valid iCal
+            with open(filepath, encoding="utf-8") as f:
+                content = f.read()
+                assert "BEGIN:VCALENDAR" in content
+                assert "END:VCALENDAR" in content
+
+    def test_adys_events_contain_correct_dates(self):
+        """Test that ADYS events are created for each date."""
+        adys_dates = ["2025-03-03", "2025-06-09", "2025-09-01"]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepath = generate_adys_ical_file(adys_dates, "019027", Languages.EN, 2025, temp_dir)
+
+            with open(filepath, encoding="utf-8") as f:
+                calendar = Calendar(f.read())
+
+            assert len(calendar.events) == 3
+
+    def test_adys_location_is_generic(self):
+        """Test that ADYS events have generic Luxembourg location."""
+        adys_dates = ["2025-03-03"]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepath = generate_adys_ical_file(adys_dates, "019027", Languages.EN, 2025, temp_dir)
+
+            with open(filepath, encoding="utf-8") as f:
+                calendar = Calendar(f.read())
+
+            for event in calendar.events:
+                assert event.location == "Luxembourg"
+
+    @pytest.mark.parametrize(
+        "language,expected_suffix",
+        [
+            (Languages.LU, "lu"),
+            (Languages.FR, "fr"),
+            (Languages.EN, "en"),
+        ],
+    )
+    def test_adys_language_specific_filenames(self, language: Languages, expected_suffix: str):
+        """Test that ADYS files are named correctly for each language."""
+        adys_dates = ["2025-03-03"]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepath = generate_adys_ical_file(adys_dates, "019027", language, 2025, temp_dir)
+
+            expected_filename = f"adys-019027-{expected_suffix}.ics"
+            assert filepath.endswith(expected_filename)
+
+
+class TestGenerateAllAdysIcalFiles:
+    """Test generate_all_adys_ical_files function."""
+
+    def test_generates_all_language_files(self):
+        """Test that all language files are generated."""
+        adys_dates = ["2025-03-03", "2025-06-09"]
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_all_adys_ical_files(adys_dates, "019027", 2025, temp_dir)
+
+            assert len(filepaths) == 3
+
+            filenames = [os.path.basename(fp) for fp in filepaths]
+            assert "adys-019027-lu.ics" in filenames
+            assert "adys-019027-fr.ics" in filenames
+            assert "adys-019027-en.ics" in filenames
+
+
+# Legacy function tests for backward compatibility
+
+
+class TestLegacyGenerateIcalFile:
+    """Test legacy generate_ical_file function (backward compatibility)."""
 
     def test_generate_ical_file_creates_file(self):
         """Test that generate_ical_file creates a valid iCal file."""
@@ -141,21 +359,21 @@ class TestGenerateIcalFile:
             # Check that events contain language-specific descriptions
             for event in calendar.events:
                 # Event name should contain waste type description in the specified language
-                # We can't easily test the exact content without knowing which waste type
-                # each event represents, but we can check basic structure
                 assert event.name  # Should have a name
+                assert event.description is not None
                 assert event.description.startswith("Waste collection:")
 
                 # Check alarm messages for events that have alarms
                 if event.alarms:
                     alarm = list(event.alarms)[0]
+                    alarm_text = alarm.display_text  # type: ignore[attr-defined]
                     # Alarm message should be in the correct language
                     if language == Languages.LU:
-                        assert "Moien!" in alarm.display_text
+                        assert "Moien!" in alarm_text
                     elif language == Languages.FR:
-                        assert "Rappel:" in alarm.display_text
+                        assert "Rappel:" in alarm_text
                     elif language == Languages.EN:
-                        assert "Reminder:" in alarm.display_text
+                        assert "Reminder:" in alarm_text
 
     def test_generate_ical_file_creates_output_directory(self):
         """Test that output directory is created if it doesn't exist."""
@@ -172,8 +390,8 @@ class TestGenerateIcalFile:
             assert os.path.exists(filepath)
 
 
-class TestGenerateAllIcalFiles:
-    """Test generate_all_ical_files function."""
+class TestLegacyGenerateAllIcalFiles:
+    """Test legacy generate_all_ical_files function (backward compatibility)."""
 
     def test_generate_all_ical_files_creates_all_languages(self):
         """Test that generate_all_ical_files creates files for all languages."""
@@ -270,12 +488,13 @@ class TestAlarmIntegration:
                     assert alarm.trigger == timedelta(days=-1, hours=20, minutes=30)
 
                     # Verify language-specific alarm messages
+                    alarm_text = alarm.display_text  # type: ignore[attr-defined]
                     if "waste-lu.ics" in filepath:
-                        assert "Moien!" in alarm.display_text
-                        assert "muer ofgeholl" in alarm.display_text
+                        assert "Moien!" in alarm_text
+                        assert "muer ofgeholl" in alarm_text
                     elif "waste-fr.ics" in filepath:
-                        assert "Rappel:" in alarm.display_text
-                        assert "collecté demain" in alarm.display_text
+                        assert "Rappel:" in alarm_text
+                        assert "collecté demain" in alarm_text
                     elif "waste-en.ics" in filepath:
-                        assert "Reminder:" in alarm.display_text
-                        assert "collected tomorrow" in alarm.display_text
+                        assert "Reminder:" in alarm_text
+                        assert "collected tomorrow" in alarm_text

@@ -1,7 +1,7 @@
 <div align="center">
   <img src="icons/icon.png" alt="Waste Calendar Extractor" width="128" height="128">
   
-# Waste Calendar Extractor for Niederanven, Luxembourg 🇱🇺
+# Waste Calendar Extractor for Luxembourg Communes 🇱🇺
 
 </div>
 
@@ -11,54 +11,36 @@
 
 ## 📅 Quick Start
 
-### 🇱🇺 **Lëtzebuergesch**
+### 🇱🇺 Lëtzebuergesch
 
-**Link fir den Offall-Kalenner op Lëtzebuergesch:**
+Offall-Kalenner fir Är Gemeng. Kopéiert de Link an Är Kalenner-App (Google Calendar, Apple Calendar, etc.) fir automatesch all d'Offall-Datumer mat Ikouen an Erënnerungen ze kréien!
 
-```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-lu.ics
-```
-
-**Wéi maachen:**
-
-1. Kopéiert dësen Link ☝️
-2. Gitt an Är Kalenner-App (Google Calendar, Apple Calendar, etc.)
-3. Sicht no "Kalenner importéieren" oder "Kalenner abonnéieren"
-4. Fügt den Link an - Är Telefon gëtt automatesch all d'Offall-Datumer mat Ikouen an Erënnerungen!
+| Gemeng | Link |
+|--------|------|
+| Nidderaanwen | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-lu.ics` |
+| Schëtter | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-lu.ics` |
 
 ---
 
-### 🇫🇷 **Français**
+### 🇫🇷 Français
 
-**Lien pour le calendrier des déchets en français :**
+Calendrier des déchets pour votre commune. Copiez le lien dans votre application calendrier (Google Calendar, Apple Calendar, etc.) pour recevoir automatiquement toutes les dates de collecte avec des icônes et des rappels !
 
-```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-fr.ics
-```
-
-**Comment faire :**
-
-1. Copiez ce lien ☝️
-2. Ouvrez votre app calendrier (Google Calendar, Apple Calendar, etc.)
-3. Cherchez "Importer calendrier" ou "S'abonner au calendrier"
-4. Ajoutez le lien - votre téléphone recevra automatiquement toutes les dates de collecte avec des icônes et des rappels en français !
+| Commune | Lien |
+|---------|------|
+| Niederanven | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-fr.ics` |
+| Schuttrange | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-fr.ics` |
 
 ---
 
-### 🇬🇧 **English**
+### 🇬🇧 English
 
-**Link for the waste collection calendar in English:**
+Waste collection calendar for your commune. Copy the link into your calendar app (Google Calendar, Apple Calendar, etc.) to automatically get all collection dates with icons and reminders!
 
-```link
-https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-en.ics
-```
-
-**How to use:**
-
-1. Copy this link ☝️
-2. Open your calendar app (Google Calendar, Apple Calendar, etc.)
-3. Look for "Import Calendar" or "Subscribe to Calendar"
-4. Add the link - your phone will automatically get all waste collection dates with helpful emoji icons and reminder alarms in English!
+| Commune | Link |
+|---------|------|
+| Niederanven | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-en.ics` |
+| Schuttrange | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-en.ics` |
 
 ---
 
@@ -68,23 +50,24 @@ https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/wast
 
 ## About This Tool
 
-A Python tool to extract waste collection dates from PDF calendars published by the **Commune of Niederanven** and generate iCal files for easy calendar integration.
+A Python tool to extract waste collection dates from PDF calendars published by **Luxembourg communes** (currently Niederanven and Schuttrange) and generate iCal files for easy calendar integration.
 
 ### ⚠️ Important Disclaimer
 
-**This is an unofficial hobby project and is not endorsed by, affiliated with, or maintained by the Commune of Niederanven.** The data extracted from PDF calendars may be inaccurate or incomplete.
+**This is an unofficial hobby project and is not endorsed by, affiliated with, or maintained by any Luxembourg commune.** The data extracted from PDF calendars may be inaccurate or incomplete.
 
 **No warranty or guarantee is provided regarding the accuracy, completeness, or reliability of the waste collection information.** Users are responsible for verifying collection dates independently and should not rely solely on this tool for waste collection scheduling.
 
 **The developer assumes no responsibility or liability for any consequences arising from the use of this software or the calendar data it generates, including but not limited to missed collections, fines, or other damages.**
 
-For official and authoritative waste collection information, always consult the official resources provided by the Commune of Niederanven.
+For official and authoritative waste collection information, always consult the official resources provided by your commune.
 
 ## Source Data
 
-This tool extracts data from the official waste collection calendar published by the **Commune of Niederanven**.
+This tool extracts data from official waste collection calendars published by Luxembourg communes:
 
-The original PDF calendar ("Ressourcekalenner") can be found on the [official Niederanven website](https://www.niederanven.lu/en/environment/waste-disposal-management). Visit their waste management section for the latest calendar updates.
+- **Niederanven**: [Official website](https://www.niederanven.lu/en/environment/waste-disposal-management)
+- **Schuttrange**: [data.public.lu](https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0)
 
 ## Features
 
@@ -111,7 +94,7 @@ The generated calendars include **smart reminder alarms** to help you never miss
   - 🍾 Glass (Glas / Verre)
 
 ### 🚫 No Alarms For
-Special collections that don't require advance preparation:
+Special collections that require advance preparation:
 - 🔌 Electric waste, 🌿 Hedge trimmings, ☣️ Problematic waste, 🛏️ Bulky items, 👕 Clothes, 🎄 Christmas trees
 
 ### 🌍 Multilingual Messages
@@ -143,51 +126,56 @@ cd waste-calendar-extractor
 uv sync
 ```
 
+## Justfile Recipes
+
+For convenience, this project includes justfile recipes that handle the CLI commands for you:
+
+```bash
+# Generate all languages for a commune and year
+just generate-commune niederanven 2026
+just generate-commune schuttrange 2026
+
+# Generate ADYS calendars for a customer and year
+just generate-adys 019027 2026
+```
+
 ## Usage
 
 ### Basic usage
 
 ```bash
-# Extract calendar from default PDF file (generates iCal files)
-uv run waste-cal
+# Generate calendars for a commune (all languages)
+uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf
+uv run waste-cal --commune schuttrange --pdf pdf/waste-schuttrange-2026.pdf
 
-# Traditional method (also works)
-uv run python -m waste_cal
+# Generate ADYS calendars
+uv run waste-cal --adys --pdf pdf/adys-019027-2026.pdf
 ```
 
 ### Advanced usage
 
 ```bash
-# Generate language-specific calendars
-uv run waste-cal --language lu  # Luxembourgish
-uv run waste-cal --language fr  # French
-uv run waste-cal --language en  # English
+# Generate calendars with custom PDF file
+uv run waste-cal --commune niederanven --pdf my-calendar.pdf
 
-# Specify custom PDF file
-uv run waste-cal my-calendar.pdf
-
-# Custom year
-uv run waste-cal --year 2026
+# Custom year (when PDF filename doesn't match)
+uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --year 2026
 
 # Output as text instead of generating iCal files
-uv run waste-cal --text
-
-# Text output in specific language
-uv run waste-cal --text --language lu
+uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --text
 
 # Verbose logging
-uv run waste-cal --verbose
-
-# Show help
-uv run waste-cal --help
+uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --verbose
 ```
 
 ## Command Line Options
 
-- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
-- `-l, --language {lu,fr,en}`: Language for output (lu=Luxembourgish, fr=French, en=English). For iCal: generates only specified language file. For text: uses specified language (default: en)
+- `--commune {niederanven,schuttrange}`: Commune to generate calendar for
+- `--adys`: Generate ADYS calendar (requires --pdf)
+- `--pdf PDF_PATH`: Path to PDF file (required)
+- `-l, --language {lu,fr,en}`: Language for --text output. If omitted, shows all languages
 - `-y, --year YEAR`: Year for calendar extraction (default: current year)
-- `--text`: Output as text instead of generating iCal files (default: generate iCal files)
+- `--text`: Output as text instead of generating iCal files
 - `-v, --verbose`: Enable verbose logging
 - `-h, --help`: Show help message and exit
 
@@ -196,7 +184,7 @@ uv run waste-cal --help
 This is used only for debugging.
 
 - `month`: Month name to extract drawings from (january, february, march, april, may, june, july, august, september, october, november, december)
-- `pdf_file`: Path to PDF file (default: `pdf/ressourcekalenner-nidderaanwen-web.pdf`)
+- `--pdf PDF_PATH`: Path to PDF file (required)
 - `-o, --output-dir OUTPUT_DIR`: Output directory for drawing images (default: debug)
 
 ## License

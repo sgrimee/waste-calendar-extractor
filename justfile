@@ -53,62 +53,33 @@ clean:
     rm -rf .mypy_cache/
     rm -rf .ruff_cache/
 
-# Clean all waste calendar files
+# Clean all waste and adys calendar files
 clean-waste:
-    @echo "🗑️ Removing all waste calendar files..."
+    @echo "Removing all waste and adys calendar files..."
     rm -f ics/waste-*.ics
-    @echo "✅ Cleaned all waste calendar files"
+    rm -f ics/adys-*.ics
+    @echo "Cleaned all calendar files"
 
-# Generate waste calendar for current year (all languages, without ADYS)
-generate: clean-waste
-    uv run waste-cal --language lu
-    uv run waste-cal --language fr
-    uv run waste-cal --language en
-    @echo "✅ Generated all language-specific calendars"
+# === CALENDAR GENERATION ===
 
-# Generate waste calendar with ADYS bin cleaning dates (all languages)
-generate-with-adys: clean-waste
-    uv run waste-cal --language lu --include-adys
-    uv run waste-cal --language fr --include-adys
-    uv run waste-cal --language en --include-adys
-    @echo "✅ Generated calendars with ADYS cleaning dates (both standard and -adys files)"
+# Generate all languages for a commune and year
+generate-commune commune year:
+    uv run waste-cal --commune {{commune}} --pdf pdf/waste-{{commune}}-{{year}}.pdf --year {{year}}
+    @echo "Generated waste-{{commune}}-*.ics files"
 
-# Generate waste calendar for specific year (all languages)
-generate-year year: clean-waste
-    uv run waste-cal --language lu --year {{year}}
-    uv run waste-cal --language fr --year {{year}}
-    uv run waste-cal --language en --year {{year}}
-    echo "✅ Generated all language-specific calendars for {{year}}"
+# === ADYS GENERATION ===
 
-# Generate calendar for specific language (without ADYS)
-generate-lang lang:
-    uv run waste-cal --language {{lang}}
-    @echo "✅ Generated ics/waste-{{lang}}.ics calendar"
+# ADYS standalone for specific customer and year
+generate-adys customer_id year:
+    uv run waste-cal --adys --pdf pdf/adys-{{customer_id}}-{{year}}.pdf --year {{year}}
+    @echo "Generated adys-{{customer_id}}-*.ics files"
 
-# Generate calendar for specific language and year (without ADYS)
-generate-lang-year lang year:
-    uv run waste-cal --language {{lang}} --year {{year}}
-    @echo "✅ Generated ics/waste-{{lang}}.ics calendar"
+# Convenience alias for known customer
+generate-adys-019027:
+    just generate-adys 019027 2026
 
-# Generate calendar for specific language with ADYS
-generate-lang-with-adys lang:
-    uv run waste-cal --language {{lang}} --include-adys
-    @echo "✅ Generated ics/waste-{{lang}}.ics and ics/waste-{{lang}}-adys.ics calendars"
+# === VIEWING ===
 
-# Generate calendar for specific language and year with ADYS
-generate-lang-year-with-adys lang year:
-    uv run waste-cal --language {{lang}} --year {{year}} --include-adys
-    @echo "✅ Generated ics/waste-{{lang}}.ics and ics/waste-{{lang}}-adys.ics calendars"
-
-view-lang lang:
-    @echo "📅 Viewing {{lang}} calendar:"
-    uv run python -m waste_cal.ics_viewer ics/waste-{{lang}}.ics
-
-view-file file:
-    @echo "📅 Viewing calendar: {{file}}"
-    uv run python -m waste_cal.ics_viewer {{file}}
-
-# View calendar with specific format
 view-summary file:
     uv run python -m waste_cal.ics_viewer {{file}} --format summary
 
@@ -117,6 +88,8 @@ view-calendar file:
 
 view-list file:
     uv run python -m waste_cal.ics_viewer {{file}} --format list
+
+# === UTILITIES ===
 
 # Extract ADYS cleaning dates from PDF (year auto-detected from PDF title)
 extract-adys pdf:

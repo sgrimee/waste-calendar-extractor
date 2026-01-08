@@ -17,7 +17,7 @@ ics/
   waste-en-adys.ics
 
 pdf/
-  ressourcekalenner-nidderaanwen-web.pdf
+  waste-niederanven-2026.pdf
   adys.pdf
 ```
 
@@ -60,8 +60,8 @@ ics/
   adys-019027-en.ics
 
 pdf/
-  ressourcekalenner-nidderaanwen-web.pdf
-  adys-019027.pdf                    # renamed from adys.pdf
+  waste-niederanven-2026.pdf
+  adys-019027-2026.pdf                    # renamed from adys.pdf
 ```
 
 ### Files Removed
@@ -97,13 +97,13 @@ uv run waste-cal --commune niederanven --pdf pdf/custom.pdf --language lu
 #### ADYS Calendar Generation
 ```bash
 # Generate ADYS calendar (customer ID derived from PDF filename)
-uv run waste-cal --adys pdf/adys-019027.pdf --language lu
+uv run waste-cal --adys pdf/adys-019027-2026.pdf --language lu
 
 # Generate ADYS with explicit customer ID (overrides filename)
 uv run waste-cal --adys pdf/adys.pdf --customer-id 019027 --language lu
 
 # Generate all languages
-uv run waste-cal --adys pdf/adys-019027.pdf
+uv run waste-cal --adys pdf/adys-019027-2026.pdf
 ```
 
 ### CLI Arguments
@@ -122,7 +122,7 @@ uv run waste-cal --adys pdf/adys-019027.pdf
 ### Default PDF Paths by Commune
 ```python
 COMMUNE_PDF_DEFAULTS = {
-    "niederanven": "pdf/ressourcekalenner-nidderaanwen-web.pdf",
+    "niederanven": "pdf/waste-niederanven-2026.pdf",
     "schuttrange": "pdf/ressourcekalenner-schuttrange-web.pdf",  # TBD
 }
 ```
@@ -149,7 +149,7 @@ generate-schuttrange:
 
 # ADYS standalone
 generate-adys customer_id:
-    uv run waste-cal --adys pdf/adys-{{customer_id}}.pdf
+    uv run waste-cal --adys --pdf pdf/adys-{{customer_id}}-2026.pdf
     @echo "Generated adys-{{customer_id}}-*.ics files"
 
 # Convenience alias for known customer
@@ -162,7 +162,7 @@ generate-commune-lang commune lang:
 
 # Generate ADYS for specific customer + language
 generate-adys-lang customer_id lang:
-    uv run waste-cal --adys pdf/adys-{{customer_id}}.pdf --language {{lang}}
+    uv run waste-cal --adys --pdf pdf/adys-{{customer_id}}-2026.pdf --language {{lang}}
 ```
 
 ### Backward Compatibility
@@ -181,7 +181,7 @@ generate: generate-niederanven
 
 ### 1. Rename PDF File
 ```bash
-mv pdf/adys.pdf pdf/adys-019027.pdf
+mv pdf/adys.pdf pdf/adys-019027-2026.pdf
 ```
 
 ### 2. Update `cli.py`
@@ -233,7 +233,7 @@ Add function to extract customer ID from PDF filename:
 def extract_customer_id_from_filename(pdf_path: str) -> str | None:
     """
     Extract customer ID from ADYS PDF filename.
-    e.g., 'pdf/adys-019027.pdf' -> '019027'
+    e.g., 'pdf/adys-019027-2026.pdf' -> '019027'
     Returns None if pattern not found.
     """
 ```
@@ -257,7 +257,7 @@ Users currently subscribing to:
 
 ### Implementation Order
 
-1. Rename `pdf/adys.pdf` to `pdf/adys-019027.pdf`
+1. Rename `pdf/adys.pdf` to `pdf/adys-019027-2026.pdf`
 2. Update `ical_generator.py` with new functions
 3. Update `adys_extractor.py` with customer ID extraction
 4. Update `cli.py` with new arguments
@@ -429,7 +429,7 @@ uv run waste-cal --commune niederanven
 uv run waste-cal --commune schuttrange
 
 # Generate ADYS calendar
-uv run waste-cal --adys pdf/adys-019027.pdf
+uv run waste-cal --adys pdf/adys-019027-2026.pdf
 ```
 
 ### Advanced usage
@@ -478,7 +478,7 @@ Add README update step:
 ```markdown
 ### Implementation Order
 
-1. Rename `pdf/adys.pdf` to `pdf/adys-019027.pdf`
+1. Rename `pdf/adys.pdf` to `pdf/adys-019027-2026.pdf`
 2. Update `ical_generator.py` with new functions
 3. Update `adys_extractor.py` with customer ID extraction
 4. Update `cli.py` with new arguments

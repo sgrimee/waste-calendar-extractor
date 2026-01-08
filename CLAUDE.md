@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a waste collection calendar extractor that extracts dates and waste types from PDF calendars published by the Commune of Niederanven, Luxembourg, and generates multilingual iCal calendar files.
+This is a waste collection calendar extractor that extracts dates and waste types from PDF calendars published by Luxembourg communes (currently Niederanven and Schuttrange) and generates multilingual iCal calendar files. It also supports standalone ADYS bin cleaning calendars.
 
 ## Architecture
 
@@ -47,10 +47,11 @@ just lint                      # Check code without fixing
 just typecheck                 # Run mypy type checking
 
 # Calendar generation
-just generate                  # Generate all language calendars for current year
-just generate-year 2026        # Generate for specific year
-just generate-lang lu          # Generate Luxembourgish only
-just clean-waste              # Remove all generated ics/waste-*.ics files
+just generate-niederanven      # Generate Niederanven calendars (with legacy duplicates)
+just generate-schuttrange      # Generate Schuttrange calendars
+just generate-adys 019027      # Generate ADYS calendar for customer 019027
+just generate-all              # Generate all calendars (all communes + ADYS)
+just clean-waste               # Remove all generated ics/ files
 
 # Calendar viewing
 just view-all                  # View all generated calendars in summary

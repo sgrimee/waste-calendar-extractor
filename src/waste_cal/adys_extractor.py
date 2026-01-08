@@ -7,16 +7,39 @@ The calendar displays 12 months with days 01-31 in a grid format,
 with green squares indicating cleaning dates for organic waste bins.
 
 Usage:
-    from waste_cal.adys_extractor import extract_adys_dates
+    from waste_cal.adys_extractor import extract_adys_dates, extract_customer_id_from_filename
 
-    dates = extract_adys_dates("path/to/adys.pdf")
+    dates = extract_adys_dates("path/to/adys-019027-2026.pdf")
+    customer_id = extract_customer_id_from_filename("path/to/adys-019027-2026.pdf")
     for date in dates:
         print(date)  # Output: 2026-03-03, 2026-06-09, etc.
 """
 
 import logging
+import re
+from pathlib import Path
 
 import fitz
+
+
+def extract_customer_id_from_filename(pdf_path: str) -> str | None:
+    """
+    Extract customer ID from ADYS PDF filename.
+
+    Expected filename pattern: adys-{customer_id}-{year}.pdf
+    e.g., 'pdf/adys-019027-2026.pdf' -> '019027'
+
+    Args:
+        pdf_path: Path to the ADYS PDF file
+
+    Returns:
+        Customer ID string if found, None otherwise
+    """
+    filename = Path(pdf_path).stem  # Get filename without extension
+    match = re.match(r"adys-(\d+)", filename)
+    if match:
+        return match.group(1)
+    return None
 
 
 def extract_adys_dates(pdf_path: str, year: int | None = None) -> list[str]:
