@@ -11,6 +11,7 @@ import logging
 
 from waste_cal.adys_extractor import extract_adys_dates, extract_customer_id_from_filename
 from waste_cal.calendar_processor import extract_calendar_data
+from waste_cal.csv_extractor import extract_calendar_data_from_csv, get_communes
 from waste_cal.ical_generator import (
     generate_adys_ical_file,
     generate_all_adys_ical_files,
@@ -33,20 +34,45 @@ def setup_logging(level: str = "INFO") -> None:
 def main():
     """Main function with command line interface."""
     parser = argparse.ArgumentParser(
-        description="Extract waste collection dates from PDF calendars and generate iCal files."
+        description="Extract waste collection dates from PDF calendars or CSV data and generate iCal files."
     )
 
     # Mutually exclusive group for commune vs adys mode
     mode_group = parser.add_mutually_exclusive_group(required=True)
     mode_group.add_argument(
         "--commune",
-        choices=SUPPORTED_COMMUNES,
-        help="Commune name (e.g., niederanven, schuttrange)",
+        help=(
+            "Commune name (e.g., niederanven, schuttrange). "
+            "Use --list-communes to see available communes when using CSV."
+        ),
+    )
+    mode_group.add_argument(
+        "--all-communes",
+        action="store_true",
+        help="Generate calendars for all communes in CSV (requires --csv)",
     )
     mode_group.add_argument(
         "--adys",
         action="store_true",
         help="Generate ADYS calendar (requires --pdf)",
+    )
+    mode_group.add_argument(
+        "--list-communes",
+        action="store_true",
+        help="List all available communes in CSV (requires --csv)",
+    )
+
+    # Data source: mutually exclusive PDF or CSV
+    source_group = parser.add_mutually_exclusive_group()
+    source_group.add_argument(
+        "--pdf",
+        metavar="PDF_PATH",
+        help="Path to PDF file (required for --commune or --adys)",
+    )
+    source_group.add_argument(
+        "--csv",
+        metavar="CSV_PATH",
+        help="Path to CSV file (required for CSV-based modes)",
     )
 
     # Common arguments
@@ -62,12 +88,6 @@ def main():
         type=int,
         default=datetime.datetime.now().year,
         help="Year for calendar extraction (default: current year)",
-    )
-    parser.add_argument(
-        "--pdf",
-        metavar="PDF_PATH",
-        required=True,
-        help="Path to PDF file",
     )
     parser.add_argument(
         "--customer-id",
@@ -90,12 +110,29 @@ def main():
     language_map = {"lu": Languages.LU, "fr": Languages.FR, "en": Languages.EN}
 
     try:
-        if args.commune:
-            # Commune mode: generate waste calendar for a commune
-            return _handle_commune_mode(args, language_map)
+        # CSV-based modes
+        if args.csv:
+            if args.list_communes:
+                return _handle_list_communes_mode(args)
+            elif args.all_communes:
+                return _handle_all_communes_mode(args, language_map)
+            elif args.commune:
+                return _handle_commune_from_csv_mode(args, language_map)
+            else:
+                logging.error("CSV mode requires --commune, --all-communes, or --list-communes")
+                return 1
+        # PDF-based modes
+        elif args.pdf:
+            if args.commune:
+                return _handle_commune_mode(args, language_map)
+            elif args.adys:
+                return _handle_adys_mode(args, language_map)
+            else:
+                logging.error("PDF mode requires --commune or --adys")
+                return 1
         else:
-            # ADYS mode: generate standalone ADYS calendar
-            return _handle_adys_mode(args, language_map)
+            logging.error("Either --pdf or --csv is required")
+            return 1
 
     except Exception as e:
         logging.error(f"Error: {e}")
@@ -168,3 +205,78 @@ def _handle_adys_mode(args, language_map: dict) -> int:
                 logging.info(f"Generated ADYS iCal file: {filepath}")
 
     return 0
+
+
+def _handle_list_communes_mode(args) -> int:
+    """Handle listing available communes from CSV."""
+    csv_path = args.csv
+    try:
+        communes = get_communes(csv_path)
+        print(f"Available communes in {csv_path} ({len(communes)} total):")
+        for commune in communes:
+            print(f"  {commune}")
+        return 0
+    except Exception as e:
+        logging.error(f"Error listing communes: {e}")
+        return 1
+
+
+def _handle_commune_from_csv_mode(args, language_map: dict) -> int:
+    """Handle commune calendar generation from CSV."""
+    csv_path = args.csv
+    commune = args.commune
+
+    logging.info(f"Extracting calendar data from {csv_path} for {commune}")
+    calendar_data = extract_calendar_data_from_csv(csv_path, commune)
+
+    if args.text:
+        # Output as text
+        language = language_map.get(args.language, Languages.EN)
+        print(calendar_data.to_text(language))
+    else:
+        # Generate iCal files
+        if args.language:
+            language = language_map[args.language]
+            filepaths = generate_commune_ical_file(calendar_data, commune, language, args.year)
+            for filepath in filepaths:
+                logging.info(f"Generated iCal file: {filepath}")
+        else:
+            filepaths = generate_all_commune_ical_files(calendar_data, commune, args.year)
+            for filepath in filepaths:
+                logging.info(f"Generated iCal file: {filepath}")
+
+    return 0
+
+
+def _handle_all_communes_mode(args, language_map: dict) -> int:
+    """Handle calendar generation for all communes from CSV."""
+    csv_path = args.csv
+
+    try:
+        communes = get_communes(csv_path)
+        logging.info(f"Found {len(communes)} communes in CSV")
+
+        for commune in communes:
+            try:
+                logging.info(f"Generating calendars for {commune}...")
+                calendar_data = extract_calendar_data_from_csv(csv_path, commune)
+
+                if args.language:
+                    language = language_map[args.language]
+                    filepaths = generate_commune_ical_file(calendar_data, commune, language, args.year)
+                    for filepath in filepaths:
+                        logging.info(f"Generated iCal file: {filepath}")
+                else:
+                    filepaths = generate_all_commune_ical_files(calendar_data, commune, args.year)
+                    for filepath in filepaths:
+                        logging.info(f"Generated iCal file: {filepath}")
+            except Exception as e:
+                logging.error(f"Error processing commune {commune}: {e}")
+                continue
+
+        logging.info(f"Successfully generated calendars for all {len(communes)} communes")
+        return 0
+
+    except Exception as e:
+        logging.error(f"Error in all-communes mode: {e}")
+        return 1

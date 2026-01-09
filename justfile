@@ -67,6 +67,32 @@ generate-commune commune year:
     uv run waste-cal --commune {{commune}} --pdf sources/waste-{{commune}}-{{year}}.pdf --year {{year}}
     @echo "Generated waste-{{commune}}-*.ics files"
 
+# === CSV-BASED CALENDAR GENERATION ===
+
+# List all available communes in CSV
+list-csv-communes csv:
+    uv run waste-cal --csv {{csv}} --list-communes
+
+# Generate calendar for a commune from CSV
+generate-csv-commune csv commune:
+    uv run waste-cal --csv {{csv}} --commune {{commune}}
+    @echo "Generated waste-{{commune}}-*.ics files from CSV"
+
+# Generate calendar for a commune from CSV in specific language
+generate-csv-commune-lang csv commune lang:
+    uv run waste-cal --csv {{csv}} --commune {{commune}} --language {{lang}}
+    @echo "Generated waste-{{commune}}-{{lang}}.ics from CSV"
+
+# Generate calendars for all communes in CSV
+generate-all-csv csv:
+    uv run waste-cal --csv {{csv}} --all-communes
+    @echo "Generated calendars for all communes in CSV"
+
+# Generate COMMUNES.md file from ICS files
+generate-communes-list:
+    PYTHONPATH=src uv run python scripts/generate_communes_md.py
+    @echo "Generated COMMUNES.md"
+
 # === ADYS GENERATION ===
 
 # ADYS standalone for specific customer and year

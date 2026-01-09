@@ -55,6 +55,12 @@ class WasteType(Enum):
     BULKY = "bulky"
     CLOTHERS = "clothers"
     CHRISTMAS_TREES = "christmas_trees"
+    SCRAP_METAL = "scrap_metal"
+    OLD_WOOD = "old_wood"
+    RECYCLABLE = "recyclable"
+    CONTAINER = "container"
+    PAPER_COMMERCIAL = "paper_commercial"
+    GLASS_COMMERCIAL = "glass_commercial"
 
     def description(self, language: Languages) -> str:
         """Get waste type description in specified language."""
@@ -147,6 +153,54 @@ class WasteType(Enum):
                         return "Sapins de Noël"
                     case Languages.EN:
                         return "Christmas trees"
+            case WasteType.SCRAP_METAL:
+                match language:
+                    case Languages.LU:
+                        return "Schrottzäll"
+                    case Languages.FR:
+                        return "Ferraille"
+                    case Languages.EN:
+                        return "Scrap metal"
+            case WasteType.OLD_WOOD:
+                match language:
+                    case Languages.LU:
+                        return "Aalt Bréck"
+                    case Languages.FR:
+                        return "Vieux bois"
+                    case Languages.EN:
+                        return "Old wood"
+            case WasteType.RECYCLABLE:
+                match language:
+                    case Languages.LU:
+                        return "Dierbar Mëll"
+                    case Languages.FR:
+                        return "Déchets recyclables"
+                    case Languages.EN:
+                        return "Recyclable waste"
+            case WasteType.CONTAINER:
+                match language:
+                    case Languages.LU:
+                        return "Container fir Huushaltsmüll"
+                    case Languages.FR:
+                        return "Conteneur pour déchets ménagers"
+                    case Languages.EN:
+                        return "Household waste container"
+            case WasteType.PAPER_COMMERCIAL:
+                match language:
+                    case Languages.LU:
+                        return "Pabeier a Kartong (Handwierk)"
+                    case Languages.FR:
+                        return "Papier/Carton (commerces)"
+                    case Languages.EN:
+                        return "Paper/Cardboard (commercial)"
+            case WasteType.GLASS_COMMERCIAL:
+                match language:
+                    case Languages.LU:
+                        return "Glas (Handwierk)"
+                    case Languages.FR:
+                        return "Verre (commerces)"
+                    case Languages.EN:
+                        return "Glass (commercial)"
 
     def icon(self) -> str:
         """Get Unicode icon for this waste type."""
@@ -173,6 +227,18 @@ class WasteType(Enum):
                 return "⚡"
             case WasteType.BULKY:
                 return "🪑"
+            case WasteType.SCRAP_METAL:
+                return "🔩"
+            case WasteType.OLD_WOOD:
+                return "🪵"
+            case WasteType.RECYCLABLE:
+                return "♻️"
+            case WasteType.CONTAINER:
+                return "🗑️"
+            case WasteType.PAPER_COMMERCIAL:
+                return "📦"
+            case WasteType.GLASS_COMMERCIAL:
+                return "🍾"
 
     def has_alarm(self) -> bool:
         """Check if this waste type should have reminder alarms."""

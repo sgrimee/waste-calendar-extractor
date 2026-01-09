@@ -25,7 +25,8 @@ De Link derbäisetzen - Är Apparat kritt automatesch all d'Offall-Datumer mat I
 | Gemeng | Link |
 |--------|------|
 | Nidderaanwen | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-lu.ics` |
-| Schëtter | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-lu.ics` |
+
+**[➜ Alle Gemeinden (86+)](COMMUNES.md)** - Available via public CSV data source
 
 ---
 
@@ -43,7 +44,8 @@ Ajoutez le lien - votre appareil recevra automatiquement toutes les dates de col
 | Commune | Lien |
 |---------|------|
 | Niederanven | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-fr.ics` |
-| Schuttrange | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-fr.ics` |
+
+**[➜ Toutes les communes (86+)](COMMUNES.md)** - Disponibles via la source de données publique CSV
 
 ---
 
@@ -61,7 +63,8 @@ Add the link - your device will automatically receive all collection dates with 
 | Commune | Link |
 |---------|------|
 | Niederanven | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-niederanven-en.ics` |
-| Schuttrange | `https://raw.githubusercontent.com/sgrimee/waste-calendar-extractor/main/ics/waste-schuttrange-en.ics` |
+
+**[➜ See all available communes (86+)](COMMUNES.md)** - Available via public CSV data source
 
 ---
 
@@ -71,7 +74,10 @@ Add the link - your device will automatically receive all collection dates with 
 
 ## About This Tool
 
-A Python tool to extract waste collection dates from PDF calendars published by **Luxembourg communes** (currently Niederanven and Schuttrange) and generate iCal files for easy calendar integration.
+A Python tool to extract waste collection dates from official sources published by **Luxembourg communes** and generate iCal files for easy calendar integration. Supports two data sources:
+
+- **PDF-based extraction** (Niederanven) - Extracts from official PDF calendars
+- **CSV data source** (86+ communes) - Integrates with Luxembourg's public waste collection dataset from [data.public.lu](https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0)
 
 ### ⚠️ Important Disclaimer
 
@@ -85,18 +91,25 @@ For official and authoritative waste collection information, always consult the 
 
 ## Source Data
 
-This tool extracts data from official waste collection calendars published by Luxembourg communes:
+This tool integrates data from official sources:
 
+### PDF-based Source (1 commune)
 - **Niederanven**: [Official website](https://www.niederanven.lu/en/environment/waste-disposal-management)
-- **Schuttrange**: [data.public.lu](https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0)
+
+### CSV Data Source (86+ communes)
+- **Luxembourg Public Waste Data**: [data.public.lu](https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0)
+- **Coverage**: All Luxembourg communes with rolling collection schedules
+- **Update frequency**: Automatic weekly regeneration via GitHub Actions
 
 ## Features
 
-- 📅 Extracts dates and collection types from PDF waste collection calendars
+- 📄 **Dual data sources**: Extract from PDF calendars or CSV data feeds
+- 📅 Extracts dates and collection types from official waste collection sources
 - 🇱🇺 Supports Luxembourgish month names and multilingual waste descriptions
 - 📁 Generates iCal (.ics) files for calendar import
 - ⏰ **Smart reminder alarms** - Get notified at 20:30 the day before regular waste collections (residual, organic, paper, packaging, glass)
 - 🌍 **Multilingual alarms** - Reminder messages in Luxembourgish, French, and English
+- 🔄 **86+ communes supported** via public CSV data source with automatic weekly updates
 - 🔍 Real-time logging shows extraction progress
 - 🧪 Comprehensive unit tests
 - 📦 Modular, well-documented code
@@ -154,23 +167,42 @@ For convenience, this project includes justfile recipes that handle the CLI comm
 ```bash
 # Generate all languages for a commune and year
 just generate-commune niederanven 2026
-just generate-commune schuttrange 2026
 
 # Generate ADYS calendars for a customer and year
 just generate-adys 019027 2026
+
+# Generate calendars from CSV data source
+just list-csv-communes sources/waste-data-public.csv
+just generate-csv-commune sources/waste-data-public.csv niederanven
+just generate-all-csv sources/waste-data-public.csv
 ```
 
 ## Usage
 
-### Basic usage
+### PDF-based extraction
 
 ```bash
-# Generate calendars for a commune (all languages)
+# Generate calendars for Niederanven (all languages)
 uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf
-uv run waste-cal --commune schuttrange --pdf sources/waste-schuttrange-2026.pdf
 
 # Generate ADYS calendars
 uv run waste-cal --adys --pdf sources/adys-019027-2026.pdf
+```
+
+### CSV-based extraction (86+ communes)
+
+```bash
+# List available communes in CSV
+uv run waste-cal --csv sources/waste-data-public.csv --list-communes
+
+# Generate calendars for a specific commune
+uv run waste-cal --csv sources/waste-data-public.csv --commune niederanven
+
+# Generate calendars for a specific commune in a specific language
+uv run waste-cal --csv sources/waste-data-public.csv --commune niederanven --language fr
+
+# Generate calendars for all communes in CSV
+uv run waste-cal --csv sources/waste-data-public.csv --all-communes
 ```
 
 ### Advanced usage
@@ -187,14 +219,25 @@ uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf 
 
 # Verbose logging
 uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf --verbose
+
+# Text output from CSV
+uv run waste-cal --csv sources/waste-data-public.csv --commune niederanven --text --language en
 ```
 
 ## Command Line Options
 
-- `--commune {niederanven,schuttrange}`: Commune to generate calendar for
+### Data Source (mutually exclusive)
+- `--pdf PDF_PATH`: Path to PDF file (for Niederanven)
+- `--csv CSV_PATH`: Path to CSV file (for 86+ communes via data.public.lu)
+
+### Mode Selection
+- `--commune COMMUNE_NAME`: Generate calendar for specific commune
+- `--all-communes`: Generate calendars for all communes in CSV
+- `--list-communes`: List all available communes in CSV
 - `--adys`: Generate ADYS calendar (requires --pdf)
-- `--pdf PDF_PATH`: Path to PDF file (required)
-- `-l, --language {lu,fr,en}`: Language for --text output. If omitted, shows all languages
+
+### Options
+- `-l, --language {lu,fr,en}`: Language for output (default: all languages)
 - `-y, --year YEAR`: Year for calendar extraction (default: current year)
 - `--text`: Output as text instead of generating iCal files
 - `-v, --verbose`: Enable verbose logging

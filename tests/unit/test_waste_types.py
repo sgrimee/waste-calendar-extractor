@@ -155,7 +155,7 @@ class TestWasteTypeEnum:
 
     def test_waste_type_enum_completeness(self):
         """Test that we have exactly the expected waste types."""
-        expected_count = 11  # Based on the enum definition
+        expected_count = 17  # 11 original + 6 new CSV types
         actual_count = len(list(WasteType))
         assert actual_count == expected_count
 
