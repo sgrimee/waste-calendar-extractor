@@ -28,6 +28,7 @@ jobs:
     
     - name: Download latest CSV from data.public.lu
       run: |
+        mkdir -p sources
         curl -L "https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0" \
           -o sources/waste-data-public.csv
         echo "CSV downloaded successfully"
