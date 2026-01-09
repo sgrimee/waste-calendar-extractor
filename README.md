@@ -101,6 +101,8 @@ This tool integrates data from official sources:
 - **Coverage**: All Luxembourg communes with rolling collection schedules
 - **Update frequency**: Automatic weekly regeneration via GitHub Actions
 
+⚠️ **Note on data completeness**: Some communes do not publish all collection types in the CSV data source. For example, Contern publishes electrical waste (Déchets d'équipements électriques et électroniques), bulky waste (Déchets encombrants), and tree/hedge trimmings (Tailles d'arbres et de haies) on their official PDF calendar, but these collection types are missing from the data.public.lu CSV feed. For complete collection information, always verify against your commune's official calendar.
+
 ## Features
 
 - 📄 **Dual data sources**: Extract from PDF calendars or CSV data feeds
