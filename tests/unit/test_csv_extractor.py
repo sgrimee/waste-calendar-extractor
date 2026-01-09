@@ -64,7 +64,7 @@ class TestCsvTypeToWasteType:
             ("Valorlux", WasteType.PACKAGING),
             ("Verre", WasteType.GLASS),
             ("Verre (commerces)", WasteType.GLASS_COMMERCIAL),
-            ("Déchets d'équipements électriques et électroniques", WasteType.ELECTRIC),
+            ("Déchets d’équipements électriques et électroniques", WasteType.ELECTRIC),
             ("Déchets de verdure", WasteType.HEDGE),
             ("SuperDrecksKëscht", WasteType.PROBLEMATIC),
             ("Déchets encombrants", WasteType.BULKY),
@@ -89,6 +89,19 @@ class TestCsvTypeToWasteType:
     def test_case_sensitive(self):
         """Test type mapping is case sensitive."""
         result = _csv_type_to_waste_type("biodéchets")  # lowercase
+        assert result is None
+
+    def test_electric_type_with_curly_apostrophe(self):
+        """Test electric waste type with Unicode curly apostrophe (U+2019)."""
+        # This test ensures the CSV mapping correctly handles the Unicode
+        # right single quotation mark used in public.data.lu CSV exports
+        result = _csv_type_to_waste_type("Déchets d’équipements électriques et électroniques")
+        assert result == WasteType.ELECTRIC
+
+    def test_electric_type_mapping_is_exact(self):
+        """Test that the electric waste type requires exact match."""
+        # Verify with slight variation (missing space) doesn't work
+        result = _csv_type_to_waste_type("Déchets d'équipementséletriques et électroniques")
         assert result is None
 
 

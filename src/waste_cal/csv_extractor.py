@@ -23,7 +23,7 @@ CSV_TYPE_MAPPING = {
     "Valorlux": WasteType.PACKAGING,
     "Verre": WasteType.GLASS,
     "Verre (commerces)": WasteType.GLASS_COMMERCIAL,
-    "Déchets d'équipements électriques et électroniques": WasteType.ELECTRIC,
+    "Déchets d’équipements électriques et électroniques": WasteType.ELECTRIC,
     "Déchets de verdure": WasteType.HEDGE,
     "SuperDrecksKëscht": WasteType.PROBLEMATIC,
     "Déchets encombrants": WasteType.BULKY,
