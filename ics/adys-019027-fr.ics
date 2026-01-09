@@ -11,19 +11,7 @@ DTSTART;VALUE=DATE:20260609
 DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
 LOCATION:Luxembourg
 SUMMARY:🚿 Nettoyage poubelle organique
-UID:2ace0feb-ab3c-4793-a7fe-bc4d7048dec9@2ace.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
-TRIGGER:-PT3H30M
-END:VALARM
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
-LOCATION:Luxembourg
-SUMMARY:🚿 Nettoyage poubelle organique
-UID:d1d28977-256c-4e12-ada0-0991a1c66055@d1d2.org
+UID:7997e237-1418-499e-8ebc-b5e58cd0c560@7997.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +23,19 @@ DTSTART;VALUE=DATE:20260303
 DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
 LOCATION:Luxembourg
 SUMMARY:🚿 Nettoyage poubelle organique
-UID:21634bd2-5db5-4b31-a3f9-c2ab958bd169@2163.org
+UID:0c48c2d4-782e-4259-807a-56b1816bb4e5@0c48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Nettoyage poubelle organique sera effectué demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
+LOCATION:Luxembourg
+SUMMARY:🚿 Nettoyage poubelle organique
+UID:e0e4e494-bb82-433d-8905-93432625e215@e0e4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +47,6 @@ DTSTART;VALUE=DATE:20261208
 DESCRIPTION:Bin cleaning: Nettoyage poubelle organique
 LOCATION:Luxembourg
 SUMMARY:🚿 Nettoyage poubelle organique
-UID:a6e44542-bb40-4183-8a89-d5eab2f495bf@a6e4.org
+UID:939139cd-04d9-4fc6-a17c-cd3a18253b03@9391.org
 END:VEVENT
 END:VCALENDAR
