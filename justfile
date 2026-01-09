@@ -64,14 +64,14 @@ clean-waste:
 
 # Generate all languages for a commune and year
 generate-commune commune year:
-    uv run waste-cal --commune {{commune}} --pdf pdf/waste-{{commune}}-{{year}}.pdf --year {{year}}
+    uv run waste-cal --commune {{commune}} --pdf sources/waste-{{commune}}-{{year}}.pdf --year {{year}}
     @echo "Generated waste-{{commune}}-*.ics files"
 
 # === ADYS GENERATION ===
 
 # ADYS standalone for specific customer and year
 generate-adys customer_id year:
-    uv run waste-cal --adys --pdf pdf/adys-{{customer_id}}-{{year}}.pdf --year {{year}}
+    uv run waste-cal --adys --pdf sources/adys-{{customer_id}}-{{year}}.pdf --year {{year}}
     @echo "Generated adys-{{customer_id}}-*.ics files"
 
 # Convenience alias for known customer

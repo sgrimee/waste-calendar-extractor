@@ -15,7 +15,7 @@
 #     from waste_cal.pdf_extractor import extract_dates_from_pdf
 
 #     # Path to the real PDF file - contains 2025 waste collection calendar
-#     pdf_path = "pdf/waste-niederanven-2025.pdf"
+#     pdf_path = "tests/data/waste-niederanven-2025.pdf"
 
 #     # Extract all dates using the new area-based method
 #     return extract_dates_from_pdf(pdf_path, year=2025)
@@ -81,7 +81,7 @@ from waste_cal.pdf_extractor import (
 @pytest.fixture
 def pdf_doc():
     """Fixture to provide a sample PDF file path for testing."""
-    return read_pdf("pdf/waste-niederanven-2025.pdf")
+    return read_pdf("tests/data/waste-niederanven-2025.pdf")
 
 
 @pytest.mark.integration
@@ -251,7 +251,7 @@ class TestReadPdf:
     def test_read_pdf_success(self):
         """Test that read_pdf successfully opens a valid PDF file."""
         # This test uses the real PDF file - marked as integration test
-        pdf_path = "pdf/waste-niederanven-2025.pdf"
+        pdf_path = "tests/data/waste-niederanven-2025.pdf"
         doc = read_pdf(pdf_path)
 
         assert isinstance(doc, fitz.Document)

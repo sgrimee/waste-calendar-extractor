@@ -48,7 +48,7 @@ just generate-lang-year-with-adys en 2027
 #### Using CLI Directly
 
 ```bash
-# Generate all languages with ADYS (uses default pdf/adys.pdf)
+# Generate all languages with ADYS (uses default sources/adys-{customer_id}-{year}.pdf)
 uv run waste-cal --include-adys
 
 # Single language with default ADYS path
@@ -67,10 +67,10 @@ For standalone extraction without generating calendars:
 
 ```bash
 # Extract with auto-detected year
-just extract-adys pdf/adys.pdf
+just extract-adys sources/adys-019027-2026.pdf
 
 # Or directly:
-uv run python -m waste_cal.adys_extractor pdf/adys.pdf
+uv run python -m waste_cal.adys_extractor sources/adys-019027-2026.pdf
 ```
 
 ### Python API
@@ -79,7 +79,7 @@ uv run python -m waste_cal.adys_extractor pdf/adys.pdf
 from waste_cal.adys_extractor import extract_adys_dates
 
 # Extract dates (auto-detect year from PDF)
-dates = extract_adys_dates("pdf/adys.pdf")
+dates = extract_adys_dates("sources/adys-019027-2026.pdf")
 for date in dates:
     print(date)  # Output: 2026-03-03, 2026-06-09, ...
 ```
@@ -143,7 +143,7 @@ The module raises exceptions for:
 import csv
 from waste_cal.adys_extractor import extract_adys_dates
 
-dates = extract_adys_dates("pdf/adys.pdf")
+dates = extract_adys_dates("sources/adys-019027-2026.pdf")
 
 with open("cleaning_dates.csv", "w", newline="") as f:
     writer = csv.DictWriter(f, fieldnames=["date", "service", "description"])

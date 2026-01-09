@@ -166,11 +166,11 @@ just generate-adys 019027 2026
 
 ```bash
 # Generate calendars for a commune (all languages)
-uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf
-uv run waste-cal --commune schuttrange --pdf pdf/waste-schuttrange-2026.pdf
+uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf
+uv run waste-cal --commune schuttrange --pdf sources/waste-schuttrange-2026.pdf
 
 # Generate ADYS calendars
-uv run waste-cal --adys --pdf pdf/adys-019027-2026.pdf
+uv run waste-cal --adys --pdf sources/adys-019027-2026.pdf
 ```
 
 ### Advanced usage
@@ -180,13 +180,13 @@ uv run waste-cal --adys --pdf pdf/adys-019027-2026.pdf
 uv run waste-cal --commune niederanven --pdf my-calendar.pdf
 
 # Custom year (when PDF filename doesn't match)
-uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --year 2026
+uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf --year 2026
 
 # Output as text instead of generating iCal files
-uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --text
+uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf --text
 
 # Verbose logging
-uv run waste-cal --commune niederanven --pdf pdf/waste-niederanven-2026.pdf --verbose
+uv run waste-cal --commune niederanven --pdf sources/waste-niederanven-2026.pdf --verbose
 ```
 
 ## Command Line Options

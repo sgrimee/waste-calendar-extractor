@@ -27,7 +27,7 @@ def extract_customer_id_from_filename(pdf_path: str) -> str | None:
     Extract customer ID from ADYS PDF filename.
 
     Expected filename pattern: adys-{customer_id}-{year}.pdf
-    e.g., 'pdf/adys-019027-2026.pdf' -> '019027'
+    e.g., 'sources/adys-019027-2026.pdf' -> '019027'
 
     Args:
         pdf_path: Path to the ADYS PDF file
@@ -64,7 +64,7 @@ def extract_adys_dates(pdf_path: str, year: int | None = None) -> list[str]:
         RuntimeError: If no cleaning dates or calendar structure could be found.
 
     Example:
-        >>> dates = extract_adys_dates("pdf/adys.pdf")
+        >>> dates = extract_adys_dates("sources/adys-019027-2026.pdf")
         >>> print(dates)
         ['2026-03-03', '2026-06-09', '2026-09-01', '2026-12-08']
     """
@@ -360,8 +360,8 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python adys_extractor.py <pdf_path> [year]")
         print("\nExample:")
-        print("  python adys_extractor.py pdf/adys.pdf")
-        print("  python adys_extractor.py pdf/adys.pdf 2026")
+        print("  python adys_extractor.py sources/adys-019027-2026.pdf")
+        print("  python adys_extractor.py sources/adys-019027-2026.pdf 2026")
         sys.exit(1)
 
     pdf_path = sys.argv[1]

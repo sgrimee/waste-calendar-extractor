@@ -87,7 +87,7 @@ uv run ruff check src/ tests/
 
 **Package Management**: Project uses `uv` for fast dependency management. Fallback to `pip install -e .` if uv unavailable.
 
-**Calendar File Naming**: Generated files follow pattern `ics/waste-{year}-{lang}.ics` (e.g., `ics/waste-2025-de.ics`). PDF files are stored in the `pdf/` folder.
+**Calendar File Naming**: Generated files follow pattern `ics/waste-{year}-{lang}.ics` (e.g., `ics/waste-2025-de.ics`). PDF files are stored in the `sources/` folder.
 
 **CI Configuration**: GitHub Actions workflow (`.github/workflows/ci.yml`) runs unit tests only, excluding integration tests that require the PDF file. Use `just test-unit` locally to replicate CI behavior.
 
@@ -112,7 +112,7 @@ Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., w
 
 ## Conventions
 
-- pdf files should be saved in the pdf/ folder
+- source pdf files should be saved in the sources/ folder
 - ics files should be saved in the ics/ folder
 
 ## Memories
@@ -120,5 +120,5 @@ Use `@pytest.mark.parametrize` for efficient testing of multiple inputs (e.g., w
 - The telephone icon and the arrow icon do not represent collection types, they just mean the user need to book the collection by phone or web in advance for the collection type represented by the icon that follows.
 - The `test_2025_expected_dates` test validates specific expected outcomes. The test must be considered correct and must not be changed.
 - Create all your temporary scripts in the debug/ folder.
-- Save temporary pdf to the debug folder, not the pdf/ folder. That one is for persistent pdfs.
+- Save temporary pdf to the debug folder, not the sources/ folder. That one is for persistent pdfs.
 - The areas for each day have the same exact dimensions. For monthes with less than 31 days, there are empty rows at the bottom, so the total height of a month calendar is always 31 times the height of the box for one day

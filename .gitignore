@@ -72,8 +72,7 @@ ehthumbs.db
 Thumbs.db
 
 # Project specific
-*.pdf
-*.csv
+sources/
 
 # Keep main icon but ignore other sizes
 icons/icon-*.png
