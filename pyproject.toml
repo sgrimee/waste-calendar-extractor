@@ -16,7 +16,7 @@ waste-cal = { workspace = true }
 
 [project]
 name = "waste-cal"
-version = "0.1.0"
+version = "0.2.0"
 description = "Extract waste collection dates from PDF calendars and generate iCal files"
 readme = "README.md"
 requires-python = ">=3.12"
