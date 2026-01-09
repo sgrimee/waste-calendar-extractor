@@ -1,0 +1,617 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:99c5719f-1904-45a9-b736-f869381cd0dc@99c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4ac99aa8-6b8f-4646-8ce7-02a63d40255a@4ac9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8aefc96f-382c-449b-aabd-6a10380f62b4@8aef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e92a0d57-0919-4d00-a2c0-0a6f39a97ee1@e92a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:189926e8-084a-4ac1-9c73-f3a62d8f91d7@1899.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4549dc79-7bd1-4765-a9d2-52a22d0ad1b7@4549.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cee847b3-7b6f-43de-8acb-20c2a30bcad0@cee8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b12509ae-fcea-4bf6-8331-46fc87f0e2f7@b125.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a9702329-a89e-453a-97a2-224c60bd70b3@a970.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f5a57bdc-d525-44d3-9e5e-409f043ae1a3@f5a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:16925cbf-2a4f-4b8b-848f-361bca842cde@1692.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:7b43beeb-4554-434d-a7f7-becc62cadf7a@7b43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4d447747-f01b-470b-84e2-568e1bf5e531@4d44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:58b117be-dacf-4002-9bd8-9f04f199cf90@58b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:17373853-0388-4c21-b9a9-ee2298163421@1737.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8c2ccf43-12be-482c-b50d-699d90d09329@8c2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2a6ecf60-c1b8-40b3-ad89-679c31ca74ac@2a6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:11d5747d-d222-4dc8-8efc-5881f70658e5@11d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:169742bf-418e-4964-9855-5242ce587d79@1697.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f363fd72-658e-4310-83a0-ce99b71b115e@f363.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:264822ed-f41e-4daa-9399-940c7de100cc@2648.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7a08b2c2-c26e-423d-9548-fdb3c116399b@7a08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3b84ebdc-3339-45f4-83db-9acc8bfd0b68@3b84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:dfadc83c-0b1b-4210-bdcb-a3bab44e4794@dfad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:a644895f-6f90-42f2-920e-fa882ffe2345@a644.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:45abb555-973a-4984-b113-61ad4861c1f0@45ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:d41abda5-6525-4e8a-a15c-ef4874b217dc@d41a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2be87a5b-3a8b-487d-88fe-2b84b0fc4cb8@2be8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:804152f5-8400-457a-bbc3-0924964ff234@8041.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ac019280-3d2b-4411-a451-6c6b329da158@ac01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bb017429-d5fb-4a16-a889-48b50e896514@bb01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Glass
+UID:201edcef-4d40-4e76-b9c2-db7ba805d13f@201e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e47aedc1-de82-4859-972a-a54a06b1ae9d@e47a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:03653028-bcfc-48e4-a359-da3480811a78@0365.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:e43ca3fe-60e8-4871-a8d4-85c9388bace1@e43c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:526195e7-0057-4d6b-8091-d0cd1b52abb3@5261.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:115aad1a-a642-4e23-bfbd-4ce785e3d4bc@115a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0a8f1338-aaba-4cd4-a802-876e5afeb090@0a8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:50df0d73-5d2d-4c83-99c5-176927c58ac0@50df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9aecc144-dfe7-4cde-8261-160f836ac6e1@9aec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:88dd223a-b2eb-4c83-8103-7c6241d65ad3@88dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6559d5e8-6ee6-4d7b-81a4-b15b5dbb80ed@6559.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5fd7fb25-034c-4e00-a0bd-f056db5569cb@5fd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5056432d-b1ff-4324-829e-1f33cfd8ad2c@5056.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:937e70b8-769e-438e-96fe-3f8e76dd1d13@937e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e4694558-e4dc-4bcf-b465-54ab9348d199@e469.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d491b257-443f-46f6-a651-ebf7654230dd@d491.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:30b1d180-d76d-4ce4-8b61-01fa36488d1d@30b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:598c52de-7fba-423d-99b1-41a993a222ea@598c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c8628eb4-9824-407f-92d4-fafcc6316fe0@c862.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:416dbeed-b862-4843-b8ec-09d31feb8ac5@416d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:810d7cf0-be12-4393-a977-741700ac21ac@810d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:23114514-8066-469a-bd19-97c4f4bded0d@2311.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bd4d8659-2f52-4806-bbfd-013a48d5a5d8@bd4d.org
+END:VEVENT
+END:VCALENDAR

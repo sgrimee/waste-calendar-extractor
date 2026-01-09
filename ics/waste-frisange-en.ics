@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2cee2a04-f053-485f-bae6-1ecc54f1586d@2cee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:28596eb1-6081-4d38-b491-0a3fcb8b913b@2859.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2315a85e-e188-4468-b8ba-0aa6fde5a05d@2315.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4cccc2a1-55c6-40fb-a08f-1d4bb4f5be05@4ccc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:754d84e9-40b3-42bd-bcec-8cfaabe0fa8c@754d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ae5cdc37-9e55-4d1c-ae1e-7bdd83674d9b@ae5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:0b41397a-6af3-47a0-816f-d27fe805c48b@0b41.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:d360eb58-b3ba-45c2-b405-88a3bd5cd52c@d360.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ba923c91-5b80-472c-a41d-65c603e57a30@ba92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:a2b5b528-b831-46df-9733-1f4a12a0a955@a2b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ee485636-4104-4683-a4de-736f5bda3c98@ee48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8c8af967-7a19-4ee8-9556-196e70ca4de7@8c8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5c79e5dd-370f-4a74-8aed-dad483f66606@5c79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:4cd1b388-3363-49b6-a635-6da7fe42642f@4cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:11db258d-d2ab-4a00-9fa7-76e325a83ee1@11db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:78439fd4-4470-4597-aa8d-1a30c8e7e6b0@7843.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8a7fb651-9970-4d5f-bc5f-0fb614a1da51@8a7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b7ffc204-5c46-4eea-ba53-6da8984dbfe1@b7ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e05dfcf1-c627-4f30-a191-2f5854373d17@e05d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:64ddf0f7-57ee-41ad-b2c6-78705efeeafb@64dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f89a0cf8-8dfa-4b15-8711-94b14b9c8136@f89a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bec979a5-d91f-4c07-8888-aba18fa696a1@bec9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:482e614c-6050-4db2-9d37-ac9c05ca0ae6@482e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f9b90429-a47f-47a5-b3b8-410984ef2b74@f9b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:85e1ba8d-ccf7-4515-b4de-f824afe676b4@85e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c2c49a21-3e5c-438a-8506-c12c2278d38e@c2c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glass
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:0231d4ad-c0d8-449b-85ea-0da10339edb9@0231.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c741bfe8-1593-4f02-adda-2dfbe5fcf984@c741.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6c676213-3062-4436-a525-6f2ac6aaa630@6c67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d14c9f28-495a-43af-8283-f1218da0291a@d14c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glass
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:115c4c9c-d2af-47f0-ad50-3e04a53e30f1@115c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:d958cd10-d143-4570-a411-d353d7108675@d958.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4d1e8501-b76d-4d5b-9a90-2171fe988f6d@4d1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:614141ab-5d1e-4d0b-a3e6-058ae8edc5a8@6141.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:93947400-0687-4dc3-a0eb-d85dc8ed733a@9394.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:275a47ce-e840-44c3-85c2-67a2240bf96c@275a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f4a97440-cadf-434a-b7b7-357149eb0a7b@f4a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:090910d0-085c-4743-96f5-4a0c14ef5af7@0909.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ec70465d-e3a3-4bd0-81b5-0106095c1ea1@ec70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glass
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ecf4e0e8-22c7-415b-84f9-0c0ba4cb43a9@ecf4.org
+END:VEVENT
+END:VCALENDAR

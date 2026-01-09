@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a035b3f9-8054-4589-875b-f3c63996d3a0@a035.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7db9393f-e4cc-4cfd-9e88-30c644d0bba7@7db9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:152001e2-1e63-4cd4-87a7-06635ef2533f@1520.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:08a80bfd-3295-4514-91e7-c926a7685b6b@08a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glas
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glas
+UID:4af0b384-e176-422b-8ad6-9a32430b5ad9@4af0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4e602d1d-49d3-4d27-8a0c-307fc53a107a@4e60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0e588404-40d1-49cd-ac30-c003a0049762@0e58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:de7e683f-0131-45d3-bc22-1ce8fd8da8bf@de7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:36a4fcbd-01ea-4bed-9e4c-deb75b0c8fdb@36a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2b663b70-d6c6-4577-ac58-7ab4ad1138c7@2b66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:40dd1a25-cb05-4892-95cd-b65f01046cc5@40dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:baa21f48-329a-44c8-9069-cf127fea228e@baa2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ad78b090-bebd-484a-b2d1-dbc2f941ceb8@ad78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8d7c1e10-5f5c-47c9-a91f-1eb08593afaf@8d7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:2d3deacd-e38c-47f6-99a9-c9955cad874e@2d3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:41a867c6-2683-4691-bf5c-9e200046bc45@41a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:748f4813-7f05-428b-a8bf-9c8234ee495d@748f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:66fb70cf-9129-4ce9-a4d1-22a6a1e9105b@66fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:bc6f1d54-e2c5-43bd-bfad-fa8f1ab21184@bc6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:aeb5a0af-404e-4d58-b4d8-bc581d5845fa@aeb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:7fd0c024-17e1-4eed-b50a-eb4751270ad2@7fd0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b580b744-9a69-4a42-82cf-5f9da1da15d3@b580.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e29b27db-5c3f-402c-98e6-09360d9540ae@e29b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4ef54c9d-0736-4da8-a82e-6d61e2910cab@4ef5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:fc2e6ba6-265c-4766-a9b8-f7c474b46e99@fc2e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glas
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glas
+UID:1d97f94e-6220-4d9e-a1df-ffdd3491e686@1d97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:eeb9fa28-7f21-4fb6-bfbf-9bfb67215d70@eeb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Glas
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glas
+UID:9fe87ced-2318-4584-92cc-37a061c278bd@9fe8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c0dc7d2f-2646-4369-bf56-2cc7b0e5c457@c0dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a66e8bdc-954e-414a-b09a-87f33f4552ad@a66e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9ab6d1c8-bb7d-4e60-bb32-c9e43c0f3ff1@9ab6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d184a983-3b4f-42d7-baef-a767dd6641f3@d184.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Glas
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glas
+UID:0d3c2572-1d0a-42e2-a50a-351725409741@0d3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:49522977-8733-4238-abef-5e7ad51442c2@4952.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9690a5c5-1362-429a-84fe-0beb7b21fe79@9690.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a5b91cc5-2de3-4063-8294-6a6865ba9471@a5b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ae61ce9f-237b-4f54-9f3c-f919c5ada23d@ae61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7eef95d5-734d-4160-a49f-b7b63e8d7a97@7eef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f258a0f7-9b32-4983-b179-6ec0c4b59741@f258.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7dc10e90-3fb3-408d-a34b-f03f4441021b@7dc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f8520e9a-aabf-4b17-9cc9-d489d0790a4f@f852.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a9db4782-ac59-4e9a-91d3-c99fe926f4ce@a9db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9eba6a2f-59e5-445e-84c1-b02d189ef401@9eba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0f7742d6-771b-4fe1-8051-39fd7237fc9f@0f77.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:de618670-0ebf-4a1a-b408-3e260400d5e4@de61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:af5a68aa-9737-4f8c-81c6-f1851cab865f@af5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2cc1312b-5a51-4495-8125-a7ca09a91497@2cc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4b692dc5-0022-4b45-8656-a4b79081f353@4b69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e2167d1b-08c2-4bc5-b5a4-8a1092bb47ec@e216.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:de6ec82a-b57c-4ada-a4e5-97dc0a553426@de6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cde342a1-c8dd-429b-ad1c-6790fc6c89bc@cde3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d40ee979-90fd-4cef-be3f-49c7895af00f@d40e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9ddfdc3e-cd8b-42db-8a31-f2643649f3ee@9ddf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:67129dad-4c43-4672-a1de-73b278bad281@6712.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2734b7f9-42ab-4e11-afc3-90a858853983@2734.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0d7157f5-39df-416b-a2d6-190c7263269b@0d71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4058389c-06e5-40d1-9721-c2ef2b01dcbc@4058.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:db8c04c6-9e9d-406e-88be-f176aabde657@db8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:22ea98a3-adeb-4a40-abc6-669d1edede62@22ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verre
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f8f3c99d-1876-481a-80c7-2228cdba7982@f8f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:30a54672-0efe-4d53-a1ac-3f2eada4df09@30a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0ba4c529-a633-489e-b392-d6908b582f61@0ba4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:685ca1c6-e0aa-4746-be22-b7d53d6f3138@685c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:21b10d31-41fd-4091-8a39-4d1567911aca@21b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dda10d7e-e316-48b7-a16a-7b973cecb3cc@dda1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d5f55aec-7981-494b-b98d-fadcea03c86b@d5f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fb8c1849-45ea-4b43-b146-b3a82523b7c8@fb8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1b0d34d5-7a8e-463a-bfab-4742e26be1c5@1b0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b9a8b0ae-c09b-45b4-ba40-48a541d2ec0d@b9a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0049ad40-1c6d-4bf4-8b39-0318697cb1e2@0049.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5fed2dd4-f6b9-4e35-a9b5-8643fa1a96cb@5fed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cd3c643e-0b88-433b-9f8d-8ef4eeead294@cd3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1a98095e-0c6c-4bbd-8f5e-65a18f2b1278@1a98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:39efc8a3-aa32-4159-933b-1e0314171a52@39ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7795b14c-a601-447e-9ee4-5236ee592554@7795.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dd5f7464-a47e-4249-abb1-fa8188888e46@dd5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e54c4ee5-145a-4cac-918f-68aec7c605d4@e54c.org
+END:VEVENT
+END:VCALENDAR

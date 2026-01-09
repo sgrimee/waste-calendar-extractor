@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fb56aa19-37ec-4d12-8963-20d5c6e168c0@fb56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0dc7fd0e-dc3e-4023-b18e-ce9d5b044a25@0dc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0ffdc83e-90ee-4325-aa70-13e6601cc250@0ffd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5c446024-7ba5-4824-9aaf-2ef16d64fea4@5c44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:992feda5-2132-4306-b58a-4d92e5877f83@992f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cedffb39-bf43-4237-b9a8-c0ebb2d36d7b@cedf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:818ba987-6530-4250-b6e5-d50115071061@818b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:33ccc978-b0f7-479d-ad18-cf44a9071443@33cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:77a54c54-e62e-4a01-ad0a-98cb6ca916c5@77a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d4ba532f-c1a6-4fd0-a58e-4377b06c0b30@d4ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b4b38a3c-9cd8-42c5-9a52-8fc735a67cb2@b4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:cbf2d4c8-73be-4bac-b3e4-96cd48a13d6f@cbf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fbfeeb29-4f1a-4538-905d-00ca3eb3ce04@fbfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f42c041d-40f9-4164-8c89-597de892e90d@f42c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Glass
+UID:33718e94-9223-40cf-9f3e-53489c7d6c5b@3371.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:121b1d91-fed2-4651-9cf9-66d64869aea2@121b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:27cfc0bb-191d-4c97-a534-38edd50a2ac9@27cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e1df1252-410f-4b9c-a064-f872e4287a17@e1df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:71d83fd0-8bce-4615-b834-404c70bd14ce@71d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:88b76c30-fad5-4e30-b891-95e1077c4f98@88b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2ad1693f-ca2b-4d9d-82be-fe3573dc5ce6@2ad1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2a17aaf1-9d1f-40d6-aae1-84ef2eca355e@2a17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3f2dfd61-228d-4fac-b50d-a71a369458fa@3f2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b1bd98fb-3e26-4ae3-9470-a483b5a58480@b1bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:62d1a520-0db2-489c-bead-8f699999189a@62d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:c0ce0a66-04b5-4eb5-bd7c-62fe086a2909@c0ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a12e95a8-02af-44ba-8e6e-20dfa76e8b44@a12e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:78973f7b-7180-473f-ace5-79834580da42@7897.org
+END:VEVENT
+END:VCALENDAR

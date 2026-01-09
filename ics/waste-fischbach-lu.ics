@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:5701b3fa-8aae-48a4-aa5c-90ccc1623fed@5701.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3d69aa7f-d6a5-4d6b-a7b7-169022012fd2@3d69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:b98a7be6-3a0d-4083-aa53-791e63a1d9ee@b98a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:688636f9-755f-4902-84bc-88439a0f016f@6886.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:2835a56e-947b-4c44-9821-7e38853ed1fb@2835.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:df4b8f2f-2107-489b-affc-b55addceb16f@df4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:471cec0f-f4d3-485a-aa2f-22e85ae540ad@471c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:6dc78cb2-04a8-4553-834f-c133bdaf4d94@6dc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3fc9b0cd-1306-462a-899e-971255bc9829@3fc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ae3eb0cf-4857-4a5c-a31f-58347e59730b@ae3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:e8b94ef1-dc5b-41cf-b668-9be3650195f8@e8b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:aabeb40a-efc8-4824-b909-4f2990de6cb5@aabe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glas
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Glas
+UID:9d0e0b45-5070-4ebf-861d-36c9c32f615e@9d0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:526b1642-e1ad-4e62-990a-c4f14c206c5e@526b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:be812f1d-29ed-4d7d-97f4-981923bc6c09@be81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:19c5e713-5807-45f0-afc3-36bb4b87b1ad@19c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:fbc52ab2-99bf-41cb-aa82-f95076a076b6@fbc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d4899482-c5b9-47f3-863e-881c9a16b16f@d489.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:96a7bf0d-6edd-4b7f-b6a8-4d37184d726e@96a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dad60bd0-9924-4df0-925a-bcb07bcc28a6@dad6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:817adf88-47dc-46d4-99b9-f28215e282f0@817a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:bb7828d1-4aff-451c-be8e-f4a8f1d1c0c4@bb78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:a291e280-e89c-488b-bdd6-52a3fff68987@a291.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glas
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Glas
+UID:fbb8463a-1b40-438a-b8aa-364ee3fa8dff@fbb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:adb6b1b0-c955-4f13-9e0b-a6dcd1194367@adb6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f830bd22-bbf3-4962-a2c4-d9451fbb46ea@f830.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:65f99f6c-dc5f-4bd5-b966-674b99314bbd@65f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:f60f7aa4-ed0f-4b9d-ac10-52e7a8f85ca2@f60f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:17bf45bc-7f93-4e1b-8de8-d68bb53fe35d@17bf.org
+END:VEVENT
+END:VCALENDAR

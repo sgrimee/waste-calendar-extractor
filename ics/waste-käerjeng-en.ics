@@ -1,0 +1,533 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:917a2c57-5265-439e-be9e-6ae8c4c6f991@917a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f5515126-cdca-45fb-8e2b-f90ce6467df7@f551.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:d8cbe711-d9c4-44a7-81fd-ccd68b71438c@d8cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:09da72f6-8067-4f4e-8808-921ead116ab7@09da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5ee11fcb-bce9-462b-9da2-4d04c29adf56@5ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:438156da-d8b3-4e86-af63-9aef8902f29b@4381.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8943cfb2-ef9c-4740-acea-b7ffde47bc8e@8943.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:3d780d11-5522-48e1-a247-b1e9585260ef@3d78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3dc81f58-5f8b-44b0-afe1-63df0279cc25@3dc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:93af3e82-96cd-4432-b4ac-196d58d6dc3d@93af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:6a58b154-b0c1-470c-97c4-212b47ae70d0@6a58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:361885cf-08ee-4595-96d1-238e5c5d09bf@3618.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:62f0423c-87eb-49c5-baba-173f8873d7d3@62f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8ebe71b9-5a91-453d-b13a-bc3e0ecc7662@8ebe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d52422c1-0f5c-4156-b435-9119bcf951e0@d524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:ab587559-1b72-4f93-bbee-cf7b86a1ee7c@ab58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:6226f26b-950a-4d6f-a47a-a7701d627094@6226.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:88985b82-7a15-4c05-a46e-f7e66d2e6eb5@8898.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:e95ed4ed-94ac-4bea-972c-41d76c20253e@e95e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:28c747db-98a3-4c23-8a73-b7125d286d25@28c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f930059c-b047-49c6-8f04-18e17b88fdfd@f930.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5dc9852a-adb8-4416-b99d-cf1eda934810@5dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:61ea50dd-0409-4dcd-b1a8-31118fcb112b@61ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:c3a3ce2c-3367-444a-8cbd-b82d03f54a05@c3a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f8e0bda4-6939-4a41-9996-3cd2436f11bc@f8e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:70a31841-5f14-4578-a057-0a9ae510483c@70a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:415db060-d115-422a-b922-0c8f31d84b30@415d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a3b29e8a-a5d0-4d9b-9d43-f623e3ee0590@a3b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:4bafce0f-69e8-4174-bd14-ff5ad1331888@4baf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3ef63c23-6536-4634-ae66-a050104c7c81@3ef6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9413d697-4c2b-4e8f-b07c-9d8acae982c9@9413.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d83a5da0-383d-4f05-8c1c-ce628f64e429@d83a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8f0962b0-8bb8-4f1e-9dcf-0294dc855da1@8f09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:bffd3223-6982-4809-954a-d4b33be0e432@bffd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cc72394c-99e6-4521-84e8-0fbd0b161c7b@cc72.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:279f3b6f-9ee5-426e-9fd8-0286ee82c80d@279f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:91b25b3e-e5cc-431b-98b4-bfc0f995961d@91b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glass
+UID:dfb9177e-7495-47ee-9969-1443132edb4c@dfb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:c35186dc-cd0a-40e3-a5b4-c418b9fac671@c351.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:43123b8b-1f66-4d2e-9b87-89305998282b@4312.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:19067e65-7ebc-498e-961a-2607a5b11a06@1906.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4532aa5b-7f6c-4dd4-8e51-f4cd062c7b99@4532.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5d73417e-9129-4513-8414-618b7117cb85@5d73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:251291c8-30b3-41d4-8cd3-00ac7d4f3bea@2512.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ece59193-cd33-49d2-9c77-6974e4451229@ece5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c4c343ec-a764-4a5a-88f4-26969983816f@c4c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:64713782-5481-4460-9cc3-dc573210a64b@6471.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0b8bf15f-9a0f-406e-8c0c-493f14b26a0e@0b8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cd5fee4f-b6fe-4e7b-84f4-32ce9326d8c7@cd5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f07880be-ef14-4bbe-8e97-6e46d55262d4@f078.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1897f20f-3b34-41f0-8a27-ab0a19faba04@1897.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:36588c33-ce27-4b38-8972-0eda933ee44c@3658.org
+END:VEVENT
+END:VCALENDAR

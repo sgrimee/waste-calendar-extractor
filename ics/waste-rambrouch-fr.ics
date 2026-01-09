@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:eca432de-c7bc-40ad-9b94-0fc853a353e6@eca4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:77c4349b-1a0f-4539-b1ea-c3d4e77b2236@77c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c19a2625-4ba0-4607-9b6b-2dcc5ecd6708@c19a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6cad3d1d-1ec9-4c4f-9629-12f69884bd42@6cad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:7b6c5cfb-77aa-4b48-a519-6bd53fd86329@7b6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verre
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a1634748-04e3-4b31-8e49-bc5d971e0147@a163.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a379de67-4d4f-4c7c-90b3-b002149e918c@a379.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:22eb01f8-cf66-4fd5-89bf-c7484ed9397f@22eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c63399e8-738e-40a8-880d-46086951e9d5@c633.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:126b00dc-f3d2-4e91-acb6-415ab670b28f@126b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:15351bbc-eb83-4e3b-b530-fde080240f65@1535.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:28e901c0-9e3e-48ae-8e56-b37a1101ad43@28e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:578004a2-aac0-4703-abfe-1de5c2e15761@5780.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:36a2d6e5-2c4f-420c-a0a7-86875b3ece6f@36a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3f2d777f-8ba3-4581-8ef9-0869ea71684e@3f2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:180be971-5511-48ed-83e8-e7d397f500f8@180b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3842e224-734a-4031-b072-16c793708e4c@3842.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:05ac19cf-63d3-4c75-9004-f68790a8dd18@05ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6b89c265-cc15-4d25-bff6-165243d077fa@6b89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2519d542-63e3-4dc1-9e6c-49f8e1a4ed49@2519.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2acaa690-d114-4320-ae03-7f931b132095@2aca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b02f9c03-cbb0-4594-a6ac-339274ebdff7@b02f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verre
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ba343c6e-220d-4077-ba2a-214a94f2a8a6@ba34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:05343b09-1e51-4bf9-bd3b-bf5548c61a95@0534.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ab98a640-0f70-4f55-8c82-a3710963f62a@ab98.org
+END:VEVENT
+END:VCALENDAR

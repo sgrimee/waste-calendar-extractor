@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b6d2e126-292f-4014-90c3-ecc94a4ebe0d@b6d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:97418c9a-cfec-4fe1-bd88-a332c9a8a188@9741.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b1fb99ab-c7be-4c96-a371-d9b0cf759cd1@b1fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9e3435b1-e274-4902-b15d-ae831a207778@9e34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:523d3af7-52e0-41f5-b15f-0fd7bd1f3003@523d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:14ab2e05-069a-4a07-a4cc-1634e9849788@14ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ce6e2b90-29c0-4fa5-b4a7-799b639fc84c@ce6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2d690010-da0d-48fe-acb6-61c16088ebdc@2d69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:820b6b39-3c91-4ab6-a0ad-ba47fc9ffc8b@820b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f8ade256-2465-4691-b372-c6ff347a9049@f8ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7af84b5a-ee00-46ad-975d-34119a1f6269@7af8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0275bed-1328-40bd-a360-78e641ea693c@f027.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:16763bc4-d276-44ee-b816-fc79294b3099@1676.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5861bb52-67a7-4cea-a592-2872a6472a3e@5861.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:21224825-1878-499c-8b29-6ee3d24d8f4b@2122.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:56f5f53b-eeba-48d1-9765-d4c6be977238@56f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:d41965b1-c695-4c5f-8b55-ff1b92b6e65d@d419.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c292eba3-fcef-45c0-84d6-1bd647eb7be3@c292.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b0b93ed5-142f-4d4a-a9a2-f999b7800693@b0b9.org
+END:VEVENT
+END:VCALENDAR

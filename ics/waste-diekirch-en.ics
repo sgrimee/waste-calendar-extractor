@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f11a43f7-98f0-49df-b699-79c740d1dbea@f11a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:90ab4d7f-f6d6-44ac-aa43-f91ec7c052cb@90ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2621c6f0-c6d5-4ac0-8b1d-8b36fe6c8443@2621.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:934083bf-b210-42f7-9bcf-9234c34d918b@9340.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d9ceb879-2a5c-4cd9-bb2c-5d6e01dbb303@d9ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c5c38a30-c18f-4d32-be16-153ca33c3223@c5c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b58ea193-9962-4532-b04c-5c5c86d33364@b58e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e083c949-b8c4-4d4a-99ff-0b3b003c3ed4@e083.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b3577494-97ea-4baf-af4c-7f1d261dcfdc@b357.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:efd23726-057c-43e9-87e6-6ff0f24f25d6@efd2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e52af67c-56bb-40f8-b45e-84a687466116@e52a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fa99fd08-da20-4c34-a368-3e9e3c0b8c3a@fa99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:80347bc6-56ee-4984-b106-fd8abf3598da@8034.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4780f4a1-7cac-4071-a74c-900ad176538c@4780.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5f0493e8-a448-48b3-9f99-0d6e5e60875c@5f04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:749330c5-49f8-4021-9f37-2aae4618f4c1@7493.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8c678450-7752-4b61-b931-0433ef5e096b@8c67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7449dc24-a530-488a-904f-2a1ca9aa662c@7449.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ba0f0a5b-8c5f-4866-a37b-deb9e8d65df5@ba0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f2065393-fa57-47c8-abee-456632c0357e@f206.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b18ae04f-623d-4a6c-8a95-a02342353bb1@b18a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4173daba-759f-4795-9e17-5262ae30e605@4173.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:13623af1-2958-4b92-83ff-de96d822cbfc@1362.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:5546f10f-3858-4ccd-8178-42b6e907d787@5546.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:21f612db-81aa-4805-8f07-515dee678231@21f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7c27b945-0c23-48aa-9ff9-6319bac6c6bd@7c27.org
+END:VEVENT
+END:VCALENDAR

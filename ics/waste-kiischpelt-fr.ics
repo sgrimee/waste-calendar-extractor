@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍾 Verre
+UID:822b3a5e-777b-4713-ae56-9ca4800fd948@822b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:45bd2801-d8f8-493a-931e-6a301d066ce1@45bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d87e227c-138a-4e02-b16f-e77e63185d36@d87e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f24eb43b-a6aa-44c9-9eed-cac772c11d75@f24e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2b0914d9-b0d8-4cb2-b2d3-151f6e1c061f@2b09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3e4faae9-cbe8-459a-b2fc-ee4c2dce7ea1@3e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:fda1f8bc-bd23-40dd-adf2-812cad6c2593@fda1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5b7521fd-bff1-4896-a911-6f2445e0315e@5b75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ef21ad1d-a8e3-4cb3-8927-da35f647b66b@ef21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4e419bfd-5b6b-49ac-8b78-968e6e8a9c27@4e41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0951d53c-1d09-40f2-a312-573698c66157@0951.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0acf470-537c-44df-98d4-5024f616bf2e@f0ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5bd4e9f9-e860-4111-ba65-ed4b24287b2f@5bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:3dfb4191-2dfd-40da-aa0f-6326c06790d4@3dfb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:728860e9-5864-484c-ad9e-b71d1ac6312b@7288.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d067160d-f1b0-4482-9739-d98b6fa02055@d067.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f1a0fafa-6699-449e-bbc3-69e2d574c1b5@f1a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0b2bd578-9c4f-449e-976e-3529d1607b8d@0b2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bf9f6474-cdcc-42ba-83b1-9e6660b4969a@bf9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8a9cc238-84fe-423f-a990-48770d2bcc55@8a9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:feba1f30-cac1-49e2-b9e6-45accd4605f8@feba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6ae4f1ef-fdca-4448-abcb-42910297c092@6ae4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b9cd76b5-2d16-4515-862b-a50c2db90068@b9cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:18edb657-557a-4c9e-8d4c-9cca21778890@18ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c8510d6e-2937-4533-8247-7461f64d7ab4@c851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d6f33211-8966-48ef-83e7-4a771021bced@d6f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3d807fd7-a5b6-46bc-89ff-6758233e54d3@3d80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:11e14902-8a96-4b16-942a-446d9311b920@11e1.org
+END:VEVENT
+END:VCALENDAR

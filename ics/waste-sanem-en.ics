@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:80b4acdb-03f9-4700-b644-3c80b848eeba@80b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:838a00de-8f0c-4420-bd37-ad21b2f5e2ee@838a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cf32cd56-32d1-4a71-82e7-4a7ed9c5d217@cf32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e395c205-d3c1-47db-acff-c9838c75e4a5@e395.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:3c4620d0-e5c6-4305-93c7-cd7450f72743@3c46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:05099279-4400-47de-acb0-2b4f5b03eb4e@0509.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:32bc73d1-91ad-480b-8174-e6321da510a2@32bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4948b6fe-8fe8-4f6d-b7cb-457f371963f4@4948.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f4de8ace-7331-43d0-8371-b0a8721dcab3@f4de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3a2ab009-36f1-4e82-97df-4c3681e85dec@3a2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:f1614e1f-fc25-4255-8361-999444050f71@f161.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c815baf1-ff5f-4c24-8c62-1fe0099bef85@c815.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d123a542-2745-426a-bb4c-805d9527b31c@d123.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ec5ae8ce-7b6a-48ec-b66f-355dc025d593@ec5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a9826e25-e2f2-4b18-ae2c-f8492f7239da@a982.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b6fc941f-22d3-4e13-9253-40235574877c@b6fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e5c93d6b-099e-4359-aee5-9a07d815593d@e5c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4b6f5330-3ed6-4435-aad2-6261faea9fed@4b6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3486f7bf-e906-4511-913a-f055aa70010c@3486.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1f5d2eb9-29ba-47ff-bdfd-c304f38fca7f@1f5d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c3956b1f-6192-4955-bf36-c10a8d1686cd@c395.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4ad0a4f0-6689-456f-a889-6cb69aa8c8a4@4ad0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:17623fdd-63e5-4e0a-bad3-a99e94053161@1762.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e3650393-c6e1-45da-afa2-7cd42ebecef7@e365.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a13af171-da7a-422c-8065-4ef2e9518918@a13a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:67004544-ee56-49c4-aad1-6be264425806@6700.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4e533ce0-56b8-4ad8-94a4-34b917cd36c2@4e53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d97dafa9-1100-47bc-937e-e5689b6218bc@d97d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6de16497-fbf2-4bfd-b2bf-493838134495@6de1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6bf89d8f-2de3-4b7a-8e80-b861aa88dbcd@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7af19681-1e66-4483-8a9a-8ea6cf562797@7af1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:46c1015e-8e33-47ea-adea-6ad1742d03ff@46c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c996e922-2a7b-42a3-8d91-46f0dd71c361@c996.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6729c77c-8021-4ed4-9be6-c654c2dd8dc9@6729.org
+END:VEVENT
+END:VCALENDAR

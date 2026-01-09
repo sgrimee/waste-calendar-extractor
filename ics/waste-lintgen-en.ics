@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:81dc3913-5357-454a-b5af-76b46c987e11@81dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9decf9c6-7ce7-46bb-8312-c51eae67dcaf@9dec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dd92f0d9-ee7d-48bf-87dc-29f55478c85c@dd92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d00c6070-0ceb-44be-9545-0997aebf3293@d00c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5bfde29e-0871-4851-8a50-bac660824490@5bfd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ed133a8a-f334-473b-bc94-046dd3b7302e@ed13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7c819d2c-61b6-4c58-bb29-c2480174af13@7c81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:673c4438-3185-44bc-8dee-711bd3c3f7b5@673c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f8a3a9ad-142f-42c1-8227-524379d06caf@f8a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:03565515-fc96-4829-828f-7d26c2f3b97c@0356.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b5dd3d3e-a29d-4f55-ad6b-184a63f9b80a@b5dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a9118d03-e07c-4fca-a3ab-3e7168b4b1ca@a911.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:07e0cedc-7d7b-4d08-8ac8-0b96e894e4c4@07e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5d3d58f6-f287-4bf4-8f3f-bfe7a44fe413@5d3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2a053577-4160-4424-868a-852ebfc07f08@2a05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:665ea12a-2840-4b5e-9363-9bad59fd75b9@665e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:69dbffad-dd7f-463c-9ee2-b4a2beeb1e67@69db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4470dcd7-09e6-4a87-b30f-c02da79ddc3c@4470.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f9fed1b6-1391-4038-a306-0d3bc406f7dd@f9fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1ea3a896-4a5d-4f1a-81ed-dccd2a23bca1@1ea3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f2d516b8-421b-4202-9297-3aa616dba985@f2d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5aeebfdd-1bde-496a-a0fa-62932bfe585e@5aee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9758e648-9859-4263-88bb-5ea5a68fffdb@9758.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:2e936525-9daa-4572-9557-27275fb044a1@2e93.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:eba468c6-49e9-40ad-89fb-aa9d3c4f7fce@eba4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f1d732c9-45c6-494f-a0f1-e2fe31e0ad68@f1d7.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:4ef5370e-abf7-48a6-b87d-24d5b9197826@4ef5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9f0df522-7edd-484c-9afd-0ab17c45b9a8@9f0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:56f9c108-7fdb-4e09-a376-a928bf4703f1@56f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:857b2746-5eef-4655-8717-a21697db4f16@857b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:39c567d6-77c2-4b83-8530-3e3d20379222@39c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b690c579-af72-4c70-984a-3c7ba50b30a1@b690.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a93a01f1-4cd4-4e5b-8073-0976cf128daa@a93a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7eebeb52-53fe-4fc0-bd18-dd210c8608c0@7eeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:09ecdf1f-e75d-444e-8676-ee3cfdad80ac@09ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cb9874f2-0b31-406e-bab0-ad7a4e905563@cb98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:26399869-421c-4ccb-bbd9-e0e4242b9ee0@2639.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c082d7ec-d0dc-4455-bcda-bc991cb07767@c082.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:427e13c1-db51-41a4-83f1-053a4f0b007b@427e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:dfd18e25-a73f-4ea6-ad97-1fbad50ff1a4@dfd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:049f937c-9624-4e63-898c-52603f7ea90c@049f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:08775eda-c5cc-400c-b792-5eeb48dce338@0877.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:86e82ea4-307f-4e17-980c-8d3c588d0d93@86e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3a17fe95-1ee6-4ec4-90a5-5a080f187cac@3a17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Glass
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2c14124f-cba4-4c73-a159-1d1637cedee3@2c14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:be9b8be2-8d89-4a91-9c03-1f05136562b6@be9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bb58dafc-be90-43bd-ac28-e0466549fe98@bb58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1277dd69-78bb-4704-ad55-663430db2681@1277.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Glass
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ded9d1c3-3bfc-44e9-b142-3b3ce2406881@ded9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:09be38f8-532f-4202-a219-a86912ba96dd@09be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7bbbfad6-ebe6-414d-b89f-f70f2b50a084@7bbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b403afce-0aa4-4bc9-9ba1-2a95f94b5af2@b403.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:20112ed9-cc02-4b47-ab87-ca785b1e4cd4@2011.org
+END:VEVENT
+END:VCALENDAR

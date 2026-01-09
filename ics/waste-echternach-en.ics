@@ -1,0 +1,575 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4668eff0-266d-470a-9d14-85cffb639499@4668.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:478c920c-215e-47ac-a792-8c22ce2ca955@478c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7d1815db-00a6-4fc0-aff3-9092f08c0b51@7d18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0cb9e026-6006-48ca-9c73-5fc67663d022@0cb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:76de4ca2-4d6b-4336-af8d-a525c4b28908@76de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:91f78736-a8f1-4154-8628-a15077f7371b@91f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:20a84315-d313-4e84-b220-c9b8e6640919@20a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:14140bf1-e379-4979-942b-d2477f476c00@1414.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:597a0b5d-480c-437b-80f6-d52a17ff4fe6@597a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c88612f6-a6a0-47cb-9df5-987b5f2b7800@c886.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d35976de-d3e8-4b0d-a759-e5cb8cfaee19@d359.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:954e1e28-9cd9-41dd-89d6-be8f106802ff@954e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ac084fd0-559b-412c-acb5-0871c0506cb9@ac08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e7a779ae-3ea4-48ae-9680-6298282166ef@e7a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3beb6805-7ae1-4889-ad96-b62ad0181140@3beb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6fb8b34c-5b5d-46fb-b253-b033e9c49311@6fb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ca7407cc-da97-4fe6-8c73-4605f85d1ad5@ca74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b6818744-0642-4441-ad04-121597ca94cb@b681.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0251ed4c-1a38-4d6b-8735-1abd310d09cb@0251.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3fb036cc-a03d-4a38-a5bd-bd66675f2e0b@3fb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5bd38588-d738-4c9e-b7e4-95be09a55f6c@5bd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:699a55f8-b61f-4be3-a017-5d5c6c38caa1@699a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b7923016-3a99-4e0a-b336-d765864ae61f@b792.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:33f05236-39fa-4649-99c2-1097eaa71aa8@33f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:42e24ba3-6b46-4fd5-a991-76047ece8d5d@42e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fbdc36b8-6854-4b6c-9cd0-8fe93d58a1e2@fbdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:34cdbbce-d0a1-4ae8-a45d-51bd04a183d2@34cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e2ce575d-477a-4d00-990d-c6f676242fdb@e2ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8751d40b-7e93-410e-a519-4efa8ceacfd0@8751.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5784fc84-f083-4b64-b40a-cb223d5f22aa@5784.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ff2d1397-f82b-466a-998f-dd9cdf8279fc@ff2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:061ee5d3-d9b1-459d-88e8-eacdb4e86337@061e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6000d2d6-1e72-4b60-9afc-c36fa6537711@6000.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7313b6bc-cf36-44ed-a0ac-69ae56f68995@7313.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d0f3fd25-898f-420a-a319-07642f57080f@d0f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b82beb9c-ffd1-4f7b-81e5-24d9c1623016@b82b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c715bca0-c48b-47d9-a3eb-95a6e0795f2a@c715.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c540a995-0929-46d8-8c63-39e5c79c1c30@c540.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a0887f90-329c-47ba-b1cb-7c9c9fd8ba06@a088.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:13c9a280-f79c-47f9-86bd-3ed54ff1fc8a@13c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:386784e3-feb5-4384-a8af-dd6ea428b273@3867.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ba6b124c-e946-42ed-a2b0-f9770c4d8bf4@ba6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2da02905-c619-49e7-845a-243172956bc1@2da0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9d32a52e-87bd-4969-adac-c38a050018bb@9d32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ba32ab5b-7017-459b-aa3e-ec19d2c406ad@ba32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Echternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e454c65f-cad1-4413-b8d4-452ee05d0f6b@e454.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glass
+LOCATION:Echternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6a27da0a-0e6d-4ca7-8a7f-7d9a7c9596ab@6a27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Echternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:86a38234-3084-482c-b710-d592f39ca215@86a3.org
+END:VEVENT
+END:VCALENDAR

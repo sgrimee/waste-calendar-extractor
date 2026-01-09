@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6b89e864-f230-4068-b01e-3a6f83951919@6b89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f58de23b-1e33-46a4-a9e7-7978f3115fe3@f58d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:abc921ef-cdb1-4ebb-afac-9fbeb1af49fe@abc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:07e33364-1d23-47e0-9ea5-fb9e7b79f00f@07e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5d5fe7cb-e14e-4a08-b340-ec146a44ee03@5d5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4faed89d-fdbe-4f00-8611-bf5fff98d25a@4fae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:28163722-d9f7-45e2-ae2e-0006eeaab716@2816.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c564c084-d435-459a-b439-ecfb1788baa9@c564.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glass
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2482dc8a-0bc2-43f4-9bd9-c3578922df0a@2482.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f89ea0e4-f25f-437a-9bd4-214e0e4281b6@f89e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3a062981-f4b2-4db8-b281-bee1f58c2ba3@3a06.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:3b762486-3a04-4aeb-9511-e255b24fa829@3b76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:71405f9b-ae7e-40cc-aeb1-fdac6c73aeda@7140.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dc551aec-6bba-4ecd-b980-0d52fdd92193@dc55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b95b691f-ef85-4fe5-b967-2ed0bae63ef4@b95b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:716d2336-558b-4e9c-96d7-33e2234954cc@716d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0a51c2a8-119d-49a2-a3bc-7b04afb47fb4@0a51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:03b06b39-48ca-444d-aa82-b8012ed4c145@03b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4ca10363-f4d0-4591-a968-d52b3b23f02e@4ca1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2290cfcf-890e-4057-adf6-18e1670b2395@2290.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:7dfd8dd8-6f57-411f-b809-bf0b0a20b715@7dfd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7169d491-12a8-4eff-b853-2f1d25e2f91a@7169.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7e4bce0a-4812-4a74-baa0-831a9b07274a@7e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:8c0a70da-f608-433c-ac91-01de726734e0@8c0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2cb06660-255b-4e85-ace2-218710acd7fc@2cb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:504f1936-67ad-4b3a-bdd8-3345a7f60825@504f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1afb4fe5-df7a-47f6-bc04-1f894772f934@1afb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:75c54892-f51b-4f2f-8abf-efb6e393aed5@75c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:47e0bb25-5f28-4351-8b4c-40bc1db17486@47e0.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2d0c0e73-afce-48bf-a3ad-2816d4ade9d6@2d0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f2fdb689-2bf6-481f-9e62-0951f1fdde27@f2fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c0dbe5a2-f77d-4acf-8a70-eeb5f05cf02b@c0db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:220e5324-5eca-4754-98e6-010fe7846bcc@220e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a460654a-1f5d-49d1-b0d5-87fdef4d7bf4@a460.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4e38a256-098c-4a85-814c-5031dd3c87cc@4e38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7c06c34e-da88-40a9-abfc-4cf6ccf5695e@7c06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d9acb0b5-b3a5-41c0-9bc1-5a861846d616@d9ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ffddc9d8-1dda-4c6c-aa39-2709ef34cb75@ffdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:44a92a03-5da9-44ca-8d95-01e0516b7a39@44a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:54aa1034-48aa-4d8b-a9bd-49a4cad3e3de@54aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:a5c68bbe-7682-43c4-9fba-4024cb21c752@a5c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:e6164190-3e46-4105-96da-b88aac43a3be@e616.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e9f3298e-2ec0-4bf7-94a9-e33a0f987fb5@e9f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1bde3fe8-18e2-4e1f-9302-04cff9f3c7e5@1bde.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2790efc1-c165-4b15-b959-b2b9d860c8aa@2790.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:71287586-99cf-4ece-87c7-69a68ba18e90@7128.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c4b3325c-9f09-4713-9491-fa07438715fa@c4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:1437fe52-cb66-470c-94cc-d2d584226c07@1437.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:48cb57c7-c4de-4f80-a017-545330b7b861@48cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:622e40fd-f3e6-4cff-9605-ce652bbe515d@622e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7df6ed7e-0642-4325-9c55-2b17935588b4@7df6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:1004ac75-9b60-483f-bcfa-cbc25ecfeed7@1004.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e0257d1d-3b6b-4ad4-8132-e5b1569afe4d@e025.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1df39033-bf11-4bdb-bdd1-134e4d074689@1df3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:596eb445-51d6-4a07-9ccf-d8bcd02852be@596e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:94b5d254-fcf0-422a-8d19-462ee1cf1ec4@94b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Glass
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:144f5eb2-4390-494e-9f80-60318da6c491@144f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:56fcb516-7184-4d75-b5d4-557677d0fd1a@56fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:66f3ef7a-9e32-4cf0-a3f6-d033a89e1fba@66f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:826e75ac-51fe-4035-86ba-15935fd25ad7@826e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:935624d9-f76c-4020-ae69-f2e7591254a0@9356.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b4bef95b-e9a1-4f1f-8f41-1d9f3a3a2331@b4be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2e23daaf-964f-4d3b-bfca-c2505e6b5092@2e23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3262ef58-bdc0-4617-baf9-c289ead56052@3262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3685030d-3df6-4628-aa2b-1a1e77183710@3685.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7d5db266-f6a5-4a0b-94b2-402bc2d73484@7d5d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:afce1073-1e0e-4ddb-b941-f5442d0238de@afce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7d948bc6-8d74-4038-86b6-57de39e0268a@7d94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b68c60a9-d325-41f1-ba1d-482019bec97f@b68c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ad8d0396-5c32-4972-9afa-2a32a0915c81@ad8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:616a3d77-b4a4-493e-9a04-502125901df6@616a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5c106a80-7964-4712-87cc-f0256818e7bb@5c10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:89e3d870-6711-4c56-8697-42279c424e81@89e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4f7e6dd7-9d34-42cc-87c2-e83019e3dffa@4f7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:4957f650-783e-46eb-816a-16625d8c889b@4957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ba801906-724c-4da4-8d88-a201caf59218@ba80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:535cdf42-33a6-4d21-89ff-733286b30a06@535c.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9f56622a-483b-44d7-ae53-c16830954bc7@9f56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3ec55467-7531-4409-b6c0-223d441c3a37@3ec5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d1ca1ab2-67ce-4a51-8346-9f3ee22d6d09@d1ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ea521572-a817-47e7-806f-65f0392e3d2e@ea52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7835175e-de96-4d64-8738-22b2e68544aa@7835.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c6c80b9b-bd0a-4ec4-9297-d58781c9afdd@c6c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ac40c53b-d563-4d1b-801b-2ac26c97dc6a@ac40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f2624c42-796b-4313-a191-d3a28921a08c@f262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d8c5a559-89c4-4a0e-a97a-216d8b978179@d8c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6f7bce10-af1a-473c-b7e5-db134ce02f0c@6f7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:28f0ff78-5bd9-4475-b7e7-5e522d33966b@28f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ff9afb37-9998-42bf-b5c7-9f4218eb04a4@ff9a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1a781cab-bfb7-4ea5-ae98-9f91f290752a@1a78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:85a9419c-2b19-4158-aba7-7e5cabd03dba@85a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:73874127-7a48-463f-8f24-5c2054bdca6d@7387.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fadf9777-c355-46e6-87c6-2cf74d049459@fadf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:26a7ef59-0ddd-4c55-899f-1f31bd95c5a8@26a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8b6141f3-2d08-4eab-8364-564e4b87f2dc@8b61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:27b227b3-3108-4198-940d-db87fe286781@27b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:45c8ec45-0cd1-4fde-9c4a-d50d106ab680@45c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f8c8c1f4-c891-4dac-a594-9ec8bc818352@f8c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:07729d46-6593-4e6b-a4b3-36f3966b8dc6@0772.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:68e9de8c-d5e2-4b0f-9c86-313b028df4dd@68e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:79f80941-d188-4bae-8293-fb4ee18a2b52@79f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a0665a8e-dfe8-4a3b-bdc1-bca81724d499@a066.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:678dd4da-c3b0-4f5c-abc4-065baf43744c@678d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:35364b05-0a4f-4ff6-86a7-89c6d4f60a39@3536.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:269fe99f-7bf5-4c85-87d6-0ea189a95654@269f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:13f6052c-aad0-42b5-ae18-4769ad989e89@13f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a5aa0cb2-b6da-41bb-a30e-5517ac3e19b3@a5aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:96de0221-22f9-430b-a7ac-0f05c73695e6@96de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:879cb648-e1e0-4510-97f0-e12a838f9fc3@879c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c9730b73-65b8-45d1-a7e9-417525ea1f89@c973.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1f994abf-1e97-4647-9efd-0d2465874460@1f99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3d548f41-f762-44e6-88d8-ab52081a6d58@3d54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c22f708f-e40f-4cfb-bbda-6c5c2a5a7ed1@c22f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:02c37d9a-cf5c-4d76-b528-bbbf6364ec5f@02c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:27b4e71b-75e6-4843-a210-5f7c93802d13@27b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verre
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:84dd981e-8576-4952-9f2f-443fbb572c5e@84dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6fc8953b-c8e1-48d6-be22-a44d80052b36@6fc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b66a1d4f-0028-40bd-b276-7b6baa0084e2@b66a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7293983b-75e7-43d5-80ac-aa703079ac8e@7293.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:439a3205-aec9-405a-ad7a-851e112fbc99@439a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:60818e3b-a2cb-4e1a-b471-2f2222489938@6081.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1bcd10e1-16ec-4396-9813-00ba56d5b79a@1bcd.org
+END:VEVENT
+END:VCALENDAR

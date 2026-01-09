@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5a843e73-dc23-43ae-9730-2d1d23f25586@5a84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a8f280ae-721b-4f74-b265-3f49defe8446@a8f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d84cc364-15c5-4236-97e9-d027dc147e72@d84c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a7672913-b495-46ba-ac7e-cc88b4be5d94@a767.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:df4e97a2-2fb3-4656-bcfe-56c88afefb48@df4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f8a638d3-fd4e-4073-b800-4015763578c1@f8a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:76b617de-e6e4-4e68-b853-10fe991404f7@76b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cb37c952-7a8f-4322-9a2a-0b34f584a73f@cb37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:08eee5cc-19bc-4e87-b5ed-6e54ea56284f@08ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9a4dc22e-3dfc-49cf-8e04-e3c7347406ab@9a4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ff9ecea6-994b-4352-9541-43e5509e95d5@ff9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ea122a12-45a7-4b04-9a29-87b3f4dc7a24@ea12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:357da629-2c2a-43aa-88ce-455aa107ff73@357d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e59c7e92-e7ee-4cc4-8946-0223d1077a6a@e59c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d378abf9-7671-4889-a0e5-fb5f8a019c8f@d378.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:15069d24-c671-47d4-a13f-54db051b7d81@1506.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b5426836-1a55-42ba-9a13-5898b9487424@b542.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aefcca87-2fe1-44ed-9f3d-f06cccf353d4@aefc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d8b2f003-7e5c-427c-b689-e68527b79f4d@d8b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a9eb13d1-f0e4-433e-9c9e-e46f6ea236f8@a9eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8bddfd48-1253-4719-a32a-4eedf4f610f5@8bdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:812909c1-8563-4b32-baca-2b4675f98491@8129.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3ddc1be3-a18e-482a-bb1c-7bca959c7dbe@3ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:4f2874b4-7ad0-4f5e-9e27-7fa343b730ad@4f28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:23abe8b6-60d4-4c78-a84d-40e058b049a6@23ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:eb66c7e4-9bc5-4bac-883a-6963be0252ea@eb66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2c4dad17-d372-494f-9c5f-c554639bb0b1@2c4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:125e626b-d011-4b6d-b469-e22460c0dd06@125e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2f7bc988-ee15-43b6-a276-f11bf54b22eb@2f7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2b4a8add-74a1-4b5f-8f54-ba3a2294178a@2b4a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8514ec6f-47a1-4dec-bccf-31866b79dc96@8514.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9b49f9a3-db86-4f3a-a692-42194b73d583@9b49.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:be418005-b92e-4a66-9900-ba2b80a3988e@be41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3db4b005-5d77-4e1c-80e1-55a1a81aca6e@3db4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:39d091e6-aee6-4f53-bac6-03caeb6867e6@39d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b9e47e34-14df-4ace-b741-9870321f8a10@b9e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:66e8f0f4-235f-49af-b8a8-cd5858b610af@66e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:95569de4-df6e-4b73-931c-5fd2b5b3e7b9@9556.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:88236333-6939-4520-8364-9718b51ac63c@8823.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7adc216c-7e2f-44c1-b071-b4ca9900877f@7adc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4236bfd5-6042-4a1c-8839-5f9eacfa3134@4236.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b43291a5-5a68-4f48-b247-498133c80c14@b432.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d4b28584-f2e0-458a-b1e9-ab881fb40466@d4b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9b10b28e-65b0-475d-9d09-5cd3a02bce72@9b10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bcd1792b-dda9-4511-91c0-402f730a7df3@bcd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d30a0729-dddb-4ec6-b01a-0f1f970bd92e@d30a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c53f5dd5-7982-418c-b27d-d085a6282315@c53f.org
+END:VEVENT
+END:VCALENDAR

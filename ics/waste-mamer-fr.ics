@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:115c97f9-7c40-4c94-8fdf-de19d46093ba@115c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9c63de84-6a1e-4695-8d2a-871e131d4857@9c63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a32a70fc-ffe9-4203-8691-e3c0a4e81f72@a32a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:975072b5-59c9-468d-9d2e-3207b5bdbdd6@9750.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Vieux vêtements
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Vieux vêtements
+UID:19e6c537-c602-41c3-bf5f-2517fd107f5c@19e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8278093b-4ee9-40d1-a6ee-b57b24933c97@8278.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dc8bb0f9-4e0f-4b2f-83fd-e90ae6611fbb@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:378476d1-1df3-418f-afc2-1128c32e9c4a@3784.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0195c7b6-1e1b-4e8a-b876-34dd0dc3fef1@0195.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f2f886dc-f283-492c-83ef-2cee97b75177@f2f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a9907ec6-2761-4481-9c71-c4c0c5aaa90b@a990.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:c1f6bf72-2890-43cf-a7d9-d0f1e209157d@c1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a70dc802-fbcb-4543-b015-8b3ab890f858@a70d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ff33bc0f-39fd-43f0-b60e-53ea4828190f@ff33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:50ec9dc2-e760-49c6-9e20-8ed71fd3fb90@50ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:7b3add9d-b23d-4c3e-a4e4-6e408d0c06ac@7b3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:55723ef1-6bb4-4258-8f4c-906b91b68665@5572.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9a3a2a2e-dc95-465b-89aa-bbaea529b976@9a3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7cd17fae-eb8c-4f87-b147-a51862e5568f@7cd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6fb267a3-d30a-4bd6-bbc4-bdf38ddf8711@6fb2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7d143027-11f6-45ac-b746-ac892250f8ed@7d14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Vieux vêtements
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Vieux vêtements
+UID:6765a360-af41-4dcb-a571-f1ca156ef2fb@6765.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bde9c1a9-c2a4-426d-ac70-2b276680eea9@bde9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5efd8d00-ecd0-4d07-b775-7455ac216cae@5efd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:94ef8ec7-2eca-4283-a0f2-58d95ae80c06@94ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1d36d32a-a732-4093-9b46-3db0dda630a0@1d36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8c6b0252-167f-413f-ae0f-34f64d59880b@8c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:35b36787-215c-421a-a338-5375db72c363@35b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c3807282-946e-4bd2-a915-f5b79a4d2e33@c380.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0fde5a0b-9fe6-4f07-8bc9-85f6e4f770f8@0fde.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b7d5c020-4a62-436f-8b90-8d710ab4c09d@b7d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:be375dc7-77de-4ea7-aa5e-ce9ecb4ffaed@be37.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:4423857e-313c-4f61-9740-5f2237bed35b@4423.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:10a1a384-a785-48c1-b87a-afdb2cc10d2e@10a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e49ebc33-b672-4f33-8ebc-911217c4222c@e49e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5de1039e-0aa9-42ad-bbda-fa12b35571ee@5de1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8b396088-2358-4668-9928-f42588b63e8a@8b39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:42995b8a-13ea-4c2a-aecc-2e0017444971@4299.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:668094f3-3f11-4253-867e-ab4310213a2c@6680.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:04674996-0535-44cd-ab98-d0599e2994fe@0467.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:98dc9fa5-f79f-44ba-bdca-47c1b06f5a79@98dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b432a5a5-efb4-4e0e-9952-24935436a2ac@b432.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a834f3a8-25ea-439f-8023-e0db13765578@a834.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:9f3027cd-c68a-4cc0-9546-b425020755f4@9f30.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:082d7b58-7564-441b-b192-02fd0c10b862@082d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Vieux vêtements
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Vieux vêtements
+UID:981ae338-633e-4e2d-941e-862efb22627d@981a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:57082f72-f8ac-4461-8648-e4736fa215c9@5708.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:42392d64-f754-4788-9d8d-c984becf5c11@4239.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:6a3442d1-36c5-4657-be6f-45583eedd455@6a34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:2a229ebe-68b6-4c94-885f-b056c0f5f78d@2a22.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:6255acf8-9a4f-4f48-821c-d835890d250a@6255.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:1f78166a-4fcc-4993-bc35-935d4d75cd42@1f78.org
+END:VEVENT
+END:VCALENDAR

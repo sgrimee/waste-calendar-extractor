@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:846bdf0a-6455-4a3d-91ee-79c47fc9979e@846b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9f8a0014-6a5a-4fb8-a003-2178ec387052@9f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0bfec8a9-7382-429c-aaa1-6fd7faa49561@0bfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b10cbe38-ffe3-47d9-9b3f-46d13c7865b7@b10c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e5e56d69-68e0-44b1-a1dc-9985c46b0b7d@e5e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e0e00c50-91f8-4e0a-bfbe-7c6bab3c174c@e0e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:76ebe405-34d5-49c0-a0d9-a64b34c9fcaf@76eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a410da64-b3ef-41f2-bac1-038a6b610dd0@a410.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cbf9958c-4322-47d5-9d9a-5d116dd8d924@cbf9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:40e23160-ceed-45f0-a94c-c214dececfb5@40e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a101ab49-6410-40ca-a3e1-c21d7acfadaa@a101.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f4d34451-bd7d-4d7a-8cac-d5058c8119ee@f4d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a1064215-f687-4961-9767-4e452fbb989b@a106.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:13680531-53a7-425a-b65d-356b47e57cd8@1368.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a0d37f5b-db19-4e94-8160-a4ee737af443@a0d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9aae32db-691a-42d7-bf07-2bd30f3714fd@9aae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4ad94236-91e7-4ea9-90b3-bd30aa6f15fb@4ad9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260111
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:0b5bfd26-3e9b-4471-b93b-65b9caa32110@0b5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:48e12ad3-7369-41b0-9e8e-11736f1fed69@48e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ac36cb76-3dbd-4ea2-825f-a51788f79b81@ac36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c4a7a1b5-2ab1-492d-b6b1-e034deaed036@c4a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7bcc22bc-959b-4d6a-be09-71426fe850e1@7bcc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8718123e-de0c-487a-a1cd-e3e0f2d8451d@8718.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4de04f82-85a7-4c9a-9355-08b1f4dee180@4de0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:af59c868-c874-469a-ad5d-f5062357a7de@af59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7bcef44e-ee65-4e72-8735-9d9082e2c8d1@7bce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e99c92c0-2ad4-4e2d-bcc2-d06ad6ba3148@e99c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c03953da-9595-4769-8ccf-3b88545c369f@c039.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ec5ed9f9-b83e-4a36-be66-a3909f95220a@ec5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fe1ead6c-1de0-48a7-8ace-1de1c19f9986@fe1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:86cc6ca0-a96b-4025-8155-c40ee89db504@86cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6db6d02e-b3a5-4294-b2ac-17d9d440b545@6db6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9c3d962d-6e35-42a1-b64c-0e1bd798451a@9c3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7881b0c8-db24-410c-89ff-ef396032f7ee@7881.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6ea9a2fb-25cb-487a-a013-92ce146f2a1f@6ea9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a888e729-4ccb-4579-ba46-2e80e380ab33@a888.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schengen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bb1f4ab7-3157-4480-9593-3544e23a89a8@bb1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:50168e0f-74dc-45a5-8aa9-8f6bb29cb07b@5016.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7ab3637e-2855-419a-b11e-4dcd0394a0ba@7ab3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5251187a-5418-4724-a4c7-e90811f0e86c@5251.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:e75b57be-849e-4105-b4cb-3658c478f485@e75b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:58774f7e-dd7b-4cfa-b1f4-feb54c3d4d20@5877.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1d7d94cf-b6d8-4724-8f06-bed30bd26c0c@1d7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:e440b015-4e29-4b9b-8ab2-5e32fab899a7@e440.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c5a4bf22-902c-4bf9-9748-67cb007b8a41@c5a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:45038726-7649-4503-a5b4-01a8847cd767@4503.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schengen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c000de30-3e3f-48d8-a9c5-1aabdee851f1@c000.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schengen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fb12351e-c555-4c8b-a186-f9b444775603@fb12.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:97c11c5b-f553-42fc-8872-e4dbddecb6e3@97c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:db7da434-100c-45f4-9d5a-7e54cce6b8ac@db7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:95240086-79fd-40af-bf92-4e829c660f73@9524.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9bebdec0-99e8-4304-89f1-4fccb92ea947@9beb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:99454d36-149a-453b-9a54-9f94a01ce5c3@9945.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:345364ba-83d8-4bca-ab4a-31b12bbe1fb0@3453.org
+END:VEVENT
+END:VCALENDAR

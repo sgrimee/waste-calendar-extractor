@@ -1,0 +1,911 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:143b70f5-ac78-40e0-8a6d-13fe9e3fdf29@143b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:55fe665c-811d-403c-8cde-31aae03c7b7e@55fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:abcdcf8d-e6d0-4946-afd4-32357cb4563c@abcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a239ea84-6fb9-4f04-b17d-790c99fae307@a239.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f96574cc-2a65-4ec6-bc8b-1a9978620948@f965.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6c3e39f1-22de-40c5-9785-8e09df430aaa@6c3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b237739e-72e1-4d45-8e2a-6cfd665120c4@b237.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Verre
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b153e19b-7951-4384-95bb-a0446d00ca89@b153.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:be376169-0f49-4006-9ef6-74d5cc3b6c7c@be37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fd6432c0-2a0e-4238-802f-34d420f82aa7@fd64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d084f906-0fc8-4e2d-8f9a-9914725b8bef@d084.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260214
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0c5e11bd-29e0-44cf-84ba-a1d5052bd13a@0c5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5bc2ea20-f51f-4a58-ab04-1b757a984bec@5bc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:47270473-4522-460a-8bcc-5c4fc3fa0c37@4727.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:63e41eb7-8173-4e23-975d-6e56b4f5d5ec@63e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d30ecaad-22fd-40cc-b435-01b667a55239@d30e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4f6ffb4e-0491-4e17-9961-e646bbd29075@4f6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6fdaae60-5763-4c36-83e6-9c9a2a9f5114@6fda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Verre
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:81ab927d-6c02-412e-a639-c4350745d3ed@81ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9ba331c4-ff33-4555-b577-62fcdb42a6a8@9ba3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dcc09d76-b375-4e9b-8011-34365ce00912@dcc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:da6e44e6-4722-4cde-a5ad-e7aafc5eef45@da6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260307
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:952209fa-d6da-4aa1-b3d2-64497eb8f04c@9522.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9ddc2515-f7c7-4deb-8823-bd24e99929f5@9ddc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:52108db4-bc34-4266-9638-e221a28359d8@5210.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d8c85edd-a367-4fdf-916e-6d3c872035df@d8c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b372fd04-91d3-45e1-9f3c-e3f4f320903f@b372.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:84a078c2-8fbf-4492-a1a7-727a8d744390@84a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2bb6d082-62c6-4cdb-bcb4-919e3776c8a3@2bb6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cb6d9a43-1f6a-4790-898d-ffd1226ab6ee@cb6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8078bd60-7fac-4f39-ba8c-b710e965b41e@8078.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a3539ec1-4ded-4329-badb-a427ade92f40@a353.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6a75d951-d61a-4d30-8ca5-71abe57c1ec7@6a75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5b29b520-1447-4f44-8852-1387bbea57a1@5b29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:430fd2b1-1174-435a-bd2d-79b0d114b50d@430f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7ffad157-ba2a-4db4-aba6-ba26b911b2ac@7ffa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7bb1eb33-0916-4c4f-8159-4fcb995de711@7bb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1c0bad75-2a1b-4425-9786-f740b79b9066@1c0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:07edcbfc-6670-42c4-b51c-2545e39a7aa8@07ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:49b8b679-de13-4938-bbc6-b28b093b8a01@49b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9ae82b8d-06a7-4c61-902f-6d261977cb6a@9ae8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ef2cec5a-155b-4748-9c61-3a8dd45277ae@ef2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:060169ed-4b61-4850-95e4-56da4c0d2b72@0601.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3ddf9921-0073-4620-82a3-23df7271dbfe@3ddf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0588a070-1b60-4432-a885-58d03bbd9b56@0588.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:66e97a51-95ef-45f5-b6b1-a7dc0d99ee7f@66e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:974019ed-a849-43f0-89c2-8a51111c3bc4@9740.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e5a0f8f9-c2f8-4dad-875c-ee96977c32c2@e5a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6806c2dc-22c8-4a37-8a90-6f91caa6af91@6806.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bd6eb68d-7e14-44ba-9123-f46758eaa3b3@bd6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:cf1a8817-b2c1-4d76-a5f1-be1060159cd6@cf1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6d132834-5f92-434a-ba0a-ab0532c3dd75@6d13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f06874ea-c132-4bc5-a2ca-0e0332c8d721@f068.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:286f7f87-cf18-4733-8c1c-be476ca6ec1c@286f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:afecc568-f124-4c6b-9b56-afecbe9ddf5c@afec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f8106a4b-355f-4ca0-b8da-72a8332d065c@f810.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4515f1ae-611e-4c0a-83fe-7c77bed3da67@4515.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1cc62dcf-4c45-4562-8774-a08bf724842f@1cc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ca627922-c36e-446f-bda1-99e59fa2dd24@ca62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:188df736-5b14-4c75-848a-fe2f8934fe71@188d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bc06ef1d-7874-4d7e-abf3-fff5f9a6054d@bc06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3cf283f1-f25a-49c1-938c-7da9cb1b87b9@3cf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f6d300cd-5292-48d9-83d1-245e6dcbb829@f6d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3d635122-4df7-4090-988c-fa8d08745f23@3d63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:18da3d0f-28dc-4d75-83c7-944fb1a9376c@18da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:52cca7ef-19be-483c-947a-1d27e7c0bd64@52cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:13afda1e-d7f2-4d3c-9064-bb12f31ebf12@13af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a67d04b8-b572-405d-a127-3052c50386ba@a67d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cd01dbd2-4eb0-43c2-8645-9a10bb3d6da2@cd01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Pétange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:72329877-3a1b-4500-a847-fe51a086d8ad@7232.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Pétange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5dc92295-509d-4afe-b75e-363542f5c8b2@5dc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:79ef6e3a-bf60-4865-a640-fcc0f450968d@79ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:defb8fd6-33e2-4e81-ba6b-fdce6854d2eb@defb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Verre
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3a987219-bc27-4914-b900-e7492ab6696f@3a98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:c3131a9f-19f3-4e67-9b89-1d57d01d2cc1@c313.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Pétange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ac448bf1-9408-4922-a4cb-278209d1f47b@ac44.org
+END:VEVENT
+END:VCALENDAR

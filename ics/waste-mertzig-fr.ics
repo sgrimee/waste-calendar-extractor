@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8a3f899e-00ab-4164-b074-e0e1c7b5c132@8a3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1d88df84-0134-40b9-8185-1e2c806ae202@1d88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dff8913f-186b-477a-96ec-b499927c2b09@dff8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bc442e8a-edc6-4451-9f70-b5f186069304@bc44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cd1f462d-e99a-42d9-be5a-08f8f81e945c@cd1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:18942692-4e16-47f2-8cec-c691e3bce014@1894.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:38034e0e-ab6d-4d44-9de2-b15b5327c456@3803.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3dec1b66-49ba-43c2-af3c-2443195d8861@3dec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ab3945f9-9f92-4214-8525-67db20d4579b@ab39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:49b7fb3f-6c9b-4579-9fd8-ddb6bfe2bd5b@49b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:b3cf217b-050e-47f7-a167-a828dea309ad@b3cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0c497557-37f2-4313-bfd5-298914dec4f5@0c49.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d5bf6704-a7a7-4ef4-a719-49bbf13bbdff@d5bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e37d9690-2fdb-412e-a572-bb3401a1da8d@e37d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a143e8d2-29a1-4178-a0c6-c4cbde528a87@a143.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c5339beb-a667-4f0d-8d77-d2a09500ac4e@c533.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6eb9c6f8-e19e-4120-8689-a947d28a384d@6eb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:3c6d47a0-3584-4d45-95ce-ef24b086d9b0@3c6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fce2af5a-a4e5-41ed-8de4-9ba572f63c83@fce2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4eaed623-2fd2-4959-ae62-5c440ba9b466@4eae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0aa8b452-2e6e-4a2b-a1fb-443331c63dd3@0aa8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:66a0b4e3-081f-4893-803b-35554dd327bc@66a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9d9ec10f-983b-4973-83bc-d1c026ddd6f6@9d9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:761dd02c-2231-4657-86f7-645be7c86f15@761d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9061a66d-16ac-4368-b5c7-ed3f6a2d3817@9061.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dfadf219-aa3d-465d-9856-23fc4b1f108a@dfad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:345de0e2-80ac-4499-9076-abe27de8a524@345d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9623353b-e0d9-495b-a958-cf7d0f4bf0ef@9623.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9e988e73-670b-4ccc-9794-31feb3f869d8@9e98.org
+END:VEVENT
+END:VCALENDAR

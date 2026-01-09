@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:77fddfba-bf50-49d7-9b73-1cc431236179@77fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c42737d0-ff2d-4905-a23d-7f8b88dfca4c@c427.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9929a160-797b-4c97-a387-07794f2aff7b@9929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:92eb0010-b16b-4752-8641-2cc23fe6b274@92eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:00bb8751-cfa5-4909-a4b2-ddce3eca6af1@00bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8fa757cc-2920-4cd4-aab5-080294e9bfd5@8fa7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:01de83bd-5d7d-40f8-aaed-5fa231d9b533@01de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09666abf-69d4-474b-84fd-aa38a8f7147f@0966.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f8c86249-3646-4eeb-8432-43cb5b47d67f@f8c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3929ac07-8d0c-494d-98a5-b203f346f807@3929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d40fbbd5-8f30-4cb9-a6f4-eb07f43f0949@d40f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fb675b4d-fddb-4931-b030-2d7ea04519ea@fb67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8e62a0eb-0c1f-4b1b-a032-d31996b470df@8e62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3ad24451-d7d4-4564-b29f-d920fddf3430@3ad2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c2945bb0-9386-43d0-adb7-344105935b47@c294.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:bc9f97d5-d9ac-4d2a-a738-409a7cbd53fd@bc9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Ell\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:3bd4117c-e2ff-4370-991a-d75245e819d5@3bd4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0aba5000-f23f-4892-b5d6-2eec346aa231@0aba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Ell\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ed839333-fde0-4dd1-9647-8cfd96f25a43@ed83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:03a00d30-72c0-4284-923d-f4fb92ecaa24@03a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:420192b4-5df5-4d7f-a6f7-0a50adc9a82a@4201.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e31bd16b-8208-4c7e-bc34-0d65cadf3556@e31b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7929ad6e-ba6d-4d81-9c97-5a149006cbb0@7929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6f1a5bde-a93b-4bf2-9665-e2dc7dd68851@6f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Ell\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:e5c7ddf2-59f3-4f57-af26-46e043a52184@e5c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f7015d54-8431-4b4c-8a3f-29e527be9b61@f701.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8b6a0b32-1863-411a-b258-4c9cafd1729d@8b6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:712f1730-50ed-4080-8698-32d51b9b4cee@712f.org
+END:VEVENT
+END:VCALENDAR

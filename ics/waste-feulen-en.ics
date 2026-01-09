@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c7bd7c37-df06-483b-b260-f83d8529e719@c7bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:94ff647b-1492-4d58-a69a-24e4344e3e19@94ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Glass
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5f01fc9a-46d0-49e3-8512-8d09ad5e7216@5f01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5e83d172-a679-483a-ad27-af6b4ac3cdc2@5e83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ac0f14ac-2a53-49b4-be1d-bb2476fc80fb@ac0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b86bafd1-a444-4ac9-a790-a5563b5652e0@b86b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a5d46608-1303-47c2-aca2-fbb21a01491c@a5d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e8d9648f-41fc-49c5-b400-e1ecdd51f9e4@e8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:2d3e3369-0f22-42c5-afd2-7a706045a1c8@2d3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:522ac9d0-f8a4-4bee-a73f-a140168960fd@522a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:67e3256a-c251-49fe-b974-f0947685379a@67e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0c18a85d-0066-409a-a78e-652eb1514e69@0c18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:97164e43-0187-42d4-b046-7d481d6c87ae@9716.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a0ccddb1-f629-4b89-a3f4-ff598b94ddb6@a0cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:adff0c30-bd63-4a0a-8bde-01624c96fe85@adff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:40f4d7c9-631d-4332-b593-2fea3318573b@40f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4593d389-60c7-4cf2-9933-c517c859b97a@4593.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:31e5ea92-8285-4235-805d-cc34887b4506@31e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Glass
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2434afa3-63d5-4a9b-bce9-34ebed6e9178@2434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3fdaa7d5-718f-4078-afd2-b4b9c7eef9c0@3fda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9e7d503d-2c14-4f36-b4c9-8f8f79544b87@9e7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f623efbf-9ebe-4a6b-8f81-4d9f12742841@f623.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:935efd30-ab85-460a-bdb0-a56cbdf8197d@935e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:3c5daea8-542e-416e-ade1-29854d675b05@3c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Feulen\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:4924d381-b067-423b-bc02-37445e7ba23e@4924.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:acc806bd-03cc-4067-aa01-35f640bf54c2@acc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:69a49792-a019-466a-8b4b-c76cc7009e64@69a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:683ff514-8258-48df-92b5-3a0e7f1f9772@683f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7be59b13-c4dd-4065-8a50-20e67b8825ed@7be5.org
+END:VEVENT
+END:VCALENDAR

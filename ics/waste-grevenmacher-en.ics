@@ -1,0 +1,553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bae3b9cf-7722-4e67-b2e3-7f6addd36ea2@bae3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dd642a2f-f44e-49bb-8e2e-3e1f22230dfc@dd64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e3f2772b-3689-4670-a012-83cd6428b639@e3f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3608ffcc-ce08-4404-ba04-d3d03c49dd4f@3608.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6bae15d3-cbe9-4077-9bda-f9764115c88e@6bae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ca29d0ac-00e5-4490-90c3-37ce196d3fa8@ca29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d927a11e-c8f7-4c0b-998b-b3359b9354e2@d927.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:41c62f53-a222-430a-943d-fab7fcdb9613@41c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:49ef6dcb-9f6d-438c-aa8b-42279497b145@49ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1a543b12-57c3-448e-a5fe-ec0d990c0f1c@1a54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:01a707f4-9e22-4173-96eb-8495087fff21@01a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:549b2273-9ce8-4ddf-9640-98dc1e6d3f91@549b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ce8cb6d4-9946-478a-a870-7c0d57a9d9ed@ce8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8fb72efa-5f3c-41e3-a8f5-d5ba4e3afaa4@8fb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5f9d6d07-9b42-4266-9557-aff6c8ad203c@5f9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6596de4f-9912-4d1c-992b-737a0c48aee8@6596.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:11a23461-46e4-4b97-a5c4-096f7267b912@11a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d86f6915-1f7d-4551-82a5-c383eebd5706@d86f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0d107250-9c66-48ee-b19b-e6c809cfe81c@0d10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1acbe80b-0170-441c-98dc-65e1c566f2ad@1acb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bc024957-6bc4-4a55-9a1c-a9fdd0bf9e5b@bc02.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e794589b-8af6-4a8f-ac55-a0926cb3b9e0@e794.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:b2eff2c8-d718-426a-8f5e-bc5d922c3faa@b2ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:dcdf1b24-d8f4-48cb-9a26-46d944f321cd@dcdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:59476755-e3e0-49a4-995c-349a56237a86@5947.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6d1757c9-b1a3-49d2-8fdb-30c890c01b65@6d17.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:e74c7b36-4b30-4901-a12a-b021ba6e64c2@e74c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fce0400a-388b-405c-9086-01a32fae9b30@fce0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2c96107f-2490-46c2-81a1-9724afdf9ab3@2c96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:0a10b7f8-8e39-4496-9b50-ab1b7a3b7517@0a10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:75e47f61-16fc-4257-8b8a-713bf98ac5ad@75e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glass
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glass
+UID:14049d79-e0b4-40c1-82b1-2ebbf6797ed6@1404.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7e916789-39f5-410a-9df3-d482d84a4138@7e91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6db0af9e-981a-4dbc-b9e8-30b36df28bc1@6db0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:80e37e9f-4688-4d9b-92da-ad9b34ef55f7@80e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3edd00be-49b4-4b4f-be5c-d06aabace249@3edd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4335b248-aeb8-4bf1-a5c3-70a6b396117e@4335.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:84320ce0-e4fc-421d-821c-f722141e3253@8432.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:09c15b19-416a-48f1-8fc7-7746605f82d1@09c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0b535fe1-4555-4ebc-9759-3dfecced5c34@0b53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:47298b6c-aa9b-4cc4-a469-2a48d0805b39@4729.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5b28b16d-7564-4512-988b-fe5475bc80e0@5b28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:023dc32d-8c57-4a04-8d04-6fba0e397d47@023d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:930093eb-5c32-4a8a-b9c6-e0625c442005@9300.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6580e29c-770b-4238-9555-1f1ef0311421@6580.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8e063f07-e01e-43b6-8a9d-58bc3a0237f8@8e06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:809353d3-827c-4425-b12b-eab7eaefd367@8093.org
+END:VEVENT
+END:VCALENDAR

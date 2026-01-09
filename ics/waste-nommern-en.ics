@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:666c63be-0cbb-43f0-af44-34f21cd5f7fc@666c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1818ef61-fcff-45c3-98dd-e038eaa37799@1818.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:902c2b42-81c6-4b32-9383-757ed2323270@902c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8c868786-27d6-4922-95a3-5f4d84f3bcd6@8c86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fa2d0466-bdc9-43f0-9056-b18420151667@fa2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c1a986cd-a5be-4652-95a7-fdbfaa642e69@c1a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:90086113-c233-43af-9156-d7764aecf269@9008.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:48dfe789-dd71-42fb-9eac-56c8b416c39f@48df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:695702c8-9bb9-45b4-ab15-375ee701abf2@6957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glass
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7532ebd9-d923-4f24-a0bc-e7af0641ee85@7532.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍾 Glass
+UID:310ac71d-899b-4ac5-8ab0-f47dd7dd2084@310a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7125daf4-0cf1-4bd7-8a55-800b2849c7b8@7125.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c6f29230-4cbc-488b-9166-673c9205a374@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0448b8e6-5c91-4988-871a-d29c2c0669fb@0448.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:13452226-68a6-48b0-aa7d-7ab69f52e76e@1345.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f1cafacd-ac60-45e4-bf38-ea869a34741c@f1ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3dda8160-6789-41ba-8467-08866aa52275@3dda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f41e85c3-ffee-41a0-ac11-7757992ce70e@f41e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0f443752-766c-47d2-8100-ee4713e29f50@0f44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:712bc7d7-5f22-4781-9428-e76da37694dd@712b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:251c9f34-db6c-42fa-a013-a922deadb8a0@251c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:aa9a6bfc-2cf9-456d-93e6-e03377998c5c@aa9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:eb3c8ba4-9818-4e04-9b83-973535854cd6@eb3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b558e054-6e5a-43ff-be01-8863a760ba35@b558.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5c521efa-a03c-453b-a1d6-ece41c996565@5c52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1f8e030e-9d89-4fce-8866-c5bd46550a01@1f8e.org
+END:VEVENT
+END:VCALENDAR

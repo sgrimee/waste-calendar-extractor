@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ff1ed5e6-995c-43c3-8c10-f60e0d040533@ff1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e47cb0e3-6af2-41b8-a28c-5c081a571583@e47c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6edfef96-b020-4c03-80b7-efba1dc722ea@6edf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ffa8e7f0-4258-4514-9add-90fbcf94f524@ffa8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3f209343-f1c2-4365-b4da-0cd490d507f1@3f20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:95c5b80c-2995-4a60-ac01-e2123a126e3b@95c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:3f3b7e25-52e3-47b6-884b-ba3c42019306@3f3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d88439be-f747-4bf9-a6dd-011ba3c152a2@d884.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d79c05f1-ba91-4ef7-88ad-10052e68b475@d79c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:846e5cb4-9bfe-4f00-bc93-8e98b1d8840f@846e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e541d563-5505-461a-94c2-f1620eed8e1a@e541.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:beff19c9-cc52-4c07-82cf-1691c7851654@beff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:10331348-f2a2-4e08-b5cb-9c8e966dea5c@1033.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5e434209-0f2f-4dcb-9bdf-34cea4847465@5e43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ed247941-c69e-4fe8-a378-a9a38894452c@ed24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:43d6f2be-c28a-4758-99b6-606e339184af@43d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e7471240-b1b5-46b7-9065-f1bdeb6512ed@e747.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e594bfb1-d686-43f5-815a-b4f4665b5696@e594.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e9e3d9c2-989c-409c-bcbb-a36e211d72ba@e9e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e5922ed4-424e-43bd-9a9a-c7678d94b599@e592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:10f17c85-b3a5-4bd6-9e97-8a00cd6f348d@10f1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:10edefb4-4d86-4da5-9099-1f0cf44c6727@10ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c254747f-61dd-42b8-b415-2bbd55be9a05@c254.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:95d18351-4c3f-4d51-8230-5d5b789862a6@95d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:abda861a-6190-420e-8f74-7f4a4ec5f864@abda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:74b12c56-7363-406e-9ae3-c4ac210cdc44@74b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:bbe31a39-8d92-47fc-8e7a-19ac1c90999c@bbe3.org
+END:VEVENT
+END:VCALENDAR

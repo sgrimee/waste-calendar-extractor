@@ -1,0 +1,556 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4ce589d3-ae94-4ac3-9602-bd04768e2f38@4ce5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:28f5d464-88b9-44bb-9445-976543290513@28f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d6066d4c-e3f9-43ec-bcfd-1c4b7b8635f5@d606.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f49d5f5-f3b9-43a7-acb0-40cda86dd0d0@8f49.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:892fca5a-726e-47dd-8390-fbd30b425bf1@892f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:930a3328-abad-45c2-92df-27e0a20f3208@930a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f15ab5da-3e47-48d9-a88e-4194158d7254@f15a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:922a5fd4-e64c-4a61-b4c4-264fc06d3cda@922a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9ed28490-1b15-4eb4-9783-749546862b93@9ed2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:144e1998-0fd2-4225-8b7f-f87dc5054f98@144e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:79b70e4b-9c6c-4886-b8a0-38e7f2f3f78b@79b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bb8284d9-9317-43fb-ba37-b7304f5614e4@bb82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:355f0b52-0551-4a26-aa61-1b4e78cfa930@355f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:20297f5e-d22b-4fb0-8dbe-5850d8ebb3dd@2029.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:dcb413cf-d14a-4404-8a63-efd617eae825@dcb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:15752443-8c54-44a2-9fa6-f691d5fa4476@1575.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:39370935-9a1c-46be-a0fe-76dc12060e1c@3937.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d2a58f0c-9a7b-40f5-a987-bb9c8d96c5cf@d2a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ba634aee-1797-4561-829e-84d24b1bca90@ba63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8a837d7a-1a79-448a-9b69-f9e34e42d3da@8a83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ef75acdc-0bbb-4a93-ac33-7760437f4c83@ef75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:95434a94-2784-463e-9686-fb59f39ef4c9@9543.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:aeeb6f09-2ab8-4e41-a694-8c7f36f0bf6d@aeeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6a6228c8-31b3-4c85-a968-c7a3d0b00aab@6a62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b8f9b5c6-e544-4888-a643-3cccd0dd5171@b8f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:956286c7-2e72-4f6e-9dda-b18349fcda3f@9562.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6b918c59-0441-47a0-8816-fe150839c339@6b91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cfbf9ed2-fc88-4792-9b68-93bb3e0c54dd@cfbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0843f339-2d41-4fdb-9ca0-d389d9d38385@0843.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1cde865a-ed33-4f50-b57d-b782e4fa50d6@1cde.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c5ba65cf-d31d-41fa-b5e6-b042d99f232f@c5ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e684cf22-a9f3-432f-a513-5b79d23927f9@e684.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e430fdd2-1089-4ae6-adee-c73009999209@e430.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9d21ba70-06f8-4f85-944e-52d2cd9af4d1@9d21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8c275d07-333c-46e6-bd20-685e9553297f@8c27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d843e802-ad21-4e75-8198-7732815b10bd@d843.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e5eb2773-29b1-40ae-b9ad-1e7b365cca98@e5eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b785c192-409e-4c50-9ce0-6e29a9f26c80@b785.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0825e086-91c1-469b-86ad-3d9c04dd2567@0825.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:493200e4-af76-404f-80cc-9311b0e27a40@4932.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e74328bd-0ede-4bb0-98bd-97cd3f6d702c@e743.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:25d1c7a3-9ade-4a80-8610-aebc6621a392@25d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ec4e312d-abda-48c0-878f-1c9ea27de91b@ec4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1ff60967-3fc5-416a-80ee-581052f8f3a4@1ff6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:edaf6032-5613-472e-b0c5-792bad817895@edaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Betzdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:12212ab0-af03-4386-a056-45044d37fa1f@1221.org
+END:VEVENT
+END:VCALENDAR

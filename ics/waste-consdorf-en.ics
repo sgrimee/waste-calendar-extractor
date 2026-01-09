@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5ee4d0c4-f806-44ed-a3f9-06c12352e6c3@5ee4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c6bc5e28-2936-4416-ad6f-e18759d4a7f5@c6bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:88632240-6cdf-491c-a3b1-1a33ebd34278@8863.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c905d0b3-a702-4c8a-b5de-fb7e584503f1@c905.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:774042dc-f3ba-4dbc-a0a1-8a9162828dcf@7740.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bc36c755-6695-4fce-8cd0-fc6474f8f895@bc36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e7a229bc-d8f7-4cec-a1ed-063eddf37f92@e7a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d33cba8d-19db-4656-ac34-50e150762e34@d33c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:91fd8724-02b6-4d6e-af22-02c3334ccd6c@91fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ad06586a-5c2b-4689-963a-f44e64b9700e@ad06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:56380569-886a-4026-a654-7fd8537ed13b@5638.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:ea60d4fc-2d89-4a2d-8ce7-03305d20f1fb@ea60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:73d4d95b-22d7-4536-ba9b-c8352403d343@73d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ab0694a6-1a4e-41f7-9366-7f52d5ee70f9@ab06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:96b5a282-fde4-4f85-987a-10ced2d9d821@96b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:29f3b534-e299-4ed1-983a-0256db80cdef@29f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ae2b01f7-d375-48e8-b4e8-7d529fad83ab@ae2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1e4c8f31-3513-40da-b1d7-ce6d0481df48@1e4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8ca38858-ae94-4a0a-b0b2-4de0d8219f59@8ca3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:90e08f0f-2a76-4bf0-943b-e9a337d7e6ac@90e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:714f8cb5-e637-456b-876d-75a866bd3919@714f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:82fa7332-113f-46f9-b324-3ab9672d5b86@82fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d1ebaf42-d949-4c21-9a93-ba7c99540dd7@d1eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bb151750-4647-4569-890c-45f67999de00@bb15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6b73fd5d-6bf4-4a74-bb39-b94d9607611e@6b73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:20461589-2abf-4b78-a694-990139dfc657@2046.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:097061cb-0b3b-4a9b-b438-4c87a22ae583@0970.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d424533e-c1a5-45b1-b7f2-7ceae7fdda9e@d424.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6898dd56-c633-41e9-bf53-1ff8cba49717@6898.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fea140fa-b126-4011-b747-9a785fe2bc99@fea1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2c6b9e8a-a800-4426-8463-bba97590aecf@2c6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2065b25a-72c9-4951-af94-e1322534afdc@2065.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:17c51777-1864-42a5-87ea-cdeb54f7a49d@17c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:cfb0a2e7-137b-451d-a1c8-9ec9718a1e7d@cfb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8e86583f-4d59-44f9-bda3-58479948db0a@8e86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:be7b0825-07c7-4992-a3fa-5ffc2bc290ed@be7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9a52ecca-3121-45c4-90ad-9afdb9ef5c02@9a52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:da00faab-6b26-4dc9-87fa-c7b381860541@da00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c5fdd7d2-95c9-4e86-a2a9-ba3667352173@c5fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4c59eccc-2f7f-4f83-8ee1-22059d1b9921@4c59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a65adf58-34c8-42bf-b007-0d11ce5f4252@a65a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2a122f06-5584-42fc-86c2-fd084532494c@2a12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:74824ef2-b55d-4d80-a85f-e546ea76df69@7482.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3b8fc1d9-0c3e-4333-99bb-b3ff9885f8a9@3b8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:774f07bc-43f5-4a6d-b24d-fd5fd90b3fbd@774f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7a397c91-9f8c-40a0-980c-3423778d3f8d@7a39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glass
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e7d1bb14-ef67-4688-bd2c-a17be757639b@e7d1.org
+END:VEVENT
+END:VCALENDAR

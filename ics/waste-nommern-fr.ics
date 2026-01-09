@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dce20f4f-3d71-4ddc-b676-deff3ae1c2d0@dce2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8c732a2e-6925-438a-bc3a-c427a2c25500@8c73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:88d621bd-3747-427d-adfb-3bdd84153a33@88d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b6ffd7cd-a0c2-4763-be07-a8d235f7aea2@b6ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c0094349-fe03-4411-80ec-b9f93f1cf873@c009.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4fbfe6cb-4df5-4710-af0c-0b4e6ba7b711@4fbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9b1edd08-b628-4e3a-bea8-086e57e686d2@9b1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c418701e-4d4c-4998-a3fe-024d1cfe3a0a@c418.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3c6e4be1-3c6f-4b1b-aae4-954f04902208@3c6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2a347e30-8813-40eb-8050-ac4daccd26e3@2a34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:616a25ae-e613-429c-b87a-eeca8c478976@616a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:21429318-f6f4-4261-9e7f-a0c5791b5785@2142.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b282faa1-998b-4103-a39e-9ee34729f934@b282.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e494a016-9355-484c-b647-bce721637271@e494.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0d34b77f-73a0-4ebc-b0b2-b82672bfba3f@0d34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5ed43d9d-0254-4b8b-a633-a081bc7d0881@5ed4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:6e377899-f4ef-4259-a22e-1f3bdd5ed20a@6e37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6e26968a-4943-45c7-b91b-5fc9ffd44c06@6e26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a63b6238-8c6c-475c-b8f2-f683fb7214f8@a63b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1b1f1a42-393a-4fb4-880f-26847034203a@1b1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:44961c87-c5df-4c6e-9cdd-ecbb312a2d94@4496.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:25457383-f5c4-44d9-b9a6-b0f058d12a03@2545.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Nommern\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e7d9b64e-ed63-4851-a9f3-ca686ed0a385@e7d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:8481d096-f670-4d8e-a57e-ca1a47ff12bd@8481.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Nommern\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:95c12b00-ad12-4dde-9747-2ac4d795db67@95c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Nommern\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:74e670a1-aa7a-458d-92cc-b2379257ece4@74e6.org
+END:VEVENT
+END:VCALENDAR

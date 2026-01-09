@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c95f5660-3cf3-44c4-8ea5-2bd2f0a7f6e2@c95f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d68a4a4d-e069-4ccf-8538-d047541f6924@d68a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:13c89b46-f783-484b-a4b8-03c1a9c985ea@13c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e95e7735-d6d0-4288-be63-f4da68c724d3@e95e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7a8a69df-f5b8-4c81-bcd7-10dbf98b3c1b@7a8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:26ba7eca-d3f4-48fd-a3c8-49c37917c341@26ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f285ea1f-0a1d-4e8a-a8e2-5d93b21b8dbc@f285.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4cebc789-1a0a-4bd3-acba-2d01f635ba0d@4ceb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:85c40e4d-7a4f-4a7f-b343-771fd5a549d1@85c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:00094e6b-f8af-4a8d-a3cd-fcba6eba8c8d@0009.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:94fc7792-50c6-438e-9ee1-aeb557ba43dc@94fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:c502ca9b-f8d0-4b02-939c-bd1caf1a3975@c502.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7ad124f6-763d-472c-a0b0-7c75e7ae894e@7ad1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cee02749-77ba-47e9-bd07-77f8b2b3b3fd@cee0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c604acc7-fb04-4c49-a32f-c7b51c4648e0@c604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:280b87b2-2586-4462-aff2-9e0ddc0b4446@280b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6f28e1fc-8eca-4c3b-b9cb-528ff5c1be0f@6f28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:62425dcf-1b93-4330-a35a-5e14948ba838@6242.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8aefebd8-2e76-4345-bb58-9a8a2a4744a7@8aef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7c07f1f3-1e2f-4f18-9c7d-873ea18259c5@7c07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Schieren\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1c2aa711-bff0-4c30-8e3c-058a8bf78e7f@1c2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:01348b4d-ba20-4bb4-8414-a58a7788f15d@0134.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4d0b956a-2a55-4dc6-9dfc-3014a6db3e99@4d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:0de0afd8-b3a0-4b9c-9aeb-aead4ae031ae@0de0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bcdf911f-afdf-406d-9b85-b86491bef2fe@bcdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schieren\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:328e95c0-faef-410e-9e47-4d4d0bc55279@328e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:db18e25f-1aca-4903-a273-c634f821ba0d@db18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Schieren\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:774320f2-4f45-4567-b82d-acb1caeb6817@7743.org
+END:VEVENT
+END:VCALENDAR

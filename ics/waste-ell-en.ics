@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f2db31bb-af67-4991-997f-db98fd0e94c8@f2db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:881ad994-faee-4e95-8fa2-aa1a2f5e7956@881a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9d1459f8-f44a-4e09-ad3f-6c96ef35feb8@9d14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1f2116b5-2915-4760-988f-1af11151e05e@1f21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:77be1627-a562-425d-a245-e27a4967499f@77be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4bfcf8ef-a677-493c-9abd-7a1859accfd2@4bfc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6fb1412d-f673-4503-85b9-d4a1064ee09d@6fb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5e286501-0549-4cdb-a3f0-9521f963b239@5e28.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:7ae0aeba-f125-4955-93ca-924a687a59bb@7ae0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a32e0a97-7653-40a2-9ad0-a5407ac37f11@a32e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8a322ba7-dc6a-4e3d-a2f2-c9a73fc3bbd3@8a32.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:d6ee453c-aa79-481c-92e3-2e7dd248df45@d6ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:95bf8581-f813-4154-9754-ef71bfb65de5@95bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:69388e5c-9f38-4ffb-a3a4-3a27fbab2875@6938.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍾 Glass
+UID:21f64b93-a806-4883-ac91-a51d400e0c72@21f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6c6b1436-d879-433e-96a0-b7bced83c5a9@6c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Ell\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:7cc7f914-98dc-4e53-9a2b-14f2c94cadaf@7cc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:22b0c997-46f7-498c-8490-8a7c4c8b3c75@22b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:96722d98-1acb-4710-98b2-c602af104a82@9672.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:80ca390b-2006-4c61-9051-236da86c9818@80ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8ccd4249-588d-495c-ae59-2ddc7d288dea@8ccd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:917b9ffb-baf4-4931-993c-08d882880ca9@917b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ell\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e1d6ba92-c81f-4de9-9921-4ea960da1cd8@e1d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1c6c9456-8cac-4065-857d-09e64fd7298b@1c6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ell\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6980ebd5-9dd5-4adf-a192-d0d7c8dd0e43@6980.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9f9559e4-3d50-4e7c-8c2f-2859b56166b5@9f95.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Ell\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:4a9ae365-0903-40b4-82e0-e12ed8092ced@4a9a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ell\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:37b3995e-b911-4a49-bb97-4a34a0abff6e@37b3.org
+END:VEVENT
+END:VCALENDAR

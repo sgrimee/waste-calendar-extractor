@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e12667d-a033-482a-b93c-eb346fe4b3a7@1e12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:572e11bd-ac5e-4e15-af01-b99ef483274d@572e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:9415eeb7-09f8-40f2-8ce1-ba0a69f59246@9415.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d4e18dd2-611e-4330-9b12-78aa4c8c9738@d4e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:35a1347a-3e90-47b0-952c-0e8f00679e56@35a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d48b7d52-09b9-40cd-a2d1-87c887244b81@d48b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b20b6b33-436c-40c9-bf84-9f63a922ec9c@b20b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:332ae4c0-cbe0-4fdf-b831-f620d8eaffd6@332a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6b0817f0-35ff-47f2-a9a0-f390bd6d71cd@6b08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a93259c3-90d3-496c-9288-adbe58421a96@a932.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fec556db-437d-497e-947f-2d7d8a58bded@fec5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ded0ee66-430f-4501-828f-05965427dbd1@ded0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:848fce62-d30b-494e-9147-ca480abacdfa@848f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c87a4a48-d5a2-46ec-b047-e0e24886bf51@c87a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c626f9b1-202c-4e42-a5c7-9b4203e40dc2@c626.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2f6100e5-d2b3-46eb-bbc4-007efa6837a4@2f61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:da4fff12-765a-4a9e-99f4-c54131d6da80@da4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:20773add-ed5f-43f7-8b0c-051adbd496bd@2077.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:512389bf-6e60-4d08-821a-a2d41aee5099@5123.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:afa7b7c8-05e8-4025-a656-c780f9d64199@afa7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:36e5df3d-cccd-4fcd-93be-2eb2ae8878a5@36e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1bed5907-012f-4cc3-a9b4-df269d9dea53@1bed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5f51d3e3-4e7f-4eeb-a750-9fc76b854467@5f51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f59ca490-c147-4444-88de-3039464213a8@f59c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d107277a-9790-47d4-b3ed-acb02568cd20@d107.org
+END:VEVENT
+END:VCALENDAR

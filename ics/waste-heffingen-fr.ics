@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:83df0e4f-d611-48e2-b6dc-a39f60dc09b2@83df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:22652147-634d-41bf-9997-f8f7cb277f81@2265.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6024b551-9957-411b-af92-9e3b778963e7@6024.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:99479ec0-f61e-467b-9799-88dfd3c0d7f3@9947.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:270a9b9e-83c1-4b97-b0cb-11f4dfb02c47@270a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:17a87aa3-8cb0-4fce-b022-5bb2a885ae52@17a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b6402bfa-7045-4b70-857d-d2da27660468@b640.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e48e6811-7827-45b0-911c-ce3c8caabff9@e48e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6a62c6d4-359f-45bc-b37f-f12776952976@6a62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8d88376d-14cc-41ff-96d5-4f6bd1a4f0a1@8d88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2e16a75e-a9df-474f-b5ef-fe4655b779f8@2e16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f943235a-f029-48ba-a0fd-887db67ad786@f943.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f44e2d8-de5f-4f67-994d-ae530c541adc@8f44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0e078e35-97f8-4a8d-8e92-6e1285038c0e@0e07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bbddb5d9-f586-4f60-8fef-72a5df2ead8d@bbdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fd4f79ed-0ec7-4280-8345-d7bf1a2fa559@fd4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:e0fd261f-c9dc-4b26-ab2c-3792d14e72f7@e0fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3a8f54ee-0e05-44a2-a308-c937f3e33ad5@3a8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6ea51d01-1e13-426f-87bb-ae4d06ba742c@6ea5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:87193365-c42f-456c-8af5-3a5a5fcb31ad@8719.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:04c36a89-7254-4c9d-9b71-eebb78fa8242@04c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:931382b4-f6c2-4048-bb8c-113ca64354ac@9313.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e91e3d68-cd88-462e-8302-096a82af58d7@e91e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b5ad1bf0-74a1-4512-b6f5-830feb3bfa40@b5ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a69a47f6-cd13-4fbc-85a9-96ad03ac5e6a@a69a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:372fbcda-982e-49e5-85c8-61aa2b2f1839@372f.org
+END:VEVENT
+END:VCALENDAR

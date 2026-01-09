@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2d3e11c2-8065-4dc3-a2b5-711bf6e85f56@2d3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c272025f-fbba-494d-96f9-34cfb0c19e3b@c272.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a04e11b9-d348-420f-9aaf-c6c072e1af8a@a04e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a8b3a7a3-14ad-4668-bb0e-2275b1c3861b@a8b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:092410ff-a646-49d5-a7bd-c653e1fbcc48@0924.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:643e5e13-5101-4021-8d84-51689a901c24@643e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f2d46065-1f65-4d56-ab69-cc3f51fa75cb@f2d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:36206bfb-2286-48a0-b7c2-2d298aa7bc24@3620.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:7ce08058-b017-4e9d-a5af-005ca33571dd@7ce0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:395d2f74-66ac-4231-a6b0-8661819d7ba9@395d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:556e0e32-fbb3-417f-ba37-784c55db3d4f@556e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e70856d9-b59f-40c7-b40b-c42fff774850@e708.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glass
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:098440c4-569b-48c0-b70e-61b240301b95@0984.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:38685943-f9a9-435f-b965-4fa627fe4e54@3868.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9e8dd954-f1f4-4b17-ad4e-2a27c23203f3@9e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:85688ede-6c46-4fcb-b46c-221144cc95d3@8568.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:e3ccfca4-556b-4608-8093-0edc00556e7f@e3cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0a7f5bf2-8d62-4913-9153-4009834c1786@0a7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:0b6d313d-139c-4e9a-b54c-220617d36b02@0b6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:13fc2423-6712-44ec-b07e-629008d01395@13fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a598b110-6b7e-42e6-9150-f935f4b95d79@a598.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4f9bb664-5d6c-4e5f-a0a3-64ef5964a9c5@4f9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:386632d3-f514-446e-8c3a-fe446d970b78@3866.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5c34a16a-af75-4e1d-b9fc-201be1d5bd04@5c34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b89c1339-6dfb-447e-99a6-1c45714ddeb6@b89c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:da4da3b1-a30b-421b-8ba0-1215873858c1@da4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0078fd94-ad8f-4888-8832-2efa46c02ccc@0078.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bb9df392-a9a2-4457-8270-8181719e0f1d@bb9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:03fc83c7-2012-42a8-b08b-1e58d066a5dc@03fc.org
+END:VEVENT
+END:VCALENDAR

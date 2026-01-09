@@ -1,0 +1,1317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:e5730a20-222d-4a08-a05c-8dc8c12f1b4d@e573.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:359e4ecd-48d8-42a6-9800-9cdb51a2d8fb@359e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:3ad7ec71-b759-41cb-8b3f-7176eb0acf79@3ad7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7a8ba636-886c-4773-9975-25219f059a1f@7a8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:43f36bb5-09aa-41f3-9076-9c36d7f1efa7@43f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:536d4b71-d2f4-46f6-b0cc-b08e2725f842@536d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:85cb2290-6957-480e-812f-1b33da961839@85cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:4c7a107a-7e0f-4ba3-804b-26734f264dd0@4c7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:13ada83b-9f81-4235-b9f3-0bc91a219155@13ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:0151fbb9-c3a6-4d48-a5d0-09f0e4c24d8b@0151.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1a5d5cbd-d7d5-451b-b50d-7e4846e7f8ff@1a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:e8b4d02c-19f2-4ce2-9620-4ad854257a7e@e8b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4805ce96-32ab-40d7-9662-1debdae03d32@4805.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:82d2fd4f-a432-4599-be7e-971e8740f848@82d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:321d42da-a46b-48fc-b4b2-c08d79d4a49e@321d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:9bdbcf25-c15a-412b-9d2b-db12222c570d@9bdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:0ebb2bca-bfe8-410d-8624-22d09130a014@0ebb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ef53a078-58ab-4907-b0c5-9b5ec2faacfe@ef53.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:2e1e41b3-5abd-44c7-abd5-c14451ad79e1@2e1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ca14e4f6-8b51-4a3b-ba3c-cc1f1fcdb63d@ca14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:2035886e-fb7f-4919-a51c-e1609fce32ae@2035.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:89987678-ec08-48b0-bb54-49160a248688@8998.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:827f1897-b803-47a0-9484-4e712899af6c@827f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ae36607e-db53-4879-9a74-1cf7ee655878@ae36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d62a3f85-ac6a-46ef-b1e6-2d592afc60df@d62a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:93cdaf67-d2b5-4263-963e-0a0c65a988e6@93cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d36971ec-d3a8-44be-9eab-39d602d74921@d369.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4e795e19-0367-4f53-bb91-7019e38fac3f@4e79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:87f01ea2-e1d3-42d7-830d-003929b5e769@87f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:92f93666-61a7-498b-9bf9-69ae68fda50b@92f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:5dde6df7-fa48-4f4a-acc7-12910aff70fc@5dde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:7aead128-cc7a-43d0-bd0a-e3856f7af437@7aea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:7579107b-dc43-4dfa-9711-8d70ea6a99fc@7579.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:ade9f38a-e9ec-41ac-8640-29341907f9c3@ade9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:8827a6cb-0aaf-466a-a3e1-612138b2ba7a@8827.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:8f1766a3-61e3-4944-a3df-f1008ca01431@8f17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d7ac431e-8733-433e-87e6-0192c3af9579@d7ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:019896a0-64a4-491e-ac9d-1300539a52ec@0198.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:d214628a-20ed-473b-afb6-0f7a64a95cb9@d214.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f9444cd0-b0be-4c54-9306-514115eb8bce@f944.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:d2106d97-6d68-40d6-9e70-775d07b68128@d210.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:83aacbf8-28d4-4187-a3fb-cb19df9373a3@83aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5105f8d7-a724-45b7-ba04-e2d697dbbebb@5105.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:efb6684d-37f9-4ff4-ad05-8d7fc39e7a02@efb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:23c19bd4-198b-4157-94be-6806f16bc8ad@23c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:6037a623-4289-4767-9328-9bdfc69430c2@6037.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:dfd59ef7-07e0-43f0-815e-0c214dd8e0a1@dfd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:34a7a4c8-f3a8-4d08-ac0d-aa6373615ce5@34a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ddbfdd48-4141-4875-8b32-987646e790cf@ddbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:38f52294-5a41-40fd-9126-c8603e2b2012@38f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:a3ad8573-3a36-43aa-81a1-1991a748c80e@a3ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6d00b552-8ecf-4d69-977d-5693bce187ff@6d00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:3a7db325-27c5-4385-b6ac-d24063c78050@3a7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:463df720-ab88-4380-bdfd-eb7d8bc5c7d6@463d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:f2b20ab2-e4e1-4084-b748-6d4c35f2669a@f2b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:0cf493b7-63ec-405e-a78e-c7007ed878e4@0cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:4a51291e-3918-4370-a23c-8af4faac66d2@4a51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:32bdb9f6-2502-43fd-9f78-0f7cf9723637@32bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:35003715-29fc-47e4-9dd0-1c355b20ec06@3500.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:3fcb92bd-0434-4c6c-b9df-0537dca42a09@3fcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:371b0ddb-f6de-430f-b6e0-9e7650cb12cd@371b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:9ce06509-80df-4a94-9a99-88f91cb50692@9ce0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3651df28-d817-4a58-a04f-1c03f1ada56a@3651.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7bd71830-61a3-403a-ae54-5a53f8a109f1@7bd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:03689bea-17eb-4032-b63d-d668c6f6c356@0368.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:fb96ba52-2cf4-4a63-af15-f51419cfe078@fb96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:cb603e1e-6757-4f17-8350-ba2de6ca6746@cb60.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:e08f4fca-d07f-461d-9481-f0dda61ff5ba@e08f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:9aa34cf5-b612-499e-80dc-d44ddd311667@9aa3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:8c3a0379-af18-4420-8fa0-0618ba07ab0b@8c3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:48f56c0b-de80-473b-9d17-4c327859dfb5@48f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a9b1bd1e-e149-4b02-b598-103f6b89db1d@a9b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:81967eec-c2e1-42f3-b84c-b108ebc6a117@8196.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:e6ac5334-eb5d-489c-9d4b-bb20b4bfa3bb@e6ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:018c9927-e05c-414e-b0a4-fecfb3f47f9d@018c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:8c8acee2-f3e8-4ab6-9a2a-078e38c973cc@8c8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:947e6945-26f7-455d-bb26-628444de421a@947e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:a511865c-f104-422d-9880-ce6f88b20608@a511.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:606349aa-409f-48b6-8e3d-195a0ba74004@6063.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:97af3766-db1d-451b-a525-c72145a6bec5@97af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:f76a16b3-a0cb-4b63-9ef6-6bd8e5f45e0c@f76a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:bc293d11-cbac-4588-85ad-d7b20a1961aa@bc29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:f9046b59-7396-450a-8539-44dfbbf1ddaa@f904.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:8092eee4-874d-485e-ae69-9e089f142f30@8092.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:c5ced010-a51e-4e61-89d1-0acc99e3509a@c5ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:85cc2f9a-9007-47a5-a4b3-f2bb6ecb4c95@85cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e3fd0967-7d10-4390-a3eb-6b1ee335dc3f@e3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:44ecd131-cf5f-4439-95e2-1d803410c11b@44ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8c431812-dfa7-4c98-8d09-9a5ba96c5ed3@8c43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:45600825-770d-4354-9f48-8925d24ac641@4560.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:a4e21f79-530a-4be6-8bd9-c206b3c4ce1b@a4e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ceda32de-3755-469a-8616-d8e2d871ce89@ceda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:43bd4fc8-26bb-4b30-ba65-569418cde75f@43bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:0ef9b8b7-998b-470c-8f17-229adcbffeef@0ef9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Pabeier a Kartong (Handwierk)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong (Handwierk)
+UID:267aae26-5e91-4866-8385-0299539ddaa1@267a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:5c850853-b1b3-4da2-8a18-0e13d34e14f2@5c85.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9536289e-f8f9-42c2-9141-071a589dbd7f@9536.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:c84bc1cc-e4c6-4bff-adcc-3ad53733e087@c84b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:14017508-7be6-4891-8fa4-80c8a5905e94@1401.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:20c747c3-3266-4887-a196-521460305779@20c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:cac999f6-f15a-4e8f-aea3-3322e7bcc53d@cac9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f639595d-d220-4133-9690-f6e9dda374cc@f639.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:b2707f01-bbdf-41e2-af01-d8e72c619ec1@b270.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5e8cd1d0-68e5-4355-a5dc-f31ea15b5e30@5e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:7283abb1-035c-4278-9f53-04c8765f0f9c@7283.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:b103d8d3-21ad-460b-9e44-b8beb77234c6@b103.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b6517b50-a8d6-4314-a1c7-d4de77ac24aa@b651.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:97d2d49b-9f80-44f5-9738-6f3427cb88f9@97d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4f4fd8a5-5ef9-4c15-8bb5-c212aab73253@4f4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0040e98a-7fa6-4ef1-ba44-a9f006e91559@0040.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0abba2a8-a59b-4689-a3c9-dc6d31882980@0abb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:aae3493d-faef-4cf6-a02d-aa505e8eade4@aae3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:4d07b9a4-8acc-441a-9e61-68ec422b8953@4d07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:bc1d1329-50f6-4d6e-964b-e40727579091@bc1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d1b4c9a8-1427-4409-9c30-ae8124b91124@d1b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4c466198-0f9b-4e6f-901d-5381050d936b@4c46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:66a918fc-0ec1-4162-bb0b-425466d0cd8d@66a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:12d2e509-b087-415f-84a5-2687a013b85f@12d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:39913d81-042c-4507-961c-78997ddabc98@3991.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:344b629d-00a5-4256-8811-8ca9925dce2b@344b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:77023847-657b-4667-8549-56516cc5a136@7702.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5adb1956-5421-41d2-9a3e-edb39b6b134f@5adb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:afd33a43-5acb-4edf-bc4a-6db08306aceb@afd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glas
+UID:5174c53c-589e-431a-9c29-2f4eb2b83d55@5174.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e47a8dce-94e8-4269-9e8f-b2434c0c17ef@e47a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:012631fd-be05-4c5f-9859-8229c9a2896b@0126.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:fa4c41c1-8f12-4dda-91e3-18601ecd9ad6@fa4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:14808bd2-0601-4d92-88c0-607b1970756f@1480.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:4924e492-b77a-486c-9651-13d57d4c4196@4924.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:94c80103-8d05-48e5-b09f-edda66ad5691@94c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d793f916-5a60-4ef1-802e-86c271b46f87@d793.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:dd46bfcf-48e2-4fcb-9c12-32fbfe56972b@dd46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:df0b116b-a3da-4309-8834-7874b98c884c@df0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Container fir Huushaltsmüll
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Container fir Huushaltsmüll
+UID:092f95f6-2cb4-4d2b-b4ae-5103a83883e8@092f.org
+END:VEVENT
+END:VCALENDAR

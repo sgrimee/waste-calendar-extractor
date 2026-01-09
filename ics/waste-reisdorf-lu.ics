@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:996b3cbb-8e53-47e3-959e-c4f6a342ba68@996b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7f9f7879-954a-4452-9853-fe102d1c91e6@7f9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:811964f8-9b7e-474d-9be4-8b8b632381f0@8119.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glas
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍾 Glas
+UID:7e5e441b-0fca-4a5d-8ddf-31006764299a@7e5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:84cfa213-7adf-411e-94f6-4b221e8073d0@84cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:b50dc097-32a3-4cf2-87e3-7e64422918dc@b50d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:8734c753-5a4b-4c18-b077-49317a23d410@8734.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b98f4757-0a81-4373-8ca1-738439d06303@b98f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:dd678bfe-7037-4fbc-b3c5-94cfced046c3@dd67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6bde11f9-8ef3-4488-a6c5-6430f3834c1c@6bde.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:0485b086-ada5-401d-9e93-19977defb6ea@0485.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:9c5b0469-84c6-4f6a-a8c0-2517955f32cf@9c5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:46f0ba64-3443-4aab-ac4e-8f63693c69a3@46f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:5b6a4e2b-674e-49fa-a345-a5d7d5133b97@5b6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:f6245cb8-c281-4e7e-8d2f-8211584b712a@f624.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:82ca171b-c9a8-421a-9b50-fd304d06305d@82ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a9bfceb1-2630-4fbe-8fd7-c0b420b5faab@a9bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glas
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍾 Glas
+UID:ad339280-13b5-46ca-a81a-e77a4454d0e3@ad33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:729e4888-77a1-4e7a-b8b3-909e70196592@729e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8ba7469c-14e7-4373-a271-ac1f4da8c5ca@8ba7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a6ab303d-d35e-46c8-a1c2-51b9a8ae51ff@a6ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3d1ffe3e-8299-4b02-8e8d-520ac0facaa1@3d1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e042e6f9-13f6-4faf-a2dc-8f019e295dfc@e042.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b64c1e37-5ff9-45ee-8773-24536ada43d7@b64c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:399af394-84cc-492d-b5e2-e06863696fdc@399a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9b686689-cf0e-4d52-9c66-62d56e0674a4@9b68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Reisdorf\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:14eeea3e-f472-40f9-baf7-4ca7ad61ee08@14ee.org
+END:VEVENT
+END:VCALENDAR

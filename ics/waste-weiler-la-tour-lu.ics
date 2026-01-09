@@ -1,0 +1,566 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8f34bf81-35ef-4030-8a5c-59909fad6c83@8f34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:3638858e-0db0-47eb-a2d8-f284f10c4441@3638.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c0eb9367-9838-4451-b801-1790b84dc005@c0eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1311d675-5440-466e-b9cf-11dd8c2202e0@1311.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c815898d-a119-4522-a6df-803539995581@c815.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:92eb8cc8-2802-472b-85de-8e9e1175a896@92eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6ba80bbb-3841-42d9-9a22-3a60d7b5857f@6ba8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d60bce3d-3b06-45f5-a4f2-71b386490968@d60b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e0b5dba7-e015-464b-886d-56a4c87ca4b0@e0b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:7864adc9-7bc9-4e1b-ba67-eaa17ad2e268@7864.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1edffd93-6359-413c-9a89-6804e82db293@1edf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:f1b72e60-8b7a-4e0f-9f62-f810b841c0c9@f1b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:2f47f0d9-c051-4678-bc39-603f47a34f07@2f47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7e62752f-bfc7-42a0-885a-178bd799031f@7e62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Glas
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Glas
+UID:7c0fe522-71a7-40aa-bc3c-6b98f33a3822@7c0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:679cc2d9-34b1-40d0-9768-f1b0c8bf2b30@679c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:5cf2a368-a138-4f69-aba2-62a5b006bd65@5cf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:fd78c9df-ec27-4fdf-a6ff-3d06e6a983c2@fd78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4e092b78-d102-4976-9eaf-09f827ff973c@4e09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9f0c9b19-fbe6-46c5-bfb5-dd96bf505727@9f0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1aa6dc39-6311-4168-95c3-42afdb762c36@1aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:3588302f-7e1f-4ee2-beb6-4e17e3935ef3@3588.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:22124f90-8f3e-4cfd-9b00-56dc0f15b853@2212.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9fa2fab9-3625-4b92-a158-7ed18445a3f1@9fa2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e656b3f5-50d8-428d-9abf-9f7dae1e2902@e656.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:3e1011a0-844f-4ef3-87ad-91e88e6d45ae@3e10.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:e90afd29-a083-4993-8300-240c84429248@e90a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Glas
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Glas
+UID:714523a2-3766-40a0-8c5b-e367881b56be@7145.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:564542b5-9af8-4f86-bec9-20ec9ac3453f@5645.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:52c564eb-5532-4940-b90b-207d08c6446a@52c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:36c0a667-53b9-4b2f-9235-82e1336435d4@36c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f7410410-9f93-4c76-8248-0b563d223a4c@f741.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:7317bfec-02ed-46aa-bec1-fb566a63f821@7317.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:ccd6905f-ad89-462c-8549-311dce3365fb@ccd6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8cc05322-bac0-4fea-bfe5-9fb4c435cbd6@8cc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:8b6bfdd4-a1cd-45f8-bf95-81113aa3eef7@8b6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:82c1f7f4-550b-4399-8566-eb1092ab8d48@82c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:94fb4d9a-c820-471c-9557-a3b36596ee15@94fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:064c517b-32a6-4f4a-9212-f31f1cc78994@064c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e09acde9-0369-46c7-b057-a2b2859ac0ce@e09a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:d92cf2a1-7a87-4d44-aaa0-95507ce5b7ea@d92c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:cbdb4380-6199-4bf7-a3b1-4a6ecc063bc2@cbdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ec8d9429-b725-404c-ab3a-8feaa4a46515@ec8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e70a23dd-f891-4d44-9958-d30454f6b8ae@e70a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1a027fb1-1410-4a30-9870-3001e8280a93@1a02.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:934ea968-0a12-4d12-8ded-160681e43db2@934e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:edb3ff28-c9c4-46f6-85f6-0586c6023159@edb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ebb4c35a-3afb-4284-822c-4ca3a9765fd2@ebb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d8987bce-3f6c-43b6-bed0-69d371473fff@d898.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:71fda12a-dbec-4c9a-a1b3-072ad5a6f173@71fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:14a45e64-9b3e-46a1-b0a9-5c96daa7ddcc@14a4.org
+END:VEVENT
+END:VCALENDAR

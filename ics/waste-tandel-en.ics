@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6727ecc0-1c0a-4ded-9a6a-2959c93c90bc@6727.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a2144e47-b30d-46be-b19a-c167f6a28b0a@a214.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:38f9a07c-1b84-4fe1-8be6-cccf29636102@38f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:69a40a0b-c21e-4f9d-9128-5a662d5fdbe2@69a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:883c4c45-02ce-47fc-94ee-18ee128ad9cc@883c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glass
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:edb5e6eb-5f51-4e36-9e15-41c34e7b7022@edb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4c0c4d48-9a39-4121-96b7-870ae4cad015@4c0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c24ca193-5d3f-44ab-b8f9-794b4a95e95c@c24c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8af1daa8-753e-46ed-a084-4318e29dc52b@8af1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1f58d4fc-ff79-492e-be12-dc16d7e899a2@1f58.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:c7e734a9-4ac5-4eea-9436-991fd49bda2b@c7e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:13137967-7493-42ff-a8d9-e128c99971b1@1313.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:75091ceb-e5b3-4854-a689-d4539022466b@7509.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:761f1591-869c-4888-bde4-417d360825c4@761f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:07994408-c265-45a3-a2f3-e65558e89fc6@0799.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:31cc3a57-c7b1-4c5e-90f0-594dd072b775@31cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fdd58689-3d89-4e19-984f-36f233b27373@fdd5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0d9418d3-e0a9-4223-8770-29b38f6dbc6d@0d94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Tandel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3ab2df4f-6c31-4a8e-806e-f9468f5c1330@3ab2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c4e05082-9b91-4f40-9fea-dbce92aca8bc@c4e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:03a28c14-e9ab-4fc5-ad66-5da1d3fcd6aa@03a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Tandel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:54d80584-df5f-4732-bfc9-5de176e375b2@54d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glass
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:29f523f9-1547-4dfd-a627-7cbcb7cc022c@29f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f32649c6-f391-495e-8e72-5c909419024d@f326.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glass
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b06fbce9-ff18-4d3e-b2fb-5414c3dfe0ad@b06f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Tandel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fae870f3-4f86-4fe3-a172-97310b3ea587@fae8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Tandel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:19fd9ad9-3636-4d2c-9a7d-4233cd44214d@19fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Tandel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:35f3606e-f7df-40fa-b837-2b60f9ec3d9c@35f3.org
+END:VEVENT
+END:VCALENDAR

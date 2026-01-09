@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:679d127f-6d14-4964-9bbe-cd441a22ee2b@679d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:29b112d4-89f4-45f0-b8eb-d3c6a336752e@29b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:aa3afe61-3153-45c3-ad43-9cf40231c38e@aa3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fa3d583d-eb67-45a6-b0ee-0409788a6171@fa3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ac53569b-5b92-4e25-a8a4-52f1ee348d59@ac53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e80e9c6f-1ba3-4ece-a10f-9d6df6092617@e80e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c4b6fb85-3c80-49c8-a5c4-c477c3ccbdc3@c4b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:03eb2ae5-0434-405b-8462-fc622a95d38c@03eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:39dbaa75-0333-409c-aa21-2e58fe9bcb63@39db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:17f1a0be-cf7c-4fac-ac61-760fda63fb9c@17f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:3d6f9184-91f9-41c8-af07-60dd0a3c3d3f@3d6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b34b788b-7833-4872-bce3-0012dff3669e@b34b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f5d4f904-5070-45a0-be60-1ae62fcce760@f5d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b6b8ae7e-5dac-4e63-b30c-4bced5f60d58@b6b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ea87550d-057a-4872-a981-ea79b3b7efdf@ea87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5a23b9f1-3090-4ef3-84a8-78ca639b9895@5a23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4b35d88b-abbc-49b1-9b65-8fb155b17528@4b35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f3c98429-a131-4ff2-9021-4c9f1ce2b86b@f3c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b1bd0f3c-3044-4f94-bf67-ccac8d0cae39@b1bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a2f87c53-c617-4930-8cda-b67e794048bb@a2f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:dfec9fe2-1c1e-49e8-8bab-118de2f95583@dfec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:565215ee-89df-4f1b-af9f-7baa6fcc83b5@5652.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:28515328-da19-47cf-bceb-dd6367c94113@2851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7c38f8b5-5609-4eab-8a5b-b042537efdf9@7c38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d61b930e-8167-406d-95c0-634c502b9357@d61b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8cadc872-a6db-4171-a2a7-190548f4aecb@8cad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cf13653c-c57c-47e0-883f-f790416b9ca3@cf13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e69a61f7-ed6b-449f-82da-567d2f4888af@e69a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09ac4aec-f599-4eda-ae6a-d29f940937a2@09ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:210a6802-6451-4a47-bb90-4ddcdf783db8@210a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f61fd4c8-893e-4097-9f32-28d85a5b9e0c@f61f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:58ca0650-4b97-472b-a7b3-994c745ab976@58ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5c5eccaf-e4fa-48c2-84a3-51cb87d64824@5c5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:91b2bfc4-4637-429a-87af-a813aa3c55c4@91b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:56843885-ca90-41cf-ac69-7e24ea0abf22@5684.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d563108d-8933-41ef-bc45-51b12ea9ddf9@d563.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7341ab79-367c-4db3-9e18-fcbc745444bf@7341.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e77e08e3-a0bd-4141-a594-0236ca4f6446@e77e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bc342ccd-7c33-4d0e-a8b7-7a806c756ab7@bc34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:949d45e4-bb17-4472-8831-2b7f744193d4@949d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:9ec19e78-b8b0-43eb-9254-11db51daea3b@9ec1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8a84324d-06fe-4b46-86a3-b7f64c10ea65@8a84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5e34bf74-b722-4caa-98f0-77953fa81993@5e34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:aa57653f-cd09-49d0-9f78-2dda2dafe34f@aa57.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:718b58c2-c102-4778-8069-57944b6174de@718b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ccd0e840-499e-4c01-8d49-da435b317c0d@ccd0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Verre
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Verre
+UID:850fd747-6530-4e00-9744-22c3897d9e50@850f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1fabe5c4-d771-4693-973a-85cf0c2db3c1@1fab.org
+END:VEVENT
+END:VCALENDAR

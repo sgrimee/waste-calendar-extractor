@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ede7e816-af00-41ab-a043-64919234b596@ede7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2805b2b8-510a-43e3-ba55-f4944a214fe9@2805.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7cea7d39-3b90-4ab2-9481-d6d3485a68ce@7cea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:27bf9371-c1f1-4a15-92e2-dfbf099cf68f@27bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4f2fc810-ea1c-47b5-a01e-92572e5c3d85@4f2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ce5de417-35f8-4bbb-bea0-41f998f8553a@ce5d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:01399cd8-4343-4b1a-be46-69ad897d0a95@0139.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e6455433-fb4c-4ff6-9483-c1cd0028efb6@e645.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:921f1f93-22a1-4843-a8f0-14e16165b9dd@921f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7dec32fb-ec48-474e-9c00-5c0afdbfe2d0@7dec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5979ce10-d160-43a2-bf02-d5b846bec5d7@5979.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8d33d36f-62e2-4c2f-8c8d-bd19bab586d4@8d33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3812c9e0-7068-4e30-8add-d67a144d1ee1@3812.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:13be177b-5ba5-4902-9a10-30c12f00f15d@13be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:205be786-17fb-4c98-9831-36547c447b50@205b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7122f306-731e-41a2-9fb9-95cc97d398e6@7122.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0f995286-60d9-4b2d-95e2-3523b5b25226@0f99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:935698f9-ccd8-4ee4-a861-b11ac40e7a49@9356.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:cdec113d-cd9e-43e8-b556-fcd0672ee830@cdec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f6baefbf-c952-4bc1-ac1f-a4ab90bdd979@f6ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:588aac41-d0b9-473f-90c4-f8c0d09a0bf7@588a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a00da8c8-9527-4052-bd2f-00a113f8f76c@a00d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:0fc3b648-5dbd-423a-8a0a-53e09d771d7b@0fc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:be29dd41-8975-43d1-b2cb-d1fdad965d45@be29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b8ee1af2-c975-4627-99b1-c3d0f1017cb1@b8ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:07da87ca-05a1-4432-8912-e2d34c85d208@07da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:67cb7152-119c-46ed-9089-5b7924d27840@67cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:42798e12-19fb-4783-b197-f65a57e5f92e@4279.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fbb44b5c-d151-4422-a055-8f1facad431d@fbb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:24ef71ac-25fa-4139-a277-86848133682c@24ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6ef50298-ba1c-4cb9-9659-280d2f4d6b3c@6ef5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7b3dc3bc-d76e-426d-b65c-aad60512d8d7@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b66c08d3-114e-4a2f-8202-cb801a8efbcf@b66c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ca29e2aa-6f6f-43f4-b663-ad0e99ac91d0@ca29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4126cb49-dc88-482c-86ca-380e1f932433@4126.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4f3610a3-9f55-4409-afee-b1c7a30cfcda@4f36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ba90234b-adfc-4de5-a6c5-41024851f7b6@ba90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7e0228fa-2321-48d0-85b8-0fc2fbd7593d@7e02.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09508dd4-443a-4b41-b7b6-123fdb99af99@0950.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Biwer\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:56887372-7d11-4710-931c-6e755fb41391@5688.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2385477d-c319-4927-a45e-443ac55902c4@2385.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:655a8f5a-4193-4845-93da-7dcc19002089@655a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c3b2ef12-11f4-4e15-a210-6636e2292667@c3b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:422b46cd-eba0-42c7-9b3c-6ce1fe32e5ed@422b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9704e87e-496a-4d27-95a2-5facd0cfc60e@9704.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Biwer\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:350bc7f0-6982-4ad2-8f9f-ce3c2583f9e5@350b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Biwer\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1beda151-8125-400e-ad5f-8548376c33be@1bed.org
+END:VEVENT
+END:VCALENDAR

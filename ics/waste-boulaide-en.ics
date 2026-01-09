@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:67fd06ad-c42a-49da-98cd-9f136b76d00b@67fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:568ba9db-ea9c-4ad6-ac5a-059fa0467ecc@568b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:51eef239-cbc2-4f7e-bdfc-ef2cc9ddfe6d@51ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5e6ce21e-bdee-4996-a100-d53ff1bfb0ff@5e6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:2f9d468a-ea61-4c24-9f94-f4ed3386bd8b@2f9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:186012c8-e3c0-4622-a97c-924b95d8b53b@1860.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e0978c9d-ddd2-42e1-9201-ded494b8010e@e097.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:152ac72a-43ad-40c7-a08b-a9d6b760e536@152a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:52c2ace0-144a-489b-b154-d26b051e07ab@52c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Glass
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍾 Glass
+UID:92484fbc-6662-4da4-a59c-a75b0e2705f0@9248.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3520f65c-67ea-4cec-9489-0c969cd3fd4d@3520.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4e68e655-2cd2-4c44-a02b-a0d401274572@4e68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a92a0391-aa10-4401-87a2-1481e395c59a@a92a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ef6e36b1-3aec-48b5-ae95-6c88be718d18@ef6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3e3ebbae-70e2-4385-ac21-e10d1b4530f6@3e3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e7d8101b-0fae-42d5-a79b-5c8583ff77b9@e7d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c60ddd0e-39da-41e9-8f40-c959b8d027bd@c60d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:233ff9b8-88b0-4160-a49f-2a2888ae7c6f@233f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9d7f20bb-a865-4324-a94c-fcccd8f55671@9d7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ec3f37c9-d91f-4b98-afb3-c87c42817cb3@ec3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:3f9d2794-180f-4b9d-9874-b66d395efa9a@3f9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:913976e8-dd94-4897-b7a0-e94b79d90b7e@9139.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Glass
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bd89a546-b83f-4b01-8afd-9e6ee6ce6ca5@bd89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b2442d53-4209-4e47-8056-cf4c5be29f9b@b244.org
+END:VEVENT
+END:VCALENDAR

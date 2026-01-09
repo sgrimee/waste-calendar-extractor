@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:391130f1-020f-417d-9a20-944554b89533@3911.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f8ba234f-01da-44b3-be22-397e7d0e6e7f@f8ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a75c5619-a327-49c1-bf07-a3b2225a549c@a75c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e1c9766e-cb3b-49a9-982e-c40fe78159ac@e1c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6a1d0d38-af02-4451-a9b1-821a6c7e8ade@6a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:11ce1854-785d-4865-9676-adb5889f4747@11ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:74971e8c-b773-4174-9556-98354d19bb1e@7497.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:39a726f3-0e68-4b8c-9ef9-7bf26cb8c2ab@39a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:97e0f29f-8895-4303-a289-6a3c96984f99@97e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c04bc70b-ab63-4574-b301-f4d53405879a@c04b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b3dcc23f-09bb-4ac8-ad2e-77a915666c10@b3dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:87f96177-7acf-4a00-946b-4ddf34aec2c9@87f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0f2c0713-8176-4d68-9305-82f24b5520b8@0f2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e52aa359-8e39-4ef3-9ab3-5917ddd2fc60@e52a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:c6ebc993-1eb0-41a1-83d4-6af566cdd728@c6eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cfd370d4-9903-4d18-8fc1-5444e99647e0@cfd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5cf60480-c72e-49e7-a1d0-e15c9742b7a4@5cf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:363db4e7-0eee-4ab0-a8be-ca3d351bcbfc@363d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5fb3d9ac-99be-4ac0-9607-45e8a910c92b@5fb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:092a7011-8d64-4add-a85f-b2344e7c17c2@092a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c63c8999-66ea-4f06-9693-0804de57433b@c63c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:48e4f5b2-0055-4210-b3cc-6ef8061c489a@48e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:51cbd341-8976-4400-a967-fec0d6c15af2@51cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:35513cc6-0df7-4d57-b682-9fdc6bf2b4c6@3551.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7bea8641-6332-423f-a420-dd5c9e17a2ec@7bea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8ab903d2-f7ba-40af-a70e-0a74c0946200@8ab9.org
+END:VEVENT
+END:VCALENDAR

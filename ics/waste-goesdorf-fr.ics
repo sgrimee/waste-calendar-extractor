@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:2bfc3999-8403-4e1e-84c1-a4d399fb76c8@2bfc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:60300676-743b-4f09-ab0e-0637d61bb5d3@6030.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:165904b6-d1df-4c61-bbda-0825f4710add@1659.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fe001525-a05e-4fba-a7da-b0e96002d055@fe00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:10d0ac83-09d2-40e3-9142-677a3c9988cd@10d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:11a9c379-73c2-4415-a77c-99101c72d0f2@11a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d85f3eab-6481-4474-9616-9a06c14df919@d85f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:d20921d9-96ef-4092-a590-cd89345970f2@d209.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:807f3b8d-3593-4c1c-912c-eca14862951c@807f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f55886ff-23b4-4592-9542-01050232202a@f558.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cf0b6f9c-d1d3-4414-b399-6517b2b1cac7@cf0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:75a9384b-5bb7-4275-897f-32b30fdd83e8@75a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d830c2d0-0b81-402d-9da3-da1b4f6e7470@d830.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:1d9bb8f1-adbd-4e70-bfc3-172419ebf2f1@1d9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:422ed1d1-ca71-42b9-ba63-8bc32c971b0d@422e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2531e2ad-fdfa-41c1-b925-8a57f350775a@2531.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:44305b62-0c66-4b55-9383-3d46898bbc0e@4430.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:74809d11-57db-4f2c-9f30-075c94a78229@7480.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:13030f21-1ea6-4493-80be-f400781468ea@1303.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a099e4fa-d942-4b7a-b977-a9b12dbf3a19@a099.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9c9979f9-533a-4619-9946-37618192d470@9c99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d44a6ef4-1ed6-4c55-89ad-781de75fd404@d44a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:717c8046-3058-4df9-93f1-283701d6dab9@717c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a095ab2a-b212-47d7-b95f-2887f3172ff3@a095.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a13f1e2a-ca2c-48ac-badf-9fdc27eaf221@a13f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:33beb3f5-01bc-4de3-8d1f-0d0be75a9703@33be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1301210f-2c7d-499b-943c-e0e53e008505@1301.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:377702d6-7014-412b-a50e-155e7e8bbaf0@3777.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Goesdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d7d5047d-5669-411f-97a2-22159be7b4ba@d7d5.org
+END:VEVENT
+END:VCALENDAR

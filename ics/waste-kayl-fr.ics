@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bd833cc2-53a6-4f85-a01c-bffb38ef92ea@bd83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:53b978fa-345e-4f0e-8521-97df612c41d3@53b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b69c3f34-844a-491a-ad50-c507a75ad969@b69c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:67a36992-deb8-4015-87c1-d7427fc760c6@67a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:37303a8b-4f1c-4a7d-baf1-54a6603fde27@3730.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:cf53e2f3-805a-455d-ad8e-2db9e49a5765@cf53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:73b53f04-d17e-4b16-b58b-5562a7ea54e0@73b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:6c97da45-adf0-4a6c-a204-174aa692c897@6c97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1ef6f19a-336d-4e98-b637-8067c3f071ab@1ef6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:73866379-1cae-4802-a3bb-30c8d6c41e31@7386.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f836987c-451f-4cad-95cf-ba108e5a62f7@f836.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:165dd09e-729b-4b64-a770-f0efcb13443a@165d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d21e8382-6527-43ef-8936-fe851029f8e5@d21e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2694bc1b-71ab-4f52-bdca-b46a51dabb05@2694.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ecea73ea-30a3-4aca-beeb-0e1d7a10629a@ecea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e980efb8-8b92-4a9d-84f7-bd27d0851014@e980.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:717a7de4-27c9-4279-81eb-0fdd20f201c2@717a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9c40ff41-38f4-4d16-a3d3-13db26766fea@9c40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:35c6a30f-09f6-4525-81a9-77e9a5c75da9@35c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2e725bbd-6e5a-4fb7-8acb-e8218907642f@2e72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e1d926f1-1e63-44aa-b801-5fd94d03c837@e1d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:88fd6c47-e390-4643-a4ca-9462c77bf09c@88fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:63498415-4cfa-4ae3-a570-2fda04fe8150@6349.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b6c99b9d-3dc1-4e7f-b7de-c7e0b809a1f6@b6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a58d297b-41e9-4666-8f8b-50e3bf98d5d5@a58d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1886278c-7a0a-4170-afa3-8161f20b7272@1886.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:83299d00-ff49-4a23-ab6e-f6d9852999bb@8329.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1e5323ae-ce63-4afd-82fc-e415b4c6d98c@1e53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b1fab42e-d0dd-4cd3-b491-f4d3da7b853f@b1fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3efc286e-803e-455f-82cc-3923c0e5f8e7@3efc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:54a7caa2-5c76-4c4a-9a11-126337a5dd5f@54a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6b6450cb-9505-40fc-911d-c4de7134669b@6b64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4da93ca4-400d-408e-a191-b84ec63f8a35@4da9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a05dfc30-c760-4b70-b9b9-9a4c2360bb78@a05d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:276dc1f3-1c9e-44e2-9b4b-c300b70674d6@276d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7acdea6e-94a7-4e94-bb5b-406357356c62@7acd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verre
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f9afa540-e952-47df-9c5f-b014ca7e3cbc@f9af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:540f28d8-638b-4d74-a3d1-d3be0ca69f31@540f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:aa4b3626-629b-471e-8e0c-f68872b40a43@aa4b.org
+END:VEVENT
+END:VCALENDAR

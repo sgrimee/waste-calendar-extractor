@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0b2fc1a9-0a2a-4c98-89a0-adcae47e095f@0b2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f3ee827f-0706-4ca7-96e3-9f9e75e2ac7b@f3ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f07613ab-3776-4a3a-8884-7a80ab54c0c7@f076.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d19102bb-5d28-401e-8992-526ee852720e@d191.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5a3b321b-6c03-4aab-a722-5ecafc46e860@5a3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ef80c49e-53cf-48a8-aa37-c04c9d6079e3@ef80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3b3275cb-9db2-4a2f-ac75-a32bb3703724@3b32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:370a7cb1-dc55-47e0-9aee-8e24ff777da6@370a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0a3832b4-d676-40b7-ae0f-9399544d5f10@0a38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c87ce602-d57f-40e5-951a-689bc1d48fff@c87c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c1b8e37b-1975-45cc-bd1f-8fadf7083080@c1b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7e1470a1-d786-4f1a-8681-be4f5ac18050@7e14.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:6b68b70d-2767-4b6c-b066-640ee0a7bcec@6b68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5dd9dfeb-8cf3-4950-ab6e-6366f0a491c1@5dd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:89c795c2-ba15-4bc3-8b56-f9334ae765c9@89c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:611f9eff-8333-41c0-a763-77f61e13aba6@611f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:f81a621c-08fe-49bc-904b-5ecfc5049c5b@f81a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fb9992c5-da83-442e-a0fe-49bef56891a1@fb99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:53b80da2-0016-4452-bd43-40b3dfb9c13b@53b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e00f962d-9aee-4698-97b7-8a00b872c8f6@e00f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:92d80bbb-b616-4952-a035-c86f612ccd31@92d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2fe61946-ec7a-43d9-b71b-8874264313d3@2fe6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fd475080-3876-46d3-b9c1-5ac4887af7cf@fd47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6ca3dc55-1644-4074-96ba-046b96e44a3d@6ca3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6510312f-fe1e-4674-8537-1a8f284df60c@6510.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Beaufort\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6f538486-89bc-4c61-9a89-d06fba110b4f@6f53.org
+END:VEVENT
+END:VCALENDAR

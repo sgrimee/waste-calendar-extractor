@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:99953301-3880-4a9b-bae0-0da2aaddf711@9995.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:efbf5ef5-a355-4109-a09b-74b794667b9e@efbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:01b9b8fe-a09e-44bf-b849-809650416c94@01b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:497db848-2b19-4c28-a0c7-567d93d83247@497d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ea432536-f3c4-4a76-8658-2f5b5a9e6403@ea43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f62821b6-d8b2-4324-82a4-a0eb3849f894@f628.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:54aa6e5d-75ee-403b-997f-1eca2220c051@54aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f16fd5b2-f876-4612-94db-565e206b98bf@f16f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:52d00af3-b42f-42d5-8c87-50e9194890ac@52d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cac0665a-282c-4768-bbdd-ec61d0d09498@cac0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:cfbef973-7df5-4a2d-b5dd-10d4271d87bb@cfbe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:72f6449e-36e7-488a-aff4-35c67dfe5d14@72f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:40c36c9f-7905-4b77-b327-0ca6a123cf48@40c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dc83ad7d-3717-4ecc-8fef-a4da2a27ee4c@dc83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:96dea2ff-2cc4-4106-a7c0-41e177fa291e@96de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f554b15b-54e0-4faf-9528-3c8d8873efe1@f554.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:df78a5b7-420f-4b1a-baad-0da911c3cd19@df78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:81b75263-21eb-4ba4-a048-0b50dcc40235@81b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7bb6ccc7-84d6-4a14-8425-0805a903cbb9@7bb6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c4338e79-ddb9-4385-95e3-80311b3f3657@c433.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:40fabe56-f0e1-46c9-8499-4a50921dc690@40fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ea2df552-0fd8-437d-b903-2d347e1ab644@ea2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:97d46d99-3459-46f9-95fc-64970ee89044@97d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bc73d850-f4bd-4f04-b485-c204b8a9eabd@bc73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:20e9d3fc-5b84-49fa-92d2-cdf4b922c0d7@20e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:46fee1bf-08c1-4fd2-af69-389d3c0b4d7c@46fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bf9945a7-b3ac-49d7-b228-ad961dfcfb3b@bf99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:68958166-7587-4bde-8fbb-61b085aa8ea9@6895.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a8e4c368-03b1-42c6-ab29-cb1858b85734@a8e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cc74b10b-467d-4ab0-8565-49b5d113422c@cc74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d918349d-0458-42b7-9cd4-be08d98e5d6a@d918.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:776ab4af-cc88-4be8-b25a-5a3d0acb0637@776a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:33a8fd69-1485-41c5-993b-cdaa982a75f6@33a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6aaf6ed3-b0d5-4c03-8ad0-da2b616b13b7@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2eeb156a-c968-453c-a91f-0f4b6b61beac@2eeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6269ce22-7ca2-4623-84b6-2b4597c1586e@6269.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4972dfd7-822a-48cc-b5bd-9f468f67bf2c@4972.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2eb25261-3dc5-48e0-b58d-6a0e0555ab5c@2eb2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0b816ca8-768e-4fee-9a7c-aba67bcc33be@0b81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:22de4919-8d94-45c2-9c79-21077df0d4e0@22de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9af573af-ceca-43cb-a211-f82025170ad8@9af5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:87d6a13a-40b2-41e3-a5c9-10fc89e23701@87d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Glass
+UID:71a959af-d97e-4382-80c0-faa3e8da2b0f@71a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c57bdd37-50bb-4a18-b71f-d86d1012ac76@c57b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a6aad389-8899-43db-8d0f-2281cbd2b3d5@a6aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4b419784-61f6-42b3-ba6f-b47f8ef4e829@4b41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:877153b8-eead-48a4-9ad0-ad6bbabe7c6d@8771.org
+END:VEVENT
+END:VCALENDAR

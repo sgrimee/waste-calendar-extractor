@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0753b739-281d-454f-b715-8354c399f881@0753.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:739cc6c7-c3c1-42f9-a289-459ed9685d98@739c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:60241f1f-4ce8-4a23-b45b-380431faf61d@6024.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e0d3aa7e-4a9f-48cc-839c-340d4c64fb42@e0d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:915b8d3d-b054-465c-886e-44828b0d9fa4@915b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:43a603e6-e271-42c9-ab17-0377a1b7ac97@43a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:df943f8e-df66-4549-adfd-68d73f98db4f@df94.org
+END:VEVENT
+END:VCALENDAR

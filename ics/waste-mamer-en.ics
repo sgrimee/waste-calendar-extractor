@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1f731fa0-2b16-4c46-ac1c-df2b6546d2ca@1f73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4b54905c-8cd1-48d4-acd4-7e5852be356b@4b54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8c53c826-7e53-4e54-a881-261e895a5064@8c53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1d4dd9c7-7288-4732-948d-bccb5295af7b@1d4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4a87f515-715e-42b1-9c8e-a049e805bc4b@4a87.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:085ac6b6-8f91-4467-b716-00da58f3f754@085a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:3d2f44e4-69b9-4b17-b7f6-2b00c0daf1f0@3d2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c28f2287-394c-46da-ac66-1d1da3431a2c@c28f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a6ea648e-5573-4c29-bd13-44ec282d5fa1@a6ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:6ced6c61-89a2-4b7c-a64e-85513c4e0d1a@6ced.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:62d0f0ed-d048-499f-b02a-ec155becc232@62d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9c390587-d9a2-4e4f-ae3c-0784bcf3ec68@9c39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a7927130-78eb-4838-bad2-73b56470ba26@a792.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d4673ec8-fb1a-4587-b8d1-32685c7bb85e@d467.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6b8bf615-279b-402c-a216-dbde5fe4489b@6b8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5be3867c-7ad3-4d6d-9332-3a3aebe15180@5be3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0a2162ff-ba29-4b38-b52f-16b0ff783da9@0a21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1336f188-2f8a-4ca6-80f3-4aa69220100f@1336.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:68c18fbd-6d74-49fe-a549-f4cecbe9c2e3@68c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Old clothes
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Old clothes
+UID:a02ab274-5f66-46cc-9b9e-f854f3c81824@a02a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:29e52754-8f93-466e-9237-83b8ee1398e7@29e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:97b66336-5b9e-4365-8f0e-808aa9be373e@97b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:51a02a18-d663-4692-84d1-2983ccad1317@51a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:b08d0547-ad5c-4f55-96c3-840dae02df9e@b08d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2836d628-b9fd-4ae6-abee-743897a8c2a4@2836.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:5c4afe14-cc9c-495d-aab0-7ffacbea5af7@5c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:5ff183eb-820f-4346-9c5e-d53159d88113@5ff1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b7aac818-baed-46fa-9f47-360d571a7ef5@b7aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f78c3019-df1b-42e8-86d2-e76ccde22d54@f78c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:ffcc61b2-5af5-40cb-a0dd-eb9b63fe0c36@ffcc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:1dd2f5da-6a5b-497f-83ad-da98dd35eee4@1dd2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:78ce9ab5-9538-4c6d-b779-219ae25e4aca@78ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0a7355a3-fb02-4bab-84e3-b7825d35c010@0a73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:07ee3452-cc53-430a-a48b-c34fdbb9f1cd@07ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:edf4fccf-861b-4dfb-89c7-bb49098f7468@edf4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8455ca49-35ce-4a92-a0be-ae3f29a65ca0@8455.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:d47a435d-6d1a-424f-9fc0-5fb2b9eb77f2@d47a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c49a6089-5aa3-4b70-b905-876d39c986f0@c49a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3aabaee3-9d27-419d-a166-9107e2a99911@3aab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e084c8e0-c33b-4596-aa11-4c791dd53642@e084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Old clothes
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Old clothes
+UID:b17b0146-05ee-4950-a45c-a50b24e2920b@b17b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2e2f0579-a83d-4d89-8158-e9551780c98a@2e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:0d3b57b3-c385-4bc2-83a8-df763a082c5f@0d3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:174afab9-ba47-4c09-944b-c5919e0f5a5b@174a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:bedd3cc4-3f5d-4100-bc2b-45f817f766a3@bedd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2b8f73dd-d1a6-460b-92c1-7a4bc708a531@2b8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c74eef15-8da0-4ea2-9f79-4ada1b6e6d0a@c74e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a64d17bb-86e1-44a6-8a36-74506fd1512e@a64d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Old clothes
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Old clothes
+UID:ecee4db5-cc5c-4f63-a65e-0fd017f2c20f@ecee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:99bfdcde-156b-477e-8e2d-1628e66a3089@99bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b5f9d483-bcec-4eaf-9d4a-e2ec2d10f93b@b5f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7054f44d-0739-47d3-b2a9-c72c1974dfa6@7054.org
+END:VEVENT
+END:VCALENDAR

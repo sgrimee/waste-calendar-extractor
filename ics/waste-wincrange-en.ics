@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d67959f6-7d8f-4569-a166-e6054418376f@d679.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b626fc36-5d39-4af7-8133-1b077ad1b949@b626.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fadf6967-0d41-4474-9ae6-2250374ab915@fadf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:aa897915-47a0-468a-9da1-9488fb95409b@aa89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bc82c1d0-7d46-4450-8e78-68d654027c20@bc82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:734805b4-6d3b-4538-81f5-e210f70d615d@7348.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2269807d-814b-480e-b74b-7432b34da9ca@2269.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e9a86ebd-9cdf-4aee-8be9-e066596eff60@e9a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7aeccbb7-6133-4b41-a4fe-81fe54e0a6fa@7aec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0a9f627a-a6fb-4509-a4c2-c3b226155f08@0a9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:78d2944d-98d9-4858-992d-a57dd9f40401@78d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6a6b0b68-2171-4174-b4c6-eebf394fe168@6a6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0a2483a1-6c9a-48d6-883b-444ebde083a3@0a24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:cc0bebe3-be0b-4e65-92d6-5a514861498d@cc0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:30334eb0-f50c-4eb5-abaa-fb369dc2d828@3033.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:52c364f7-b3f0-4532-97b7-c404ffa89f21@52c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8dea3480-9bee-4f73-9c5e-7c73295cf2a9@8dea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2c4a2f19-bfee-4c03-8fe9-75f49c252496@2c4a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0396c799-407b-458f-8b77-b4c6b7f42c67@0396.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:c4aaff16-e809-4864-9f50-718e49f2e61f@c4aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fe445b93-cef4-40fb-9c8e-863beaa8e962@fe44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c8769337-f454-4f82-9f42-a894d2b3f418@c876.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:43d1e124-5967-4cd3-a27d-9ec216af8c24@43d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glass
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:9e884931-6869-4ae6-8c3d-1d3bc37e1528@9e88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c100e78b-573d-4dbf-b313-8943d5e1e3f1@c100.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cbdae180-edc9-45bd-b430-fc87fc86a0e0@cbda.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a7838b8b-3925-42bb-9ecf-800de363fb38@a783.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Verre
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:71bd0c96-ea3d-428e-9efb-286b446005e5@71bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fa18b6f3-68d8-42cd-bd3d-fc1119d262ff@fa18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:35cf81bb-43c0-4fb6-a58b-c10321e3723e@35cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4b8bdfc0-63c3-4379-bb93-15d82effae06@4b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a689eff2-94c0-4ede-868b-353e17e3e0aa@a689.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4338154a-5119-4ec4-81aa-d8b5fc27c6c7@4338.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9e169829-1d5f-45ce-97dc-d59656a8e439@9e16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8834f67e-35d5-41d2-b998-3dbc9e95c289@8834.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0a6cf3e9-6b6a-4481-8662-7b384a93dddb@0a6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:20bf8464-1d3a-4ff6-947b-ae1e333061cb@20bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Verre
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:488d09a8-c3de-48fd-85d5-5ef35ef797e1@488d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6d6e5f54-93e2-433f-b79c-c0ffd52d82d2@6d6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:89f8e537-6327-4520-bd74-5d7773d8d953@89f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:600c1e6b-d1b7-4cda-ab17-273a98ee38a0@600c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9cb9975a-6246-4dc2-aecb-0c6c1f3abd4d@9cb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b222184f-a25d-462d-9b03-a3f2ed7c3484@b222.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c6fbce10-649d-40a8-8860-ed3216f443f0@c6fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:461ad15d-09c5-49fc-9406-8bf2f8f3adba@461a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:83aa16c1-5fee-48d7-8bd0-121d284b015a@83aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0789ee47-d05f-4309-bf5f-d79d28567baa@0789.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Feulen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:307fe853-0ee2-47e6-b45b-315b8539dc84@307f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:71786582-92ae-49ed-9306-ed82f2edd49e@7178.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6da34871-fe96-43be-a87f-067441f19d1f@6da3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6a9e1b30-e3ba-4c31-8a40-6221044c172c@6a9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a0335adb-e283-446b-988c-7930897e40d0@a033.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Feulen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:066760c7-eb53-4fe6-bccb-bbe46a8b15ec@0667.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Feulen\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:d82f5c1f-c9c5-44f5-8993-89ed17d9d095@d82f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Feulen\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:aa88ba84-ce5a-4fdb-b388-1b084be19d4f@aa88.org
+END:VEVENT
+END:VCALENDAR

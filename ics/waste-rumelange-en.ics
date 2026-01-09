@@ -1,0 +1,480 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:85b56b36-06d0-4cc2-80fa-6dad7688fd7e@85b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2b0a461e-8ed1-4638-a333-11d5f0abb80a@2b0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8e0d92aa-79b2-48da-b4cb-e24df3cdc17f@8e0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ae122f0a-2c72-4e6c-90f7-cdcf01e11cd4@ae12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:75647c05-6d7a-4ae5-a367-3816fa4ac765@7564.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:b690f193-5844-4904-a0ea-a58a8dd69fe3@b690.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8bd83672-8ecb-4c00-afdb-4a11da0ef075@8bd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:eb527aea-e1ef-41b8-982c-9af076220a10@eb52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:17436367-0c55-471c-ba5c-2a0e41126d8f@1743.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a1cc5425-2cfa-41e4-b9ab-d4c2b3622687@a1cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:29a520ba-6e89-42e4-8046-8ec2c61e8a85@29a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8fe36e66-6088-4190-be1d-ec4c6f8a4b64@8fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:403bad15-ca10-478b-9e9d-653dd8417b83@403b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5fb567ae-bfe7-41b3-9ba0-94e3aa818f73@5fb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f220759d-e680-4f83-8af8-44910de41f7d@f220.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glass (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass (commercial)
+UID:e00725e1-e0db-4265-9f0a-9b43e0afdc36@e007.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d894ed2a-3e7f-444c-9ef6-7fb388de1904@d894.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:02585e5f-3d31-4e33-acb0-d2ed1bb57b1c@0258.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass (commercial)
+UID:27654808-2c2f-4e24-838d-817f34440674@2765.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4b7b6307-e3f0-4b56-86db-4b732c8499ab@4b7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b8daa6bb-b932-471c-878d-cc9540bdca4a@b8da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0e5ec628-abc3-43c1-b94a-0a68077aac4e@0e5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:323a003a-53e6-4988-adbf-b5944270ecc6@323a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bd83b5d8-8af6-4e76-957b-5466c9571ea6@bd83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f2b72518-c0b5-4d71-bce2-35d2999faa30@f2b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:572a3ecf-a952-401f-8a50-8d125a2a66ef@572a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dcc84d6c-e94b-4eb3-b14c-620659b9d2ec@dcc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4fc10b6f-2dcd-4e90-8f8a-c6cd9bec6400@4fc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fcdae9b5-6de5-4a39-87bf-14ab769ed890@fcda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Glass (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass (commercial)
+UID:57737d56-ee82-46cd-b00c-3aebeb998a69@5773.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3625d973-97bb-43d6-9574-4b924ed16d17@3625.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5a0412d5-ec97-4cf3-9d0f-d7e6e5a70e15@5a04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:42491d27-3357-4461-b712-2a9864a6d775@4249.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8fbabe60-e1a0-4e85-9619-e92c0c8d65a7@8fba.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:01e1eda6-0ac2-4f40-8184-cfb3279bebf8@01e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:c79e1e21-02c6-48a2-be86-7e8fa89d0a63@c79e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glass
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:594c8893-4ba8-475d-bc18-6a46367f4454@594c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cbe26f23-3286-41c0-b89b-6cfe81ebe385@cbe2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cdf5e67f-4014-47c2-aaee-cc712c587ce8@cdf5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d6d3f390-7add-46b7-aec9-83c9379191f8@d6d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:beb0adf3-013c-4d49-a3a8-bb9206e4ba4f@beb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2a04785b-f685-4074-8170-eae1a47c73e0@2a04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rumelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8f113c1a-9061-462c-a632-5f4c8f3f1652@8f11.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7c480db0-2972-489e-bfea-d7ea051dd0c1@7c48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glas
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glas
+UID:025cc505-ee5f-41ca-9de7-9a7c6be61331@025c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1b28258f-4708-4193-bc66-b0eb1a9b8755@1b28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:98c4659f-975e-43df-bea3-f9d70533010a@98c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8853bf70-af95-491b-84ce-e4f9158aed6f@8853.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:19b16925-6870-46d2-9f1f-4f18117e2ab2@19b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:6dc119e9-dad7-4107-9cf2-be22abefc48b@6dc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:6a71918a-ef84-462a-87cc-07ee8050624c@6a71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glas
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glas
+UID:9bc6770f-0380-4778-b080-d8bc132d6f8b@9bc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:50ecfeb2-f97b-4a33-b664-76abaade085b@50ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:7ef87270-d2e1-418c-bf1c-05cc81bafd04@7ef8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c401fca3-bdf4-438f-8ed9-66c4537fb519@c401.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:f794f9d8-f588-48c4-82d1-5d6131d9c3d0@f794.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:064e8ee0-fbbc-4af8-89b3-5f40740ce326@064e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e608f889-6b38-4bb1-b257-52207682d166@e608.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:516c5965-baaa-4beb-ab3b-ea1070d141ba@516c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:bf427863-9847-46f8-a4b9-77743f2b1ec7@bf42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1214683c-aefa-4cb7-b0ee-bf021de7e912@1214.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:958cea48-8202-44ee-8ce0-0a127b31e1ef@958c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:5cf0b116-311b-4686-8de7-94bc1fff8685@5cf0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e1c1f524-f1f6-4f29-a444-8eec2d2947f1@e1c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:b016bad9-8283-4261-8d5f-e9823efbc63b@b016.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:fe8ac5cc-dc03-4826-917d-0d3817e57735@fe8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b0162544-d7e5-4529-8c30-d5c223239601@b016.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6a185083-3619-44cf-99a3-88c549946752@6a18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c9baffe3-94a6-4219-bcd6-2a7735782f7c@c9ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glas
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glas
+UID:3f45225a-6c06-4c0e-9081-bed34ba5ba8b@3f45.org
+END:VEVENT
+END:VCALENDAR

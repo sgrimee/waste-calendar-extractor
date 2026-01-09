@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e1e66d99-1722-40ce-b3a3-611e1189069f@e1e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a58531be-2daa-4a4b-8df3-f114e7a91f67@a585.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6905ed56-8829-42d0-9c1d-2209029b811c@6905.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:34cf49b2-3d00-4311-aff2-ae3b14964002@34cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2acd245a-50ea-47c5-aaaf-45db1404265f@2acd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6774c7e2-3304-47d2-aaea-2efb2eeea5f4@6774.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:251e357f-5fa1-4f3c-a7a9-f7451b73e302@251e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09d5a903-2afd-4187-9148-26fadec78c3e@09d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dc0e76db-8eb3-4f7c-8f84-1b7d5fa89007@dc0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:63a2695a-e2f3-4d81-add2-8618d7d7efd9@63a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6d342220-e206-42c0-9e5d-2b48fe2607ee@6d34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:753d7f6d-aa62-4435-8b70-d903b2a24e25@753d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d3647d81-845b-4804-b25f-6b92218403ae@d364.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:97eec89c-2788-4f4f-afec-80a3caefc477@97ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:801c9269-f379-45e7-b956-8e2e9959e929@801c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0af80132-672f-4261-8b2f-0f1359f8cf85@0af8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0e4622c6-63cc-4ea3-93ef-4b266f6b83e5@0e46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:24360f78-2c54-4b53-9d4e-e420f017db06@2436.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:37508704-8ecf-4d08-b8c6-28d0f753eac2@3750.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b3a0cc3a-740d-4a91-8191-0430d6282b44@b3a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:50b90120-2de3-476f-a99e-579445ec9682@50b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3fd5b719-2358-41f3-8707-c88944c50873@3fd5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5a55be42-0315-431f-a1a5-e2e0b841336c@5a55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6ba467d3-95e9-4d44-b020-07a93182da23@6ba4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d825ca9c-e8ab-40c2-9ae9-0bc883db7657@d825.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c7b9dfd7-04f5-4115-bc1e-6b78b38df6bd@c7b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ee0fed4d-4b73-4d3a-a95f-72225a244b12@ee0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:93ec4796-0258-43bf-a02e-4793a000b3d1@93ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e1c1e263-f2d6-4456-831f-38371d5d3895@e1c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b3301187-9cc9-471d-86f6-fbd43d0d3a7a@b330.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:62dad62b-e492-414d-bdeb-8fd01c73614a@62da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:03a6da27-b1cf-4b0e-ac9a-0af499a1353d@03a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c542edb0-64e8-4d3f-90fb-dcadfaf6b6ef@c542.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:be406947-7d06-469f-a7c2-91e599758d97@be40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7a9e1880-2ae7-4907-bbf4-9b9fe8575935@7a9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Verre
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:68d8d5f2-7543-4656-b153-33ccae8274f9@68d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9fcc7aa7-248d-4da7-ae4b-31a0d967bf88@9fcc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c03db724-7f71-45a1-972b-ea07014e6d8a@c03d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:809cc508-5baf-463e-9999-6a80998f8aba@809c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5426eb39-9da2-486a-b3bb-d8273e1431cf@5426.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4cdb37d4-2887-48c4-90ac-04bafc550f01@4cdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0f293721-8807-4930-bf76-6a5deeb26874@0f29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3aece374-2ed9-4d9d-a8f2-c328c376082a@3aec.org
+END:VEVENT
+END:VCALENDAR

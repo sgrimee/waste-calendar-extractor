@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f91823ea-e4fe-4dc3-bd77-22bb0a919ba9@f918.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3bd6cf0a-0e24-4fd7-9b5a-671c0040f3d4@3bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Dippach\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:d4aa0651-e637-4910-b8de-03c5095182ce@d4aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:643480d5-f6b0-45a1-bf8f-e9272c84e8d3@6434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3f4dfd45-e9ef-46a8-93df-6396865ba88d@3f4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4adf2a16-105b-43a7-a01a-0b9e06354593@4adf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7f3200c5-7dd9-4ebc-bc24-c958abcf2d9e@7f32.org
+END:VEVENT
+END:VCALENDAR

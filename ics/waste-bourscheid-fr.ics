@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:eafb2903-45ab-40b9-a5c4-d4fe6158a861@eafb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e58b64e2-0bbe-4502-b68e-104722254f93@e58b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c9b15a65-2943-4dc2-ab0f-70303e00a666@c9b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bd99e744-e4c7-432e-8966-d251abdac789@bd99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4694714a-2e24-4f25-91a4-346d0949d235@4694.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2bf8688c-b945-4d3f-adaf-ba2126480066@2bf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fcb0c8eb-0b21-4e42-b6e0-262177567a12@fcb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:be6e84ac-bbf5-4fba-b932-28290d31e426@be6e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ed67a63a-e00d-4729-bffe-e89f9b8eb8c4@ed67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:acf3e0b0-fde4-41b4-be9c-728f8da32c91@acf3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b267e441-daac-448d-8b57-f57ff97d9fe0@b267.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:644c9ec3-0016-4d2f-9967-ae6139e66df7@644c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1140150f-8702-42b5-9b73-a2032a978f48@1140.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9f51f547-5968-4062-ba65-b7c4208c742e@9f51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5a2b005c-5c5a-4b58-9d2c-1417f9f299cb@5a2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5949d09b-6551-4f6e-9bdd-11b11c1bb80e@5949.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4a7e1f12-04b3-47f7-aa31-2006f5b701bb@4a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:e62ec383-fa82-4e06-b308-fcdb37fc437a@e62e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1e3dbaf9-63ae-4a07-bf71-e7561f885d6a@1e3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c143da97-43f0-4d14-8335-ef5b192c46b9@c143.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d6bcb196-a126-4929-946c-c36d28781f8e@d6bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5c3f1436-5d36-4d32-b02f-f7a82a88fc3d@5c3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e0aec2e1-c637-474f-bac9-efa4ef356ec8@e0ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2db7ff1b-889a-4baa-9068-9d1601848ed5@2db7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:db76a932-bf0a-4ed3-80a9-7eb4bf80032a@db76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:39738603-9451-4ea2-b825-68ac13175369@3973.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bourscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3ca1eb19-efe7-419e-8b94-7d6d5729e560@3ca1.org
+END:VEVENT
+END:VCALENDAR

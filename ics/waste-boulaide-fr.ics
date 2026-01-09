@@ -1,0 +1,282 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0f4eb352-b3ec-4b6a-ba1b-6474818d7604@0f4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fcec4f8b-49a9-457a-8c4f-42aba8b1b5bf@fcec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4cef34f8-3015-431c-b8e3-6b7c6ef394c4@4cef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:424bd78e-d29b-47ed-8925-42e194a5440b@424b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4d728492-dc07-4861-83eb-2a3b0e052335@4d72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7ecb7d8c-c46c-4ad8-b968-ac38ab8669cb@7ecb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d79a3cd6-4c8d-42d1-99ee-cdca4a641b9f@d79a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fb099563-2efe-478d-b8c7-ee8f59e1ab44@fb09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a819491d-deb7-486d-8ac7-766daec682e3@a819.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c9a2aed7-c050-4388-b424-25ef1edbcf78@c9a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:22fd539c-f045-49e1-bb31-93e8c3d3dc4c@22fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:daf5c8d2-a704-43d7-b42a-6eece73915c9@daf5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:81573f74-efcf-4c79-8a83-c4cf916b6ca2@8157.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4aad3ccf-b6b0-4fcb-aa84-ba654cdca088@4aad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c642ec09-4f7a-46cf-a92a-16477e0c8707@c642.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c944e349-4126-45f8-9393-17acc17a9a6b@c944.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5efe71a2-28c5-41f5-8a72-acb31af09fd5@5efe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6880e7f1-3087-4de8-bffd-2bfffcae58ba@6880.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verre
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍾 Verre
+UID:cb0508df-cdce-40f2-903e-63a6b5c23224@cb05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verre
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7c15c669-4700-45cd-b8af-5eebb1e3ae79@7c15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8cd8070b-972f-407e-b70d-7eb548a4752b@8cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:3c3960b7-5297-49d3-ab1b-758ca66b3782@3c39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bdd338b8-408c-4e80-81de-2e7ea104aed9@bdd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Boulaide\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a30b37ce-bd34-4931-85b1-dc5367547642@a30b.org
+END:VEVENT
+END:VCALENDAR

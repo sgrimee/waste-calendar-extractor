@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a194d712-0553-4eeb-a6b8-9dfef1e0b80a@a194.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b79562ca-116e-467c-87db-51f754b1ef9d@b795.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8299c423-b785-46e6-b061-4d42e35d7d4b@8299.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a22a024f-ee12-46f7-9a26-1b4ef09d411f@a22a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0594d64a-4611-48d0-bdf5-e4b9e7d6be48@0594.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a1baaf9f-0915-4c45-a826-df323286316e@a1ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:591ac145-802f-468c-931b-05c19a1798f3@591a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e5467b18-138c-4938-bfdb-189a4d4184bd@e546.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e22fd44c-35f3-4525-bc8d-4d2a2ed3704e@e22f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ccf225bb-8bd1-4756-b839-71795498638f@ccf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:72c7cf7e-fbed-41c0-a5c2-18431e128c02@72c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:41b360e1-e24a-4c33-b37b-8e508eb6cd67@41b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6438811e-bffa-43b9-b242-2b11f3fc221d@6438.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c644c9e5-7cb5-4574-b266-b69556e6070a@c644.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4c2994f1-5b66-4305-8143-644c440c29e9@4c29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bee20ab0-1acc-4fee-8030-0dc400fecd08@bee2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:74111eac-31a1-42df-8af9-86457aa13124@7411.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7ccf076b-9d17-4b88-9c88-2385407f3c6f@7ccf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6296462f-730b-4646-91ed-c8b97bbd0ddc@6296.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e4a299a1-a654-4561-bc22-2582b08a9cd4@e4a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4fb474db-db31-425e-8d1a-cd955105982d@4fb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:61212509-3131-4ea9-9cb8-486c3f245e7a@6121.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:49950506-c023-4075-8a98-b704552f3a5a@4995.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8b347c0b-28f8-47e0-b298-6a170204fd3c@8b34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:5b3e1df6-3ab9-42cf-b314-b4ef22e6e6cc@5b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Winseler\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:2a9812b8-5e85-4e3f-b03e-1c84f03300a4@2a98.org
+END:VEVENT
+END:VCALENDAR

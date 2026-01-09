@@ -1,0 +1,367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:066fdb8d-3219-4c26-8670-afbb2eb71b4f@066f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:62bb4912-9009-4053-bd99-eb991a27e61e@62bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e4212413-db7a-4198-943f-7b9e469e8e08@e421.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3f34166d-56a0-4c33-960a-b1e4331e973e@3f34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glas
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Glas
+UID:298d72fb-5cbe-466f-a958-43515a3ccf00@298d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:cd6fd0ac-6481-4610-9e48-0b9418ef8703@cd6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:7fd94e7e-2da2-41ae-aed6-1cd8d0df3296@7fd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:8435ab60-eeb2-4f95-a76d-a2e5da1514b9@8435.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:a81d14a8-d294-42d2-9ba1-f7404ac8f17d@a81d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:5328e97f-8b13-4a43-afd0-80c6fa0986d2@5328.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:78ab64f4-3011-4c60-be11-2321a5281d93@78ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:57ab3350-e41b-47ee-9cf0-96cb8d72b496@57ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:a75a2839-b582-4a75-81d7-500ab2400971@a75a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:33690036-573e-43de-bf5d-f5dddb1f32a3@3369.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d6ba18aa-8329-417f-8373-ce9c91084496@d6ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f88e3843-b968-4fb3-9aed-5c0d1cd4a961@f88e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:59190d7f-b3eb-456f-a0e5-b5a93fe6ef44@5919.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:0e0de860-64b4-44d9-a844-0b2751c3b988@0e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:bb76e940-517e-4159-b606-b4db6c1a391c@bb76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:f8190e11-9e1c-44e6-acca-7e1a5cb7caf5@f819.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:a79dd8ca-fc3e-40e5-a94b-857bb8178c97@a79d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:a20af054-bd22-4758-ac46-1df8b8014107@a20a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:3a54689f-048f-45d8-9611-1e6a2249c0f6@3a54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:924b5699-04e7-484b-bfcb-714043f9f279@924b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bf12f1bf-e228-4472-96d7-39598dad961e@bf12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:28edf64d-2c7d-4fd4-9723-5f37c4318a02@28ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glas
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Glas
+UID:a3cf843f-9078-40e2-84fe-8a84de778fcf@a3cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glas
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Glas
+UID:86a093e2-a3f3-4e41-b958-dc22e3b3cc43@86a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b2c0c694-8c3d-4a2b-b51e-53631989b5cc@b2c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5cecea61-4e7a-482a-984e-16c172bdcebd@5cec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:33b249ca-a0b1-4081-a79d-bd39f34e894e@33b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:308c56c6-3de5-47b5-a3bc-6fb14bbd60ec@308c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ac232586-9e50-49ee-a487-e7733500310e@ac23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:66b586a3-5354-413a-92da-fc468c5f0b54@66b5.org
+END:VEVENT
+END:VCALENDAR

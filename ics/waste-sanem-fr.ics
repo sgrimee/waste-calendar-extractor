@@ -1,0 +1,402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a1570aa8-5861-4daf-875f-ae47dffa6bcf@a157.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d6bf0ef1-cc60-432d-abda-26898dfbe77e@d6bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ee85de76-7962-4cac-9a8d-b7f5b43573c3@ee85.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Verre
+UID:43fd6a09-e6a1-4f2d-84f5-766bb20b9fdd@43fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3e4bb321-d6b0-4a68-9a1c-25b0e2ba1d8d@3e4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4c4e8c45-5d02-4fec-b663-5be286ac729e@4c4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5b1443d8-45a9-4064-8809-78fb689ef468@5b14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7ee2105e-d65d-4270-899a-58d75f25cd8a@7ee2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3c26f7ca-dd2e-408c-8408-ab5cbd335c95@3c26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8d92034f-92b9-46c9-8342-aaf5534b87b7@8d92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a5deeea3-5596-488e-b144-7887fa5e3b61@a5de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:04d54a63-2e72-4056-b9cf-a3c2a62d9265@04d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d376784f-3524-49d7-bfeb-251972048760@d376.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9bc9f4df-8950-4616-ae99-ea85cf16b68f@9bc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1d8a4aac-81a7-4422-9441-d938e06022e6@1d8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:08211bde-06d4-4004-b331-64ff70e702bb@0821.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0477f61e-ea86-4564-aa9d-b86f2ab868f1@0477.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e92c0932-c757-4d66-a43b-0013d090778b@e92c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:05a0605f-b74c-4996-9cba-f56d1f8a9483@05a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:9a0236a1-54fc-4a79-8a0a-a6d2f3c5b8ff@9a02.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c72c77ae-e1ea-4e73-b52a-1edaaf04a302@c72c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c4f36fd9-01bf-4a0f-a4b9-ae40b3ee72ba@c4f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sanem\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b58c6bba-6cb2-4679-bad1-2141a8979e6e@b58c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:96a0f8b0-ab08-4a54-bee4-aaf5532ace14@96a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:be9e9488-02fa-463c-bd2e-3bdf13c650f2@be9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1ffc968e-3164-4e09-8f2e-af4caba0c4ef@1ffc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c0437ea0-d889-4807-8150-3608dd67f852@c043.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:af7671bb-3e7e-42e6-91fb-09a273aca9d1@af76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0b3acb05-c576-4825-b7a1-233374ff998a@0b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:a3568a50-865c-43d5-868d-704918a20e61@a356.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sanem\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:611f3f0b-1bac-4d76-9e0a-34fda83afc34@611f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d1c18ea5-d7c1-4b04-9354-3bbe76322bf4@d1c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4122e8cd-2263-4569-a5e0-a38b1b92e596@4122.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sanem\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ca7755ee-f4d6-4757-afa3-429ddced7813@ca77.org
+END:VEVENT
+END:VCALENDAR

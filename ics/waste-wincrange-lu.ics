@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:66d0429b-4a2c-48da-802d-bd2c6c1240c4@66d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:03e4f9c6-3519-446e-bd47-b681a9042577@03e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:7d1c2602-0cb9-4ee8-9023-222b68022082@7d1c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:42cbc85e-de42-4fec-a979-e3ffc089836a@42cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:4aa9f32f-ede0-4584-aefb-0fcba21a7d38@4aa9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:938775c5-99a0-4f16-9a34-d459eadde71b@9387.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b698d785-22a2-4490-ac71-078cc8c10691@b698.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b0133785-d0f7-4518-a432-84f519349f5f@b013.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:73044491-274c-4b49-9c50-2163988b2f74@7304.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:013b31b2-94c8-46d4-a39e-b61943d3b9ae@013b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d7a62016-7bb8-40f1-b66c-4178c3cd015d@d7a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:e52c6f7e-5b40-42a4-8313-a7f0165dcc42@e52c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:756c7589-123d-493c-8255-b97487de992e@756c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:279e011e-7196-40ca-8c00-db657d8bc271@279e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62065a02-50a4-4258-a938-398d7b7c1a5a@6206.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:398a4682-7d7e-4192-948a-f7138b0d39c6@398a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glas
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Glas
+UID:b88fa16e-72ec-4234-bd27-4f299394e978@b88f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:4a5ec9be-71d3-4887-b9df-a4cfa2ac96f3@4a5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a93b07ac-2baf-4337-ad8b-961587c06b03@a93b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3e73a9e2-7ca3-44f6-8c40-98c6c0bd468b@3e73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d58e837f-4e08-4b09-855d-5d1988730de9@d58e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:29a346ee-724e-4dbd-9ed7-fce4c10f87d5@29a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glas
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Glas
+UID:fe73cf88-f225-42ba-9176-f610acf636b0@fe73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:34a4eb07-119f-46bb-8793-cf577059c8ca@34a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:f5f8d206-8d35-40bb-8641-49ae73331374@f5f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:91212c99-39c6-4217-9e87-56e2d8a38010@9121.org
+END:VEVENT
+END:VCALENDAR

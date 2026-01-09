@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:8b7d5f31-0209-4424-88e0-f5e5e00a5d87@8b7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glas
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Glas
+UID:f5aa4ae3-7949-413f-a3fb-79dc882541bd@f5aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:5429d8f4-66b4-4b65-8491-ce29dbc25bca@5429.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0e6e318e-34bf-4566-ba21-01f9db61824f@0e6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9315d2cc-8bcc-42bd-85ca-c7bcba88ceaa@9315.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glas
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Glas
+UID:acdce593-0fc3-4b5b-b503-a50adeff2b8e@acdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:6e898deb-d617-489a-8648-7b0245cd5cfc@6e89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:17b2b0b2-b2be-439d-bb18-3941029bc610@17b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:055d1ba5-6a48-4071-b589-c299852a354a@055d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:27125445-d7a4-4888-bf90-73473a17cd4d@2712.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3d60421f-259e-4994-a693-abc469bbd907@3d60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:181a6d92-023d-4b55-8bb2-37036a152452@181a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:404e4191-a952-44ba-8474-8c234bbb7bf3@404e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:94ae87bf-b402-44b9-bb8a-82f55db9ff1c@94ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d9278684-0162-49be-9a58-58ab7004b999@d927.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:47a4b2af-149e-4113-83ce-3fc3a4892c27@47a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:715179e5-6857-47dd-99d0-aa7b4f2bbb8b@7151.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:12bacc55-805c-47ab-a285-cc6e05a1fc8f@12ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:df7cdb86-2208-4c7a-b8c0-19041ab18f23@df7c.org
+END:VEVENT
+END:VCALENDAR

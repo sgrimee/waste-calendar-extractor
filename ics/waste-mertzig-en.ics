@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a0e7d882-8bb9-42c5-939f-039c968f00fb@a0e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f3ac5470-4281-4b00-a77e-f8e773877118@f3ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4e6fe59b-4b1a-47f3-a44c-9c207f3e6352@4e6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:756d31cf-f8d1-4bf2-8710-8dbb73b01f82@756d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6412a755-949e-461d-b2c0-f1dc3b0d0ebe@6412.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fe1da963-bbde-4dfd-8a68-0820a8d831e4@fe1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9357a391-ecb3-4ea3-80ef-5b1f8ad0e463@9357.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:524bd014-d431-416c-a0d8-4bcc83055c15@524b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:40468016-1c0d-4ee1-94aa-0e13c7739100@4046.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:aa8bb2d1-c37e-4711-96b0-ec39218fe623@aa8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dd5e9bdc-8800-41c8-aec0-f45492811092@dd5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:00370056-09cc-49e1-bc3b-4cd3dbf9c827@0037.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b45f88b0-664b-48ad-92a0-5229841c0680@b45f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c66b2653-f8d3-43fd-8625-c65a802aa9e5@c66b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9bfd3ca6-4c6e-461e-a802-6c8646f41cb5@9bfd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3fbdef0d-e5d4-459a-a69e-d5056a41ca49@3fbd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:97992077-8bef-4d01-a60d-5dfc5d89ae40@9799.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:110b00ad-7348-4ea9-bd10-3cf46a351f8d@110b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:aa1335e6-1422-4749-b766-0a27f3cee55d@aa13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6d9b962f-96a4-41f0-b6c1-45bbed2bf389@6d9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d91d3294-1a83-4786-a4f6-94fe313789e5@d91d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:501a232b-8f0f-4c91-b1fe-1768f068199e@501a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:21795f32-65d2-42cc-aefc-4676c23d6dfd@2179.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9459b669-b68f-4a18-aaf6-ad15ceab04d5@9459.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:cad701a2-5b12-477a-a8f3-06e7b03fbcc1@cad7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:56ac322c-0ffe-4ad1-a1c9-32eeb6158a98@56ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:84db7271-5c01-49b7-98d6-191b7a3acaa9@84db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bd5a8e55-135c-4d4c-b677-17ec449efe3b@bd5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8859d935-4b38-4e4b-8db9-189424f4ae34@8859.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,617 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fe19f5d9-edc5-42cd-b98f-118edae484b5@fe19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b7951220-2356-4158-8764-6c4d1fa4eb23@b795.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0c16070f-9104-4d09-98b5-d3e81d32c2ba@0c16.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:5056865d-e2dc-4266-915c-2d3dc2d76b0d@5056.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:def4e8d9-1a57-4314-bf57-cca97ab8fdb0@def4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1dc191fa-d11e-4879-8abc-91d219a8c142@1dc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c8aac53f-0596-4461-9e7c-69e5c06322c5@c8aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6ebd6a46-868c-4d0f-980f-7bb5b975e4ce@6ebd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:92e5462e-6ac0-4be2-aab2-b796981593cc@92e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:885c76bb-ab70-4e8c-8218-71d62210690c@885c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e9df1f01-821c-438e-8b21-d56d4772a365@e9df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:09bd2a9d-2d76-42d6-b638-aff987efa9b3@09bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:e1c4ac81-73ad-430e-8b2b-9def23a26971@e1c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7922b176-74fa-4fc7-9638-df3c59867e62@7922.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:cade14e7-8029-4e79-bf4c-3717711b446a@cade.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6d2ddc58-4dde-4e92-9215-a24613b0779d@6d2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4134b6ae-6ced-402e-a380-3e6a26c0b386@4134.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2abb82d0-d791-409f-ba9f-fe2be2f49855@2abb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a6b52c29-9b05-43a1-863a-687ad5341432@a6b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:cff0579b-6c75-484e-81fa-1cea29d42b2a@cff0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c155d989-8b71-4bed-a821-12cbdf1c15f9@c155.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:54328533-5dfc-45d6-90e3-0552843e134f@5432.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:cc43a650-c7f6-48c6-8019-a471607dac1b@cc43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6cf7ae21-dc2f-4c97-9033-d3ef34ed83cd@6cf7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1f423102-f407-4fa2-9c78-3b949431d08f@1f42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:27117fe9-88e9-43db-88b7-88ee7b96f197@2711.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6472eeee-a46b-46dd-818f-2e5d9b9f1e25@6472.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:758f767f-5c32-43cd-a158-6d10bd6ae434@758f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4b7fcbad-fb96-4773-8964-6a3ec650633b@4b7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fc618e68-c304-421d-a674-ed9fa1490244@fc61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:29480436-c2cf-411f-9028-e197066bad56@2948.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:235eb0b1-d2ba-4ad2-aba0-18945bdb46d5@235e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:06418eb6-ccac-4e1b-8d99-d18c7ec44f5d@0641.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:a98b11e5-6815-4391-8fca-dff047dba2e2@a98b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:10d4cdd8-7592-4ff8-8e9e-0d0361089127@10d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c63030ab-c10d-47ff-b613-11ca674c63e5@c630.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9b033591-4bca-4e11-aba3-628de08703ae@9b03.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:94c85435-f836-4aab-bce3-2f4bf9d24d6c@94c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8dcb43d5-7eb0-4b45-94b6-a640206fe4fe@8dcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c9f68c86-6013-4626-9a0f-533e5dd8df23@c9f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:daf370be-6386-4c6c-8c03-b78c7c3d3b21@daf3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9ab6d1ee-472c-4e99-aae9-dadad57021ee@9ab6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a4c091b2-71b7-4039-a168-2ed381647b72@a4c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:90d4bf67-0c29-4dfa-86c3-0c3273ce8e38@90d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:00b40b72-19c1-44de-8111-67c87b97a9c5@00b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ed58419c-07bd-4bc5-8672-23bd96f09e75@ed58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:95e5d035-3469-4542-a6c0-7842455f0639@95e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:40e89e04-b24e-4aa1-a20e-ed9ccab637e7@40e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:471225b7-9f8e-47ca-8450-572c19a75ad8@4712.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:52a87d4c-6085-4efd-bd80-57ba05ea8538@52a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:581ef1e5-1516-4282-b07f-f9b89c92e4fd@581e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:6c340dfa-32fa-4879-888e-a288b02d0504@6c34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fcf26384-005d-4fdf-b684-0ac4a6f9b81b@fcf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dalheim\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a2b5b158-d28e-494a-b5c4-12a461e6aece@a2b5.org
+END:VEVENT
+END:VCALENDAR

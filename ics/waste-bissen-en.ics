@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:054b5e25-98e9-4dcd-8ee9-bed893f25453@054b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d301b52f-aba7-423c-9e61-f56f6a83d123@d301.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8af774a6-667a-43d5-ba96-4e50b91e6401@8af7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8a63d8a2-4a50-4602-9d10-aa9690ab8e6d@8a63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:833bea16-dfe7-4716-b0ca-81a8ab403549@833b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:61d6622f-eac9-45b9-808c-07c8c9518599@61d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a67ab2d9-5055-415d-a0cf-b8dc0b1e867f@a67a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4585d009-bc8d-4372-adad-8f61ec0a9e27@4585.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:fd659640-eae1-4878-b0c9-caf7ec438105@fd65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9ee816b7-576c-418f-9793-ce64b2de9352@9ee8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ad7b0dfd-f1cc-43da-bc85-f05854902daa@ad7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:81d73ee0-7866-414a-86ed-8ae352dd93c4@81d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:690919d2-5f94-4279-91e8-663512dffe4f@6909.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a14d883f-18e9-4cb8-9cd8-4d408388be9d@a14d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:137f784f-a9c7-4cb9-a01c-ab2a9fddff1b@137f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c1cf9538-2702-42b3-af1f-fbe34901f36a@c1cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:13a8e6f0-29de-46a1-a990-fa3dd3f9a165@13a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bissen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5a212f0e-24d7-4fd6-a2ff-866e1aefaa9d@5a21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bissen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e940154e-5a33-49a6-a9cf-c4938a392cf0@e940.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6b1212ac-02e2-4b09-89b5-28639ac889b7@6b12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:908b1425-c108-40da-8404-2a38b058cd20@908b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b1c8b201-66ad-4548-b6cb-1e5a32b4ff58@b1c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ff58f95f-fde6-4871-a420-0623e8fada49@ff58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2e4204fa-eb85-4b4a-86b3-eedb50e5ddaf@2e42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c55e6bab-a218-4f1e-820e-5247896c8319@c55e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Bissen\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:64a5af0c-d131-4ec4-bad2-06684e6c6432@64a5.org
+END:VEVENT
+END:VCALENDAR

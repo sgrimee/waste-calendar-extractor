@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ca355ca8-6a57-4348-bcc1-6a573a839da8@ca35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:0e44bf43-800e-4ffa-bda0-5481686ccec7@0e44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5a20cb79-d5c3-42a5-97f7-59c5a834da7b@5a20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:75fb1b21-ee7f-40fc-8fff-52874841e85d@75fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:4dcd3df6-360c-4812-bcd1-901e36337b39@4dcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b3b56497-6954-4814-b535-9fa9025e715f@b3b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:6352ba41-434a-407e-86a3-dda909bbd8c2@6352.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4115012b-9a20-459b-b784-216d8f21ef9f@4115.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glas
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glas
+UID:7113e40d-a74f-41c6-a5e1-a10d114629f2@7113.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:bd1d314d-c780-4e0d-a370-7a9d627508e5@bd1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glas
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glas
+UID:37877062-c8e9-4e93-872d-b4a43ff78f16@3787.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:947983b0-bfe7-4929-a150-ed7af3f8e367@9479.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1d55e26f-16cb-406b-a5f0-fba13a5136b8@1d55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6e7d8fdc-e989-43d2-be88-ae5836f99561@6e7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b24188c7-3d0f-49ae-b9fd-e3d98eeb0043@b241.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:336b2c6c-825f-4f92-afc3-41d7cbe00fbf@336b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1d9b24f9-2f8f-4ed0-9aa8-51c49834ac19@1d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:4b69ff4b-5d48-4f08-93c4-6adb5f286548@4b69.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:0a5b4a30-8b07-416f-96ea-de002bf112f7@0a5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dff5f95a-cb7c-4815-9c8f-ad1566132bf8@dff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:482e6f15-5cc6-40ea-b4e0-140d2840b3a0@482e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d91058fa-4c31-4f45-8483-1cae9f582e79@d910.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:fb63da44-2d94-4686-8774-6882b42478eb@fb63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f5e04337-f76d-43a0-abd9-5def2bd9f076@f5e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ffeb0941-e729-4ce0-9c4f-2027a52e459b@ffeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4fc5b1c2-c6cb-4fe0-b7c4-dc4a779cb152@4fc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:737b5b7f-5224-4600-abc4-7da3f28d6cc0@737b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6e1fa0ab-aa83-48bd-9b14-3506e2ca422a@6e1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:2642b5b2-5cec-4eb7-8a7c-60b749c70b0d@2642.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7191f5b2-2ba1-4f84-80b5-29ecd0a78acd@7191.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glas
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glas
+UID:24086a11-9824-4e0a-876a-820ac225e9aa@2408.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:72a8721c-e1a4-4145-ba3f-09914af2848f@72a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:71b6379a-7776-45fd-aa5c-cea8bc68d953@71b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:fb4ebb6a-1f86-41dd-a976-05845dadbbfc@fb4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:63f3a0f5-6720-4c25-9113-756e8e1875b3@63f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ea770262-da23-453a-bbef-b8d354a2a314@ea77.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:76003bbe-db89-4920-a08f-cad2f0689e4c@7600.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4b16fc8f-7d60-4821-9589-81f55a904e28@4b16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:690a3f48-fc09-4ee4-8e02-2c53496b0a09@690a.org
+END:VEVENT
+END:VCALENDAR

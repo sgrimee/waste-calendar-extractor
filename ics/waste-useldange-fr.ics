@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e046f699-b563-4c93-b06a-0da2261c46d2@e046.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:87114284-eade-41f9-a488-0af3024a5e56@8711.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:6feb9bc1-601d-4b32-9999-2663db4f995b@6feb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b3d9cf1a-bcc6-4ec0-a582-87e313db0791@b3d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c95e5281-3979-4325-8169-66940350a4ff@c95e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c1a84acc-1a3b-4387-8de3-b4e5ebcc172b@c1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:03c5da13-3c6b-4e4e-aca8-df9fda8ca895@03c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:e43b0847-8d09-4497-a9c4-cb2d5adc8ba7@e43b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ce661e7a-7394-4c5e-a9b1-9155bfb58bf4@ce66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:0b6a88d9-2bf5-4005-a2ff-42bd1042cb2b@0b6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:74ca4109-2df8-41f9-ba2b-df47a22bfcde@74ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d8777fd6-cd43-462f-87a0-1b1f7242f44f@d877.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:264754ee-39c0-42a1-b7dd-f422a415f44f@2647.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:87be4099-c24f-4ab9-8d77-31fdb2c2178c@87be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3e7ae538-0cf5-491d-885f-2db20d3dd481@3e7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:72c829cd-cb73-4df4-a133-c0e907f43a67@72c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9a348353-a7de-41b6-97e5-082cd57424e1@9a34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:afd1b247-b723-48ee-9754-10580cfbb57f@afd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6460d534-483f-4ca1-9a84-fb0140652449@6460.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d6c2e0ef-59ac-4abb-89f9-f07832c93e7f@d6c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c0e0a9d6-acde-4f08-8955-979275a0fca3@c0e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:521e3a8a-9212-4976-a4ac-784dea34b112@521e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:80c5a386-367c-4937-a079-f51975e1849d@80c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:297eaede-d0a6-4034-8cf4-15e5c75ea283@297e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:7e7010ca-76c7-48b3-b08d-731ff180ee78@7e70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c9982cd5-ecd8-43ba-a473-01be0ddb14a2@c998.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0a41c7c3-e64c-41ad-9568-f46adb4fdd05@0a41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:77a42619-eb5a-475c-ba3b-cde37312fb19@77a4.org
+END:VEVENT
+END:VCALENDAR

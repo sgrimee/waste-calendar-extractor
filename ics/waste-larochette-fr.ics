@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:6fd1d783-d328-4c75-92d0-a33aba231fa1@6fd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:97cc9d0b-7808-4f41-b489-9c21cccadcde@97cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:83bb856c-4787-4192-be9d-98f32648633d@83bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:41377cf2-f6f5-4645-9e8d-dc1b6c701d5d@4137.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6384c930-d013-4e71-bd60-4f50e7594370@6384.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:627ce3e8-f02d-42d5-bed5-50fe3e3d533f@627c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍾 Verre
+UID:116538c5-c976-49cc-b5d2-0dae2b2ea6f7@1165.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a7a139e4-fc1c-415e-8fdf-aa26057bd430@a7a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ea8c1d5e-5dfd-4b4a-9c77-0742c9e4d501@ea8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e063c7ac-b62a-43b2-a442-d594d0908f61@e063.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e1bf3a01-3c66-47d4-8e45-7214b176c706@e1bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:8568da60-bfb6-48f9-9e1e-367ec2ba2e93@8568.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:7ce49db4-45d2-4b75-94e3-ba7807e426f6@7ce4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d95ac62e-5297-4357-8872-602ae56a3284@d95a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8715d156-fd20-48e3-b496-d33b0d941a2c@8715.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ab6b9bc0-0b96-4df7-a685-ef43a8b9ff1f@ab6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8268bf85-5afa-4a52-a504-682656c33b39@8268.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f658609c-c76a-406b-a700-c5294d0fd239@f658.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5f54bd3d-1298-4f78-b2a3-e199f52521eb@5f54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:68122583-8d29-4da8-9ea1-2dd39c6fcdd9@6812.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:403e6988-7937-4105-b778-c0f1dee55b10@403e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:20d4f68d-b1e4-4999-a9c7-6246b45d7a79@20d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e465e2e6-0672-45ca-a541-41b76bb9ad50@e465.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:32a4faee-acf2-4d67-9e78-dfea64df65e3@32a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍾 Verre
+UID:44f71fdd-98fb-4591-b320-d0f8a293119d@44f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b9b68a36-94f2-4a3d-ad1d-d0b704748ed8@b9b6.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:360cf335-0eb7-437e-b061-e660e4989dc9@360c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:42ff7206-bf00-430d-a99a-6de58132b18d@42ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:2f3a2ec9-1180-4ce7-8b19-60adb3e33f3e@2f3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9af159ea-54b6-4590-8484-ae9403fe1d9c@9af1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d3a7dae3-7df9-41db-9e9e-dbb73802948c@d3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:0741dd1a-49c9-455c-a598-2d6c9186f5ac@0741.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:80ae12d0-08d5-4c7d-9375-23d1cffdc41c@80ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:74e87c52-a21f-4053-90bd-9f1878158a93@74e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:dc7309bd-55f7-4431-8769-a7e4775f9587@dc73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glas
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Glas
+UID:df2aa068-5bcb-4248-9ac7-04f76f4907bd@df2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1258093d-904a-4e97-8538-a61681827b09@1258.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bdadf4ca-ecae-4f4a-982b-90a9518fc2ee@bdad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glas
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Glas
+UID:dbceeec0-3e10-4fe4-8226-aa84e333e13c@dbce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:21df3e19-76b5-4467-8d51-dbac77e0a816@21df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c6cc31b2-b2e4-429c-8bec-b781c8d7bcbd@c6cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:81928bb2-0460-44f8-bb4d-2ad73b4ec923@8192.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6ae120c7-0e29-4214-887b-453290f4820c@6ae1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4ee61db3-7c42-4dec-8765-050eab176aff@4ee6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3f351c87-ae9d-4177-999b-077e20e7f249@3f35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6147dc68-1f49-45f7-b874-7c8bb69385cb@6147.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:be437d41-333f-48e8-9db7-80853686aaeb@be43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:15268369-fc40-4f87-8dba-4da91ed18ced@1526.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9b4dc0f6-2bfa-404d-8292-667025abe0e0@9b4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:56c8fe63-e876-4f73-8837-aa78e962dc6c@56c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:30209cff-1fbc-44b7-971c-7e89499092f4@3020.org
+END:VEVENT
+END:VCALENDAR

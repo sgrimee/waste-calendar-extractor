@@ -1,0 +1,1471 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e9b696b6-3e5c-4c13-8a79-8edb2c3d8afa@e9b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4343d1de-25c2-4d0a-b659-606cb5c072ac@4343.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9da26f9d-ef39-430f-8faa-2a992c5025a3@9da2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a1b258b1-f7c5-4181-ad55-90c15d01a8fc@a1b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aed3cd17-9c82-4de5-8d3e-3eb776e9a2f3@aed3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a66a4d1f-cfc5-4024-b26e-4cde2173f166@a66a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f29754d2-abcf-4fe8-a37c-b6abc5e24b2b@f297.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4995c847-1adb-409b-ac8f-98bf57b7c38a@4995.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:af057492-2216-4254-98cb-5d64f73d1633@af05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5f175193-8f38-4a92-bd86-141cc9cb7510@5f17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:448ce070-b4d6-4ef0-8b91-cce5872c9998@448c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:86f733b9-2203-4b3d-9c29-f834ac3fddb3@86f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:31e77a75-abcd-43af-92d6-48cdc2a3a6f5@31e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:14cdf610-a635-4ce1-a1cb-1b4d4daec8a0@14cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:35a9c32d-5e2c-4db3-bbc1-f87e3460f1d5@35a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:88587bf4-cb8d-439f-83d6-58c43e414a4e@8858.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6694b3c2-2bec-4418-8a43-7099ec98a428@6694.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a766cc8e-e4c7-45e0-8471-ea74690007a6@a766.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:fdb8c0dd-a93f-4906-8214-585635352297@fdb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2a30f54f-5bc1-4913-838f-7bb878dcdc01@2a30.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:0341bdc1-7648-4da1-b382-ae17208f4241@0341.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c110bedc-565c-4297-aebd-2fa0f15e4f50@c110.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8d2af49a-efad-4699-a482-fc586820cfd6@8d2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e199bd02-9a59-427b-8561-360c492f2b0e@e199.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:60807a3c-3226-49ea-9071-5b20b529f396@6080.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:445b76be-cbc5-4ed3-8529-ae97e9c903f8@445b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5f83bd8a-2e47-4580-bec7-cfc78d756852@5f83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:810302a3-df38-406d-8b8b-21768d515dab@8103.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b178ee36-e235-4d9d-8e7e-5017d848f633@b178.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:06279edf-d562-4457-9231-8512d2affe7c@0627.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0402bd4f-ac4e-4d4e-8145-75ea6d03fb22@0402.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:97978714-7c05-4d29-bf0b-b65ad5a82ca8@9797.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4d54fe0b-5778-4569-a6a2-fa8bf6e2fe5d@4d54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d7604c5d-ab93-41bd-9ab4-7cacaaa1ecfb@d760.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dfffa1c1-dc6d-4cfc-a383-7f4e0263bb23@dfff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2a6c6dfe-15aa-4557-bcae-137f08590782@2a6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:986a4ce7-4e42-4b47-982d-85150147f1a8@986a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:338e6208-4918-4b4c-b760-a4d520335da0@338e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:21abfb16-b224-4a0b-b22d-cb794bb05897@21ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0c8c67f9-37cd-4526-a0f2-411d917e3301@0c8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a200a4c8-24b8-40ee-a7de-4c5743ed3891@a200.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ea55a653-cf7e-4848-9688-5aa385af783a@ea55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b25a7125-fd12-4c6a-99d8-004ec61824e2@b25a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6cc059a4-cb9f-491e-b62a-42a8be22ac8c@6cc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:17a882dc-1d7b-4068-bbee-49a2d432168c@17a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:17c31cf1-dac3-4f92-a998-bbdd6ba99c0f@17c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b9e15e81-b53f-47f4-8717-fe4b5c33e1ed@b9e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:571c4315-0f74-437e-a5f0-76eec8e0e977@571c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0cee0902-3fd3-45e1-a423-3d4c30e0fbcc@0cee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4fdd70c6-51cf-42e8-a51c-f445e6149c01@4fdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e0d5b9a-8659-4e19-b9d6-397c101e20bf@1e0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7de2ded2-6a59-46c0-81e0-522af7cbf6fa@7de2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:0cf70a56-1d40-4cea-9cf7-2c8993bec1e7@0cf7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b37e22bc-53a5-41c0-a4ef-59e93d4d8483@b37e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ca34b452-c6af-44ed-b89e-82d9cd08e806@ca34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eb87eae4-44a8-4b31-8b00-38211ab51a3b@eb87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6a462ca6-9fcf-432f-b799-fd04a6946fc0@6a46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:67c12964-515d-4023-a694-5341a9b8b2f2@67c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:eb568dfd-3512-47f0-8e9b-239889b045c4@eb56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7279c878-80b4-4f10-82d2-274cd72e864b@7279.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:88546fb3-831b-486a-b05a-094ece18b187@8854.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0f8a6516-6138-46cd-9ffe-f0804e099af5@0f8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7ce55fb9-7932-4f23-a6f3-b79735228ba6@7ce5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:10924061-3711-4577-a540-0fda9ee3b045@1092.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e2139357-3a68-4dc3-ba34-394ad6857b23@e213.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:936f261e-34c5-4990-8051-247f9c5e8f23@936f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1b6f3a1e-3254-4f83-81b6-4317dd1697e6@1b6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a1a016c4-d8e0-43c8-bece-c3b79676d6df@a1a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:66106f71-4465-49c4-9875-fb0a7b77a654@6610.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:968f51cf-390c-4ce9-91ad-9b68acdc25ff@968f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c91b7d78-695c-4f69-9595-27d396a4481f@c91b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8be28ed0-8f84-4f2b-a717-7d97e2f738e6@8be2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:93d5a40d-31f8-409e-a54b-6b1bec8bf05c@93d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4659b866-f66f-40e7-900d-4a9080b56af0@4659.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:02e7d711-837e-4d4f-a58c-d466381fcd7d@02e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5ce6c1e0-9112-47ec-b4ad-4756d5c2afd8@5ce6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:35748862-45ef-418d-8375-b937f8095029@3574.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d524dec7-c44f-4032-960f-765429d4b21b@d524.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:77d9a1aa-8fa1-4512-a7c8-853c3b7703f1@77d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6ed24adc-47ac-432f-b0cf-3af44a8e577f@6ed2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:35a5a394-4a62-485c-8d10-f996aa0a5116@35a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4386af97-c592-4844-a901-8ef9bf3a2ad2@4386.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:87b572f2-6c59-4f33-af9d-cf3bbf92a211@87b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:86dcdbc6-a098-4aca-a981-fb02549d8738@86dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b2f2f015-c8cb-41c1-a5ec-77cd7bca79c6@b2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:6cf77361-74d4-42b2-a534-4055ae5e0b00@6cf7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2b18f7a9-a042-4ce0-80d0-5f96d26dc570@2b18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:95bd7424-3df2-462a-858f-a2614f5466a2@95bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:15e9cef8-ec6f-41dc-b4c4-08db8df22b72@15e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ab20e2b1-7e26-44eb-94e9-39c647026696@ab20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9aa6ca2d-69da-44ba-a7e8-626dd1936e66@9aa6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6dbcb0d6-4ef8-40b3-a3a3-47c62b8d9c0c@6dbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:87048967-dc86-4ba5-a91f-a4b56f14d043@8704.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:92e0aa79-bd7f-4164-a88f-6d33671f5752@92e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2b45884c-fc5d-4040-914a-f41d71045bc0@2b45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7685db28-cd00-455c-b673-402292026b69@7685.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:19eaffcd-94bd-46f5-976b-67d95dc4abe2@19ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d065f864-ca1f-4497-873e-90cc7120617b@d065.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f259d0d4-7a2d-4afa-b354-e86a07fae8a3@f259.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8c6b001a-f776-488c-8575-02ad143bda12@8c6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0540ae34-20c0-475a-86ec-76ddf9d5f0df@0540.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:66184c00-c130-4307-8028-f33917e19d7e@6618.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e044e000-71bb-4051-8158-b3fb11f9af74@e044.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6110a615-a30b-4129-8bad-ebc4db5f3875@6110.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:59b6b9ea-375b-4d02-b968-bd66b45eee91@59b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:45c98d4a-637c-43e0-b2b1-2d51e5cc7e6d@45c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5ef151f4-91b5-482b-9cc5-8c7e63d8a094@5ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:4a1fc864-28bb-4b7d-ae87-039d0291e6f7@4a1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bd04a907-9646-4fd2-b86e-193d2131281f@bd04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6aaf2f32-1356-4dd8-ad0b-0a940db703b1@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:45be5bb3-bb2a-4543-821b-aaa930a25df1@45be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8502f3bd-b285-46f3-aed6-af38d9c1e61d@8502.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:cf439ecc-a32c-4757-839e-784133bfed42@cf43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:76f41590-8582-4bde-be00-8db99731f047@76f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:21fedece-cc38-4bf9-ab2e-5b6fdcb5e42a@21fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:53e9b011-003b-4669-9e3c-f84a27583903@53e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Glass
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:9477f41b-8537-4a54-88d7-c8df4666577e@9477.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9065fe57-6032-4a43-bb4b-656c29061dc5@9065.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:73426bc2-abdb-425e-a33e-909e1ae59e71@7342.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:58d8b04b-06c4-49bc-ac73-3133f635e043@58d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2a0e7b3c-d407-4129-8af3-b348aefc8888@2a0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f0723ce9-8757-49cd-93c0-7ce9d6aa478b@f072.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1163246d-b2cf-45bd-9fbd-26975f8cd219@1163.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:db1a07fa-145d-4ead-93e4-22b54147ec16@db1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:39c6c8bc-83f0-4d5a-84e5-a926cc2e8155@39c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:42749575-681e-4797-91d2-bfa6f7b40ce8@4274.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ce718362-0505-4f60-bc22-d5260a08753b@ce71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:0957a71f-3b77-4369-8e56-8d4787161f8c@0957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f29f6952-9c37-45d3-bd60-51ea676c2852@f29f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:8545a082-7d91-4212-9959-40916eb8b5a1@8545.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:629570c3-9bfa-42ce-870c-aa6e082faee0@6295.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:3a4d914d-4db8-4929-816b-30db86708adc@3a4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:a2b48893-874a-46b5-b91e-cfbf6bda44bc@a2b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b5171d45-62b3-4c47-8dc5-657405838541@b517.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:413f45b8-bed8-4ca9-98cc-341766e713b1@413f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e88715f0-dc99-4334-911e-8bb35f75176a@e887.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7604951b-ccd7-48e2-8eea-24a90b340bf5@7604.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:72c34662-8533-4b14-bfa2-189284d0421f@72c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:5d14ef5f-fd11-4e35-a899-3ac50069ff05@5d14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:55038ff9-9b61-453b-9b21-14984c738f1a@5503.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:64c4331b-e9c3-4d9b-8fff-d7f313fcb12c@64c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:36bee28d-3cf6-4d45-a276-d237a18666ef@36be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:0eb8ca1a-8058-42e4-9547-a13077532bce@0eb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:fcebb93d-324e-490d-859a-7d4c8aae1514@fceb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:17590ad9-fac1-49fd-b071-adb6561be159@1759.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:2abc2947-615d-47ce-93bd-d9dcc8a6e82a@2abc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1dc3627f-1200-4ef7-8418-13cc379cf7dd@1dc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8494bf26-560c-4707-86ae-36c0478f820c@8494.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4ca1c4a0-78bb-408c-89ec-754825aa4805@4ca1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:57665c16-8688-4228-bf16-b4df9c3003b7@5766.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:969ce124-6d84-4341-a1ed-8fff6c4a45fd@969c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b65c63f8-6bab-4d8b-a1d6-b9ea030915d6@b65c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c3f1f649-8264-415c-a1e0-94c709b696ff@c3f1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:aaab67cd-9132-453d-a30c-11dce62b2485@aaab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:1e10582f-3378-471a-9a53-bcf2bfd8a18a@1e10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7289347b-3d74-4636-897e-437e02dca978@7289.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b797ee2f-d066-43a0-ad35-5f6a0e706fda@b797.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:09ef69fe-b978-4b71-896d-8cfc14524ee0@09ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:cb7ffd76-1404-4b1a-99e6-53c2f2a49654@cb7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:369bf81e-ff1e-4e28-80df-9fde5bd0ca73@369b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:16ce65b6-a936-4bf0-96af-d42914eb3ba7@16ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Glas
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍾 Glas
+UID:bca0833e-8c6f-4934-aa51-8ac11170bb21@bca0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:33919b9a-a418-40cb-9e80-146a63782bee@3391.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:9c7ea68d-29b8-4415-aae7-4746e97b69f4@9c7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:47e645fd-aeb6-4b4a-8490-df5932bad3ea@47e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f5f29616-2979-43b7-b35d-62c2ae750f79@f5f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:89f65dfe-4b56-4dc9-8c42-281b3336544a@89f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c7fa44cf-763f-42d9-ba87-0ef6493bb71a@c7fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:a88e65d4-444c-4dfc-a759-0f5d3dcec245@a88e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:31685989-aa39-4ebd-9665-11d80de686ec@3168.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f7085204-48bc-4603-9e1f-7d9b2234573a@f708.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:94582c56-58ee-4873-b7e2-6cb990443f3b@9458.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Grevenmacher\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:e02acbc8-70a3-43f7-b620-5dcfb4fcd811@e02a.org
+END:VEVENT
+END:VCALENDAR

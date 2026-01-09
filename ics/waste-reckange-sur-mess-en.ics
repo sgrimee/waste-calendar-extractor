@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3fdb75ed-d8a0-4869-bf0d-420c7289dff1@3fdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:791d1baf-ad4b-492e-bb5e-ab7ddd50cc5f@791d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fb29b5e5-ce05-415c-bc90-bdc2ac827ab8@fb29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:33616566-3ced-458a-9552-861b9988d957@3361.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:100a23bc-807f-4069-94ed-b902c1ca66da@100a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e3723cbc-64b6-4458-9a81-6c36167da91d@e372.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,694 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cccaafa8-97dc-4da3-8745-46522967e535@ccca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:457672b7-94b7-4490-a020-929c8ae6011e@4576.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:af24c761-ff7f-4dcb-a7ae-bca3d05ceca2@af24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2293eca5-c2d6-498f-ae10-2d05db404daa@2293.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8fd2b2b1-2228-4409-a38a-c19c7d57045e@8fd2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d200418f-fadf-4b75-8e4c-78b5e074b41c@d200.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:45294583-f3ba-42fb-94ee-8d4ccf3013ca@4529.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dea907d8-8e1c-41c0-94a8-fa1b513ffd5f@dea9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4f56506c-b84c-418e-8a87-91f57652edb7@4f56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:da44c611-eadf-4e10-8ac8-a4a06d49ccad@da44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:49442ae7-1d04-4173-8b60-4eff421e916a@4944.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7bbb7aab-0916-464e-9370-6bc91e0d4224@7bbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7fe6eefc-af03-4747-aaf3-52146b08fabe@7fe6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:caaf9bb1-90ef-4715-aff4-edb6c0e87587@caaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d7f41269-1e1c-4586-b83f-665d7080aa64@d7f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0bd29d3-a353-4763-a4cf-6e3b557f0079@f0bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:af966d7c-6dc1-470f-8c31-37d48ec25a3b@af96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:12285755-99a4-4d7b-a9d3-627ca9713b60@1228.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2a9ede2b-3e29-4eec-b923-aee422b84d1d@2a9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0cc01ae3-8865-4bd5-a2bd-9a3e1faf4e33@0cc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1742357e-fe7e-4e50-8718-d4a83dfcf5e9@1742.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:af1da73a-0a34-40a8-96ae-aed9cb2894fa@af1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0fc06da5-52e4-489d-bb4a-4e32a7b24063@0fc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:13031a0b-760d-424c-8c4f-e12d85a9c3ed@1303.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5f68dea2-d775-4b7f-8502-98c1e071815a@5f68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e2610652-7b1c-4e92-aefb-ba3c99adea54@e261.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1f3e4667-55c5-4fe0-8a55-6d80a1e10363@1f3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b8b72267-6ea3-43ec-ad3e-72f313ba6558@b8b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:41b31103-b350-44e6-8a3b-a2bd4099c5d2@41b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c723c9f8-5544-4553-9038-bd6500108c30@c723.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:076a488f-76bd-4af3-8a59-e15885ca7085@076a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:3707fab7-9bef-436b-8f30-f742b258e589@3707.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:016eed4c-dc64-4a82-a2ca-cd1732af56a7@016e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bea417fd-de5e-40f0-b3d1-d9186f779c66@bea4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0f09d41b-3a06-4308-9911-5bc7d3ff5c6b@0f09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e9c53ee5-c6b0-4c21-b595-7106596a2778@e9c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:14f91605-ffd6-48b0-b4a9-f1c6de625a0b@14f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fd385b14-3803-498d-b549-25a6435acc81@fd38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:f1fa0c1f-bb9f-40a8-a125-688bdf7836f9@f1fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:71a4bfcb-717f-49cf-ac9b-08c4a686cdd1@71a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:71d7da7a-0d31-4aad-a713-00c0cc01f2ed@71d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a26c8249-ff85-4a99-ab67-c44a2b6aeb04@a26c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4463002e-a16f-42eb-8469-72bb0c996efe@4463.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e3b2f677-c1f7-4f6b-9dff-69ce0fae946f@e3b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6d75da09-a1b5-45cc-8577-67b99f0a1c5b@6d75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d4c32069-08a3-4c06-98af-7f7e1ed00d81@d4c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:18f1726e-4e6d-426c-ba18-1408d6fd36b5@18f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:1b4561d2-a881-492b-a983-b1a1b4d1ab4e@1b45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:73a6daee-e8bb-49cd-8ae7-4df4b4361e12@73a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:e5fb8955-fcc5-469b-81d4-639697f93594@e5fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cb6d923e-e80c-4b1a-9e54-2cd89265875e@cb6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:328f7efa-9750-4cb5-b14c-7779de500109@328f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:88d61aff-65bb-4f68-b7f1-d01363c2b230@88d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d47bbf4e-b1c0-4da4-9580-c7d0ba7f8ffd@d47b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:5f04229f-6ec7-48cd-ae2d-495370a5d6b6@5f04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9f37eb29-aec3-426e-9e47-b3bee39691a7@9f37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c7713650-e830-445b-b72a-6149f30bfcbb@c771.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:eebc8791-17a5-4a1d-87dd-326ef27a4751@eebc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:11737391-2505-4a9c-8df7-b8160dbfdcb2@1173.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dacb86db-eb67-4f2a-997a-35ebac3739b0@dacb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:2becb1e0-c9ba-486a-9076-718f9f6963b5@2bec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3eaa2594-c935-4c6d-bfb3-a65daa7c1e73@3eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:65dd115b-353b-449b-aeeb-136616d98d05@65dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:ff65cdd1-ac82-47c3-afea-ddbdb1996c80@ff65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:36e5fbba-fcd9-4490-bc33-0a03716c9d02@36e5.org
+END:VEVENT
+END:VCALENDAR

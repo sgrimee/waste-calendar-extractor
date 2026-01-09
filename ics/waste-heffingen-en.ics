@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cc1ce86d-2685-4b97-8367-870323217b44@cc1c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a9d54c50-d7d5-4f9f-943e-4e4b612deff7@a9d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:31ceced3-8e91-46f9-94cc-2397765389f1@31ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a5087984-b589-48d7-a42a-7640d0416c04@a508.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6438a485-3f0e-4db0-900d-c8a68873d450@6438.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:16c0af7d-b8d3-4516-9bea-88f395dbc682@16c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f1576db2-8a6e-43b4-8c67-efd282416335@f157.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fba3b51e-9a61-4705-8673-31a70e6f8a7e@fba3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f6eadff6-5105-4150-9a80-d85e00e4cf82@f6ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glass
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3c615d9d-3f58-4041-9f7b-36074a073951@3c61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d3eb8282-1ef0-4b61-86b1-3f8fd63ce61f@d3eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:21ce47b6-3fce-4957-b73a-47a9bd8f0c4d@21ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3fe6a8d5-906a-4b8d-b7b8-69abcbb2e6a3@3fe6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:6d74fa28-945a-4e97-9652-7e73f460771a@6d74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f939cad0-637f-41eb-bd38-658b7a5a4d86@f939.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:25d6dd14-ca86-417f-8dc8-3c03e4b0766e@25d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:02408f03-285d-49c9-ac0b-33fa33c0c34e@0240.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8adef388-f507-47df-ae5c-e142e029718f@8ade.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ad87c630-830f-45a3-9098-062dec445eb5@ad87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dd665e45-f666-47af-ad03-c0185759ff13@dd66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a09ea600-6b2f-44f1-a2bc-37ca3be6a658@a09e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d6fc3d1c-2ad1-4ee9-afce-68b045b1f383@d6fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:44b0d646-b34e-42d1-be91-909e62944c36@44b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b368d263-b635-49b9-9f34-e228ed216c15@b368.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:502688fb-95ff-443f-b145-4fadab3e06ba@5026.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9c535d89-6e23-4c46-8143-c8b232903996@9c53.org
+END:VEVENT
+END:VCALENDAR

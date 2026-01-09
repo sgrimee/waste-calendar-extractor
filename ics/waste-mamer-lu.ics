@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:12a8bff3-cb1d-44b3-9f42-5df803e8610f@12a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ad4f4c5a-8ce1-47bf-9a64-87095d8cfce4@ad4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f12e98d9-43d5-4543-bb12-a677ee6cd984@f12e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c4414d3c-ff27-4eb9-bfd4-868f3b265e7b@c441.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:d885dd55-18cb-4281-95c5-9380c2ad2a08@d885.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ebb7c504-ffef-40ef-bb7f-39845d9bae5a@ebb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:18a54204-2ea9-4f67-a9de-b4c3ebc2b66b@18a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9f515256-0a8e-44a1-8166-4a05a4341b87@9f51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:2e4d86cd-52c2-4285-ae47-d501647c362a@2e4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3b814543-eb86-4f95-878c-8a0c993fd168@3b81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:c02ec1be-4047-4417-8f49-ed3ffe78b9c1@c02e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glas
+UID:6312c4c7-0100-4470-ba57-cce27c471263@6312.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7a4495f1-8933-4d3f-b6dd-f06957bd553e@7a44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b74599ef-fa8a-450e-960b-120ec64d287c@b745.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c46d4992-4294-4a79-bbac-381f6ee74d5c@c46d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:303bfb51-f44a-4915-850b-0587599b8dbb@303b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Aalt Gezei
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Aalt Gezei
+UID:4d902a92-2707-4388-8766-43938bf3a767@4d90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:fde5b999-904a-4204-98bb-1824be6344a0@fde5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glas
+UID:6c868d88-759f-48f2-9665-d2e3e047358e@6c86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ee023da7-382d-433d-be69-96b129489b97@ee02.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:00b37a05-6137-4287-be4a-1eb845fcb5dd@00b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bd172238-e723-4d13-b536-d1adbc259754@bd17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62665225-99a3-4ec8-9c8c-7084307b4f51@6266.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:cc1089ea-316f-446d-abc3-538291cb676a@cc10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8bcc9e4b-5c34-4d36-8daf-11dd207d6dc3@8bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:f4c5c9c4-1f02-4673-8055-af16c3f3c766@f4c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Aalt Gezei
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Aalt Gezei
+UID:9105007d-45eb-462b-9139-8c78dc6fe57c@9105.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:56b97e6b-a61b-49dc-82fe-6f78be909939@56b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:51f54319-3279-4fdc-bf25-6febd935b278@51f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4e66da04-cddf-4c2f-bf65-682c35ad809f@4e66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e10f1f2b-c581-4cff-bdea-0659da6c025d@e10f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c751bab9-ebff-4751-862c-9329417a07f5@c751.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:39aa856e-8f09-443c-98db-e2bbcedb394c@39aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:617ea8ce-33a2-4053-a104-436994daac87@617e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:ef01394d-dd3f-45eb-8b5e-34e7e6cafd70@ef01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4c469143-6691-45c4-b599-ace3e99b4343@4c46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍾 Glas
+UID:48b40026-7018-4157-bf77-13cbbfb6bbf7@48b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:10ea26a8-5573-4bb8-bdc1-aa2f219f3c9a@10ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2c311846-914b-4868-99ae-f1a4c11412fe@2c31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4361613c-cf7d-49d9-91b6-b9d6235e0d37@4361.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:92302d99-c786-4ff5-87e6-8f14806b2853@9230.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:b08d83dc-e162-4234-a920-79fe630f3371@b08d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Aalt Gezei
+LOCATION:Mamer\, Luxembourg
+SUMMARY:👕 Aalt Gezei
+UID:41ac5257-e745-49c9-b3c3-b9427dfd1f27@41ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:4ae592b4-73b3-4370-8268-62fd4b478720@4ae5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:19726f77-726a-40a5-a0da-7c7efada228f@1972.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:deef88bb-9bbd-4b1a-8954-4d02fb6561a9@deef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mamer\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:c5bbfda6-2c63-4896-9507-0ed2862a900d@c5bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:96b300db-d41d-4f12-b1dc-e859605bf339@96b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0c13d2a9-becd-45c5-8a01-4b308b333fe9@0c13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:69144115-425b-493b-9462-22e957873b52@6914.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mamer\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:21577fc5-278a-41a6-907c-6b06a4afcc8c@2157.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mamer\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8180ce74-9412-4c7a-805f-e661e83a3467@8180.org
+END:VEVENT
+END:VCALENDAR

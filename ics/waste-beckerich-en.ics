@@ -1,0 +1,227 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dc4eb153-0c71-447e-ab1f-1a4d3c87a605@dc4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8c60de7d-9626-4776-917f-31da558cccb6@8c60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c728ab3b-e236-45cc-b28e-f19c4c0cb0e6@c728.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e1fafe41-6ce0-4cc2-b7c8-d2f5199e2b88@e1fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:eb4b08b8-f446-40e7-9d97-0d65e1352993@eb4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c6438290-09c1-4e03-994b-da8963a138cd@c643.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e2974aea-2cbb-4ca0-b016-445878704195@e297.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:d074c144-ae93-4c4c-9f9b-de9a15d68843@d074.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a0f6919c-14e9-4309-9f40-0a1311e71e58@a0f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:30e6ba5b-09f3-46d8-82b6-b0d94cbac4c3@30e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:455e7aed-c578-4902-a2a2-b1a33d56d194@455e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b0612908-f997-4467-89bc-841ce1ae9636@b061.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7d71e629-503f-42ff-8313-164db4638a3a@7d71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6d146107-7c3e-42c2-81e9-5dec13564e47@6d14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ed4c3567-ba19-419d-9a1a-e11a95fd164b@ed4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a271a5a0-a45d-4e12-a528-61af95e013e8@a271.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bacd04c7-f150-4128-bc79-c43a46821b2e@bacd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:69b62158-5992-4d45-ae87-c6de143c439a@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Beckerich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b49f7b60-e689-4329-ad0f-a1d5476e12f3@b49f.org
+END:VEVENT
+END:VCALENDAR

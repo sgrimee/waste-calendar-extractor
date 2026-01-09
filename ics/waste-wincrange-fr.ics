@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:14ea4586-d538-4c29-af78-9423f590d9af@14ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fb7868c1-28ad-41ca-b8d2-6470fabcea81@fb78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6396bf39-7798-4327-88bb-d5dae7d13f67@6396.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7e17fa52-deec-4f01-adcd-a28c6ade591a@7e17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e26d026e-15ca-485d-93f4-57c39f6daa3b@e26d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4059a0ae-f291-4ee7-84e6-ed21dbf8bb2c@4059.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:47c99eac-3346-4dda-941b-548340df29c6@47c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6fd2d1ca-ee69-4ecd-890a-040f52102fd1@6fd2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:61a86238-15fc-4878-b33a-62d96d688f09@61a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:286dcd27-3185-4baa-984a-57338a43d414@286d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a6d889e0-2fa8-4382-9ecc-c06a00b7f3af@a6d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:80d751d9-524e-4015-97ff-4cbacf8afc9b@80d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:761b81fd-4354-474f-8a12-dc0f05567ce3@761b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1aa94106-b6f6-48bc-a4da-87bc2cb43c39@1aa9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5608eda9-f92c-4af9-918c-2178e051e2f8@5608.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f8a1fdba-b9ee-45c7-a00c-f4be0f0e6aa1@f8a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1a3a78f8-cf1b-44d1-a0b5-a8e4d6b07c53@1a3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:5aae5409-3c51-4100-bc91-d2bf045e6ef5@5aae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:943f896f-7173-4d45-9626-adbc56b752e8@943f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:aac7b67f-ffb1-44a8-94c4-64d2c42778f7@aac7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2c9d6ad9-76af-4c3d-8a65-6955864ce1fe@2c9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:48067911-764e-4181-850d-d12fce707245@4806.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:c8c7d86e-624c-406d-a88b-6535eed81036@c8c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b33811a1-bc73-4067-aa4b-5a1688fb434b@b338.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:f2267dd4-ccf1-41d5-a3cf-740cbdb126fc@f226.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wincrange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:455d2264-b118-4d78-bae5-8e348029fe69@455d.org
+END:VEVENT
+END:VCALENDAR

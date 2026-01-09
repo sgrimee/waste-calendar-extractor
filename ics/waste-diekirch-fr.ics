@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:480fc3f1-fbed-49dc-933e-85e8ace87b4d@480f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3bf4016e-4e14-43c9-ade4-c30542a648a1@3bf4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2b95f0b9-014e-4eeb-b50d-51fc1260ee31@2b95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:024d927d-1aaf-4640-9fc6-f7ea75e32889@024d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c52bcaa1-7933-4e9a-8b2b-c027365f4acc@c52b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e1180d48-83d0-4726-aea6-88f0bea8de89@e118.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b81b34ff-e9d6-4ba1-a02d-e88ab8a923eb@b81b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:38e9c3d0-bab2-4c4a-9c83-78e9a353782a@38e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:42026e4e-9dd3-4d39-906a-361b2f6c3d53@4202.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:91550de5-4d84-4aa0-8c06-ff868dba5c8c@9155.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5c951f87-2e87-4677-aef3-27b538002015@5c95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a4763d92-68ce-4e31-90f3-ece9236bdbb4@a476.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b05611b9-3a76-4f26-9852-8dfc607bb745@b056.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dc12dc05-a5ac-40c0-99d1-24e276fcc15b@dc12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9390a917-d57a-4553-8c4d-49d5b3a676ba@9390.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2979b43d-f1ed-44c9-a3d9-6b69de3a72c6@2979.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:820cdbe9-dac6-4566-9569-5acfa6b4f095@820c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2acce801-1cbf-45c7-b32b-3d8e770ebc57@2acc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:eabcf7a6-b995-475b-b5ce-19380fd33599@eabc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4fb8797a-599a-466e-880a-bd9fd72dad35@4fb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f73e5e00-8359-40e7-8e31-dfc61b62028f@f73e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ede2e075-f896-4186-8b25-cae6411aa72b@ede2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8850208a-9b22-4bab-afc6-c0353c9e0603@8850.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:bdafedf4-2640-41fa-8394-a806909af479@bdaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b39cc4cd-eb21-450f-8d6e-ee4cc51bbf32@b39c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Diekirch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b621dc76-f9ed-450c-844e-5a1babed2c08@b621.org
+END:VEVENT
+END:VCALENDAR

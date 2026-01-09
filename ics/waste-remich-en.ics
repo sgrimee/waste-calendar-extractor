@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ec433361-978b-44ac-8cda-1762181453c1@ec43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ee463845-f15b-428e-9973-e4c2f8f05d71@ee46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2ec4cb02-80dd-4576-bbd9-6a3b189e99fd@2ec4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:65abc18c-b4c1-4543-b035-259c335e4608@65ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2b1afdcb-02f8-4c1b-ab4a-9739bb5d4c58@2b1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:14144a55-40d8-4e12-ab23-ad29a9321c52@1414.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:43845aef-25d3-4c26-bbca-73f8d03aaf03@4384.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8235e169-ddb7-4e67-bafe-5a409d78426c@8235.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:bac1ba03-f9bf-418f-8b5a-75c228cd137e@bac1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a4d420e6-bb80-4aba-8494-c115e2f9a75c@a4d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f1e9059e-eede-434f-9afd-4332e9b91a17@f1e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:43d655f3-204c-48a8-a33b-ed2b9d10edde@43d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:558aedad-f4f2-4e03-87fb-6e8a69bc105a@558a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:56d60e13-e5b1-4b8d-bcc9-5d8e5f6f5ccf@56d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7c1d6c4d-28ea-4110-9681-b2d49d115147@7c1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:47931da0-46f4-4dd6-808e-d461eb7aa164@4793.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ccdf3b50-8dae-45f5-85f9-ed3c3b77ec0e@ccdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f632ffae-00aa-4347-a563-66086c67d555@f632.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3f955001-8bf0-46ca-adf3-d94cb24e35b9@3f95.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:54e940bc-91b2-4052-be5b-9c1c695d0db7@54e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5db59e9c-8a66-4c8b-b0f9-31f2fec1178d@5db5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:174c8327-0b44-4b7a-8eb0-d075f6341a1d@174c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c76014b9-885e-4d72-82ca-0c6056413786@c760.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c66b2ffe-e539-4b47-805a-e14c31d2a7aa@c66b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e929712d-7e88-45d9-a7c0-93b45043a50a@e929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:956b2299-d4aa-4e9a-8b04-8c7dd20ed1d9@956b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9583f052-25ca-479b-a467-d679218eefac@9583.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:423dac98-b165-4d17-a885-b02fb3be791c@423d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:11ea5c29-6419-48f0-a0f6-5d57de1a65dc@11ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8ca019bd-363d-424e-bc0a-a053c6fc6862@8ca0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:24cebb42-75f0-4429-975f-c78798f33fb3@24ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f7ee6a19-e8f9-4e6b-b424-05761a33b30f@f7ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0bbe61ee-bd7b-422f-842c-c5fcb519eadb@0bbe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f15b5170-c937-4b67-a7e6-e2cb78fa9ef8@f15b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bb1f5733-0981-43bc-afad-84d4efa8b28c@bb1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:da0e137a-5294-4b57-9cf8-cd1505a71012@da0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Remich\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:cedaecd8-6eec-44a1-a1fd-4fed2dad4e5c@ceda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:64a5039c-4f47-46e6-8928-a76c98538db8@64a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6ebb1bc3-bf67-4c9f-815d-35a07c2eaa08@6ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:9cb40a72-0e2f-44d9-8476-1693d0858e1b@9cb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a133f2fa-6980-45c9-a3cf-ea47190680c9@a133.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:88e932b2-c745-48e6-8141-bb323ca977b3@88e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:67478dcb-0886-4594-b5fd-0af894354b4e@6747.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Glass
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e3999475-b8a6-4372-bc66-7fa585c95cc9@e399.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:698514d7-1c3a-410b-a633-c87c215a0445@6985.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Remich\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:3e7d14e7-005c-48a0-810d-66b9333d634d@3e7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fd92d00b-39d7-4a32-9385-2ab3c7190749@fd92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Remich\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e7f5d038-b1d3-4e83-b6b7-502989b5cefd@e7f5.org
+END:VEVENT
+END:VCALENDAR

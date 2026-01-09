@@ -1,0 +1,539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e659f701-b4a4-4d37-be13-ed5366c527ee@e659.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:d3cfb736-48d4-4457-8403-52235016371a@d3cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:668c6967-7d4d-4331-b4cf-1c01edf1c93d@668c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:39add187-b466-4446-84a4-a84d2df90956@39ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:91d6c29b-3f66-4375-a55d-17fa19779b94@91d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:5fceb5bb-37d9-4a97-b212-93e4ab541324@5fce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:bea0eb75-d3b7-44ee-bad4-40f5eb380893@bea0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b892044e-4936-4b52-8ec3-0aa79dea6438@b892.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:61bb9384-0173-45c5-8b4b-97190e7186f8@61bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4207edaa-eeed-43f3-893f-25a66b8a0b24@4207.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:95f91ec0-2b5f-4004-b7f3-81dd781e60a9@95f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c3847ad5-cf93-4c9f-9693-eca66b0e73f6@c384.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:795c5b0e-46a6-46c9-9428-8aa9c628c168@795c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:e4c8d850-7301-4201-b74a-5f358bd6815e@e4c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:8797a442-cd0f-40b0-9142-23b6f22df799@8797.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a1fd463d-86fd-4f94-8638-813e13aa1d99@a1fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:77f21472-bfb3-489c-8648-2dea57b7a9f1@77f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:339c158b-29f3-4b49-b08f-bf5bf3f6854d@339c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:80b0364c-cd8e-45ff-8912-83e50ce9fc70@80b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0be88366-ee6a-49e6-bd44-c0a1c01bcfbc@0be8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e4ab788f-3aa3-4062-be01-b17c223dce26@e4ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0e6af130-9d12-4dcd-8d1a-fd692c593ec1@0e6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c82dea3e-10ae-4f2f-b029-351e29b7908a@c82d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:38aa22a2-5da5-4d9b-89ca-8ee39217e690@38aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8ab3b349-7d31-4527-a5bd-bc235009ba44@8ab3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8c5bc7d9-fad9-417d-b510-f86525487377@8c5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62271365-c0e8-49f1-8a85-4dec7b8ae4d2@6227.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b0e9ef5a-dfea-453e-a0dc-8099a2012874@b0e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3cbc52f3-091e-46c7-a4c2-02813e07ce04@3cbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ac0f5978-89be-4fd3-8562-30d796041977@ac0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:6c0dbaa3-2873-4366-8b73-e751dd9b2043@6c0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:f394814a-933a-42fb-8c46-2f07ce7c74d6@f394.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1038144d-0d1f-444e-b417-21ea4f83b719@1038.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:fa3968e7-5866-4bcf-9848-2ff2eaf6423b@fa39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:7b07f287-1b03-4855-aae5-dc1c3340fa73@7b07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:eb129584-3e1a-4ca2-a1ae-8f96f718d3a7@eb12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:19a56edd-7389-4400-9378-b6adaa9a28d8@19a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a71987af-48e4-44f4-be6e-7bd9ebca74b7@a719.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:aca198d3-08ad-4adc-af44-75f2bd620cb0@aca1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6b9250b8-5568-45a3-932e-ef46faed5cb7@6b92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4e74b27d-a23f-4de0-9f66-37fc1c69ee58@4e74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Glas
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:219a792e-ccd6-417e-bd13-a14ce871859d@219a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:893059fa-f971-48fa-a8d6-51f7505944fc@8930.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9fb8a020-c7eb-4cec-9824-0fd0220521eb@9fb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:79397435-cb22-40ee-9a53-c9178146d9b6@7939.org
+END:VEVENT
+END:VCALENDAR

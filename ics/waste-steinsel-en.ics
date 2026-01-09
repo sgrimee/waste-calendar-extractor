@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fc25d460-1aaf-44d7-822a-fa96f3b5c9cc@fc25.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a7c0def4-7f07-41bb-a054-c7aece27bb4e@a7c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:af609511-8db9-43d9-a8e2-907d955f59aa@af60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ff6b0529-d325-47e4-be0c-a3dcd3756867@ff6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Recyclable waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Recyclable waste
+UID:ef7669ea-1f0c-49c3-9453-9b9f15104e60@ef76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ee92a7c9-88df-43a2-8fa3-7658125eec26@ee92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3571ba14-8df0-447f-a073-303bc2375748@3571.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c8ed11a1-d1c8-42c2-97cc-ecfdf18c0ccf@c8ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:61465dc0-8a2f-4c08-83bb-b318dd96b316@6146.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5510ce1a-3ea1-43ea-8114-dd4f58e3f02a@5510.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:2ce6aac4-bb6d-4141-86da-6096357d251f@2ce6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f22833cc-a3df-4225-8607-c4b9b391dee0@f228.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:8e63286d-51aa-41ef-82aa-ad517cdf1436@8e63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fa6f3ca9-66b6-4ed0-a6f3-255e036b81c5@fa6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3a111bc6-b402-4eb7-8be1-5a35ce1a10aa@3a11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:395087f7-83bd-437f-8acb-8587d99070e7@3950.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:f8dcf03c-7090-423d-8c77-3b592737578d@f8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Recyclable waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Recyclable waste
+UID:f01c0968-cdb0-4bb2-944e-f57826f1f2ae@f01c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:ddef8f68-8a62-4d2f-9cd4-904a8e747815@ddef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1d064a77-2cde-4aa2-b440-cd8380cba7f4@1d06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a2f25a50-5113-41c7-9b9b-d1f1e30b23d7@a2f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e5339588-8ecb-4526-9712-77e6a9aa2a1d@e533.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3114e5a5-273e-42c9-ba98-4f8ba690ea97@3114.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b5fd4ff9-4e20-4b6e-9ac8-9f58c8ba1c4f@b5fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:f56c28e8-a28a-4723-9be9-00e2f8151bed@f56c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:2aa3bd01-b84a-4d77-a139-bd5eb6278055@2aa3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f2ba6c25-831f-444e-921e-8ed06a4cd78c@f2ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:27e3ea90-c58c-4aa3-b9c9-65c9782ca7e6@27e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glass
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:76605e37-f13f-4d21-bbe6-0562d5d4f399@7660.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e5a84631-1b5f-4fcf-b0c2-feec5dda7116@e5a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2de3125f-b9af-4853-97d6-551bb1a9c74b@2de3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:6280b694-484b-4f05-8e81-b5803c716039@6280.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ddbe384b-510a-4319-86d3-161af91698ce@ddbe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a3f92952-6972-45b6-b1a0-edfac8654faa@a3f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8f695c08-bab2-4bb9-a550-1d58613bc5ed@8f69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:dabf7f43-36cd-4103-aea2-4949b8e25b28@dabf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7d29e0e3-09a9-4fce-ba82-6ace2eb58e4b@7d29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Recyclable waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Recyclable waste
+UID:38d11484-fe56-425d-9e9c-cfc0c7ff9fc6@38d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glass
+UID:da1d77f5-753c-457c-b037-3d8f23c8ed33@da1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:dee49f77-145b-44d5-bbf6-c5bb51591282@dee4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6b1f8a8a-36e6-4244-9c7e-d99a04806348@6b1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cde9b790-3696-4067-8a21-bca6b5b4d1b6@cde9.org
+END:VEVENT
+END:VCALENDAR

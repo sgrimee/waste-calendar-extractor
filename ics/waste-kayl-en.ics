@@ -1,0 +1,452 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glass
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a4dca49f-226f-4e64-976b-d0a333c17996@a4dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6b61b299-ec0e-4dca-8d98-cc60e2eb7022@6b61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:29c5e3a3-778e-4f71-86f5-78296548a796@29c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:69f454cf-33a4-4ef7-8e12-e10e766ea5cb@69f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:71b5e03b-85ef-47a8-8e48-fb90a373edce@71b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8e371e2e-c0d3-4d08-b89a-8c5db676e72a@8e37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c67e6dba-5502-49a4-ad7f-91b187e30f23@c67e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:5b29cf07-5d4a-4727-ac5a-ba17997a3be5@5b29.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:e5fa552d-318f-4631-aac4-f3a01b5bd7f0@e5fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c90cf87d-19ae-420f-b449-d40705e29701@c90c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bcd9009c-0f89-4bfe-9604-5a2327d3a9c0@bcd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:56a083cd-d9d9-4a41-8538-bb3599a543c7@56a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5a210d4d-45db-4541-b5ad-709691c46c5e@5a21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:84861356-5dde-4ff8-8efa-fe95e2191cdc@8486.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:25e2a20e-6ce2-4d45-acc4-bd972984ba9f@25e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f610817b-d4ca-46b1-9b17-dc6b97f38153@f610.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:598beebe-48b7-4221-83b0-dd27a724d4b7@598b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:a36deefb-68da-4f13-a520-ae0802f3bea2@a36d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5cd174de-40c7-4801-838d-33e051295679@5cd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7168acf2-d1d9-4602-8e12-dbdbe74ea78f@7168.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c934be65-964a-40fd-a757-58214625c1b5@c934.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:08795b5f-f221-4eda-a215-d5843a676f19@0879.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4ad3e192-d5e4-4e1d-8ee8-344096fee9a1@4ad3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f8fab592-62ae-4464-a9a1-8e67de7df0ed@f8fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1fe81814-994e-4a45-a548-a4c2f8b80f8e@1fe8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1544f569-ecde-4776-a778-c8929a56acfb@1544.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2a819dc9-68c8-450e-852e-64d3ef44dcf6@2a81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a4d32033-42b9-441d-be83-2e32d5650ea2@a4d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bcae7ef7-8879-49d9-97af-d86d49ce51d5@bcae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b5c5b3b9-11e0-44c9-89c1-4ea5b5e33e17@b5c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:69b644cd-2542-4d44-9f50-fdd1c7bcf576@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:029a934b-3053-4d00-9735-0f64cf29520b@029a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f3089dd1-9de6-4877-96cc-c40a5cc35cd5@f308.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d1a327eb-1c55-4008-ae2b-eb15bf5d584f@d1a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kayl\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:78c06891-4ba4-445a-be73-1e5dbbfc3c84@78c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:92b2f813-198e-4f15-b74d-724e847c4e6e@92b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:baaf48e7-db93-4518-87ea-41a510f81a9c@baaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kayl\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:07fa33a1-69d4-4810-801c-384ab2d79e49@07fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kayl\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:86d48fac-8875-498c-9c55-92959685174f@86d4.org
+END:VEVENT
+END:VCALENDAR

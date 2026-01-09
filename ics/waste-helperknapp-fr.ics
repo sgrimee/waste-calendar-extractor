@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:61818b3a-245a-4052-96bf-7d170c6e819b@6181.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ed23ee4d-e97f-4697-b465-cf30ae2145f3@ed23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b47f4c67-506f-4d81-b829-86398dfec9a5@b47f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6285e468-2c77-4a81-8892-ecd7385b8a63@6285.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3d893320-40bf-4d01-93a1-a62a1510b0ef@3d89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:69b5b2c7-a90b-489c-88d0-efc9d1ffe8ab@69b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bd0f6ad3-90d1-49a9-9079-f50e821a5466@bd0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1f70f0d4-9138-429c-8283-c9e3aa002d44@1f70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:357d7453-59ea-47bd-bdea-5021248181e3@357d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:69aaeb90-d09f-4269-8cb5-cc3d34a4d378@69aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bcc97686-bd34-4816-bb7d-67261673218c@bcc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6aeebd5c-eec9-4ff3-aac7-bd0e30a1cc4f@6aee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1395b7cc-3ae5-4590-b180-f56ca29e7852@1395.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1f8997e7-e54a-43ff-8df8-f3c8a149d308@1f89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f27fb29a-365b-40d6-b649-b44c0e75c2f5@f27f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b1aa8d31-0681-43ff-9b8e-df9e46f40504@b1aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e24f3571-fe73-4cc3-98cb-c385adc701ed@e24f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verre
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d6215875-af7a-4347-a060-9a89f213036f@d621.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verre
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍾 Verre
+UID:30ba1144-0afb-437b-a3d2-23d6a3c06be5@30ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c21b574b-4a65-46d5-9da6-2dd4d3543560@c21b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:6d66ced1-1fa2-4b86-b30e-acaf771a2f5a@6d66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9a68a9db-f348-4bd3-8762-4698f998589a@9a68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:52d259c4-6afa-44e7-ab12-011a32585ea0@52d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1cd180bb-12b5-4678-aa8a-5cf8e1fc611c@1cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:2c690325-f0c0-4696-b9b2-14bb4a878033@2c69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a26bf6f4-9c73-4e8e-abc6-e7cc2e9d8a5c@a26b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Helperknapp\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:33969b6e-f04d-45b5-97a4-a0f56837c9b6@3396.org
+END:VEVENT
+END:VCALENDAR

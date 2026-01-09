@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:9aca7db2-d372-4ea2-b108-df08e9d24a91@9aca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f0d09d5f-50be-481c-85f0-4bfda53d8ade@f0d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b9e6c87a-3663-46ea-a06b-eef5b00337ea@b9e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:8b18b083-6f49-4c1e-99ca-4575c8823613@8b18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:83e631ba-6ef0-42f2-8205-e79759bbf77b@83e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:cd862d5e-c308-48d0-ab48-cb112499bbbd@cd86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8301ff10-9fb6-4275-9852-c2cb5c96fae7@8301.org
+END:VEVENT
+END:VCALENDAR

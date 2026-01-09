@@ -1,0 +1,578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8a826c6c-ba05-4371-90b9-4b9bf1c16437@8a82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dd6e16bf-0664-4efa-8fac-a6026dcd8556@dd6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3dc33149-dff0-44b8-aee1-80dfbcd77966@3dc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b79989c3-5c99-49e1-8cdd-a15937f5219f@b799.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:785258cb-e78c-430e-82ca-5cf0228422b9@7852.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0ad0004a-b791-4263-baa4-83e940c001c7@0ad0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8454b6c2-b456-4c52-8adc-2ee7e75e35b7@8454.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a93b2d75-9a8f-4f00-a721-fd27f22d5175@a93b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4e209026-96c2-4f90-a81c-3605d00acf46@4e20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f9290e4f-49ba-46b8-ba83-1b7312f4ed7f@f929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1d88556c-5c2b-469e-bf60-e4f5aa177a42@1d88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:3688da29-46b3-40d2-9cae-d385310db3b0@3688.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e0b1e53a-075e-4c2b-aa09-3a313059d6e2@e0b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2b3fc643-2d76-4740-a5f1-e9c29efd8165@2b3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5ce70d4b-b72c-428d-9ba4-e930a5343b99@5ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:1da88b01-561d-44f7-ad8b-e5a1d29192d4@1da8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:aa8b6389-e85e-4df4-b7d4-3cb4e9942f9d@aa8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:67765636-5cf2-4119-b810-17cb708d9d73@6776.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:499b4ebc-8b3c-4370-b343-c7222c9b0aec@499b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0332900c-239b-43a9-b121-79726e931997@0332.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9bbf79c0-bd34-4706-957d-c180a616fe9e@9bbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d29e8103-72c5-4cce-b07a-96a2fd668576@d29e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:1cc94d57-1e29-477f-b191-0094eb836450@1cc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a37f6353-e20f-444d-a933-5a42d4c6e2aa@a37f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f75c2b8a-b91e-45a7-953d-60e3ac3f63ad@f75c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:132f6046-e59b-4d7b-89df-dbc7edef9916@132f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b4554ecc-40d2-4d3b-a8d1-3485250bba70@b455.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6144a2a0-4533-4b39-b43c-93b4b46705e2@6144.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c1face6c-f8ff-49b6-888d-3d5244be5910@c1fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7e5e7afb-47c9-465f-8b94-86b1d0399397@7e5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:188fc5c3-bb0c-4ef0-be5c-f08e1bc9358d@188f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5b40f245-753c-4bf0-9327-85497bba8b0c@5b40.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:106c601f-9b1b-4d22-85a8-162eb1da19ed@106c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2157602a-20f6-440e-beba-4bde911a0a28@2157.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:926ec0fa-049c-44fa-a033-b9e8f02edf14@926e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:93243634-b908-42d4-bb94-5658c1fd3804@9324.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:3cacf191-1e5b-43c4-8b87-cebd68025b03@3cac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6d712ecb-f165-4bf2-a980-dc6fcd1e4258@6d71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8c27c5df-5fd2-4a4c-97ce-c5f9bb2814f3@8c27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d7e0ce4d-8fbd-460d-9990-be0546ad3e1f@d7e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0f9bd632-b396-446e-b72a-f94541215606@0f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:b1e7900c-6af0-486d-8832-4594e0b8d730@b1e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1ef361df-0dd6-40a7-b2ab-21b6f7a6ed23@1ef3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:98d2c941-5e48-41fc-a0a3-1cb3de340a2a@98d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:c4ca9e91-30b4-442e-9ed5-b4caaa723ef1@c4ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bdd99fcb-7c61-41c3-aa05-e9abc2bb75ac@bdd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:181d85e7-9ba4-4def-ac12-de83fd5c4849@181d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:06bc8a02-6af5-4a10-8492-eec9aee25b49@06bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:f961755a-24e9-4dff-90b7-984224201640@f961.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:33b00c2c-2bc8-4ffb-8dcd-5126fa497071@33b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3e4afbe9-b00a-434e-974a-a56b361ea02e@3e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:daf02bf0-ca64-412c-84bd-ea1b3eadc25c@daf0.org
+END:VEVENT
+END:VCALENDAR

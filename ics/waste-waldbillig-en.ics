@@ -1,0 +1,539 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8bc98863-4daf-4677-8ae9-98f5ea18b029@8bc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f5265eaf-ed8a-4a55-a884-8fb7021b3cd9@f526.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9f65b158-fded-45ec-996a-113cb4a3a12e@9f65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:66cc52cc-55bd-40d8-9af3-f748f50e47e0@66cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ab2ca6ba-7d92-4007-af7a-e28333c86535@ab2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7f0f4a3a-9a9f-434b-a08b-5425ea067d33@7f0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f1991bce-ade1-4a8d-8304-a33656923653@f199.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3838f8ee-84f3-4092-b5e1-46e48ea34843@3838.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bcac7b40-f6b3-4a76-8201-a6dda21a70c0@bcac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2fdeb6b7-1ea6-4567-9cc6-4ceb19ec0cf1@2fde.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7330a3e1-51e9-4ae0-9129-70728384a1f4@7330.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0bb7ccee-f293-4f53-9310-c61eeed64108@0bb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a2739ffb-22b3-4187-8dbf-2cad9429efbb@a273.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:96990422-c6e0-4073-b607-bfa0e2dc7227@9699.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e45c01d7-3e5d-40f6-8a7b-4b67a737d9f5@e45c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:27d8fc76-f403-4836-bd3d-00678d49da09@27d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:78a47857-8e0f-4701-9687-d59387c43bf6@78a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5696aa2d-83d0-45ac-b00e-ba37ffad9795@5696.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:73260d6d-b0c2-47db-b79c-cad4f72ac661@7326.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5fdba060-2b88-48a0-84fd-41481d1f66d0@5fdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:fa23dbdf-de20-4584-badf-f6716d304822@fa23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d6de4c85-e349-45d8-a607-87a556fdeb8e@d6de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e8ba20d3-b7a2-4b62-9d7a-5fc0c38e67e9@e8ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:82f8e523-600f-467c-b9ed-b042d0c344e8@82f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1dc8569b-e56e-466b-93cd-5aa491d88920@1dc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5781e854-fc04-4efa-98c6-49aa07d97675@5781.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:17de6822-954b-48db-bf58-68e1e3760b61@17de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:90a29c41-3c6e-44d8-8b7f-772e9d5a5665@90a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7c341e7e-ddeb-42da-adda-cc80e732d682@7c34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6593e7e8-a687-4d24-95f4-b2c18751c1a0@6593.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d51d5fe5-2c61-4ef5-8eb0-8bcfbac61420@d51d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:74201812-1405-44df-a2f8-d477b6dedb6e@7420.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f6cd43cd-efb9-4ea4-9369-27cc4ae73ced@f6cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d002ecd3-42ae-4550-b3b2-39a8d4a9a1db@d002.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c399c45a-cf04-47c9-9b30-d9d69a099d56@c399.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:b3d36b24-4012-43ea-9ea7-8c2bcb7a18b8@b3d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:635a88f8-a50d-42d2-95d2-ac2976983c53@635a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a9459aed-9526-4d00-a4b4-c7bca97f0282@a945.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f53c4d09-8f6d-4a60-a6ad-899fe3c6201d@f53c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:52e363a0-b4dc-4694-82e8-3efebc9e24f1@52e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eae99df9-2132-4b28-8170-eb2b39c21c12@eae9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:12648bca-8f4f-4354-9ee2-f0c93c724919@1264.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7cc727ef-457f-43ae-8fe6-931b31a1e17e@7cc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7c2e9c8e-9be5-4b2c-ac1a-871010d45677@7c2e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Waldbillig\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c25301f5-3f12-4a18-841a-c1847d9d6fe7@c253.org
+END:VEVENT
+END:VCALENDAR

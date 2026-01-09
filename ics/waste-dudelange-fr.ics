@@ -1,0 +1,1775 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cde2c524-3420-4090-baec-3161ccc06993@cde2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eec23c02-3139-46b2-9a4d-0d78357c8d9a@eec2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2858445d-508f-4402-82aa-ec12774025c4@2858.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bac22e34-e319-4d43-a8e1-f7e7257cdf94@bac2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8b915bde-c69a-48eb-ab2e-2d3f0994a01e@8b91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:39c81a35-fd30-496b-aae2-69a50a1091b4@39c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bfbc91ab-3ef6-41bf-af21-e986c0085b9b@bfbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d6a70352-204e-4ee3-a648-9320016988a6@d6a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0da36c75-d5bd-498d-9b57-26a48d14bfc6@0da3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9bb92171-cbce-4543-b052-8b80720fa5f6@9bb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:04b5e6f0-c258-45f0-9e3e-a7e6376b4b67@04b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dd7ae7db-35ac-4413-ac36-6687bbf19756@dd7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:646d9db9-ba70-4433-ad68-6058aa8383d8@646d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:be08dc21-14b0-4c85-9444-8dc61acc0db2@be08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:34345b95-222e-4770-8c6a-a0f3e1891c34@3434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a86bf0a8-8593-4ab5-b479-9c8b12d8f335@a86b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f3d5b166-c140-475f-b27a-16dfd60e4ad9@f3d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3d365699-0efa-4596-8fc4-1a91704d4aa3@3d36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ea272421-3869-4c4d-9957-31af793337f4@ea27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3051bae1-82ab-4e3d-80db-ce50d5761557@3051.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9c407044-cb53-48ae-9fdf-3b2aa6e308a2@9c40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b7b7c030-3925-42c8-a786-8e4b34bc522e@b7b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5554f352-e98c-48ab-9451-a1fd96c300ef@5554.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f14b404b-dec4-4f29-a15d-61e493e1e1ba@f14b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:58455e48-155f-46c0-9ca0-fafa67c66be5@5845.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:765a697b-ff09-476a-9671-a147454a61f5@765a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:33fc718c-a470-406a-b421-db7ac4a2d0f7@33fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ad215fac-0b6c-47c5-95b2-b88058c5e961@ad21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:86edbf29-c742-4d47-bfe8-cc7b31c5ea02@86ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a8463245-f6bf-4cef-a624-6d056c675cb7@a846.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0c0a86ec-5098-44f6-8483-7bd523e9bb75@0c0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:855099e2-48db-4da7-b03a-15fc1a70b270@8550.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:25523cd5-5b43-4e7c-be35-7b00f1fb0981@2552.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:24d7cf23-f5c2-4d11-8291-13dea8d42303@24d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2986576a-fdd4-49df-ae02-615e2579bceb@2986.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:13aacf2a-dea9-449e-b0ae-9dc622488cae@13aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a30812f5-1788-421d-9b4b-23f97894a271@a308.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e3a9eb87-814f-489f-9d8d-0bcefa90c918@e3a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4a0ced5d-f7e8-4ca2-82d9-7af2efbf772e@4a0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:90b3ecf9-367b-4b38-94e1-cdae50e36196@90b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:262f5226-6ba5-45b8-8775-433f10e7d069@262f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2148f609-4612-4e65-97ed-d48c028b1f35@2148.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:98d697aa-c455-4e9f-8f1f-894bfd72c8f6@98d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e9413b42-0f3b-46ae-9fcd-307b54b3c3ca@e941.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d543703c-06e1-41c8-a92f-c553adc09779@d543.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e619464b-908e-46df-8600-05099acbc882@e619.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ad745098-1261-4ee1-a8b9-f7402de77868@ad74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6728dcef-76d8-4286-af8d-2c975a73e507@6728.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:05e2cdcf-cfae-42db-8d8e-b905a7929d97@05e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b87f7e49-02a9-477e-8ae5-fdd06ce151f5@b87f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8e3c1e66-7ea8-4077-b75d-cf09cbc09b9b@8e3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:04566e37-393a-4b70-b8bd-f0c0dc539ea5@0456.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5e2b5d57-a3dc-4f9a-8a35-69532930ba50@5e2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4146a30e-e739-4738-9efd-3a04df49a6e9@4146.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7f26e805-74b2-4ce3-95b3-b2e17498e9ff@7f26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:21d6b864-41c4-41f1-b8d7-a2229c06a6bb@21d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a786cc29-cd15-4ff9-92df-e5747fa5ac88@a786.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a598a6e3-0416-4014-95c8-73af19ce8a6a@a598.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:05d8339e-488e-4b04-b1e8-a4082d4ea7a7@05d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:79d7a14c-e84d-42c6-9150-4223c7597a92@79d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3cf00c2a-0e5a-441f-8fad-cec3ddebcd6e@3cf0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:873c8637-47e3-48f0-9685-dd1c70ccc050@873c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bc9dfac7-9448-4b8f-b2d8-324b8d46c764@bc9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:babf89a2-a150-4052-8d41-0f568e7a01ca@babf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a9cd2829-dba8-4240-9d35-8107617c6446@a9cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f208622b-9d1b-42fa-83bf-cd490ab26943@f208.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2cc1f9ae-48f1-42d3-894d-2619c6ae2943@2cc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7427aa05-e046-4c26-905f-20c3d358a6af@7427.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:486a9d6e-cf98-44cf-9a8d-970b574b9f94@486a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:af8eecdf-259d-4e09-947c-bc443fc023bf@af8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6482aeaf-3362-4532-a7ef-8029e21d6b8e@6482.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:833fd488-a7b2-4409-b439-cf200363f00b@833f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e3e35ffe-caf4-48b2-afc8-e79e32288312@e3e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d4aeff84-3c8b-4a47-b7e9-531e057540b2@d4ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:81d34d4c-3c5a-4eb8-9a4c-832e623437ec@81d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:00b8e3af-7349-4330-8bc3-7136b3de3ad5@00b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0498c567-003b-422a-bcbc-8905631968cf@0498.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eb6df19e-af18-4184-9ba0-8bcf9ebfc044@eb6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3aa69864-a889-4bfb-8e9d-4f080d60d554@3aa6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:005cde23-d42f-4809-8a13-173db9e00e71@005c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5440d69d-7b02-42af-ad2b-6f46d7000de6@5440.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e4641ab2-86b5-4525-a78b-dc1a03ddac61@e464.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:681aebcf-51d6-4111-b074-fb37c226e447@681a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4b5cd805-6590-4ad4-8c4a-3cbc1b5e613c@4b5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3a91af65-d20e-4eaa-8281-4078853c49b1@3a91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e63b5396-047b-4a3a-8b75-5bfbdeb3a762@e63b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:68d3c3d7-adf4-43b6-9a42-6e1e002f26fc@68d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bf29c88e-fcea-4eab-a3c8-5f51090f6bd6@bf29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0ced4ebe-6f25-4763-91cd-b3ba2cd696e5@0ced.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:24b03995-b530-4899-a41e-6a5cb3e07083@24b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:aa3dadbd-0973-4bf6-8d78-a4bf31f53019@aa3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9731b0a8-8e27-4f76-8c63-f503ab153d46@9731.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e02da5fb-d5a9-4b06-8eb9-cf6416d6f208@e02d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6fdb6aee-e6f3-4a1b-99df-f6d39254f57e@6fdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5ce8e135-6008-4234-a345-45512958af4b@5ce8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f20dd0c8-7660-49ad-8848-a2bfcacfcde8@f20d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a2aef749-e800-460d-bb50-10735d238e04@a2ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:213a5397-7f55-415b-aa93-87e2a1a76c37@213a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:df641b38-ed1f-4cca-ba4e-45969bb058d6@df64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:715cb926-1e53-4dae-a244-81e10ef9b272@715c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1e16184d-eb2a-4a3d-be46-93b3de4bc00b@1e16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c6ce3652-4281-4637-9aa3-2bb39929c8a4@c6ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3b8c2982-cc53-4323-a929-5ddc4c7de8b6@3b8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9d6cdbee-338e-4bb4-8393-47d84f67166a@9d6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:04d49181-c2b4-4783-97a2-fa4c0b6d8811@04d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9f4f2fa4-70ff-4851-b653-4c0fe62ce44e@9f4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:06feafb8-289b-4203-98f6-be6ebd3b0852@06fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:de4fb3b0-4f33-4037-9008-40e6757b360a@de4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d57ab822-7e04-4b6c-9059-6a1fa8e7d0ce@d57a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ac217e9e-aa87-489f-9c71-571155c04535@ac21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:70f5e8b2-b06b-48a6-be55-6f5eed2b26c9@70f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:15926ba0-7b64-48b3-a013-4131456b3236@1592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:978b1023-d17e-4447-986e-72cac35261a2@978b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:444d2b3c-a33f-4dc8-9399-a832bcdf9e79@444d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:250c36d7-add2-49fa-acf1-1e54a02d8e86@250c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1dd82d9c-aba2-4b3e-9860-63a209b6cf11@1dd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:14536a05-20b0-41d3-b857-9a70ad573399@1453.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0ff71a09-ddf5-4332-9814-7011f04cc16d@0ff7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d89b0257-e526-4126-98e0-5fb37a2e4279@d89b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:38f2c151-7c63-4693-99c4-cd4571195647@38f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c1f03030-b15a-42b0-919f-d23230ce82cc@c1f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:93238bd8-1057-4f53-b64e-db81675a77e6@9323.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a219042e-a76b-4323-92e2-d637c8c17534@a219.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b46c058a-7161-47a7-a016-e01254dbf49c@b46c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bdc4478f-18db-4abd-aebf-0c23e3dd7fe1@bdc4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2eb15cf1-2946-401a-af62-ee23bb86a7ba@2eb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:427a3e6b-7d2c-4cee-b48e-f353982f2276@427a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:488d5402-df12-4940-af6c-23e51dbe355a@488d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d8e6222a-cf8f-4e98-ae7b-fdd4e9507d39@d8e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ff340ac2-130d-47f8-97d4-8afed72631f9@ff34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1f5680a4-c62b-4b4b-8e5d-016721cde34f@1f56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4be54afd-1c38-48fb-872b-37ded916db16@4be5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:45dca14f-1f41-42e3-8ee5-3f639b773ebe@45dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:478ecec4-15bb-410c-8c31-612a61d26226@478e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:ec65e604-0d1b-490e-ae55-f27768f7ecb1@ec65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b108755c-ed25-4666-a6bc-8300457912d7@b108.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7c49bff7-04c8-43bf-800a-b1b1697464df@7c49.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4ab040b2-af14-4115-a1b9-96e3853bf60a@4ab0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2c6c17d1-65da-4f0c-b55f-a51ac4f383f2@2c6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fe688330-4c6d-400d-b68f-4bf058297719@fe68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:33682e30-505f-4473-89a8-0dd17cbcca12@3368.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b1817d36-2ea5-495b-afb7-eb3c81174888@b181.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:92f7202b-c729-4ae4-ad69-8d2a730261a4@92f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eed32568-b7b8-46cb-969f-3bbbbf436d12@eed3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9c905e7c-9950-4a98-8c04-3d65fd2242ff@9c90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:46950f56-8e1e-4d99-80c4-2bc7875c03e0@4695.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:73790949-66a7-422d-abc5-f71e539ac7a0@7379.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Dudelange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a1d52968-70c7-48da-8db1-9ac9d2cc662c@a1d5.org
+END:VEVENT
+END:VCALENDAR

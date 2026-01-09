@@ -1,0 +1,534 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e77b8165-15ef-4fb3-a9d6-52aefbcc0fbe@e77b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:468bdbba-af40-4c8d-b304-449145e20695@468b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:acd56738-8c0f-466e-9b90-91ff9e3666c2@acd5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a5af3dd8-226b-4251-a00c-a47c2beff6ff@a5af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:70dde897-3375-4d5d-83b9-20f355f1fbdf@70dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1ade5702-c159-47af-b917-0c6abd7c59ee@1ade.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d6dbed32-4f4e-487b-869a-344179ec8e7e@d6db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:756ca0f4-2898-4943-a087-f2aaf6026e7e@756c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c29d9265-c27a-4043-9de9-8eecc32798f9@c29d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c2d2dbd5-2ed1-40b0-af84-97435b459094@c2d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:37857643-3b4b-4b90-bd25-cda5d49cdc97@3785.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d7e00271-ce29-415e-b412-117c15936ec1@d7e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:076e7471-c98b-4c1c-86e2-988360606f0c@076e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:37fbb42e-12a3-4dcd-a489-3c7004e61c7e@37fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:26167a5b-d98e-4347-b70b-3471ad663c64@2616.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c12db533-8ba4-4b03-bf55-7ded2e04db49@c12d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a83ae272-a022-473a-b156-302a6f0b06ba@a83a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0d4ca686-1a6e-4c1e-bd7a-0f37c5cb0a98@0d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:ab234c36-2d56-4838-84c3-ff90e6e1c9b5@ab23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:dec93304-1ef5-4202-9975-fee104e6de62@dec9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e6337064-1d41-4e62-96c9-e995fb02e396@e633.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:16bb058c-6cb3-4561-a628-10e585f378ed@16bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f3150102-1987-49f0-9d60-04c5552b3392@f315.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b2fcd62a-19c6-427d-86fe-3dd3f8564be6@b2fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:1748eff4-555f-40b0-a566-08fbb6525591@1748.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:93bdec30-eae7-4eed-b357-5f0add37050f@93bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:295f122a-5f9e-4ae6-8f5a-c1cb55e09f12@295f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:49135fdf-3f6c-4a8e-b8c8-ef62774662b4@4913.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2e21ea04-08f7-40e6-994f-40b1d3d58de0@2e21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d1de1392-afcd-41fc-819d-485470f6c638@d1de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:375ff6ae-ad8e-4798-968c-3ea6011734bc@375f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:69ed68ab-9b7d-419a-a399-94bf2a3d8289@69ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ecd148a2-4f63-4cf0-ba9f-26b9e8377975@ecd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3a98b321-1136-46cd-b256-ea9b591432d8@3a98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a630c7b3-3926-4ea7-8537-9ef6e0bd5324@a630.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6779dd4d-14a5-4af7-b4e3-f84796a4e4f8@6779.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fbd8e6f3-b638-4dc2-a1ed-3678307fca3f@fbd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:645b7311-351c-42c3-a325-f3ba60cc48ed@645b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c1fe9b42-62f7-425d-89f8-1c2801a4a4fb@c1fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:618d96ba-ae48-4be6-8866-157a3b75ece2@618d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e8f7302f-9ae7-4941-bb61-c3a9cd405011@e8f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f5b7d21b-b204-46b3-9d21-065316a9eb95@f5b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:be5b097a-98c7-4b14-801f-14e7b96881a6@be5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b32f95a5-b1d8-4397-a2aa-b1ac6a440490@b32f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:20448d0c-a732-4d4a-8c18-9713026dd696@2044.org
+END:VEVENT
+END:VCALENDAR

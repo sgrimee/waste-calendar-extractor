@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0059060d-f675-4cb3-ac22-da03dc3e25fe@0059.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:98acd76b-1c09-49bd-9635-4e22df3cc908@98ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:6dfcf81a-cb59-4416-9d8a-b67a4169a160@6dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:babb62d5-6fe1-4564-9dcd-fb9f0eeeff7c@babb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f1e4c05c-4969-4f3b-8f85-7aebae9c4d97@f1e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6721d36c-bb0a-4bb1-89ef-f42fc7002d6c@6721.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:741473e7-7d76-4a6e-bf14-cb17f64816ac@7414.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e8dad72c-587f-41cd-b840-79cf0190b797@e8da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:1cb8f2c7-399a-4298-99ef-858cb09ef438@1cb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:a58793df-7ad5-4efb-89e6-89293566c22d@a587.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4de3f748-4b8b-42ee-9010-37ff0628042c@4de3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:2a0b6e0d-cbde-443a-bc4d-6d6a7f3c6f5b@2a0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b2dba92c-4d79-453f-8ae7-3074eaa973e1@b2db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4e556ff5-6e04-4c44-9bce-d8ec59887702@4e55.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:afff90cd-5341-4349-ae50-c81a615db41b@afff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:33a5e9b9-b3ff-41a6-beb9-122e07beef8a@33a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5d69acde-1a50-417a-bea3-e62f9a9985ed@5d69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glas
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glas
+UID:dc0d1704-5087-4e86-8162-223309243369@dc0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e08128b0-e987-4c7b-a168-f4ab8ce113cc@e081.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:835d15c1-ecdf-4c2e-8a09-cf739765980f@835d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:aac6fe7f-f1bb-4702-bf3f-2e811e0f50ad@aac6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:97011504-7afa-4680-b787-b931bcde0152@9701.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:59058091-7b4b-4d56-b845-ae0eaafd2129@5905.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:aee78d93-d0b4-4962-9d42-8d3d04ee5727@aee7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1312a782-7171-4294-b89b-8bea73b0d332@1312.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:da6b45e0-c194-4878-b501-7c9e1a7f7204@da6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c52f8a0a-9b1f-44b4-ae9d-d43c84ff6863@c52f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ed721d4a-f4cf-4ba9-8dda-0a0ea8df0082@ed72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:8a763f49-e8ee-4013-b9c5-38594214521f@8a76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4c6374de-638b-496e-afda-d8bcceefd297@4c63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:065be6bc-4622-4eb8-849e-a08bb9fa7968@065b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:76d20e01-bb3e-465c-aa8e-618905b431bf@76d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glas
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glas
+UID:9c799fb3-cfab-4244-8416-9c5ebbcbfb3a@9c79.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6ce9e289-f1be-4886-a9c6-a8481b012259@6ce9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:64695ed3-6534-45f2-97d7-70958c6ad86b@6469.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ff0bc3d4-b535-40d8-8736-a69923f2f0fc@ff0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d0c0788e-134a-4460-8c46-5f600cae16bb@d0c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a678d76f-d82a-46a0-8e28-d36ab892be24@a678.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glas
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Glas
+UID:78e276da-7a90-446f-a1f7-4a9d430f7103@78e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:96bfa44e-4f05-43ed-a08d-620e195af928@96bf.org
+END:VEVENT
+END:VCALENDAR

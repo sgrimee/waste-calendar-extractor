@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5e6b430c-48b5-49c6-a39d-b1dbc8ea5725@5e6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:87c33e9f-5c9e-47f9-ba72-1f404fc6ef6f@87c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4fa6e150-7c72-40b2-89b6-7c5d1d33212d@4fa6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f6161b2d-8bc2-4aad-ab43-ee8208cc5d0d@f616.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:218323b9-020c-4c34-983a-ebba74cabb03@2183.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d7c0bc41-9d1c-4008-91f3-ecebe3c106de@d7c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fa01d1bd-564f-42dd-ad35-ee108d036cb9@fa01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0b0cf41-308d-47a1-b3b0-0382e67b440d@f0b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bfad589e-5bb0-44fe-9aa8-3e706d5cf495@bfad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:05583e10-017f-4449-9d64-5b1112e7d402@0558.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:739e092b-5d38-4dd8-aad9-b59db016e01b@739e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:547a43f8-608b-479e-9f71-f9458b74eec6@547a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:95c1e6aa-ccf6-4f5f-bc0b-e99f001ff6c1@95c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a1c85c17-ef8f-41e6-88c3-94d2202cffa3@a1c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e4d44bd9-e686-4ece-a58c-659c1c46d851@e4d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2d9b3d2f-491b-41a3-8bb1-35e39ffa4c9e@2d9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d5ab4a91-452d-43b8-80c7-2cec5fc58ec5@d5ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:84eb5fbe-fd01-4bf7-b9e8-8faeb63896fe@84eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b585184e-a86c-4b24-a712-3deaffb11f3c@b585.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:99ee5723-7898-4334-a2f7-a9ce9e6d527a@99ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c4ab7675-3e4b-41d0-99d6-51f9a4fe7b86@c4ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:12b6696e-3b99-4455-837c-27e81a0b6437@12b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a67da30d-ccdb-4a42-b176-b5e987b1a4cb@a67d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4209c946-27f9-43c8-ae8d-938c3357efef@4209.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8d713758-4a94-497d-a525-fce94931b5df@8d71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b1b7c956-ee9c-4597-b13b-efa8549b693b@b1b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5c17124a-e50a-483a-a8c7-99d38e07d0e2@5c17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8083f4d0-31f8-42bb-b0ac-6c2550fa06ad@8083.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d1e433b5-884f-414e-b5d2-b1428c114c12@d1e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:acd9eb13-6c1b-4a87-9693-6edbc46a11e3@acd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:99c7ca29-f22d-40ee-ad37-5d8cf6c05699@99c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:cff2de83-03aa-4741-8bbf-03fbc1e586b0@cff2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d9251bba-5d9e-4ffd-bb9f-1df55f923a71@d925.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b559f3d1-f802-4091-a5aa-38081683b112@b559.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6d7aa10f-d075-44fd-8ab7-3dd512531da4@6d7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9ec8b19d-8172-4c50-b7c7-0dd8b5de242c@9ec8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5693d0e1-0cd5-4cb7-92dd-b4bc5785f242@5693.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bd9e288c-e8c4-427b-9e50-c6579485c072@bd9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09ed9eec-99a2-4cae-a646-2677ccdfb398@09ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e8fb07b3-fba4-4f5b-86ef-49fff1a21e0d@e8fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d4ec200d-bf70-4a50-b190-53d123bdaf23@d4ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3446bd01-80e2-4982-b3aa-f3ef5c7b9e3a@3446.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b7043968-2c87-4f9c-9c51-25c675658c2a@b704.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8df04945-f748-47a7-8577-6276fa24e095@8df0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:dc3b5e47-783e-4495-9522-ade55d13bd3b@dc3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3e63c95b-5df2-442c-ae35-8309273db1b3@3e63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Consdorf\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7c0ea8c4-2e72-4374-9ea6-f3d182c626b8@7c0e.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:65570138-44d8-43be-8cc5-f29dd8b8123a@6557.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2148545a-a39b-469a-b0dc-46327ee30232@2148.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c1e97d3d-ee13-43de-bcfc-4f27598bdb8f@c1e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ebb32510-9fb0-4b6b-9b3e-883c86749556@ebb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6a3146e9-0875-47c0-b0d7-8fca0b3f25a8@6a31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:711bf077-0ad5-4609-b0f7-6f042c805929@711b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c81c7592-9df5-414a-a5f2-2e965e52204f@c81c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a9d77176-f3c9-4ace-b900-9be03a091c29@a9d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a15082c1-f57b-45e8-82bd-d877cf14b3f9@a150.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7d2f8c8d-fda0-4e8d-adeb-7617a3fd475a@7d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:cb9d8dd9-ebe1-4fd5-98c4-dd5965fdea4c@cb9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:56680c34-12c9-4788-adbc-e082e027d189@5668.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2a0808c1-401f-4b86-81ab-f3df756101e9@2a08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d3e2acba-93d3-430d-94ef-5a605d1ed953@d3e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9e962449-47ce-475c-821e-87b7b8792db9@9e96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e604eecb-f689-4f2e-8b0a-e02f11b4449b@e604.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:25214201-f9e8-4c9f-9264-c37a395b49a0@2521.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:da9acc83-4dfa-4a05-b689-8808f7ad3a89@da9a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1e9c6dcc-bd2d-486f-b74b-0c7eb373d387@1e9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:da6ed78f-0314-4751-ba55-0027895676ca@da6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c888af94-d784-4021-a5e4-6812312e3ddf@c888.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Glass
+UID:98672ead-c113-49c1-ae09-572ca0194251@9867.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:df14541d-39a6-407d-9460-ec3a88ae6047@df14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b4685b6a-2045-485c-b77c-8e525afbd12d@b468.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a509833d-5858-454a-862e-8130d7e1fdad@a509.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7bc9daea-911d-4ca9-9b76-bb52968147e3@7bc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2a0c46ff-5ff7-4864-9a68-86ebc02c567e@2a0c.org
+END:VEVENT
+END:VCALENDAR

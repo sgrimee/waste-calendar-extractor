@@ -1,0 +1,578 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b4fe33cd-8356-45a0-97c6-7f13033d1dd7@b4fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:87fd1f96-3905-4c8c-8eab-fc8f6c4395c3@87fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bbac626f-91f0-4634-96fb-f9c8c3f64bba@bbac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ca530439-6958-4852-b915-b11e415d7060@ca53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c2b90cc9-b8dd-496a-8ff3-6744c9eda9fc@c2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:3e588b34-39bd-4418-8f84-2f2b38e8d289@3e58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1977e4b3-44bf-4fd3-909a-7f8540311071@1977.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:386b6a54-e552-48a6-afb0-235085280143@386b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:992c0219-0312-41bd-a4fe-6fc33194aa15@992c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d206235e-dc72-450d-9211-0e07fcd596e3@d206.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:63769630-a3b1-4cbe-8938-990d02e35b2b@6376.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f61d22c9-1ca7-478d-85ed-0f7955925cf3@f61d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:43521254-2608-4097-adf9-f1e438eb4a41@4352.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:34be7b14-a257-40a1-aaa7-2c7004a34f8d@34be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d2b00e50-a7ef-4565-ab01-45626226554c@d2b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:cb2c2653-b6b5-4491-be1a-97f89167af52@cb2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a82a1a67-4ac4-40a2-b3a7-0eaa807a51f4@a82a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:faaab106-7030-42af-bd4b-654bfae58599@faaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8c18444c-5a1e-4c95-82aa-aaa39393027a@8c18.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:d717f494-2021-467a-8868-331cc13567a8@d717.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:227102cd-8e4e-44c2-80c7-0f33dbba6699@2271.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:a1b82613-d198-40d3-8c30-6398c6ad2590@a1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:22652e18-813d-46c8-ae55-c4ce91b190f5@2265.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8d1a164e-0b82-4e67-a03b-0b3c81b80b75@8d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:871936ca-a5d8-423d-a467-4b0b08844498@8719.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ff041e85-f54c-44ae-b902-032220f77cec@ff04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fd014cfe-7e43-43df-a38e-1fc788b6a930@fd01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9bf36e8e-a159-4434-805b-a2624663741f@9bf3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6356df80-1b07-4bae-b196-1b3efd403cc2@6356.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3a28c28f-980a-4399-8be8-097dcf66c16e@3a28.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:92828c39-9d25-4ea6-befc-cfa0ca2b3abe@9282.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f548a63a-ee3d-4162-b449-baafa6ec2960@f548.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1a185dff-268b-4df4-a224-b117ccb29721@1a18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b592212a-1aa6-415e-8689-ddd13c4bc6dd@b592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:926ba7cb-0e4f-4b0b-bff2-9c34def9b788@926b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f9c234fe-421f-40e0-af9e-2ed03c9e8e74@f9c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e3e10edf-37fc-482a-9ac9-33087e3e0107@e3e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:919dceaf-e7fd-4c06-a70d-2d3005e17a9e@919d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a4cb138f-b2b6-41d1-8621-33f3179d8a14@a4cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a8ddba5e-6073-46a0-bdd5-abf60cda1342@a8dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:13e9d975-a8c8-4741-ac1e-36a4bb99d132@13e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:86c1ee9f-dd6c-4322-a67c-1c49526007d3@86c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:77e83503-0e0e-44f4-b470-05757526b160@77e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c32d7b39-b2d3-44a1-b1b5-73990202f317@c32d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:174dc844-c6e0-4954-881e-645d4300ad41@174d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c05eb9d0-0685-43dc-bf44-5548046deb94@c05e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:61b3ca48-7369-464c-a5b9-6306257c8140@61b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:10868b98-1a3f-4b97-99cb-95ccde31f4f5@1086.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:909e14da-60b9-47a6-ade3-79c668e9f5c4@909e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:07331f5c-001a-4533-9ff5-fded3fbff5a5@0733.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:679b91b5-49b8-441a-ac3c-41480b872f5b@679b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lenningen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:19e990c5-0256-4617-b87c-d7e50f282d2b@19e9.org
+END:VEVENT
+END:VCALENDAR

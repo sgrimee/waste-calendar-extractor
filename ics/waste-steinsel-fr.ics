@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:e549b5d5-ecb2-4fa2-8618-151880352cb8@e549.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:38def5bb-752c-4698-8691-d37116c00c94@38de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9b208eb4-bc58-4f99-b7e3-e802037c730d@9b20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:916d9d51-5b20-44c1-9689-c07ff849b9cd@916d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ee68da6e-3e63-416c-b2ab-76a3338a7d74@ee68.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets recyclables
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Déchets recyclables
+UID:57bf39d1-5aac-4030-80e8-4608c0d989d3@57bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ec47a324-4575-43be-a229-56c19dc2b2b9@ec47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3be55287-9d69-4208-b387-5896a889e9e8@3be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:9601da0f-36f1-4d75-ad0d-bb9d771d88b3@9601.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets recyclables
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Déchets recyclables
+UID:94a40a79-91cc-46d2-980b-efb6a0d6016c@94a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:0cfe927d-3c72-4a2a-a766-3a216a195712@0cfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e8e63687-3452-44ca-a0ec-7ab56631dac0@e8e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:c7abf006-6fff-4b05-afa8-b5541c7c5f73@c7ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:24f0641d-9e23-4f56-ac46-ce665e004eb1@24f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:986636f4-b53e-42d3-b5dc-14f5421b0a5e@9866.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:08661761-b701-4b0f-aaa3-8c0323972839@0866.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Verre
+UID:57bd4474-0f56-4069-ab70-34e03045fe11@57bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cc353a93-f4f8-4073-b2e7-b12cbec6f1dd@cc35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:33e01c8c-6853-4fe6-b2ab-e9970b35c496@33e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verre
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Verre
+UID:800189b7-d0b9-4ba8-9ea3-ba527c4eb717@8001.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:f7d7214e-3c10-41cf-aa0b-b1e784571a23@f7d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:cdf90d24-e7bd-4b18-a5ab-a688cf7ae8ec@cdf9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:29e1b658-d507-49b0-9961-f1dd62c95e25@29e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ff8ba79a-9a1a-4c7d-af45-9745aa070d8d@ff8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:64e1ee6c-1279-4028-9676-ee77eec9580c@64e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:842e0443-79b9-451b-ab21-f0745ab17971@842e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3eae5f28-5fdf-4372-b199-4d65f31ea2ee@3eae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets recyclables
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Déchets recyclables
+UID:5b42f813-1715-4432-9efc-1f694e060288@5b42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:800fa1fd-3aa8-48e9-abbb-d98d01137202@800f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2e369ebe-84ca-4adf-b964-f3c168e439b6@2e36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c49380f5-3f73-4a95-ba8f-c90d6ee5519c@c493.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:531f6265-ad1a-47fd-9d73-3029fa73b5ca@531f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:520673f2-9e84-4ee8-a3f4-2fa1b54daaa6@5206.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:666873e1-2b83-4c53-86f0-965f383fe7a0@6668.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fb7f83b0-ec34-4691-9af5-ed46df345b84@fb7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:a7631ec4-f41c-4549-9d58-0dfe146cefcf@a763.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:856b867d-6564-4f60-98f7-2affc59c36af@856b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bde9893b-728c-4252-8a43-6276ddfb5d73@bde9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a21f84b3-2bcd-41ca-bfd1-b71755c164e4@a21f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:80f468fa-0581-4bb6-a507-92e7b3a49c56@80f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2707c159-50a6-487b-9056-9ac059533edd@2707.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d9ff6fc6-933e-41ba-8787-c840b4e523b1@d9ff.org
+END:VEVENT
+END:VCALENDAR

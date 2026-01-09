@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verre
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b4aa9514-040a-4530-8a48-8b5affc2b930@b4aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:12aa557e-2b7f-4b31-ae48-a6f3b6bc585b@12aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:13b22469-993e-4759-99d2-65e873af53a9@13b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0785ed3c-6033-4bb1-98d9-f16f4199f1a9@0785.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7f636797-9485-4856-8d9b-6a2dc1c4d65b@7f63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ea34a19e-c755-47c6-907c-92b570478b27@ea34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f1dd66dc-910e-4aa9-9d60-0e5a619e2d4f@f1dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:09ca0645-4da9-4d50-9295-500941c9e8f9@09ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:57fe7b80-cbe3-49bb-939a-7a7b526a3c23@57fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a5855675-20eb-448d-8514-5d5c3eb8fa15@a585.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:61f73352-d8a1-4d0a-8a77-09fe02c90d5b@61f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9367eefa-0d57-45db-8035-f830648418a6@9367.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ae5b5fbb-888f-4c5d-9e5a-fb87649b1d61@ae5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:30bbc012-fd80-45f0-92b7-e484fa45531f@30bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:5ae6c882-c026-4e50-8e52-6a2b8ba66446@5ae6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b7e32325-d275-4a32-9bf4-478845e9649b@b7e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:97f017a7-26f8-468c-a9ec-0c555a9facc6@97f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verre
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Verre
+UID:88e2133b-a692-4a24-93f6-38d1bebf89a8@88e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c1dd68b9-9ab8-4bdd-84eb-013d8002d201@c1dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f118f289-de49-4270-95f5-65d1b16a0a33@f118.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d49ce556-63eb-4cb7-b13e-86322c568d2b@d49c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:50f64dac-7683-4adb-9af4-59990e90f35c@50f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e7b2b984-0929-48fb-8580-db930a231a5b@e7b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:437b0652-fdea-4580-a676-7e42b160edb1@437b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ab3c6f58-2ae4-4b6f-87bd-ed3516c19d1c@ab3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c124f5ef-7f01-4c15-a5d6-895ed60fd65d@c124.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:076b01ea-08d3-42bf-b3b2-e7c2631e076c@076b.org
+END:VEVENT
+END:VCALENDAR

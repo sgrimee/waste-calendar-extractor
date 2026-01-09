@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:899e389b-f211-4904-be2d-aaed5ed70629@899e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:420942e1-7f69-447a-a9e0-54ee2d152089@4209.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:dec0b114-4f75-45ec-9cc4-2b47c1468cbd@dec0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a1b1fe41-a952-4e40-b28f-7953fcec2484@a1b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c19809a0-88b5-4106-aa48-e391f1685bc9@c198.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Reckange-Sur-Mess\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:7b123e53-0096-4282-a091-e9d0af32ddbd@7b12.org
+END:VEVENT
+END:VCALENDAR

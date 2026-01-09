@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:904214c9-6c56-4a00-8c4d-ac99808c4c13@9042.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9773227e-aa7a-44d0-8811-73ab96212986@9773.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e1311a6-c799-4776-919b-74b1fae34f9b@1e13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5f2bf0f8-1291-456c-8f64-a3dbf2331d40@5f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:6f894f2d-ae8b-48c4-b9eb-6552748bc8ae@6f89.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Useldange\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:8e6b8783-78e4-495b-b4dc-48de17006672@8e6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2bd40f8b-9b41-47fe-89ca-12c902fbde21@2bd4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8463d85b-1a02-4e58-a763-4e112ab29ded@8463.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d7799992-cd24-4ae6-8552-3b87f0a52452@d779.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:476674f9-5471-4892-b1a4-9ea497cdc640@4766.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d9ca9dd1-021d-4738-b512-911860b21a7b@d9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:80ff4732-0c1e-47c8-9169-e300c3cab58c@80ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:53a64456-44fc-49b6-b960-828bef9790f9@53a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:55f727e4-edab-457d-be92-b8f51b698be4@55f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3018a655-e26f-41db-aff9-fa716313092f@3018.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b73ff409-8b87-47bf-bcf0-ca3be0407ccf@b73f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a563f6b8-fc8c-44d4-b707-fbebf5186cc2@a563.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:91a64481-7803-4023-9e32-e8d78afaa4ff@91a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3b2603a7-ff87-4700-9261-9511a2f49131@3b26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2bc2f6f5-2ce1-42ef-87b5-81ac42cfdb16@2bc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:33c1f923-5800-4bb0-99c5-2783d8c1d4de@33c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fae6a15d-a6b3-4727-a40c-351c3b589e72@fae6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3657910c-8999-48ca-9707-b66434836e8e@3657.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:065e8863-4f26-417f-b940-1e3247f4bc0b@065e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:234713fb-3e10-4316-acbc-4eda59658c5b@2347.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Useldange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:86e30e88-c475-4c95-a0ab-21941856b39c@86e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Useldange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8d0f04ef-e7af-48b0-aff2-1215878e404a@8d0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Useldange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:120fffbb-b1d3-440b-acea-2a988344c1f8@120f.org
+END:VEVENT
+END:VCALENDAR

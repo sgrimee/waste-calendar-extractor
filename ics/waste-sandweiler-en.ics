@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ee6397cd-bfd8-4ff3-bafc-08626dd8d765@ee63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2c9bb2c5-a0ee-4a1e-b06b-d6759e09d849@2c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:aeb39606-b172-4299-ae14-e3a15c40b75e@aeb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4334eb7a-6cc9-49db-9d28-eead5c2a3e0b@4334.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:63c492e5-f47e-4de6-bc41-2bb8ddb0cf0f@63c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:acc99c2a-c1b2-4a63-b3ff-7b528a212c74@acc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cb0de3ee-780d-409e-a566-698564ccdeeb@cb0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:ea2161ba-eb8a-46a5-b4f3-a195008e0285@ea21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fbc0529d-e29b-48a3-8565-2f19b9b700a8@fbc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f677120d-c689-4961-b4fc-fd82356e6cff@f677.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:23fed5b2-91aa-41b5-a571-e710cb39d359@23fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:7d1b9356-4f3a-4588-aaa9-d4fbc23faf48@7d1b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f562c30d-f900-47e4-9b0d-7a53ce0c21d3@f562.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:39bb8c30-1aad-4ebd-9805-e5e7f6221b56@39bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dbcd1b7d-5f38-4eef-a413-7fc8c6c97139@dbcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:563112ae-2d9c-4678-ba95-11c72a733df8@5631.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d5bf9b4c-75a5-4656-ad41-5ce644aa79b5@d5bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:cd3c61d5-5033-4755-a07a-078cbef63724@cd3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d4715452-72e0-4048-b3c2-77b7ff52511c@d471.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d1bfcdad-2e56-4f03-abed-a14926a3c709@d1bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b3542974-2565-4b27-b269-907e11a175c7@b354.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:a5c713a3-b2dd-4b4a-ae20-e8f9b4c55488@a5c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e8814ff0-9a94-42f5-aa93-1650c1940b1b@e881.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:560ed80b-f147-4eda-b973-caa420287122@560e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:616918c8-369b-4e5f-a67c-34bdfcaeeb63@6169.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:7f597f3a-4ae0-4dbe-91c5-a46fa3c59e16@7f59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:559e7b0e-bf73-438a-9a0e-449630879a09@559e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:521f006c-6c9f-4c38-a716-a205ad478bb8@521f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3f16a728-8e80-4c5e-a091-a2365c1d1218@3f16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a084fd34-f10b-4162-8735-b73bbe893dae@a084.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Old wood
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪵 Old wood
+UID:a1153752-4555-42b7-bf86-f75ac52be4bd@a115.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f1c5f2c3-fc02-4acb-a40c-92a730a2724a@f1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:c7b5f040-94c8-44b5-b487-5b2c458b0eb8@c7b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b2db554a-0eb3-4c62-a5f4-72288ed843c0@b2db.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:d96975a2-d5f3-42e6-b09b-64b2796c3980@d969.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:20da0a51-78f0-4be1-a8e5-b17298930d72@20da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:942a4848-c6f6-45a8-bd28-6663db596e5a@942a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:7a3730dc-5d60-43b8-9a11-f9f4a9444af0@7a37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:898139e6-a10e-40e1-89dc-3ddaa7d1d255@8981.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glass
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:9f2f3dd2-432b-4ccc-9ddb-3b81e6f75dbb@9f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c31c3964-5113-48ae-baeb-e5c15869c786@c31c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ac135191-034f-40ec-9b68-781c8806540c@ac13.org
+END:VEVENT
+END:VCALENDAR

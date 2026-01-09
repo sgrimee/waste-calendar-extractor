@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f31a8f3-b8ef-4de1-b340-21791b7ed855@8f31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ecc09976-8414-43d3-a461-e24415020aed@ecc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verre
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a227094e-72a1-4417-b1c9-ebad7f5c682e@a227.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:01edbb1d-5222-4650-9468-e12c7b006b40@01ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ba207bea-5f6f-4b2e-b17d-7acf133eae09@ba20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f3c39744-9a31-4889-b0bd-c5c63030757a@f3c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3e9ee96d-aa29-42b9-8672-6ba7992a3820@3e9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verre
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:01bfeaa7-3b6c-4381-90bd-fe59a1888b88@01bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:a505b121-3327-41e3-a3d8-597ad1b63f8b@a505.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3a7e1908-e573-4788-8b48-2d3fca1ee35b@3a7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7b868c66-d02c-4044-8342-3bbf4dc57e7f@7b86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:113b4ba0-2632-4d52-b6c3-062879a01f34@113b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a17fed62-86cc-4a1e-8c8b-df9a672abc59@a17f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2871e319-800b-4bcf-8d3e-73619b7592a4@2871.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7c1a46cf-e493-48e3-b96b-dc96179f28f8@7c1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6030e64d-37ca-4f80-837b-ee962c3a214c@6030.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:199864eb-13e9-439d-a1b7-f282dc878ddf@1998.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ac5cc607-abf2-4f30-9de8-1a7b3896a78f@ac5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2ca051dd-33bb-4d17-b176-e3cbed5aca75@2ca0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:e9e23f9b-d686-443a-afce-f156c6bf42db@e9e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:93900176-cd51-4c04-9d7a-ff109442f631@9390.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:545da8e0-21b8-4cf5-89ee-925a799c674a@545d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7e76b637-1c92-4797-9ad1-76078cffd1e8@7e76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:934ed561-9012-417c-bb72-1b63d72d32f7@934e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:24a61c75-cd55-4d89-a7b2-4c274ba31d18@24a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5982914a-6fa1-4d26-8851-35cca97910a6@5982.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6c4b5a47-6f14-4573-9969-74effd4346e1@6c4b.org
+END:VEVENT
+END:VCALENDAR

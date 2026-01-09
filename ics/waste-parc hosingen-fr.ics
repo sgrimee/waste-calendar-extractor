@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:95894457-c282-4e4f-be2c-12c2d3f527d7@9589.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:683ddc63-ab8e-4790-b4de-4338d2989ee8@683d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d9b0255a-8292-4d5c-b547-d3a2c637ff8a@d9b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f3ab092d-58c4-4f19-83af-4e6727e4f1c4@f3ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2b30b9f6-b0a3-415d-a008-85bf06cf7e9b@2b30.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:141ffb30-16b2-4d68-ad28-20bda71b70a5@141f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b5cb4ab5-9e70-45dd-8fa5-52456698e5ab@b5cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:73adeb43-f9de-4f55-b862-80dc6e37761d@73ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:7847a621-a843-4cb0-a90c-e19f70ddd3de@7847.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:9d9851f0-9f66-4bc8-9a60-6ce33b15a807@9d98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7c184d78-073e-48dc-8fc5-d2849cdc3ec1@7c18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3944e283-7063-4d50-b34f-fe7027f3bb03@3944.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1663b3ed-8197-4d79-8855-99f1f42390ec@1663.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fc038330-624f-47fc-a12a-f59054ea98d2@fc03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1241d5a1-89dd-4898-b3bf-76c748288c4f@1241.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a1d27451-0e71-4f64-901f-a9e85788b05f@a1d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:126f1c53-f67f-4de8-af20-d7b509aa0c53@126f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:62e9f797-3c09-40ef-8897-06409d6670d9@62e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1398f0eb-eafe-44f9-a75f-b612727edeee@1398.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:19e2b7fd-fb9b-4267-9e86-bfdebc2d4123@19e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2cf13971-9706-45a3-9633-bc1f3fb3b2d3@2cf1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:24317bba-9803-44f7-be94-01b29b3e3fc4@2431.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:50cd127c-f31c-4c93-8da2-3e8a11d80dff@50cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2d6707b5-e9c0-4f08-a775-b87ba06ebced@2d67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6003888f-f75a-47f5-a569-04cdff83ffb8@6003.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c4bc1315-a358-4079-b5a3-564ae0a308b9@c4bc.org
+END:VEVENT
+END:VCALENDAR

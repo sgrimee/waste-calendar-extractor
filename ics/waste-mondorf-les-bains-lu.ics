@@ -1,0 +1,610 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3dbbaafe-c7a9-46ba-a54a-bad0f18dc764@3dbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f4fcab28-142c-4101-880e-81d2e4e378ec@f4fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b3f1f240-baf8-4bae-9e78-dc78d952b9d3@b3f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:20b51562-4ce5-48cf-88dd-6b483b44f899@20b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:798a0b17-8427-48e2-877c-298b69ba8fb8@798a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9a81cc64-2721-4098-a545-e15aa529c1e1@9a81.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:fb1056aa-1b76-43ca-a2f9-a8b81ee5fe39@fb10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:335ed443-95bf-42f3-918c-ff5c03172572@335e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:71da5401-3e1d-48ed-885d-049f831eb2db@71da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:edabb7e1-d32a-48b8-9231-0a89896277a2@edab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3e8d95ae-93da-4b8c-a979-452f1fefde56@3e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:a20e8ec3-1f23-4eee-9195-fbbcf7e74322@a20e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:8325c3de-f7f1-4674-97f9-7883e29df0eb@8325.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:c39929e5-8526-4365-8ebb-e0e5ee819b87@c399.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:2314f40d-ac61-4c5a-9fdf-ac350b56cdc7@2314.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:414e13f8-3ceb-4543-a431-11b44bbca78c@414e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0cc280ee-58d7-472c-b373-fdefdb7de1e6@0cc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:0ea86b48-8dff-404a-b797-e0392bb23796@0ea8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62f52a86-0bf7-455e-bae7-929f3d8ba7f7@62f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:38361b2d-408f-41ae-a268-889680f40f19@3836.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:e27448f3-5f21-4eea-963a-49024180382e@e274.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c1149775-028e-45c9-8a02-106149b20fe8@c114.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e50bbdf9-58f1-47be-97ac-e925aca14b92@e50b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:65fa0ed3-4896-4ca0-9ccb-c278995e9b91@65fa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:53f406ff-2ae6-4609-a823-ec86c92ca3a3@53f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b5cd1ce0-4968-48ef-b8a5-cdaa1396af88@b5cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dad6610e-6bae-481b-a7c9-c0d515e34af4@dad6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:31d1c43c-e684-4d33-8454-27583a186db5@31d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:62bc03bb-9414-4c57-85be-31fb69149bb1@62bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:2a4a4574-8520-4180-9bea-43148b09decc@2a4a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1fd1026e-5285-4321-b5c4-8fa2af390fac@1fd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:40af4a73-e8e8-4860-874b-68052bb5c1db@40af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ccb4895d-d669-4e5f-8715-6add9f1f0ecd@ccb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:6027932b-43ec-40d3-86d9-9d22ab37481a@6027.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:2f0cb974-6623-4911-9128-53e7a9d50c0c@2f0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ea836b06-f255-49fb-b743-0d689ab98573@ea83.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:abf6f3b5-59d2-408f-93ea-463216f17fcc@abf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:dbdd2e3d-dee1-4d7c-b6ba-84bdad717921@dbdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:e56bf9da-1de5-4585-9a80-68cafa33aa82@e56b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e18b8e2e-7b5b-4c01-9867-d0aaa1bb4f4e@e18b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:048c1952-d388-4f5c-856e-8bd088891000@048c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c7be809a-ddd4-4ef5-8521-3c60c23fa66e@c7be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0b3ce658-db44-426e-bf23-231de191bd7b@0b3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d39695e0-6faf-4749-9313-1087cd90a244@d396.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5c119133-53b3-434e-a706-4c755f824046@5c11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:974bec65-592a-439c-8c65-b2cc6046c2d2@974b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:b5cdb59c-a74e-45bb-a351-9a01c2fc677d@b5cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:534fb499-c530-4fd0-84b9-d82b826077b0@534f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4a765cf4-1317-4f7e-b687-4c1c6ef239c6@4a76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glas
+UID:88c139fb-7270-4ba0-8a49-99d2ec568472@88c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2ea79a5a-6c96-4d97-80db-bbc576eb8df1@2ea7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:d52a577e-1104-4d47-b41c-bdfa317d941e@d52a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c4e97bd3-fd91-4b4d-a3a0-ccd91e86f6ad@c4e9.org
+END:VEVENT
+END:VCALENDAR

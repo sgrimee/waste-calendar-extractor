@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:632fe741-629d-42db-8dd9-ffd3f4cb9b6b@632f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:94a52fba-7ca1-4e9f-9631-02bf9757bf46@94a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a3910f84-9b34-468b-a970-7b46d84504b7@a391.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:3e3f45e5-96f7-44d1-981c-22d5db826e28@3e3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:87923958-2010-449b-bf4a-9ab49a126b17@8792.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:3641da77-a0fa-4326-a742-5c51523d3f43@3641.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ca490fc5-bd7f-462b-a228-053aaccb543f@ca49.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:8a07e193-21a2-4abf-8a50-dbb828c12639@8a07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a89dcac3-6eca-4c75-85a4-14cb291b7f5a@a89d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d2ab6cb9-b607-4d5d-b625-a56c714170f4@d2ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Glas
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Glas
+UID:bdd1ab83-8bea-4031-8ea8-47c5711e91e5@bdd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d97aa86c-896b-42f8-be08-a7e4b291b4b2@d97a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:b27d8ece-7c25-4881-a820-beb323118d88@b27d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1cb21238-c805-4bb9-949e-d455d40dfffc@1cb2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:26ce1325-03a7-41fd-8f56-b6de941291f6@26ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glas
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Glas
+UID:2b033f87-603e-4854-b523-92f9a945b223@2b03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b46ff56e-e08f-4c87-ae52-151746fa5994@b46f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:6a427e03-1997-4ed5-aded-9e7936a9b660@6a42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:9b307369-6714-43db-9d83-7146a887a56c@9b30.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:14a5c006-d0dc-491d-a26f-02bdfdb32dc9@14a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b953a617-2b26-434b-8e44-ce7923b40eee@b953.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:02fefd9e-e161-4ea7-bbdc-015bffd60559@02fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:73db6ce5-c448-483e-b9bf-0bd2f994da17@73db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:19507ca3-d3de-4646-bb67-b1c3bb93cfd2@1950.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:588300b1-3337-46f9-a317-c5d9d7e13ef6@5883.org
+END:VEVENT
+END:VCALENDAR

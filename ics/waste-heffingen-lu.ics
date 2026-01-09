@@ -1,0 +1,311 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1fccb46f-a368-4375-b9f2-b8c1de4c7522@1fcc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:126c650a-cde9-41d1-9983-5629aab330e2@126c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glas
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Glas
+UID:7c15a09c-ec3d-45b2-9215-95dd27faa347@7c15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:80b40384-2363-4355-9a48-3db24909cc6f@80b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b4cc54a8-7ef8-4751-b0cb-92f7a80ffb8c@b4cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:faaca100-9530-4452-afe3-4e48572c5843@faac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7ac909a2-78ab-4581-b6d8-62c3e95be0fa@7ac9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glas
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍾 Glas
+UID:348d445a-9fae-4a92-8bc5-b2797ce9d2f2@348d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:86925b34-c22a-48bd-a93d-0dd8af413253@8692.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:da759df6-17d5-4923-a7e7-b8a264bf8816@da75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:5fc173f2-aca6-42d2-8468-2b25ae981998@5fc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:efdcf4d7-0937-4bd6-b0fa-444fe7424463@efdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6c54a3b8-053b-40ac-8593-1d2e9f806c11@6c54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e892f460-bd19-42a0-ae18-6518bb9dd75d@e892.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7ac53097-9016-492b-a984-c24157626146@7ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:bd403766-223d-40aa-87aa-801f6deee085@bd40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:65acfa93-2126-4674-88f5-bc296a2b560b@65ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3fe955d4-9af4-43ca-a368-7cdbf3514f03@3fe9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:df8da260-a6f6-4427-b75b-71b69a4648dc@df8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:dc5de8e9-6af1-40cc-be0d-0cb4378c994b@dc5d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f920f92d-20ca-43ef-934b-49a9fac39df5@f920.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d738a906-0d78-4520-b5e2-d342c5d26728@d738.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:38da228f-5a40-4679-859c-429a02136992@38da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:482ce2bd-6afd-4aad-9dc3-1be086023d17@482c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:007124b1-9ab2-455b-9170-208c64c0672e@0071.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Heffingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:3f138a1c-ecd2-4f7e-bf60-64614c7d0e81@3f13.org
+END:VEVENT
+END:VCALENDAR

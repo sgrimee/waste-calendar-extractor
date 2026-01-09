@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:2f56ae90-b1d6-4472-ac49-6d3cbedc7fd2@2f56.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1c009d45-61dc-463c-ac95-100c0e00d6be@1c00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3087fe78-0dfb-4f97-838a-e848b55c4e72@3087.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:2b1c571f-b393-451f-8b5c-815a87e3f779@2b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:364104da-a75a-41dc-8b5d-e5595f501502@3641.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5506e2ab-6ef5-4970-af41-b5f10fe3f2c4@5506.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:67eba66d-25c0-46d2-b7f8-e55ca8e5afe2@67eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e705fbf0-145e-4b56-a8ff-c2a5f3493d25@e705.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Vieux bois
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪵 Vieux bois
+UID:c728b368-509d-4ee7-9c4e-c3445b6161ae@c728.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6059d248-5282-46eb-8d34-afca70550e37@6059.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5d324a41-7079-498a-87ff-dc8289a0af2a@5d32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:667cda4b-50cd-4714-b245-466af747ef0e@667c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:319b408a-5d55-4dbd-aeea-575dcd1d18b6@319b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:dc8b8c5c-9571-465d-80d0-99586d0dc42c@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:82c809b8-bdce-4652-ab92-3ba79acb440e@82c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5b846d00-d9e1-42f3-9e08-f804b21fc98a@5b84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:dd09ec77-4264-4b9d-957e-632895add2b5@dd09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:84b53ce5-d390-4e59-9abe-e0dc317668c6@84b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1a7be199-98f2-4b3c-bf50-4e9812f25467@1a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:ea18357e-809b-4518-8058-f6683f774d80@ea18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:404be217-7995-4fbc-a0b4-b6ba559cdd9c@404b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:6e344cd8-ca6e-4fb1-ad47-212fa95cbc5f@6e34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2af1c9c4-b9af-426d-af6b-ff4414e603dc@2af1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:885c840a-da0c-4117-9999-3d8b8fd8c260@885c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a9ffc0ad-36ed-46f9-a96f-309399999ecb@a9ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cc881152-6933-4afc-9b95-9bbaf41cc07a@cc88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:ff6e5b0d-ca8a-4b1d-b5be-f12cc70d3540@ff6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bfb141ff-5c30-462a-a74f-97c733a5717c@bfb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:824d7848-4fcf-41a2-a2c5-8b9c29a2660c@824d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:389cfdf0-efdb-499e-bd61-b0630abe84b0@389c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:dc4d6907-496f-4d8c-92bf-e3e575cba617@dc4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bdb1654c-42bc-467b-8493-738dc571bc5a@bdb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:84ab7796-626f-420e-a64b-841a289890b6@84ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2d821787-11d0-49c8-ad81-726637a72ea7@2d82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:67c6cddb-a2e3-4538-b153-7364483bb685@67c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍾 Verre
+UID:148658b7-8898-413e-a04b-f57b3f21ac6b@1486.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dad53890-f4d4-486e-b64c-394deadccc7d@dad5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ebf73451-29ab-4e4e-8588-64f844a3ad50@ebf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:036e00ea-8631-4c6e-ac79-3375d072eb8f@036e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:56d7744b-60d0-4887-9bcc-cec153231069@56d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c484f892-bf4b-4df9-addb-fcf30dbf3a11@c484.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Sandweiler\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6f3732b0-a881-4ad5-aba8-298eef5dd6d4@6f37.org
+END:VEVENT
+END:VCALENDAR

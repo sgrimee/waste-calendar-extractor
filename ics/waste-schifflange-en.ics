@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9caa8630-b8f1-4e87-a2cc-f35396bf6045@9caa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b5c40321-dc13-47cf-94d5-875ee9c54849@b5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:1f3f77d7-c087-426b-960d-1deefb7220df@1f3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:19030414-162e-404a-9638-b760b828b263@1903.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:797b83b0-251d-44f8-8dcb-c2babae783e8@797b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:aa008303-8330-4a5c-b51d-c3d5d1d73584@aa00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Schifflange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9db6bb17-e45e-423c-9f36-2844567f1fab@9db6.org
+END:VEVENT
+END:VCALENDAR

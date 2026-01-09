@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:12b8d74a-a701-457e-b33d-278aec56bb20@12b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e6ac1935-73dd-4680-b2f1-29284e0a3653@e6ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b5c680f5-f07c-4e04-9f6e-84b165d5f940@b5c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ff75a8b3-53e5-4097-8110-8b75745fae46@ff75.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:d5ad33f3-d6bd-4c18-a49b-3e47aa007d8d@d5ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b65fe8b7-d0b8-4566-8488-7dfdd7172276@b65f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9aab15ff-15b2-48fc-af0c-0364de544151@9aab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:48a0ade3-c402-4fa1-bdfb-a8bf1f548e6c@48a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verre
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d122545f-7d2e-4f89-9b44-c36a2db4e777@d122.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a4c9f1b1-4006-4bd1-972a-4a1fce0b0345@a4c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:845b9318-589d-4baa-a8f4-27b27d190f17@845b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:64073b67-cdd6-4de6-a2e0-f62b73b247ef@6407.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:859ce685-0ccd-4acd-aef2-746959fbc200@859c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:6116644e-bea0-401d-8f07-5988260c1a94@6116.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e5e2b696-fd0f-4ead-993a-151f1a1a7e00@e5e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ca196f20-3269-49cc-87d1-358402d46840@ca19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d76943aa-c60d-4370-be2a-c15e1d216f77@d769.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5592eb63-d13d-4641-a0b5-cd8ab3f21d59@5592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:93956f67-19d6-49d2-865e-aee4b6786c27@9395.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:883f6c32-2ae6-40f7-96ae-d176b32e296a@883f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bcd28bc6-bb97-4d8d-ab81-c0b50371d7b6@bcd2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e2bdf6b9-8ac4-4140-ae40-41888bee1337@e2bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ebfe8c20-3610-43ee-9e10-67b3872d793f@ebfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b7e083e5-b308-4001-8d07-6ace8cc3b4ab@b7e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:39d1bb26-9b44-46cb-b6b2-133f3ded859b@39d1.org
+END:VEVENT
+END:VCALENDAR

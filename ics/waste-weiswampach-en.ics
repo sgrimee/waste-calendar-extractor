@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e8332a6b-2b17-4a73-91cf-ef3ec747b6f6@e833.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glass
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3715aa7b-7ae9-4857-8805-e1cd8acf8c92@3715.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glass
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4174aef0-8a92-424f-9b7c-400dda2ecd38@4174.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2cb7f059-b845-4066-a404-597201a8fe26@2cb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:58ab1ecb-ade6-4505-9762-cf18da9b93b6@58ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0c443bd6-3f60-4e0b-86db-427ab5a858f6@0c44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:66ba879b-ae0d-4c14-a0e5-abbd31cc0a3b@66ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8b158c00-45cc-44f0-860e-13f13476f9c0@8b15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:754c014d-923d-4054-b8db-b99ab0080a3a@754c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glass
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d6c26ac5-7684-4bbf-a1f3-e2cee66a9391@d6c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bfbf9b42-609b-4e23-81eb-2bc07578af45@bfbf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0cfef152-0ebe-4c17-9f23-ae21620ffb91@0cfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c71199e2-1dfd-40cb-8ada-2711314ead1d@c711.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:437de5e6-4f90-4aab-9c4f-245e94f9d332@437d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7e8058e3-a9cc-494e-a5aa-8086491b768b@7e80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2ff39c37-32bb-4589-aa67-ab167bd3a6ae@2ff3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1b6293e8-f755-4c44-9b09-72e02a9eb4b9@1b62.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:cd9c489a-fb20-4979-9f82-5bced950c746@cd9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3d2c1cf4-f29c-4abe-a539-de25088668f4@3d2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6c3d7b40-3c0c-4503-ae10-35dc0f763b68@6c3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8545f058-1c4e-4757-9165-6375375468dd@8545.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260221
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:9751988b-9c1f-4014-a206-2944852d209e@9751.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2faf5bb7-0202-42fb-a6d4-9b8506e75b52@2faf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:85e11c20-b6c4-474b-82f9-10e13303b487@85e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2414b780-afe4-4686-913c-2d519ea905e1@2414.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cb11b0e9-fc20-402c-abf3-6b9e4d198486@cb11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiswampach\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f2607d57-234e-4950-8a25-24af4e7e539b@f260.org
+END:VEVENT
+END:VCALENDAR

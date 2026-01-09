@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:800eed80-ff9f-4b6b-9629-c99350200851@800e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4f2c86e5-d60f-4dc2-99fa-a3f813462b7b@4f2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ef214465-87e7-4d9b-ba96-b2f779ffc3a8@ef21.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8ed21afc-cc1d-48ce-8643-64969ab421a8@8ed2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3bdd5919-11c0-48e7-97c8-96963071f2f3@3bdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5cced606-be0f-4f94-9c17-8b2f5bc172ea@5cce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0a714269-0b8f-4a92-aca4-a440b8a7fa60@0a71.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:4ba041c7-76bb-419f-a48b-96ad972cbb3c@4ba0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ebb8ec9d-363a-444f-99a4-f3807a964ac8@ebb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:798f5df6-3fe3-478e-b95e-ad920886848c@798f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:80d2d351-ea0b-4e51-a4ff-a967ec3fb24e@80d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e6ba214c-4e73-4987-966f-8d39392eb2d2@e6ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:10bfb1a7-a18b-46b1-b5b3-57f8b26aaf41@10bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7a8c7780-eb28-407c-b9a2-ac5aed761399@7a8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8f4c65a0-2926-4a88-bebd-d46bb676bd1e@8f4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:57e4d750-c32a-44fe-bcff-3333854d73ea@57e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:588151ea-4496-480d-9556-fcce23dfac6d@5881.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e36b3ac7-ce3d-4518-938b-d94ed3d268be@e36b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fbc8b144-a557-47f8-96e8-ae51422ecca5@fbc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2dafbb9e-1272-4b73-890b-dc9e695f68ff@2daf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glass
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b890a9ba-61e4-4052-9273-3f88cea31b5f@b890.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1fdc68c9-5d92-4edb-8ffb-9b6780682512@1fdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a69aecd8-1147-4418-8a87-4c52e7566611@a69a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b8a42eb3-7c14-4975-9b85-7a97bdcda2fe@b8a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f27bf984-beea-41cd-ab5e-331dd66cf589@f27b.org
+END:VEVENT
+END:VCALENDAR

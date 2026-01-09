@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:b59fc2ce-76bf-42cd-a088-2a85713851c5@b59f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ac1038cb-9cc2-4033-b0b3-d52b6faf9602@ac10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glas
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glas
+UID:5237b420-e8fa-4de1-b230-704678232807@5237.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:74dd5d01-46c5-4774-ac34-bdda14894876@74dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glas
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glas
+UID:b10b297d-9099-4669-91fe-086feac49c61@b10b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e0a7e49b-c737-4458-b368-53392fe8bd9e@e0a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:9c82026d-4f77-40d2-9ad7-fce1dbce648c@9c82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c1f881a7-81e9-425d-99ee-8aff73359c7f@c1f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glas
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glas
+UID:a6ea5086-cd1b-49af-aacb-60dec0de6c6b@a6ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5da99c18-8cbd-43f8-a546-26913c01139f@5da9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e8f3bbec-05b7-4533-85d3-d49223aac1d8@e8f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a4487dec-efa5-4811-bdaf-5df58b3bd882@a448.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1eb2b357-a15b-4991-8fa3-5d03d63b7273@1eb2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b7ca5dcb-ab7b-43bb-a366-9f59fc1c3c30@b7ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:1dc144ff-487f-4d3d-8fbe-e55664c4a4d9@1dc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:a89432c6-ca77-4f54-a621-95b3ab4250c8@a894.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c7310a8a-a608-4848-b341-e807a39f16e7@c731.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5cff9193-62d6-494e-a4a7-c777ac409698@5cff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:961636fa-a079-404c-bfbd-12ebb46e15fb@9616.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:29a24407-347c-4ab8-8b5c-371d7e820528@29a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:aaa260be-f14a-4478-b992-c2f7d4733e3e@aaa2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:3ab72f14-13e4-4f9c-a2b7-394c3d23aacc@3ab7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:767e837b-6d84-4196-9521-ac92fdce144d@767e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f33ad1f1-8f4e-4316-9a29-02f092b39ed6@f33a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:f9148e42-6b6c-4a5d-ab1e-25924d0bc6c7@f914.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4fa320ef-bede-4810-b7e3-425de2506be9@4fa3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5d0756f7-469a-4c5e-897b-ab5103c49ff4@5d07.org
+END:VEVENT
+END:VCALENDAR

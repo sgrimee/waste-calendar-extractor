@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:06997927-d3dc-49f7-a35a-d06b6f6d2f4b@0699.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:f44e1d64-fb67-4ba4-a9b5-753f9671a56f@f44e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3afedcfe-a06e-455b-955c-75fc9a870f67@3afe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3ac14ac7-7cad-468a-b1bb-844f6e5391a4@3ac1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:4e0adf2c-9047-4d5f-a862-3237e7d13811@4e0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d12bf480-394b-4480-a3c3-53d66338d682@d12b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:68319abc-2a76-4b0e-aac9-82f2eb722c4f@6831.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:b1c0f476-e53a-4a09-a890-392e05439275@b1c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6798c6ba-3ea3-42d5-bab8-62c3fbfb9aa5@6798.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bbb744a9-1cc1-4aa0-b5f1-47a5ba80cda7@bbb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c6b2aca6-1fad-4af7-b268-2e3082069c94@c6b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1e2c9bad-a6a6-460e-950d-fcc438ab7d46@1e2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:26d97a59-4a01-43ee-bea4-f316d2d69031@26d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0640732-a510-484b-a4a1-8e47e341fb5a@f064.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:46e34a0a-3541-4d94-8917-fb3f39aa0bcb@46e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:726420a6-bdfc-4957-a0d9-8ae92d0d72d4@7264.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f4db1d1a-eb4f-40e6-8141-0327880ffa86@f4db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ea19c8d3-ce7f-4c16-a904-2f22761fb413@ea19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:16cec165-b23c-4fd4-a71e-8f355e7f5841@16ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:388818dc-4aee-4a27-afb7-29f193dc185d@3888.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:69ddc682-0bfe-42e5-8166-9aa56d2024a2@69dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:03c9a740-f35e-4255-853c-559f9bc13774@03c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0fd34ba2-a899-45ea-84ec-ec84b75aabbf@0fd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:aa3f2e3e-a320-4f47-bb81-1a7953995450@aa3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:f69cba92-2cfc-4a40-b841-bbde0b151027@f69c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:61f7e07f-8310-481a-b608-b11839bc432d@61f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e1334499-184b-4d84-9523-86779108b8a3@e133.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ea355af4-37a1-4280-be3c-aa8bfd867a59@ea35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:16727c37-efce-4522-8612-dbd82a083482@1672.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:043885e5-b2e4-429f-9f30-14bc357895ab@0438.org
+END:VEVENT
+END:VCALENDAR

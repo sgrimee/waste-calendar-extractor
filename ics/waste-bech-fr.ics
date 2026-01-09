@@ -1,0 +1,563 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fb5fe07b-0957-4fd8-9de7-d44de894ecf4@fb5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:20eae2a4-b5d8-464e-9c9b-1e9337676cdb@20ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d01aee51-4d3a-4e1d-a65f-2612868055a4@d01a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f3b50f6c-b7f9-4774-a6b6-23025c2cf42c@f3b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5f07526e-88c7-4d67-bc05-c470f408d764@5f07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7b0ca941-630b-475e-8b30-892cf3010045@7b0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ed458683-b9be-4e63-95ad-55f9ea7a3e12@ed45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b549e32d-6bb0-41c5-965d-8c400beec7f7@b549.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7a4819a4-73fc-4b9e-916f-b50019342fa2@7a48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:20bd54ff-d8bc-456d-adeb-8f2a3e1bb3af@20bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:623ee1a3-67a2-4320-9bb0-fa993fe0142f@623e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4ef392bc-5567-4aa1-a17c-c28d210b9d04@4ef3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bdc3dd5c-5622-4054-ab33-1acd01d4d507@bdc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:20464465-9203-41c4-9638-0300a8d58c20@2046.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c0425fd3-dd1b-462a-8ef4-1daa52f7e40f@c042.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2e76fbc6-406f-45c0-b2cd-fd9184229ddf@2e76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ba5e2671-a70d-46a0-ad7e-4583c07b41dc@ba5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:81ea5af9-0d6e-4976-9a8b-72256f6051dc@81ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ee33c078-1355-4ae7-aa10-f3acb8846298@ee33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2c546ed0-fa0d-4a62-b4aa-b6a2c94f046f@2c54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:51fc3f04-b026-4826-8c73-3a907318df2e@51fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3be5f536-dafe-4473-9a6d-cbdbc652e3a5@3be5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3240d3e3-a84e-4eb4-a228-c65ab254c9f3@3240.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f279bce3-191c-46e2-81ad-54cc68d48e8e@f279.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4dc1fa1f-958d-42f6-8032-ae5a3da79219@4dc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b93e4923-9691-410e-83a2-c0a505f61237@b93e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b677b53c-7608-4053-ae4c-343d3ac50bc0@b677.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0283a121-467c-43a6-ac1d-bfad68310157@0283.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bech\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b71ce551-b3ef-4d33-a0ba-87565cd41c09@b71c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:8d57d0e3-2293-428f-a97d-f5a898ecca2b@8d57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:53cb205f-2631-4579-8233-931a02238f2f@53cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:85ea5998-f7c7-47a0-a534-00ea7260dbf7@85ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:77a09b14-acfd-48aa-9f88-75bf00657fb9@77a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bfd97415-ffdf-4f03-b832-9d3544745b19@bfd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0278dbcb-159f-4e3c-9eb2-b0f018608160@0278.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4a2970c7-15d8-4969-8d19-3d705805a3eb@4a29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:35287e33-06e8-4f12-bde8-fe3849a59549@3528.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f6d107fa-9503-437e-9b14-391e0d98ce90@f6d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:048e081d-7268-4d65-a526-5f56fe84198d@048e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:710e7489-1155-4553-bb1a-b7b96454dd23@710e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:473c6e3c-3566-41f9-99c6-fa62b6c1c2f2@473c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c5dff996-d17f-4d1a-9892-7ea41d6cd3ee@c5df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b43a5bc5-631c-4752-a7a6-95f041c41435@b43a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bech\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dce0be5e-ec3c-452b-938a-07a883d390d7@dce0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5e6784bd-65dc-404c-87de-2ae565f2b7a9@5e67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bech\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1f3e34db-9b0b-48af-8fd5-bef1b9272875@1f3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bech\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ca6b11fd-99e5-49dd-aa6a-473ad17041ed@ca6b.org
+END:VEVENT
+END:VCALENDAR

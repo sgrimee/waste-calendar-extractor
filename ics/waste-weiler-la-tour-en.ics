@@ -1,0 +1,566 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:52111bdd-bfa3-4f67-937b-8e8420d78f7b@5211.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c48c23cc-60c8-4d58-9736-c3e6807fd187@c48c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bd7e99b7-f1ee-4136-8c65-b53f6f265da4@bd7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:2baa8ee2-8b53-4af2-b574-87ec9277d618@2baa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3a195abe-6c86-4e24-8fe6-97dfff3c7112@3a19.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:4634485d-ccac-46c8-934c-c27df251a79e@4634.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:65e02546-0633-44e6-a064-061805e700c3@65e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:f7cca750-45c2-4f52-97e5-aca0bb136265@f7cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2b101d84-66ca-43e4-9c73-b15c3a0be5ee@2b10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b393b274-01ef-4592-bde6-6c88684cfd32@b393.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:ab090e03-feeb-486c-9ee2-fe99461c4bdc@ab09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5d71daf2-eb3b-430b-8caa-e0378e374f76@5d71.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1f405cde-724b-4c53-982f-c60aceb665c5@1f40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5e7bc8b8-df10-49d3-9782-9ea3c892422a@5e7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c46f572b-02ac-4b70-9213-5b33389f5341@c46f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:56a24d29-6ce5-47bf-bde1-ad2e2334c872@56a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7eff4638-c6db-4dc0-85ff-cf1f36b8225a@7eff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Glass
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Glass
+UID:1953bd81-d523-479c-9d40-67a74cfcc555@1953.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e2cf4f56-55c7-4dd4-b134-ef6057975a6c@e2cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0a26724c-506d-4061-ac60-3d43c425d3b5@0a26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6283dc69-989e-4922-904c-718a520c35da@6283.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:111ec57c-7f90-4b0e-8da4-4376752a3ad6@111e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:39fba89e-3f33-429c-aa1d-75d178eaeab4@39fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8d094440-7b96-4ada-8928-61172b2c838c@8d09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fe066b93-bb2f-4e0b-a249-9445077edb13@fe06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bc08911c-6116-4fb8-b0e1-0cf197443e6e@bc08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e4891af4-dd22-4760-ac70-69b0a996dbb8@e489.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:cfdf96c4-13a2-4478-a017-28292e273345@cfdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:24a14872-f2dd-41ef-8114-8ce6ec396f58@24a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:eb97c719-19d7-43e8-a4fc-3a122d5fdd3b@eb97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2e8932cf-9884-4035-84df-f1e8ddf7055b@2e89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Glass
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d3d2750b-1afd-4d8d-a0bf-53eb4ffd04d5@d3d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9805209a-471e-4300-b7c3-051f5aefdedb@9805.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ffd0cc86-30cb-4885-8633-d5ae45629569@ffd0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5474cf50-ae18-474e-b864-8c5ea3563451@5474.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5c78e0d0-33e1-4138-9d79-311a80683eda@5c78.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:5c4d915e-1c17-40ef-9dd9-1f8b62a16466@5c4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1e2650a8-b76a-4702-a3db-25ce70f538a1@1e26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c9086a32-3109-467f-a2a9-58456bf1bce5@c908.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f132010e-d904-45a9-863d-9602f5ca3453@f132.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:8a09483c-1c64-4832-9977-ecafe08066c5@8a09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d0647a17-ad4d-43c6-8d3c-a2f4d3d80581@d064.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0158fa0a-72f1-4d48-8c0d-67c01b6ce8c5@0158.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:4010e481-6dc2-46f4-91bd-5560cb702508@4010.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:00cd0938-4ed4-43b8-a62f-c2e327b1dc05@00cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a0740301-9f07-43fe-b779-0e497422b492@a074.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2e332793-070c-4dba-aa3f-b2d61a8c9afa@2e33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cd12f49d-d340-4647-b60d-954e7db0b574@cd12.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:32214ee1-5c8e-4e6c-9dd1-02f8140371f1@3221.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8446f39d-5cfd-4093-b584-58be0b0837a1@8446.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1a2d5be5-2d16-4b32-95cd-c9d2989030f4@1a2d.org
+END:VEVENT
+END:VCALENDAR

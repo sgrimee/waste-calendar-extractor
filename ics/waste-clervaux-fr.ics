@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:7b90325d-a68a-4893-90fd-a8984b690725@7b90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8c14ee2a-56f7-4ba8-9773-a9708c7b33b9@8c14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:396c52d4-37be-466f-b6aa-2a55d50a3b91@396c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ad46a060-94ca-4d35-8e95-b20bf89f6d83@ad46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:52f37b9e-ffef-4f09-b921-a2267e0d2e92@52f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:dfe2fc15-5349-4eac-84a7-1905494dd53a@dfe2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a1195a4e-6c82-48f2-91eb-db7a7474a3c8@a119.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:19b13e88-6b90-4f64-b918-85dae053eb82@19b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9197aeb5-c835-4014-a998-02efab12abdb@9197.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:efd48888-f1dc-4593-931b-a74bf474800c@efd4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4c403cf7-096e-4e58-bc05-9086fdf852d9@4c40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3a397910-ee10-494e-ae1b-e7f311381966@3a39.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:bcee624d-5d7f-4c8b-9c59-f664fc077f41@bcee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e5f8214e-3f5e-4e88-8087-d70f91afe1d3@e5f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4957174c-52ed-4af3-93b4-e4c4ff5c4ce3@4957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:43fbd635-33cb-4e76-aeee-2328506e49d2@43fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b00089cd-4002-408b-8fac-e45473d9e651@b000.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a3266270-df28-4305-bd2b-a9c5a36a6ac0@a326.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8c5afb6a-cf8a-4e6d-aeda-495ff60b0002@8c5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0a0b6667-288e-40b2-b6c5-32476b06e1f1@0a0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b8510b21-d1dc-4d5b-b674-e198006785da@b851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0720233d-0534-442f-9899-5c33e70723f8@0720.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3fd67663-1695-4d17-b177-7b7cc64beab2@3fd6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0bcd25fc-9078-4ab8-9981-7616abecc50b@0bcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verre
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2e635019-eec0-4f6b-ac3a-b1a01dae4fae@2e63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fe9b5b94-3102-459f-beb0-c6947364ace0@fe9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verre
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ce409b56-30cc-41c7-a1bf-adcb801c8f3a@ce40.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,515 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f5409416-b69a-42e2-8e8e-3141bba9e785@f540.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6e2333db-0a17-4e32-85f8-605647eb700c@6e23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c0d2f32f-53b4-4266-a2f9-cb07ed5227cb@c0d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5a85b1cb-ed27-4753-b060-d33b1933a267@5a85.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0ee9ec04-0964-4880-b250-1935dacb3ccb@0ee9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4a48d39b-77e0-4042-b522-36b69ca993fb@4a48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b26f02a2-cf62-428d-a524-9baec18059f1@b26f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:991956d1-0195-490a-b004-224b038fe917@9919.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:96fd9fdf-f6f2-4ce6-b185-6d545b8794a9@96fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2f7853b7-d175-4d15-8a8a-35d0dde17fc7@2f78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:bae4ad04-993e-4a66-96bd-e70eac31320b@bae4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e5ea3160-163c-47e5-8b67-c7e9b177e713@e5ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e2c419c1-e00a-4cb5-9a99-b648bd6825d9@e2c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f53899ea-2540-443c-8ddc-d0211ac307b5@f538.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2ce90b5e-1da1-40c2-89bf-4472cbeb3616@2ce9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:49cdace1-7926-4f35-bfaa-e9063d4fe14e@49cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5b578d07-a8d3-4ae3-8555-4c209fcdf828@5b57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a2a7ea07-4c5c-4be2-a889-9837d9cf50c2@a2a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cd133623-a92d-479e-928a-8e63ef3f54a3@cd13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3da22ff8-fdd9-4fa5-b25e-1d27a2949059@3da2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1cc866f3-5e9f-4efc-96a7-a02394bb6439@1cc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:11dcd8c3-7942-4e6c-ad81-0f6fba4edc17@11dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:43bfcef9-0306-448f-bdd1-b8fde9f1ba93@43bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f07dd6ca-c765-451f-ab5d-86f17a3ea255@f07d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bfb34f36-590c-4a3e-8734-ad40713e3631@bfb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:756e6cbf-ef46-4df9-b649-b655b07b10b9@756e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:af6a9949-43ac-4938-b814-3cdf99e3ab8a@af6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:03ac22ad-8e48-442f-b487-e53d7e36e2cb@03ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:67dea797-a2ce-4b76-b135-e8d467c270bd@67de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:16ceda6d-5473-43f7-9d3f-2be11c519ca1@16ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:00372e2d-bdcf-4bdf-a9fb-a7a1b32912a7@0037.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:66d13a6b-2d70-49bc-8bd6-e990363469fe@66d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:4905ab47-f221-49f0-ba23-4a10b4893dce@4905.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f8c5f490-9852-4ca1-90ad-b31d87fed660@f8c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b61a6bd6-1578-4f1c-a940-b469297b5339@b61a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:48ee3711-68fe-496b-8e0a-237141ed38ee@48ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:eebfe71d-aca9-4cce-8077-53833eba60dd@eebf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6d6386c8-18d9-4001-9c2f-2019da5339bb@6d63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ba2dc030-dafb-4df4-b111-a7bb2e5c20c3@ba2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:eeeafc1e-9aae-443b-b9d0-64fb3c0b5416@eeea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:31f3a884-943e-4cc0-8c1e-e36c35d0d132@31f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Glass
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3e982f48-c1ce-46a8-84e4-acd56189c91f@3e98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Berdorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e2d089a5-6f2a-42a5-8446-f6517372a334@e2d0.org
+END:VEVENT
+END:VCALENDAR

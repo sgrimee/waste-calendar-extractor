@@ -1,0 +1,1317 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:c96bda88-626f-4d09-b1d5-75205d5335bb@c96b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:24f560e2-a020-4642-b424-d2cdec23ca90@24f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:6828a58e-0b43-464a-8ee1-7468520336ff@6828.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:30d0a153-2738-4b4f-ae81-2b3742adc12d@30d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f41ea20a-f66a-455f-881b-395d5c037b7c@f41e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:6a1a2cd5-41ad-4a26-b844-8328cc2c0d20@6a1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8b82e169-e99b-4307-a218-cbe07fa5aa81@8b82.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:dc7f14f4-44f4-4bc6-b059-393790974cee@dc7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eb0ccd84-d8bc-4a1b-ae07-c86c9cf1627a@eb0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:49f86aa4-9627-4a81-b04b-01f3182faf94@49f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:da679b03-777a-43bc-a283-f2ffe6aaf6ae@da67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:ec8d80bb-01eb-445d-8b07-4203cb7e9886@ec8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:61f2e6f2-abe5-4aeb-83cd-b7331c71a5d9@61f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1e672c88-d15d-475a-98ee-d696eee30d9d@1e67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:26893984-ca4c-4b84-a14c-62ecb389eff1@2689.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0e45a11e-2936-4b1d-a254-306fa3a1ab11@0e45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8b4e02ec-2fa8-450a-ab83-c5fb3823df88@8b4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:02536793-2026-48ee-a078-54747cbcc6dd@0253.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:f4e108bd-5e31-4772-b997-132c4ca1594c@f4e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:b3256252-097b-4e77-ac6a-04006bf07a11@b325.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:0d9301ad-bde9-4cf8-b1c6-680bf6d3a22f@0d93.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:32a40df8-4dab-4f57-8141-eb7b3f1e4514@32a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d2a1af2c-1324-40e8-b10f-78d002573fb1@d2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:779b4310-106d-4fea-9cc4-cd178859a9f8@779b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0a8d8fbb-2bcb-4e32-b59c-cc619152c85e@0a8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6aeb6a80-f87a-4725-91ba-f89b539a4962@6aeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:afd52b96-a492-471a-ba05-40b26f3ceefd@afd5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0ef76b1e-ad61-484a-982a-a33eebd723c9@0ef7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:94433cf1-7eb8-4753-b696-0226161ec501@9443.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:79ca8e8f-0c38-4c2b-8922-a527f46cd9f4@79ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:470372d3-ed37-4403-a19e-4388cabdac6e@4703.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:e73b85a2-56b7-49a1-a20e-7221b6378979@e73b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:9a165a30-9fb8-4d3d-8836-52f2718202dd@9a16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:804dd593-65a8-4e9f-8776-f0e76e2e442d@804d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1c2a3459-58b0-4bb9-be50-8f4c4a814947@1c2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:45b1cdd9-7f0f-40fb-b438-36a8329ab467@45b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:af38bf7d-d66b-42ad-8896-ce8563851299@af38.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:3bdd6291-3bc6-4982-9de6-435949650ee9@3bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:9ceaa9fa-9ebb-4123-89e4-2524fd0479a9@9cea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:2594c4cb-88c7-4d98-a933-7cf999105c9c@2594.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:be9c9da9-8870-4e97-8458-4f7eb7cff24a@be9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:76cb67f9-ae97-45ac-8c26-76eef6684d3b@76cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:17a76acf-1d44-4203-8b16-f7cd7cb50db4@17a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4fca4764-1fa1-4b8e-93fd-0f31764494a1@4fca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7c8d30f0-4973-452c-8134-1ef79306c260@7c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:c8644fbd-67e0-4c57-a2cf-aba25501734d@c864.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:e0077226-394d-4808-8c38-4707b4a4d8ef@e007.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:501b4fed-5fac-4c48-bb34-7e5f2eb1c972@501b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:6a13a725-0219-41d0-a79a-e35226e227cc@6a13.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:736e785a-a9ac-40bf-8b45-8c3bd167d36e@736e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ec5a0d6d-4477-40ab-8a63-9349c5f5ba6b@ec5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:83191eb7-9c2d-44b4-99d1-4c59db17d35c@8319.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4226fe44-bcc0-48b2-bb07-26f8696883ef@4226.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:d2b36585-a3c9-4aff-9bea-decb248234f7@d2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:23358f3b-3f53-4cfb-b167-533cc0703c16@2335.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0ea5c57f-3ddd-4b89-ab41-7b373f96f490@0ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:1e348419-b872-4429-80a8-067217ed2c10@1e34.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:597ca91c-56f0-43aa-b442-4a624b88ddcd@597c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6c64ad25-008f-4d00-9d90-7dc22fecec0e@6c64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8dbdd081-b59e-42b4-a793-1a8fe79037af@8dbd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e688c4b1-a0ce-4072-95be-4c96beb357c7@e688.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:2cccd192-d27d-4414-b759-da43e26e7026@2ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:43f25bca-b0aa-4b2f-96f1-4eb4d8851bb5@43f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:46fbce76-4130-46f6-a321-2b7dddd0219d@46fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:63821cca-4763-4d8e-8a21-827cbf0c6cdf@6382.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:ce352b40-1ad1-4d76-84b3-69bf923a864a@ce35.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:a4b15285-a5cb-4412-a53c-f58beca527eb@a4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:5b546633-c44b-4746-ab1a-fb4f3ac19bb6@5b54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:9ac9be26-8962-4d8d-9abc-77a8741f7359@9ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:ea7a3c23-77dc-4f3b-ae6e-4d02082a97dc@ea7a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:7b8a8d10-4c57-47e0-b266-2b451d06dc30@7b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:9cceccf5-7440-4cdd-b026-c950db34d90a@9cce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8c0b9a45-441f-48fd-9e13-769d3e332643@8c0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:18f5b3f5-bdc7-4dec-a7f8-8841f668ecde@18f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:1663a925-035b-405c-8ad3-ea6dd8c89746@1663.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:08897c33-378e-452b-a8c0-646e90e9824f@0889.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:dce9d60b-6518-4268-9ce6-95864b9231eb@dce9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:765a508d-f3e3-4859-a1a0-8eabe556dcf8@765a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:b20fc9bb-76ea-4d70-92d9-fa1b4905a5dd@b20f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:00e73fb5-19c0-4331-aa55-dd77423b789a@00e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f6fe6bf4-5b5f-4620-a7d5-f76f72712b1b@f6fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:c200e23b-7ab5-49c8-9429-c64cb83c6018@c200.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f303305d-b714-4c4f-a9c9-0fe865b05556@f303.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5da5a0c4-c1b9-4599-aa0d-09159cceecb0@5da5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:3cfd838f-52d6-4bf1-ab89-050e4061032f@3cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:be6d6d82-638e-4d98-9cab-c7886173e5ee@be6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:94ee8301-d590-4058-a53c-241e200dbc26@94ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:dc945b8e-2680-4eff-b45c-600dc7e1af08@dc94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:f32b55cc-6477-4bb8-b25b-7687c3b10168@f32b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7eb6bbcd-b057-409a-9913-ee603455a6a4@7eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:0a3b0c88-5f2a-4671-af26-b4571e1eafd2@0a3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b8a5a3ef-d2e0-42b2-b188-5340f5262691@b8a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:5b88b305-6541-45eb-816b-d1c8cc94db7c@5b88.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:173202eb-904e-4010-b2b6-431ff56fce45@1732.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8b132984-6fc0-4e2a-8da1-b9159157c9c5@8b13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2bbca290-e39d-4202-a330-3ef6c4c1a010@2bbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:03979b14-ce42-434b-859a-ec8a3c3b131f@0397.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e4235d49-f220-4bdd-8b3d-76e4a86f2d3e@e423.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:46d6483f-0aa0-4444-8b85-0ea63712daf6@46d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1bee44a5-c50a-42e9-8268-f9e627f8e9f2@1bee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:d1b312e7-cd31-4537-9bde-0ac755866f54@d1b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:bb10f6f5-5133-4d95-85ba-c0dbb647b093@bb10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e6a14cfa-282c-4e59-8c8b-53c225a6a930@e6a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9275a3e2-75e2-4f4b-99af-ac4eb0e6b373@9275.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:425fcc3e-8874-42d3-80f4-a586ecd13d2f@425f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:43ff9397-8d9e-4370-844b-0071bb5a0a3d@43ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:be36b4a8-b838-4ffb-8967-ffbab9f9d864@be36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:85610045-eacf-4de4-a2d7-fb36401e3318@8561.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4b451115-cf37-4245-8cc6-c1786cddb516@4b45.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:90099035-33bf-4b72-9004-c6272e7e6ed6@9009.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:6a74d84a-ab33-4c96-8ec6-72adce9f6684@6a74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2536e482-6a6d-49ec-bb9e-7b300378be8e@2536.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:0bdb8410-1a64-4da4-b823-de72423b6da9@0bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:ee895e5d-ba45-4c7c-9f54-1058f7d8b3ec@ee89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d3017517-09aa-4b3d-aba7-1ab598ae1a1a@d301.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:329db833-da83-47fb-84c8-d056ef6eba3e@329d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7cc8100b-fbf7-4255-9b73-baa3465f79f1@7cc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:eb2df7fb-dc98-4cb1-806d-9ade8787acf1@eb2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:62de03cf-f985-485c-a1fe-242065154e78@62de.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:843f96b7-3ff3-437a-879c-02d5f5421753@843f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2cefd8be-e282-437a-9fd0-efd466102c15@2cef.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:6ce89cc8-8383-4251-ad9d-1c981869409b@6ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Paper/Cardboard (commercial)
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:📦 Paper/Cardboard (commercial)
+UID:053f7483-4e76-4e56-b93b-a7f86f80da06@053f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:bd9f3a1e-dc77-4029-be26-78bdbc0d2185@bd9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:663e8b60-3848-419f-9d35-1279911170e1@663e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:47e6c11a-1e72-4a16-817c-954ddf5a79b6@47e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:730b2f39-b004-4f55-8f43-f23511e9d874@730b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:84ea40a6-a781-4e69-be94-ca1270d7e939@84ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Household waste container
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Household waste container
+UID:085083e5-176f-4f70-8e66-3404da7f191c@0850.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:68406483-b55e-4be9-a964-9a305cc6a89d@6840.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3276648a-b2c9-4207-bc38-6b033c9d64e7@3276.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:98f46ad8-5207-4f05-9948-18aed99770af@98f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:295c8bdc-0712-49dc-9fdd-de5819d84a97@295c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Alzette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8f7bc684-05fd-4b73-8568-dbcfedb515ec@8f7b.org
+END:VEVENT
+END:VCALENDAR

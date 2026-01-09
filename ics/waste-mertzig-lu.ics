@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:c821cf2e-789e-4f5a-829b-fcc1f2a3995b@c821.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f506068b-a65a-44ce-be99-f873d2a261df@f506.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:55f7a703-0f01-405d-96cc-d18d1d691ffb@55f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:99ec6c35-60ea-4720-8ee2-456e6ecf00b5@99ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:fbeeb8c9-934a-434d-bc2c-7e46d161496b@fbee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0b041dd5-7d04-4caf-91c8-805a6abe178f@0b04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d94c78c4-6808-4f40-815b-8b8ef5bc43b2@d94c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0a57aab1-fb3d-4fc0-8bbb-b08d848f8289@0a57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:349b6a9d-ae97-420e-a111-1462a209301f@349b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:e220de76-be29-4eca-919c-15438b88d5c4@e220.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:de0d140e-74ab-45c5-b32f-1105e04bfc30@de0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e2123c10-ab3a-4a1b-b7e4-503a668ba1a4@e212.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:ae0e30ef-ebfa-4578-975b-6469dd67795b@ae0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:80369267-a894-4e4f-8cfd-873057e0f31c@8036.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d25ba283-7a28-40ab-9b23-2a6b2b0b47a2@d25b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:5cf1b26f-5812-40ad-9d00-b882515d29e8@5cf1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Glas
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍾 Glas
+UID:ec908af3-f4a2-406e-8006-93fba8b18815@ec90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c4b0ec14-a104-4f2a-8da5-75fce102b4b3@c4b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:63757318-5220-4dcd-9f7d-2c4e4117d167@6375.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0efef7e8-1d6d-45ae-99fa-bcc342f41d9a@0efe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4628942b-0248-42b4-bc3a-60e28b9f4709@4628.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b3f74ee6-9087-4ddf-84a3-befbeed80e5b@b3f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:aebcdc00-7b01-4320-a2b8-1e8ed3f0933f@aebc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:b36071f3-093c-4d52-b25e-72e97c975eec@b360.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d9ec99fc-7788-493f-aa79-d8eb4d162fe4@d9ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7b515cb7-fec2-41f7-b94f-c68aa81506e8@7b51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:57c9cb02-3bcc-4430-8af8-f81cc84c7b95@57c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:6cd17a34-5f8f-4a9e-bea1-e2c5245df9b5@6cd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Mertzig\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:3188dd01-feb4-405c-b1d0-a06de2c49870@3188.org
+END:VEVENT
+END:VCALENDAR

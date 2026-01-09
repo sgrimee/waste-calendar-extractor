@@ -1,0 +1,367 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d52fddab-4300-4c73-aa47-80ebc731d2df@d52f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a1972779-3282-41cc-89f2-2fce05519c78@a197.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5bb9da2b-8bed-42cd-87ce-8a6a5ddc033e@5bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:2cdf78f8-01ac-4d39-9594-5f09c6b0fbd4@2cdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:af565a87-ec8c-4da9-87fc-75ec2101738c@af56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:a1c7189b-0ca2-45f8-b0fd-c73b08a7310f@a1c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:affaef40-8a70-4ebe-b708-8ca000edbc42@affa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:637994a9-395d-43a6-8f55-2b35f51c46cb@6379.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0cb9abee-e9d9-4dde-a5a7-66d9a5fd6bbd@0cb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6d2a6782-45a9-4d5a-a4fe-7124eaecbf29@6d2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Verre
+UID:06ad2b66-e951-426a-b5a9-3498b83dbef3@06ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:a9c4ff2e-9886-4974-ac27-4a6f641ae305@a9c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:758f78ec-744b-4e85-9463-d7312a7df274@758f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d5968993-eea3-47df-bfb6-3e49b9009faa@d596.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:773feab6-cf58-4147-a0bc-88ff50c5e95b@773f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6452e4d8-3f7d-40c8-8d8f-f2b9d14bee4e@6452.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f2ace1d3-a12b-43b5-a209-8b7e7b22f1b9@f2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:8cda15af-d410-417b-9ebd-8b8dba88baca@8cda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c229d8e0-65e9-43c7-907f-46d237139ed8@c229.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3866558b-8cfa-4b56-a33e-c11e2e03c7eb@3866.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9b38f1a4-fcac-4fae-9889-d61df5833493@9b38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5f6dd0c0-d762-4864-a46c-6f46ab408a5c@5f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:96cdf67d-de80-49a0-9a7e-a841bb871046@96cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:340d973f-e593-4a8f-82df-21539b7d461a@340d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:932df0fd-4a6f-4314-ba35-6690aedf0544@932d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d493d2da-05fa-4a2b-9c0b-f88d18753542@d493.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1099b04a-acec-4f92-9038-2dd4179394e8@1099.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9c7ae1f5-d222-4fb7-91eb-c4c4fabb422c@9c7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:23a0a2ff-ad7a-4010-8cca-8081434061eb@23a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0f38679e-8ac3-42e3-bc97-d0994735a41b@0f38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a8a03c7e-01ce-4e49-b093-3dfb2fdb70cb@a8a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:87fd2db4-e1f9-4241-b12c-02bd85f8598e@87fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0c099b2c-a8bb-4808-9fea-500cce7d0a1f@0c09.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Vallée De L'Ernz\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:add3826e-6731-417b-8f8c-70e966b5cffb@add3.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:aa2a72df-173c-4b8f-9ef3-8ea24e1076bc@aa2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c09391c3-f102-47a4-9c9a-8dc10e76d104@c093.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:82261c8d-94d0-431f-b54d-6b37ed65fb5a@8226.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:57f2ebdf-019d-4cba-9740-ab4c3f1ee166@57f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b4b7ad2b-c2e4-424f-af24-f0b4a470481d@b4b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4e39d218-22bc-4264-81fe-7f4055cabf05@4e39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2b1d0fa7-45c8-418a-9cfc-b4ff357abc15@2b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:09af598b-7ed1-4510-8d4b-2bc4a584d321@09af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a26d2dc1-d541-4cd3-95ae-883097fafc5a@a26d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a1652e7a-ed59-4c91-9b69-f0fe1ce3f833@a165.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vianden\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d0c5df5e-47d9-4f47-86d5-371fc78f910d@d0c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:775f28e3-946b-4780-bf37-2b24717fda19@775f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍾 Verre
+UID:442e4a26-88ee-41f5-9c91-bce6814536bd@442e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍾 Verre
+UID:021424b3-00aa-4cc4-ba20-1a34f2d6280f@0214.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c0fd2d78-5fa3-42cd-b1d3-8511e3af3dc6@c0fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vianden\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9cdfede9-74ae-419e-9443-97ca4d2af202@9cdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1ea05978-85b7-4644-ba94-b63816e96790@1ea0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:e10fdd1e-b3f4-4faa-b7f1-72155624b41f@e10f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vianden\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:48dd3f1a-154c-4361-b78f-ad631469f636@48dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1f6c2b27-e5a3-46dd-80c0-50d120315749@1f6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:03881e48-de5f-4a3f-acd8-d37c774846b1@0388.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vianden\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1203fc1a-9146-4438-beff-6c904ccb3891@1203.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c127175a-e59e-4cd0-b1bd-54cb8f47099a@c127.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:80a668ce-2e62-4fa1-b299-27aea29d98b8@80a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8b995c73-fda1-47c9-a3b2-455ef58fc686@8b99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:57cccd45-b06d-450b-b848-3a695302b6d7@57cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a6ad9961-dee1-479c-bea0-e3c9a1ac50f4@a6ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vianden\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0740b9ef-fdf3-4067-bf1b-d3202b6ebdda@0740.org
+END:VEVENT
+END:VCALENDAR

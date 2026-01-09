@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verre
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f614ac45-2e09-4e43-9464-76bbb8ce606f@f614.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c68c6231-b4a5-4b77-b851-b423da82b51f@c68c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6e430149-ce05-4c32-bf43-b586e38f58a2@6e43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verre
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fd7be316-bfd1-409e-99e0-c524cfd8fb79@fd7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:19adadd3-3d3b-47ea-9030-a6c2fc4381ae@19ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c726e32c-ab86-4b2f-a671-2ee661e110df@c726.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6334dec8-4315-4261-a681-5a6867a0aeca@6334.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:39e7dc34-3b50-483c-8b51-8f1c85aed00b@39e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1ec9b571-86ed-4b8c-b7bf-8e2643b04d7e@1ec9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a16d61d1-7091-4b98-be79-c0a36c10cef2@a16d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0c83ce3b-9a4c-42d5-b7dd-7c52d3546caf@0c83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:07b2d00f-d5ed-4464-b2df-6f1e078de8d6@07b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:40ad56b8-8de6-4135-824d-8affeae278e7@40ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f670abfb-8cbb-4ae7-9cc7-273db90c3a2b@f670.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dc786254-164d-4860-a251-52a579bdad55@dc78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bbcbe7d7-1fc0-453f-9d18-4d55ef6d988f@bbcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2f468a8f-3175-417c-aa21-5f37cbb746cb@2f46.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:2729f711-8cd5-4890-b929-5e4b2f6ac9c4@2729.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:552f82c2-0804-4276-89ba-88301ea2deaa@552f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0bb14232-90b7-4882-9cbd-6a48f42af414@0bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:57502285-748d-4a55-9b63-5c0dd865db2e@5750.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cd861c9e-350e-4665-8af3-5b47ace25bd5@cd86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cbd395ce-3720-4fc9-8c09-75d759197343@cbd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fc405b10-3674-4344-ab16-458b051b061c@fc40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Verre
+UID:68c2da46-21f5-44b1-9e99-a5b98399f0db@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c8511be3-bb4b-49f8-b9cb-5aa771ad7894@c851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:31c67475-1c35-46bf-a253-cc379a632a7e@31c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2e4d748f-9765-47d8-9149-7bc7cae411a7@2e4d.org
+END:VEVENT
+END:VCALENDAR

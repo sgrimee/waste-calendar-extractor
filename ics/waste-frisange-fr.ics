@@ -1,0 +1,444 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:54c69a68-73eb-4b8e-9735-64f23433b309@54c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bd2daebe-81fa-4eb2-9f0d-3532bd0cf290@bd2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:f07602c6-2949-48b2-8dfd-89a0e6e1000e@f076.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:ebebf55e-1ac1-4fe2-bc9a-47d10054dbcb@ebeb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d0136a71-7c87-4283-84f3-6e38a8485d66@d013.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verre
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:83e74b25-fe17-4101-89fd-b1eac0122dda@83e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f9f417ef-bd0a-46a3-b9ab-fbd032eed9fc@f9f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cd395869-86b3-49ed-9b86-0f9182ac1ac5@cd39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2c476f3d-75fb-4863-8d62-9398eaacd865@2c47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:148ad6f3-6cc6-4173-a0ce-fa24ca76981f@148a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:3727e716-c1dd-4a6b-ae98-fc06055d3064@3727.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:706324da-c783-4116-a3df-f9419e6ff423@7063.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:c569f1c1-637d-41ce-9d2d-1cae1b6e88b3@c569.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:67911ab1-7358-48f9-bdd9-db36bb0c25d4@6791.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:15ae74e5-4998-4b43-91e6-a7ad79a1e91d@15ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9aa91026-66b4-4494-8dc9-8fb2cd351a2b@9aa9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b2d883bf-717c-40da-acf7-a643bdf4d14e@b2d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:27570437-f412-4b36-90ee-e845fc5f55f8@2757.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:9a53951c-0a8e-4ed4-b9f3-8e98dd43c0c0@9a53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:058a6158-be80-4366-816a-4175e6e6eb1e@058a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cba39df7-128b-46aa-9b8d-e80e4ede8b26@cba3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9a670c11-bc2b-4ab2-ac3a-f63cbfea6447@9a67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c293c16e-3940-4ecd-996d-b7d3ea133014@c293.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:85fc852c-e928-4750-b560-aca60b4b3a69@85fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7f4d1ce2-ffe0-4a53-af21-2b27dc657d44@7f4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e16785d6-2436-4f18-9963-1c0a22552b62@e167.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4717b59d-5d2d-4116-844d-93c94bcaadbb@4717.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7877e3b5-1970-498a-b038-a4bb94b0170f@7877.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bd687117-ce9d-47d9-a64d-fdf3ce797df3@bd68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a3fe5559-38ba-47fe-b229-a7a6ea75f577@a3fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3188df66-94b1-4cfc-9e8f-872272e47e68@3188.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:02bb4d41-6f91-45ac-915f-16f6e0eb1f8c@02bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:ae4ceda8-cefb-4d9b-b8b0-d6d2d1d184ed@ae4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1910b07b-b4ac-4463-a3ab-c3dd516084cf@1910.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f5d078a6-614d-4dd4-b9a3-33fab9835a2b@f5d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Frisange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a78c0714-4dc7-4143-a30f-7650f50e1999@a78c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:61df4f90-2d7b-4226-b182-3146991e0dcc@61df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:96b28098-fee2-40dc-b10c-95cad72470b8@96b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Frisange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5f40687c-ef80-4cb8-8d97-746f5ca90b6c@5f40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Frisange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:773acb75-2502-4810-96ba-408c21180ed2@773a.org
+END:VEVENT
+END:VCALENDAR

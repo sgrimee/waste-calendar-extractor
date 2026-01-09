@@ -1,0 +1,533 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0e7273c4-bf84-4d8c-be0a-ef06d0ced0cf@0e72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glas
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glas
+UID:2592af44-8b62-492c-b74b-64c23c998265@2592.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:e9f9be6c-71f2-4a13-9f82-f7de4f558b48@e9f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:84903503-9611-4bcf-adab-e592da9a4f14@8490.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:cd16d733-df6b-460a-8f64-39de25b4e46a@cd16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:4ef3bbbc-d368-4e3b-b53f-f3b8065c2e1e@4ef3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d82ec468-0952-414a-8f34-1952237e80c3@d82e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:0d24244a-e847-4810-8159-ea5757324443@0d24.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:86e8810e-195a-4a4e-8bbc-d8da25c1779e@86e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d46d4d47-cd9a-4d42-bb5e-5b45bfcc84e8@d46d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:83ccf079-b8de-4bf0-a3b5-bf6e5e0e9dc2@83cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:1f7874da-d5d5-437d-9cbf-74e0ada8ad4d@1f78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b5f931b4-d709-47e1-b966-7d33cd118b27@b5f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3eeac22e-b2c0-4081-99d3-5765fa164985@3eea.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:16bd84f3-fb62-4fd2-b804-c7b668af44dc@16bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:a43ca7c3-7aa3-40c5-b3ad-272d3054c5a1@a43c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:4cea206f-86f4-43e8-b109-c7081ffea1ce@4cea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:acc82548-126e-417a-bb25-2fd13f581818@acc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glas
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glas
+UID:d0eb85dd-3c97-4feb-a680-63b2cbf7f224@d0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:663fe0d9-bce3-493c-9661-c32cce100a72@663f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:8fd6422f-f22e-4c7e-987a-0011a6eae328@8fd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:34088d65-830b-4d16-bd8d-be1a64945fe5@3408.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:5262a009-0d31-4fa8-a21a-fcd66be693d8@5262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:556424c3-5df3-4be3-93e8-82ba61f0ae94@5564.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:8a0781cb-00b2-4606-a68c-b792bec93a23@8a07.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:a9aaf9e5-e4ec-4ebb-8d10-c3e36b7a8083@a9aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glas
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Glas
+UID:af9704e1-7e9c-4e66-9ff2-207e89da65c2@af97.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:b712b021-3ba2-49fc-a7b6-2deac67970a7@b712.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4690ec7c-0cab-4525-a06f-5e6e15e1f173@4690.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ffa76bdb-947b-4721-8cba-4d2bf353e8ce@ffa7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5b1ffb49-cfc0-4d76-8d5c-35949cdd7a43@5b1f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4b5952d5-24b6-4851-87de-5172d0b981cc@4b59.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:5ff55853-6209-4ce7-b6c7-c1bfc8fc3a17@5ff5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b7b48766-3325-479c-a02f-6b4f4c461645@b7b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:65060b8e-bc2a-409d-8182-fbb1c7f187b9@6506.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:10caf0f7-4897-423c-8882-1a45c42cbfa5@10ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:92f97dbb-f588-47fb-b570-e49b01888a59@92f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e30f2112-924d-4d0d-b9be-89f85fb30b48@e30f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:78b983b8-d070-4337-be6b-09c71ff62822@78b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d198fc1f-210e-45d3-a467-4a80a9a33581@d198.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:6e3d2a51-613a-4645-a8af-2686fabd72ab@6e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:bb060623-bec9-4eda-8f30-0dad686e7073@bb06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:feb9f31f-dec0-466f-9552-263c59596210@feb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:b4003e9a-35c1-493f-a481-594fd417ba7b@b400.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:61cfa539-9605-4529-9359-1e3e304f4270@61cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:81db1d9e-4dfb-4395-beb2-86f5e892a2ff@81db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b35d856e-cd3d-41b4-a890-f0f5b962f533@b35d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:e93599d6-78f3-4e08-ac93-aa836177e871@e935.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:72b1de03-19fc-49fd-8e8e-63eeed995a48@72b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:97cc6058-e3be-42ba-b354-c03fce3864b6@97cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:a5a3f1cf-4ffd-4b64-9c12-d7ec94b33e95@a5a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:21625525-feaf-4eb5-b020-7e35fef418cc@2162.org
+END:VEVENT
+END:VCALENDAR

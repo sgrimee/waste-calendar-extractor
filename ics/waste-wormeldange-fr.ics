@@ -1,0 +1,553 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0b508c19-cb44-489d-be60-5f4ae420011d@0b50.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:271ea507-e472-4378-a6b3-145b0f5def13@271e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:37b5a120-1d0f-43a7-81f9-4bc9270f253b@37b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:49097756-7a3c-4e09-961f-e5624ed71a70@4909.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:660fc499-dc7f-49c2-a735-483babe62d9b@660f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1361d791-22fc-4983-8060-5e57382a760b@1361.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0a615411-c077-4f26-a113-036c9f0c4c7b@0a61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f4f9cedc-0b10-4860-9b6f-a34e65779926@f4f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:759702cb-f0a9-47da-8fde-453197d1f6b4@7597.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:195215e8-d519-47e8-94bc-b3295e9a28c8@1952.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5d207af7-d043-48ca-8e27-b88329061384@5d20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:73ad0e22-6998-474b-8587-9b85e16ba52f@73ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:957260fa-8536-4907-98c3-267724bd4f5c@9572.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b7417813-e041-49eb-a0b3-4d9d17c2e8cf@b741.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:27247f96-40b6-42e6-9678-12f6e5e3ce92@2724.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b5ca5109-87d3-46e9-ad6c-c6e47e99b3b8@b5ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bf840cd2-21a6-4e77-83af-f609be6a0fd5@bf84.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:77efe989-0149-492b-9188-1e8250cea914@77ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fa496e38-3503-4237-a55d-e32fa9a0f403@fa49.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ab5b6374-77b5-437a-bd98-ac8eb1e94e71@ab5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3830a923-86c3-4f88-b47b-c5cd0a823c5d@3830.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dc5b47ca-d575-41cc-9545-74a49c01873a@dc5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a51f8d4d-02a6-4555-938d-f61ca3d5e951@a51f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e29bbdd3-1f9b-4370-a887-517aac756927@e29b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0b3904ec-24b6-4ad9-ae48-bdbac4ed8c55@0b39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2f3c3279-af32-4fed-9701-d94dad9064f3@2f3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:0e012fa4-5cb4-4265-8d41-a9ff5db88642@0e01.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:863bae27-fe06-4175-9919-66dbd5d5f927@863b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d0f8f1f7-f5ec-4247-baac-c75fc963422a@d0f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8b9c0b05-f50a-45fa-9f36-3aacedb1855d@8b9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:591b6c1a-1ccc-4c88-b7b9-c4b00332d614@591b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e7a898ef-9d40-435c-9cdf-05f4787c3142@e7a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8e5fe7d0-026a-43af-b9b6-ef796bcab87a@8e5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:39907198-8413-4b39-adad-9cf682e6a570@3990.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0b454e96-8e9b-448f-9c71-999b1134a829@0b45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9e827967-3b46-481e-8822-47d9f9a8329e@9e82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a5307b25-0c87-4f72-9b51-a2786c1ab87a@a530.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b144c9b6-3667-43f9-b51f-9afbeac2eb43@b144.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c69e4ac8-0bbf-48da-84d8-6764cca6e94d@c69e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dff35fe1-e4b2-404d-a765-77f23854f43a@dff3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:afba96c6-8857-4918-9bea-4f4e98c154bb@afba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:17d24241-d06b-48c6-8439-4889f88ee6b2@17d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:694f9946-3ad4-4705-b5cd-fef9afed5d13@694f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0274d378-607b-498f-ae28-bc9a473a6366@0274.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3df31e70-3e9e-430b-b118-4144d94da156@3df3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8c782012-5d1b-49b1-be5f-8cd1a6772c2c@8c78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wormeldange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7be59c5b-a4e5-4dd8-8003-c5392783a6c7@7be5.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,534 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:6018677d-aa2b-45f6-8627-501705ee75e6@6018.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9d2575d0-873f-4a1e-b4a3-d6dc4f1ac11d@9d25.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d08f5eb6-9ced-4127-86a3-5788de81a1ec@d08f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1ab5b487-0a86-4614-970d-bd60271bc647@1ab5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4111aff4-7687-4057-88f0-6e3a6f80698a@4111.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5379637a-4511-41ff-8d16-3d5353336d59@5379.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:eb8fc56f-6893-4d69-a67d-f50a40ceb59d@eb8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a1910763-af16-401f-b036-f385dda06b28@a191.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:85ea1801-f6a7-4eee-98b1-05279dde28a1@85ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c455bda8-96ce-4dd1-9f29-e85fa154663c@c455.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:81f86ace-62b7-4498-9d56-7a56976e67b4@81f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:888eb16b-fc39-4cff-8ed0-f33c353130e2@888e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:88a549cc-3a89-4077-ae48-3e90cb23bdbb@88a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:50d57bdb-dca5-4b61-8a58-e06ac27e0807@50d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5da4db5b-4622-4f55-86c4-7fca60bbe670@5da4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:9c573c1c-f5a2-4417-9cb1-21aadcb7726c@9c57.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:280913ef-7cee-4a72-9e78-f8d6e7ac32ef@2809.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3ac381d4-82a1-463c-b7d1-43cce70c7a32@3ac3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f0b4bd0a-bce5-4800-bdd5-adde764a1f53@f0b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:02e6fc5c-5fde-4fae-855a-b5933fc0b712@02e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:44f224f9-3972-47cb-9e5d-8d782fdbf294@44f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:80ea1b2e-af42-4a91-a20a-852d9c86a4cc@80ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:066e79dc-a6d1-4e4e-a3fc-8075b0c1eaab@066e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c1d445cc-8589-46ae-81ec-1d74960b26b0@c1d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1b397ad1-2fe8-426d-99a3-0591739342dc@1b39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e5c7330d-e0e4-4d41-8d06-69a9a37bce07@e5c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:790f2eb4-2936-4035-969c-d3510abff568@790f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c8a0eb8b-a043-4274-b7b8-fb435ffc423c@c8a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:eb343bd5-9339-4908-9014-8d7a4549be8b@eb34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Manternach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f58e4856-fcc8-4f8f-ac04-e9476cb02bba@f58e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b2abf3fc-9d36-4e30-bf06-59355a820465@b2ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a2f09207-80dc-43fc-8cf4-4a26b98c1cbf@a2f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dd159056-1d11-4e0c-908c-075693436914@dd15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cdf8df7c-f36d-4d09-aaab-e979fc9ba14a@cdf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:173766ac-b1bf-46d0-9663-a4884c619c9f@1737.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:adc983c7-3de8-41e5-9b7f-4956432fa3c3@adc9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cd2b43e3-1895-41cc-be02-904f369dd244@cd2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fc39eae3-90e0-44cc-9f1f-13462207cdee@fc39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:70108399-8f0e-4ef2-be0d-6e4c6e0487ca@7010.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Manternach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3b40fb39-0744-40b0-a767-d36e96af7350@3b40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bedf186a-2a5f-400f-b44e-d1880e0f23ce@bedf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0d06fc5a-46b4-445b-80f0-5b58edc036c9@0d06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verre
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fa36f1b2-6a1e-4301-90d2-d01efe6c808a@fa36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:20119406-77b0-4e9e-a291-f41fd93e4a28@2011.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Manternach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:48a4b7fd-4517-449d-9f46-c648db077725@48a4.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,467 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b89dc557-f4b2-414d-a24b-23e8b2423ed9@b89d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:15aeef9f-daf4-45ce-8855-47271b960b70@15ae.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:81e18baa-e8c3-4f2e-826e-ff49bd8ebcdd@81e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Glass
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:be875dce-64dd-4a41-a951-ca2edd147349@be87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:efdf1a9c-4528-4021-a76c-e8b3b7bf1a6d@efdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cf452516-231e-49d0-b3b3-61bfdad8263f@cf45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:42b96245-7ebf-440c-8a2d-8c1aa47791c7@42b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:278deabb-f58b-453f-9a72-d6aa34c3acf1@278d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a77dd3a2-882c-4997-96cc-48b6b437cafe@a77d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:661b079e-adcc-4691-a910-735362c4dba9@661b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:07d47a29-6421-489b-9d14-8dd2182a22c2@07d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:30cef94b-54d0-4953-870f-d2f70daf71eb@30ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0642f4b8-4605-4568-82e1-d6ca2926911e@0642.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e22fadf-7b54-44b7-bd60-198dc6846a90@1e22.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aeb72c1a-4d0c-44c1-9d41-48ae46a07abd@aeb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Glass
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b197548b-997e-40ae-9591-b4459e7c724f@b197.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fb669a66-8788-4def-b917-9e01debf1732@fb66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0394e7eb-12aa-4c59-815e-6471bd6912d7@0394.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c0b82883-1307-4261-a5e4-12fd49e6a039@c0b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:dfdc45e9-7abc-4e46-9f71-141001ac4b2e@dfdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:563e390a-19f9-421f-8138-24d2ee48c8ef@563e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b682bd72-565a-4fec-a755-b028551622d6@b682.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c92524e5-98c3-4fb7-903f-0a924e58617d@c925.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7713e453-78a6-44c0-b13b-afc7bf43278f@7713.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:72ee7960-a5b0-41a0-9ba1-1c749cb6eb33@72ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4184f15b-9ea9-49de-bdba-0d86626d2d9a@4184.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b051465a-0ba3-4b5d-a336-9c9a551dcd58@b051.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:220c026a-c217-41c4-94ce-f5a57897e2b8@220c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2d94c7af-074e-4458-b7e4-4d469be4587a@2d94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7c108f45-5068-4cfc-bcc6-2ad6cb38259a@7c10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:75011c4a-7a79-45bb-9624-8ff6f4154871@7501.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:209094c3-dfc3-4268-ac2a-12b84e0a42c9@2090.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Glass
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5bceaa9a-6f66-48ce-8324-91b9e5a509ba@5bce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0155fc67-1cd9-43f0-a20e-95185c247a89@0155.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ffe6439b-32c7-4a80-8edd-26ff2f8779e6@ffe6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b8dc2cf0-ffd0-4105-bfd1-c199bb3d0a1c@b8dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5cee2667-2c41-47ce-898d-73785798f0d3@5cee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3f266af3-90e8-4169-bdae-a2dbeae960ca@3f26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Stadtbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a41426b7-a7c9-45a9-88fd-136adeb87da6@a414.org
+END:VEVENT
+END:VCALENDAR

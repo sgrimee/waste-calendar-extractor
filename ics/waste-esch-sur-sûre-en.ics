@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:2aed5129-3fcb-4066-97ae-3213fd8af74a@2aed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fd001840-32ba-4317-a054-5f35d66c6262@fd00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:44337eed-df57-42d7-bf67-98f06ad15cf5@4433.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bedd3f58-ea60-4891-8252-55ea7951dc11@bedd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f54ff45a-6a23-4ede-b448-4f0196efc90d@f54f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d99b54a2-bf0e-42ca-8369-667f1e8ece38@d99b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3bb0c22e-5aaa-4ce8-a249-15991c2bb4ff@3bb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b56573bb-a46d-4665-af4c-e1790c5d97a3@b565.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5fc2ec49-1ab1-45e4-a9a4-fbe9a4bebc2c@5fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:41b42d3d-3b02-4844-bd88-e6218566c057@41b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glass
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:cafa501f-18c3-4e6a-af7f-669cd12d4b4a@cafa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:483b3473-6d2c-4f7e-a4e2-82761e296a88@483b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:88a57bde-3341-4c94-a806-90d01e10fd0d@88a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1dd78d37-669a-4533-9aa1-80276e88fa0c@1dd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:65c06c52-86c5-4fd1-9e3d-34587137bb99@65c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eea29b4b-2e98-40cc-9ccd-ff22ef659316@eea2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:daac5414-f348-4df3-abd3-320d54415489@daac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:14f35d9a-3653-4daa-8bb5-91bad1cef237@14f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:72478b3f-de92-4e0f-998a-16ccaba4c27f@7247.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:06056f2c-aae9-4a21-9dd4-d0db08097dd8@0605.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b519a538-4381-4b71-bbfa-19705d17e172@b519.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3480452a-9094-4ccf-b05a-a8690879ab39@3480.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fb796fec-656b-47a2-bf9a-2c9680062bcb@fb79.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:6586638f-f387-4d82-a645-200940028c44@6586.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:46cc066b-958a-46e3-9cb7-03d3d4cc50e5@46cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e4cb8a08-b82c-49ef-9dba-ccf4ab59d0be@e4cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:425e0791-f75f-4c70-a27f-d747f96e53a4@425e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:06d1bf2a-f676-4598-bf3c-d8885fe9fab0@06d1.org
+END:VEVENT
+END:VCALENDAR

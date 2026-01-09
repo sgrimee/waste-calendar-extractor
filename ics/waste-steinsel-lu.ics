@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glas
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glas
+UID:ec5b3a69-873e-4d5a-a02d-6c75c9787e5c@ec5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:14340d0b-35a5-41bf-8c6f-102ef33e5743@1434.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:7ff5a199-0b85-4e23-9153-2959c8263f81@7ff5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:af76eaf6-93b4-42ea-ad43-79a2bf43b244@af76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:7d69f422-fc65-44ec-baa1-5f40ad85e539@7d69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:f6159574-0180-407a-b9cb-fc45b2b06f01@f615.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:d23fdf1c-1d65-40c0-8bd4-624542821c2d@d23f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:80ee0bbf-85fe-4f62-89e1-fb75de275cb2@80ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:96223ff2-0c34-4bd6-9f45-b1257afa8450@9622.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Dierbar Mëll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Dierbar Mëll
+UID:244ab137-5987-448c-b57b-28d5d96ef726@244a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:90c9d785-42b4-416b-824d-923225497dea@90c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Glas
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glas
+UID:8d8edf99-9735-4cd6-bb10-01eb3552fdc6@8d8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:ce50fcde-f8db-466c-868b-3bdf33f79215@ce50.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:9c5e0736-c184-449c-922a-60b7e0697bd7@9c5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f3533804-44d1-4ffa-9600-b9256f05722f@f353.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:b3d36d6a-2f59-4d21-b0ae-c8e1759131dd@b3d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:42648509-baff-4f8d-892d-5ab01254984b@4264.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:7740b523-f84b-40bf-a164-45681aeb9d8f@7740.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:81e94d61-d3e6-43cd-a930-9d146a19e82f@81e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d8de2c75-f682-49bc-8702-6e0af32d4a62@d8de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:70765b31-e0bd-4815-8bdc-402767005426@7076.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:7264b2e1-4f11-434a-8567-0971fa8930e8@7264.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:0135389d-339f-4445-a82e-71e77141a6b7@0135.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:c8038d85-a096-480e-bd45-b714fa6a7c25@c803.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:bc0d5018-7a7e-4ecc-b362-cc6649ba4c99@bc0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Dierbar Mëll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Dierbar Mëll
+UID:e65f43e9-b2f0-423f-ac00-249f3f4b6089@e65f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:af5a715a-f5ab-4ebe-844c-2aac04d434bb@af5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glas
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🍾 Glas
+UID:c5f0f222-3bf4-4d15-9558-b74fc5a0b17b@c5f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:257e8c44-e66b-4b88-8d99-8711f48e48ff@257e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:d9a3bcbd-64bc-4576-b88f-21bc29568b7d@d9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:6b0c3ab8-3e57-46bc-b73a-8a44053e8163@6b0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:57ec70ce-0780-4eeb-a29a-09e32f988bce@57ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c148abb4-448b-4e5a-bb72-b92017aa61ff@c148.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:37cf59a4-3372-417c-9708-cfa344f65f65@37cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9e9ddeea-71fd-4b34-a1fd-6d97b6671826@9e9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:47aa9f36-ce5d-4e30-89d3-15be52df0ad5@47aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:1221feae-cd5f-4169-ac5d-e3d124c3b782@1221.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Dierbar Mëll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:♻️ Dierbar Mëll
+UID:f21e7234-9f3f-4e79-9ffd-7ce8d32a1b8b@f21e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:b6856dd5-7e9c-45f9-9529-e06de47adb37@b685.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:b12fae5e-2087-4334-b18f-9f071505cc12@b12f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:f10c6faa-8858-4090-9cfd-46daae84882e@f10c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Steinsel\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f603b254-4be2-43d8-a7ce-690e90917b4b@f603.org
+END:VEVENT
+END:VCALENDAR

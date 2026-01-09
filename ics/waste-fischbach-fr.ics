@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cd8651ae-5aab-4d08-bbc0-747af658af7c@cd86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c12375ce-ec7f-4202-93b4-a37094f1d9de@c123.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:514ddfd4-aaff-4e44-9a69-d60486e958d0@514d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9bbda8c1-8cbd-4182-bc74-7c3d897e5561@9bbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:11ad7fed-cc15-4fdc-9ad3-5c543f47a324@11ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:e5fe7df5-fcfb-496b-8371-642482d8bfdc@e5fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2bc291fc-eaaa-41b8-bee3-9923c61ac42d@2bc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d4e3cca6-c473-4abf-a283-e26ee2f5245a@d4e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:61a42c13-407a-407a-b3f3-d899b27b2f54@61a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:e0100caa-80ca-43ba-8562-014c7f5c9747@e010.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1926501a-9c43-4644-8be6-f281dfe6bcfd@1926.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:196ba636-d0c9-4252-ae28-a8db74b460ff@196b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7c620ad2-4a95-44d3-8c98-139bf709915c@7c62.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1ffb1905-754f-435f-84f4-adfc62959903@1ffb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f5237999-e7e5-4829-a33c-abf3bbbf0da5@f523.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:98fb52bb-ec4a-4a8e-b054-b3165cbe8194@98fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:021fb5f0-7d5c-4092-8ed5-d94699044f20@021f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9db04512-a9f5-4b44-9511-0623189afe4c@9db0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1034fbdc-923a-412e-bdd0-63af523c0728@1034.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍾 Verre
+UID:015fa4cd-e828-4ddf-b084-47c831f02df7@015f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:a6ce220e-c1fd-4b37-8530-b60a821c190a@a6ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e3e88374-be20-456c-98a8-ddf9c74f84f0@e3e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4cea8784-9ad1-42e2-a890-a83c99506e46@4cea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:57c7287e-443b-4b88-95d7-682d054f82dc@57c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:090db538-f4be-4021-b5bc-f511a9e7d680@090d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:75e0903d-f269-4e0b-a995-3e873062ce11@75e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cf55160a-f18b-4ade-9982-74f16fe1d442@cf55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:058a1b86-5a27-4d4d-95fa-5128bd15c82b@058a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Fischbach\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e25da8c9-e481-4a53-a598-6ac231635b03@e25d.org
+END:VEVENT
+END:VCALENDAR
