@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8adce0e9-fb0c-4c28-954f-e97ec39e22a3@8adc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:0b883520-a1d6-4209-8b09-cc00b46db186@0b88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e2ff9d39-813c-4d04-9932-7a15ef09e0a2@e2ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ce75e91b-9929-4061-990f-33a802b58a3f@ce75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:deeee3dd-20ea-4bd4-84e5-69a23cd33228@deee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1ad57138-4c8e-4ba9-892c-e2d7ade89ef8@1ad5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f0b8ace8-9777-4fb0-a284-415b00fa273e@f0b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4a2f2822-ad63-4ce2-b314-f1d48a2ab58f@4a2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c788c449-cdbb-4382-9354-61bf7860e1d9@c788.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:00e410d6-e9e3-441a-a42c-7989f240854a@00e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b3166b2a-979b-4ba5-8f8e-63363baac0d1@b316.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:79961e57-3421-4261-b2c9-7d7d74ac12c7@7996.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ac7b30d2-2e33-4d3a-b4a7-95f2c9205ca0@ac7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:484b3df3-160a-470f-a865-efed621d0bd2@484b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1502eb61-bc8b-401d-bbc5-2480703de734@1502.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:17c1ad9a-ed57-4b8b-8007-fcb5bdb69a23@17c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:021a1b00-f59e-4835-b228-5371c46af051@021a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1316e975-1874-41c7-ad82-49082ebca1b0@1316.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fa8d54af-f460-49bc-9ec4-bc668f7317a3@fa8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:36924624-dff5-4bcd-b796-7d883acafa03@3692.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:34bbac5f-6870-4516-b0be-6e81fdca5939@34bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:05178f22-18fa-4ce4-8372-b505f412a9e1@0517.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9dc86bf4-cd19-428b-af32-a80ba242679a@9dc8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c9b43afe-5c06-45fe-92cc-84c27f3c5e17@c9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:58d1cbe8-b658-4b25-8324-c58ab420c5ec@58d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glass
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f629aaaf-33d0-4556-b644-2d37c748e096@f629.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6faef8a8-6391-4f7e-b0c8-0d2cbdf3d804@6fae.org
+END:VEVENT
+END:VCALENDAR

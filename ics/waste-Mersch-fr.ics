@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0f9308a8-08b4-49d5-a3d7-45ef7d5f5949@0f93.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bb479053-1beb-4b26-b467-46d9139e04cc@bb47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6d4ad0a6-403e-454c-948c-8b99209cb7e0@6d4a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6a366bd0-129d-49da-a9c1-c500a2a668bd@6a36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7e9cf15f-8318-4938-9e29-7dd56c3efccd@7e9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2a290c45-3122-4538-80d3-2badf0ea1c6a@2a29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bff46340-408d-4fef-8bb9-71f793073e05@bff4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:45e2c4a3-c46b-424e-9d14-659fd2deb1e4@45e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c4a60d3b-ced2-4068-8bed-e5e5033e58d0@c4a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e091091a-498e-4ce6-bdfb-329c86707e12@e091.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cf750263-1ddd-408d-a10c-4ef17f5daae6@cf75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f82b5d7-b94e-4870-b2bc-431134465a46@8f82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mersch\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b6d671fd-f4cf-4e00-a4d3-a33340b47d96@b6d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4b3521eb-04ad-46e7-a98b-ed09d5f2d74f@4b35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:27e1b192-1fe2-4be1-8147-820fbbce0fe6@27e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e3146494-037a-45a1-b979-5f2eefc1e97b@e314.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9b3fec51-ba6d-4e25-a533-11ffeca614c2@9b3f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0bb6fda5-d67c-4248-8da2-05ab0dc57074@0bb6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mersch\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2a1648b0-79c8-4a9c-8f90-7b90488d422c@2a16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6925ff5e-75b4-4b7d-b8c1-88f98face8d7@6925.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fbb147ce-a36a-481c-a349-2968466c286f@fbb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e7d4c07c-f20a-4a79-bd02-e95f2e3da49a@e7d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:601d4a35-3f5a-46c5-b05c-e82231336d49@601d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🍾 Verre
+UID:555c33b7-49e9-472f-a4f5-94e34d052143@555c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Mersch\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:462d7c28-df43-4142-b634-d0513799377f@462d.org
+END:VEVENT
+END:VCALENDAR

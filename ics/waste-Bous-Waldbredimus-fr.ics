@@ -1,0 +1,486 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:de64dbab-27d7-4401-967e-406b52ea4b3f@de64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b44109b3-8f04-4b1f-bc70-7bc5b664ab8d@b441.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:316d8600-02ac-469b-a97d-30f93f117be9@316d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5a582dd3-67a1-4f17-884e-27c52b1dd17b@5a58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7391a5c8-7632-4cc8-bc6d-3a2a67df288e@7391.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:aefd22e1-bc77-4f29-92cd-6fba7d02ca46@aefd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Verre
+UID:0c74eed3-1aef-4b34-8ced-9aae7731e721@0c74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:02c0c0ea-a61d-4503-b5c8-9a5678e5cfff@02c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:10eb617b-e4c5-410c-889b-0984d73dc417@10eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0a6b8926-9446-4b24-a33f-581e8854f783@0a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:55ec9cee-a93f-4f13-9d87-378758b63d0b@55ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1f442f8e-2d44-4707-be61-7914c74d6e09@1f44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0b78a1ef-1d89-4fae-b25d-8f653d3c7591@0b78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1b7b5035-4137-423c-ad1e-7ee05abd8843@1b7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f1aa3629-58cf-4072-89d9-4b8d90417c59@f1aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0f63da2b-cb1e-49e8-a51a-49f6f70be6a4@0f63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3a87358a-8861-4131-a9f7-911f86cc0e83@3a87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e3471125-acd0-4e72-a6c0-83eba8809264@e347.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Verre
+UID:60385ad8-e1b2-407d-9c51-20245bd1b5c3@6038.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:e7a395b6-18ff-4ab6-9111-ecf2bfac3f5d@e7a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c5278b75-38a2-4190-9407-0072b91a61ea@c527.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1083f6ed-febc-40f6-ac59-f590e58fc4b2@1083.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:bc460b38-544b-44ff-ba2b-389a8774d39e@bc46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:41e1dbd2-5595-4e46-ab02-447504ec882b@41e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c68b8bc3-95a6-43fa-b1d4-79ae0903e152@c68b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b24ef615-7974-40c5-b901-c713fc60966b@b24e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6dca7677-a86d-48cd-82d8-d49a85561e1f@6dca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a0e208e4-040b-4138-924a-0f4ec1369ddc@a0e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:371ba8d7-a558-407b-8702-da5dc749f2fb@371b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9b9913a2-a38c-471e-be0f-b1cdb07f0fee@9b99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e1e1d31f-5fab-4abf-a374-e65391750a80@e1e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f1c12cac-02cc-4d9a-bab7-a946e168a18e@f1c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:875ef59f-7486-48ef-aa1d-63ce3c3a2406@875e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8d34600a-7882-4656-8278-38e0be20bc60@8d34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:20e5d6f6-77e3-4097-8325-1929239087f5@20e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dc70abe5-aaea-464a-9329-7b3ba45114af@dc70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5c00debf-c778-49ba-a335-654af2c87128@5c00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a8a9dd2c-1645-415d-911b-1699918cc670@a8a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f2b7f2b9-1cc3-4c2e-8229-e52b8526cf50@f2b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1a45c8e0-754b-475f-9ee3-32ebe2b5cda2@1a45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2fe18e93-1f39-4912-b42a-2bdfc4061832@2fe1.org
+END:VEVENT
+END:VCALENDAR

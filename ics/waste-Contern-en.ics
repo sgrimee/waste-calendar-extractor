@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:30e085f6-cf58-4b32-99bb-8bb8093d2ef4@30e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Contern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:31fbfc67-fb97-4b0a-b542-9c1e5e6215b2@31fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8f26a19c-ceab-4aea-a5fa-fb76c2fdfd4c@8f26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c8ffa5b3-1809-4feb-8ace-740f5b60a72b@c8ff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8f253f16-5eae-4c0b-9a5c-27d4cd6a14c7@8f25.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:5b898892-a883-490a-9e42-0fb2488f2c89@5b89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7e7544f9-b2b0-4a07-a4e0-6cf52555fa05@7e75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Contern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9334fec8-2d40-473b-babf-ca2e9b037881@9334.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:41ad6d3a-abe0-4ccf-8885-4f7ac1a4c498@41ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4fd3c735-40ef-4071-9ab5-28285b746c86@4fd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d16670bf-2113-4f17-9efe-c23f8ef3aa8f@d166.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Contern\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:f13e4646-2414-4094-960c-ebc4cd0f3d3b@f13e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:37e98494-f542-482d-983f-8be17bf23168@37e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:cc5e90a6-5bea-4003-b3af-301fed5351cd@cc5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d6ea94c4-321d-4a29-a0ec-aa718024902a@d6ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dbf7bff8-75ac-41fb-b5b7-833a97b0c2c5@dbf7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8822f4a2-6f4b-493e-ba1c-711a3474fa02@8822.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4151eae7-ae01-4f98-8f7e-ea10c6ebded4@4151.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0bc59685-1d84-4b74-b05e-1b7d1004cd25@0bc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ad66316f-05b1-4e31-9b74-2e3527e33bc0@ad66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:293b4af8-8b10-4798-883d-55124cd5b6b0@293b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Glass
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍾 Glass
+UID:77e54abf-8b1c-4cee-91b4-ea6f1797f9ad@77e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:054c0526-5ee7-431b-bda0-137114881e97@054c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6a7e93ce-8eeb-4adf-b3d8-c70fc26c47c4@6a7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Contern\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c2d75fc5-7cd6-4315-a9f0-aed0b0f3c6f4@c2d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:621d1624-071c-4af1-8a99-14ba46004956@621d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:717ac3e2-8c3d-4b05-9bd3-6d4d5f86ce48@717a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Glass
+LOCATION:Contern\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c47e1666-5b39-46c0-a794-e3285335c297@c47e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Contern\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a6bec760-462e-48ba-9a9b-07498b58ee60@a6be.org
+END:VEVENT
+END:VCALENDAR

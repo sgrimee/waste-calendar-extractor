@@ -1,0 +1,294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:50a4a869-fb41-48f6-8ae5-194d581306b4@50a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8a049ddc-17c4-4a02-86e0-7e8c9898f436@8a04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:37f20861-1cb2-4028-bfa3-a02a21930557@37f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glass
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Glass
+UID:67245f55-5d52-4c3f-a050-aeeb527fd710@6724.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3543876b-22c0-434b-96ff-914d057ea45f@3543.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fe4b1415-bd91-4477-a49f-00e40443d8a3@fe4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dce75f88-6d05-4609-bc64-1a18025033fe@dce7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:ef819eb7-0744-488f-804c-675d226db162@ef81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:50ef0064-3e09-426d-8f5b-e66677dbc8cc@50ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c7f75e83-9153-4e06-80cf-255fbd3cc595@c7f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0f1ae1db-2ad3-48aa-8b95-b5c6350a5cd0@0f1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f3ed5fc4-75e8-4a09-9440-1c8c7b0c09a1@f3ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ab4b2209-b9a9-45fe-ad82-56dbe3a72b03@ab4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5d33a5e7-49cb-4e50-903e-c82099739619@5d33.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:26e253e1-a5ee-436b-81f8-bdde0a94f74a@26e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:044e49a1-7656-40b0-a565-db2f70c636c8@044e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a5d9174c-9af8-48d6-ac8a-39b3eec2898f@a5d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b4e68faf-2230-4906-a53d-c0ea7398ae5a@b4e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dbdd2167-aefd-456c-abfe-987b5f36a204@dbdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Glass
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍾 Glass
+UID:a9363f7b-734f-4727-b7ca-23a73deb0223@a936.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cde01ecf-bd58-41b4-9eec-91abb6314977@cde0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:58fb5812-bf28-4d81-a13c-780004ca78b7@58fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:500bae55-a325-48ce-a000-6bd091252983@500b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f506f405-c80f-424d-b8ba-01844593e040@f506.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Préizerdaul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:bc10ebaf-d345-4d29-9367-e7dc54b69d3d@bc10.org
+END:VEVENT
+END:VCALENDAR

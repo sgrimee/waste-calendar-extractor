@@ -1,0 +1,610 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e9ee94f3-08e7-4a77-b69b-b116b782a322@e9ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d2435f0a-d89c-40be-abe8-bbbe51f9efc2@d243.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ef8bc69f-b8c2-42ea-9f8b-ed0c75339149@ef8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:15974dcb-a6a2-4b12-bfe7-a96bdef3feb1@1597.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:09ab83f8-deb2-4d09-9e17-a670e4ce842e@09ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e6880ac-ca23-4bdf-a815-aa93e4af7d64@1e68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6417a8e7-37ab-4549-a7a1-4fe2f4f0ea82@6417.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:72f9a286-f4e2-47a2-91d4-db3f4fdb2954@72f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2b6630e6-4789-4832-b9b4-4a52fb50fe31@2b66.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:68a9fdf0-e409-4fdb-9ca5-bcc3dcab7653@68a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:6a89147f-3028-42ef-9e5f-5c6872c0494e@6a89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:62757433-5aa0-4a89-929d-44579a864b46@6275.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1c7b16c7-a8e9-4076-851f-720b6e04168a@1c7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6b31648b-c759-4656-a0ff-ca3baf76b5ae@6b31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8acfcbe3-512e-4cdc-a32f-67b88944e7a0@8acf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1b2cfdee-e00e-48fe-a1ca-3341522588b4@1b2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:55708831-785e-4ac2-8606-b0f32ae03877@5570.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2da1261c-76c8-4679-94da-6f56e7f3a55d@2da1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:829c5541-4168-40f6-956b-60957ae36ef3@829c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b7d1d672-7697-42d4-ac65-5ae33b483c46@b7d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0bf54c4c-85ce-4fcb-a271-16b21e82c7e5@0bf5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aa6a73b2-dbb2-4fba-bde9-c8faa63adfff@aa6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5fdd1bee-bf53-47c7-b43b-3ce594d3372e@5fdd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:95f90395-6d6c-4a89-9448-3f18dccb6bac@95f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d29c337e-ba75-40fc-81f4-fbb68fcbf8f5@d29c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4d1a1df5-9b80-4505-a424-0adcff284a37@4d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:8a8e47d0-c80a-4aee-954f-80cfe1d37822@8a8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:27e78de1-e13d-41e2-92cd-171d0bcf1c1a@27e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:62854e09-d7e5-4524-88f7-3296e4aa528d@6285.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:70510dcf-d5fb-4d87-a1d3-383fd3069e9a@7051.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:6255b59b-d80b-4a60-a6a6-b7fcf53897c4@6255.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9dc68041-36d4-439e-ab96-0892d3c86fe7@9dc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dc24bf5b-c40d-4e21-9a6f-ea4b427e6e32@dc24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:06303c2b-b453-4bcb-a5c8-a95a6ff22733@0630.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:de258fcf-74ec-4b5d-b3ae-c8e03e95b05b@de25.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:61b8a038-ae49-4d02-8355-1d544858cd62@61b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c15207b0-8c06-4f04-ba6b-980986169076@c152.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7a55b972-7267-437f-8deb-49f86810209a@7a55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5deb7de4-eca3-4915-a060-d192d6a74a93@5deb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:b0967a84-adee-4151-9188-9d2926c21ef8@b096.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e28d9a70-556f-477c-9710-1e5d510a705f@e28d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:47786089-3c45-4730-b05b-13f7393caed5@4778.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Glass
+UID:db3471b4-ef04-4342-ad27-0da78557caf3@db34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d88d74a4-a6bb-433c-b92d-8bb85b7faa84@d88d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:a205e0ef-7cb0-4e7b-bff9-7614d5bd6d63@a205.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:5bb958dd-8105-46c2-aed4-7060963ac597@5bb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a6f4843c-1d8a-410f-89f4-13eb4de16d77@a6f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:72cbbbf4-bf3d-4ead-813d-e20f1d59ce6d@72cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e2dfa81f-8a45-4129-99d2-455594737b4f@e2df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:1279958d-35f5-4a8b-82c2-47ed58fd688a@1279.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:77ef51e3-e743-4d06-876e-27d239c01a4f@77ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3696be1c-947b-4509-8399-22f95ac36ec3@3696.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:acf09499-fcdc-4c54-a50c-9d5a6dfee5a2@acf0.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a2735058-181e-4039-83f5-439143d1dc7b@a273.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:24c634b1-3606-430b-aa69-2496ec41411a@24c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bfe52523-736f-4e50-ae41-a36caf79dba4@bfe5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6173dd6d-6650-46ec-972c-cc1d628f9a30@6173.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f39a042a-b728-4ecf-910a-7bac6769e870@f39a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d8b776ae-a7b7-46fe-b6b0-77e39e2534af@d8b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d2d9c288-6ebd-4b9a-bf19-ae0901405f10@d2d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a89c0519-7cf1-4a8c-9204-46ffebff59ec@a89c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:57f80285-7411-4f97-8c0c-a69b75fdd779@57f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f8a5b972-0d4c-4b23-8616-e4a5f905ac65@f8a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a409bf8b-aa59-42ee-917a-994713ba533b@a409.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:416b67c3-e1ee-48fd-8abc-0d229de9a695@416b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4aafaa6e-1780-441c-a0b7-afe0882d1f91@4aaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2528d0c8-8100-4be3-9712-84bd787fbf1e@2528.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c632aef7-f3a2-49a7-9ceb-6c4b39b92cc8@c632.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7415a7a2-7e19-4a13-b702-aaf1272f26e2@7415.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6b3bcce8-093e-4abb-98b1-f680677010b3@6b3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ac061c11-311a-4c27-bb20-7498854fccb5@ac06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8fb8ba89-9e3e-4165-95bf-e9b8baec9cf4@8fb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e2db57f1-c04c-401f-83dc-f91c3f132585@e2db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:12628bd4-cd33-4d7f-8660-8a33b7b56db0@1262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f0ec1991-f2bb-4554-8ab6-c5c2c71c2833@f0ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:459aaf6c-e20f-449f-ae25-fdd1f29d079e@459a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:42cd7596-7099-4c30-8ec8-9521d0aa3a41@42cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6cad7f8b-eadb-4083-8704-4c62fdd95159@6cad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:08c703b2-2a1a-4bef-b899-ca16916363a0@08c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Colmar-Berg\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:ac8853bd-fd0a-4e64-bada-ec8c0a5e1c6e@ac88.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:2df67bd8-1774-4079-a044-c2234a02eb83@2df6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:377aa9f3-2766-4dc4-932d-4ef8ea4cdb73@377a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:625a727f-a6e4-4219-9c1f-f5dfad605147@625a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:dfcf1607-e905-4767-bd17-7f64d8b9a50d@dfcf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Glas
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Glas
+UID:c6f2e36e-8638-4e0d-b17d-54b008a67e41@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:b8e43990-d83a-472c-a6c9-24f95d6036e5@b8e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:7ba7fc6a-39c2-4d25-854e-d7f810de4e34@7ba7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:2d75d0da-a661-4a43-9790-123a21b6c468@2d75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:2d350b2d-76a7-46d9-813e-5aaf2a1a7176@2d35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:5f59d281-6893-4133-8437-2adf5c25e615@5f59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:779a4e6e-3000-43d5-a744-6d8867ca9d3d@779a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:8bc5c00f-bed8-4753-9a82-ef6d7648d13d@8bc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0921ead1-1b8e-4cf6-bcc9-79352326b87e@0921.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d3022714-db65-465b-b4b3-6627c54869be@d302.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:9f603f1d-415b-4ba8-846c-061778b431e5@9f60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:19f3cbd4-c69a-4342-8391-e605cd24310e@19f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5e190431-ab02-425a-8134-bf940cdd9405@5e19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b610d081-c6f3-4d4b-8e6e-284fbdf62132@b610.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Glas
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Glas
+UID:7bfa3664-934a-4946-a959-3a5c2cff47c0@7bfa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8f640ee9-8704-43f5-98d6-495b5066f01e@8f64.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Beemercher
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🎄 Beemercher
+UID:43047e73-f56d-4161-b1fd-2fd9bc76e753@4304.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:82117f2d-04a0-45e5-a86d-ed049ba9025c@8211.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:4772b248-28bb-45fa-8b6e-b715105dbe4e@4772.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:44041f15-4208-4afd-a1ba-00a58d36a5cb@4404.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:5472babe-e4d4-447c-b31f-3047e445501c@5472.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Gréngschtëtsammlung
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🌿 Gréngschtëtsammlung
+UID:e736fb3f-bdaf-4a33-82a3-8bfce0042896@e736.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:36e10a70-b4d4-4364-a0c0-99f9b39f8a3e@36e1.org
+END:VEVENT
+END:VCALENDAR

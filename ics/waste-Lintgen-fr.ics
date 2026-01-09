@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ae851914-7a5c-499a-87ad-6bdb9cf39392@ae85.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0752331b-687d-4e09-a962-169092106f00@0752.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f836bdd3-0138-4094-9e98-15a8cd92e09f@f836.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f6c84894-b144-41a8-b9b2-b2489fe5949a@f6c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b96e42c9-8064-449c-91d4-d64bdf6729bb@b96e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:62a7a714-6aa2-4ba3-b0e3-be840e7d181d@62a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0a24a335-0be2-497f-9fee-8c0ebc79158b@0a24.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9a6ab287-e439-4562-b758-4112c3655d3b@9a6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:87a9581d-b829-4f5b-9051-9b65060f1714@87a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:569c1844-cfca-4b4a-b786-f1c047c07ec0@569c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:30f94a3d-e5ec-451e-90a6-e20a20f38db0@30f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:99f733b7-ad14-4b94-a7dc-3164a89caf0c@99f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4f0b9e38-1857-4041-9dc4-9fc490467c86@4f0b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8e5f0549-f7d7-4ca8-8bca-3876f860ae36@8e5f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:aff33af4-7118-4121-bdaa-0b015097ccb1@aff3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:80043b6d-a6e6-46fb-96be-866c983b896e@8004.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b5b04a83-d5ab-4887-8557-9c1189330646@b5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:aa207514-5868-43ae-9444-3ae1315625b9@aa20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b55f15c8-30bf-47d7-8b12-561951e19119@b55f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ee73d8a9-669f-4132-bb38-c600202dcb1d@ee73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0cf683f7-0256-4203-96da-786aa5709eaa@0cf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9e6d0a59-1081-4b5b-82cf-7b50081d9c5c@9e6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2f0064d6-008e-4816-b2df-f02dc1ca43e5@2f00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:cbb47fbe-5076-495e-8838-8cae3bc0e225@cbb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:35e16d46-3a89-40c0-a655-5485a133fe74@35e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lintgen\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:765944b3-012c-442e-8865-a8fdece0b890@7659.org
+END:VEVENT
+END:VCALENDAR

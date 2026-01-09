@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9999b281-07a4-41c0-9ca4-a15f62ca2347@9999.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8ca15512-3347-4ec5-b01f-34b55b5884c5@8ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:bec08168-7db4-4d01-9c4c-9f3130eb9312@bec0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:89852ffb-6723-47fc-bb9b-bfc462ca489a@8985.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:adb4e588-e16c-44cb-be71-fecba0950f58@adb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:be9105f2-7451-46b0-ae1c-9b9939b4c265@be91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4d8d1ab0-4c18-4189-9e79-a4d38414de79@4d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:7ceee872-c292-406c-bebc-d54aa59c11b9@7cee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:087f11a9-1342-4983-ba09-40ea07ee80da@087f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:028361d0-4db1-4c51-9817-1e3bb63085b3@0283.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d76ea6b6-0feb-4e98-8161-d12cdec0d3ba@d76e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:43e34086-75d6-428e-8775-a2263babadc5@43e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8c698363-887f-41f1-9d65-7db0389e70b6@8c69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2e65edb9-f64e-483e-9a19-be786148dd80@2e65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3fe0ca45-dd0d-44f1-b091-1e2b1b0a66fc@3fe0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c6664c4d-afee-410a-a047-983cad3219b2@c666.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f3af1d13-3f57-4a2a-ad46-2e841dfca4d1@f3af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4c171045-a42f-473e-8d46-4119b9dba35d@4c17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:87a0ee06-1705-41e4-83b7-3554f44ccdc1@87a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:29a8f7dc-8c69-4e98-a34a-4d370ea42a35@29a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a0ea3196-2cdd-4090-b587-d89bcc213a20@a0ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4c978d03-6785-4b16-a1ef-8e5b46c5cb4b@4c97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a4dabd3e-73f4-491b-8b9d-e6a63426dcad@a4da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:afd74bf1-fc91-47d3-987d-2bbb6efe0779@afd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:15a1eab3-08a4-4b27-b336-9d632cdbfbe3@15a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9afcf397-6905-4710-b37b-30ee3bc71f22@9afc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:514a7486-47e9-485a-825a-f163f131b2e7@514a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:187bfcc3-7523-4b1f-be49-38c9fe836c5a@187b.org
+END:VEVENT
+END:VCALENDAR

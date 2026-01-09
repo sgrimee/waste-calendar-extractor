@@ -1,0 +1,339 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:073a45de-c2b6-4c52-96e6-fb5f59665feb@073a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7f9f6dc3-0acf-42fc-aa85-019cb899c4d5@7f9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c1fd82a3-7975-4b07-9a33-a74622c39e87@c1fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8ea5367f-2987-484c-8237-2a539867388b@8ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:9d2a478c-76ea-4a75-85fb-cb219e9e1f7e@9d2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:23088db3-d50f-4e84-939d-01efca23d850@2308.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:58384575-057b-498c-80c8-a1c97a9d9b71@5838.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Glass
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8dc4fb16-0dc6-4363-af03-697f0aae7cb7@8dc4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7a98cacc-e3c7-4809-9469-ed48b66e6e11@7a98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:51c95898-35b4-4589-abc6-0de9157f2c77@51c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:433fdc19-fe27-47a2-8bc8-9c940de49287@433f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c93974f6-3b55-48ae-9f8b-9005e203011a@c939.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dee1314a-6c83-4ea8-9a2d-13e7e077edb4@dee1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:02ad86c8-b869-4ead-b873-3163df47ca38@02ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a84ee556-ab5b-4355-bd07-cd15847e04d2@a84e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:90a4075a-83de-4f2b-9474-6533c531ef71@90a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:88f05c34-9e42-4c0e-92db-549476fbb2dd@88f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2cda7f1a-550e-4329-8e03-d6486a3f8492@2cda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:2455d34a-1306-43b9-8d90-9e4127de9642@2455.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Glass
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d881c4e3-48ff-4e16-82cc-fbdfc2d4cbba@d881.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:38490977-921d-4bc7-ba8d-0c73c2d315ed@3849.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0604aacd-06d3-4e3e-9bac-884fb9e0e8e5@0604.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:94645a5c-0de4-4b5c-a621-53d1d1535c85@9464.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4f97ede1-320f-4d2d-90bd-ca33c026bd1a@4f97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0bf82738-bdd7-4599-853b-25b1be42433b@0bf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2693c607-2108-4b3a-8eaa-519a9c73d615@2693.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:787a3925-72c4-42e5-aade-199185022494@787a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:5c689b9b-105a-439a-827d-09ec01ac7196@5c68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d37b4fbd-b2f3-4047-ab3f-f42fba0bd1c0@d37b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Erpeldange-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b6dc9bac-d749-4cf2-bfe0-88233346535d@b6dc.org
+END:VEVENT
+END:VCALENDAR

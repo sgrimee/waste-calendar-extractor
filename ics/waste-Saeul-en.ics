@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6711ea2b-69f7-4a4e-ae7f-9f8529980a49@6711.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3498a6b3-9464-426d-937e-5ef0ad86e9af@3498.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Saeul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0a2fd5f2-7098-4c6a-be77-5ddba6ff0ae6@0a2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ac326052-ce47-43cc-9d7f-9543349e876e@ac32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8262a431-07ff-4f89-9476-b9b619167617@8262.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a60186dc-05dc-41ff-a1b7-1991dead21e5@a601.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Glass
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3bef16e3-f6f1-4c11-bd44-1df713923463@3bef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:35cc544e-ef28-42b0-bdc6-f52e3587a558@35cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1c0f6db4-c447-47a3-8512-337b8758c9f3@1c0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:78298837-21ba-4738-94cb-92f4a38c076f@7829.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0c5507a0-d96f-4f71-becd-01e5b1985e06@0c55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1c3b59fd-128e-4f92-8322-2e1c6df70db0@1c3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Saeul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:bf471eea-13ac-4553-97bb-034fce2f2a82@bf47.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:525457ac-b550-42f0-af40-c4832c49cbff@5254.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c8919da8-43e2-4f58-9984-06b8ff672ce9@c891.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a9826a10-5029-41f1-8177-8531bba7b68a@a982.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b8d1ec55-669f-460e-beb2-866c31c8644a@b8d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Saeul\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c04913d1-5499-4014-8468-d1e27f329d76@c049.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:907e15f5-7fbc-42da-aaf7-95148c9b5b39@907e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0dda3511-b025-4bd1-8533-209c499ca2ba@0dda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c4f4ccd1-6b79-460b-8434-8257d9a04a9e@c4f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Glass
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍾 Glass
+UID:32988e99-7493-4a4d-8b3e-58666d60eda5@3298.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4f2034c5-4c9d-47fc-b9df-ecea8be182d5@4f20.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:90e47523-77d0-4ca3-8997-0e2a4ccc43ca@90e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Saeul\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4b966d5d-15b5-43bd-901a-437f56711775@4b96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Saeul\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5ab7a39c-9a5f-480d-baa1-8c1fbb683c36@5ab7.org
+END:VEVENT
+END:VCALENDAR

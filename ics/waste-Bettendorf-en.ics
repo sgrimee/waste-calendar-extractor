@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:dbc20bc6-f7a5-47cd-b478-9308e19b21e3@dbc2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:66f25ca3-9efc-4ef9-b8a1-d70d0b08a025@66f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:127014b3-4c96-43a9-af8d-f420969dea23@1270.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5ddd4452-489e-4a92-93aa-1974d6b94134@5ddd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3d7b4c6f-0994-4142-b95c-74a294b0372f@3d7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:23578a81-5293-4bfd-b2e8-7b6c1e2bce22@2357.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:abaffabd-cb92-487e-a390-4737ac13a5f7@abaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:de87955e-99ba-4538-9bdd-c8b7756d0198@de87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b4ddacac-36ae-4bd1-88d2-0b83b3cf4a97@b4dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3c981ac6-243c-4ba2-b487-2e6db08140d5@3c98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2657dce2-bc2c-480c-9730-f3d9a2e18d89@2657.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bbf40a92-03ca-40f1-8382-5f47fb40f9df@bbf4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:fae81800-188b-41d3-ab3a-f2a3608221a0@fae8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cfe70eff-673c-4292-afbe-f876dcc4f2ab@cfe7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3ceb4450-be27-4116-8778-fe24d953e72d@3ceb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:38dc7f90-ac6a-4e0d-ad13-25bb99ffeb52@38dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d96d1eda-fa80-4d8f-8443-af5930cdb403@d96d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:733622dc-f055-4135-99f7-f65a76904312@7336.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9ba37e26-7727-4491-b532-b5f06990ff84@9ba3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b444aac3-af94-400e-a556-9e6b557a1385@b444.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7d0a47b7-b485-49a2-9058-f77f6772921a@7d0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0bc72651-8de3-49ed-85ba-75e541001b9a@0bc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:145d150b-9fc1-4749-b3f4-53b82afc17a8@145d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:94bbd708-805e-4536-aab9-fdbe88c54894@94bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d4b33c6d-a52b-4e74-8027-bb7cc12eaaa1@d4b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bettendorf\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c7f7d9b2-267b-46a4-bb29-a3a19c760071@c7f7.org
+END:VEVENT
+END:VCALENDAR

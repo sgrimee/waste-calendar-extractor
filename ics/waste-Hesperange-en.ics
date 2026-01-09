@@ -1,0 +1,483 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:85c63a7c-11d6-4f96-a7bc-936f5a0f52f2@85c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ef5e1460-601d-4740-b63e-2f1295a14f3b@ef5e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:96196fed-93ae-4f99-bcc5-816a1bb6fb0d@9619.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:127e2c35-2bb2-4e4a-9dde-42e26bedbf47@127e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:17d97885-ed17-43c0-b356-44366f2c8f4f@17d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:729c1956-096a-413b-939f-b7645dc34293@729c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bc98ded1-7855-44a9-b05e-89346a6dd646@bc98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:47e9c481-d8b6-4f75-8494-7c78ed892697@47e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:af48fb20-722f-44e4-b673-a565be1e50eb@af48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:96b157c2-708c-4552-bcab-4c2bf2e84d98@96b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a1517ec2-0bde-4ac7-85a1-629ba58f2774@a151.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7d1c4043-11d4-46d1-91b0-75ac340f682b@7d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:08a37778-795a-49f0-9bdd-691c947cb31e@08a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0302d70a-03e7-49e0-bfc9-d916e3a4060c@0302.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5e59e786-2edb-4321-93dc-7483a83bad3f@5e59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2d085799-2ad5-4642-a1c9-115c21a43509@2d08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:762cc298-ab4b-4d76-b9e0-1a0da68b9818@762c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e8b5bf0a-6761-4b79-87fd-6040f4c7ef6e@e8b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:155b3e34-6fac-4fad-8e08-c07ce32466a8@155b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Glass
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:2f90f292-5598-4165-af3c-f119c169a9bb@2f90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:64cc3829-b24e-41ce-9fd7-670598fef138@64cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:9937a5f1-ef6a-402c-928b-a7d92acd028c@9937.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a49ecf1c-926d-43a0-a6a5-8ac3459d2200@a49e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:44c5dff8-4fcf-46e3-9014-65ed3c7674b3@44c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Glass
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:26163e9a-b357-4802-87da-cd3746f57abf@2616.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:aaaa259a-1408-4e93-b677-8106765fa3b2@aaaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:24c52a90-dbea-4483-9293-a3e446f9a3b3@24c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e38e1017-0365-43e0-a9d4-6825617b9c1c@e38e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f024aa3e-b8fa-4284-a3bc-bd4734b40b05@f024.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e360d6f4-50c0-44c7-abb7-6105777f94d0@e360.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:87f694d5-fe86-41ef-81b7-1a8ca705950a@87f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3d7d2dff-898e-4927-91e3-e787bc3a4d67@3d7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Glass
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b2b3e9c6-a959-4ba6-b057-e129c497a9ee@b2b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:626f422c-68c8-47bf-8d45-7892441ad575@626f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4cf9bf1d-db8f-487b-9082-3a716c5512fe@4cf9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a9f9454c-066e-49a2-bd81-95119a8f4938@a9f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d1c7ba3e-80e0-4516-a5a2-d9c09a4342ee@d1c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:00112d24-1e1b-41b1-adaa-48b4d2b4c59b@0011.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3b3e7145-858f-4f31-a9c1-8209f0b89b2f@3b3e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:060d5328-1990-400d-ae26-d962b053e2f1@060d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:41c8367e-0390-472c-b3c6-dfd57e8fe70f@41c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:44e21ca1-4d79-4592-8f0a-1cd3628912e2@44e2.org
+END:VEVENT
+END:VCALENDAR

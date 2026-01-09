@@ -1,0 +1,289 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5611782b-84c0-47ba-8ca6-3ce26848f36f@5611.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5e2a0b1e-7936-4a85-aa04-ab13da521b24@5e2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5f724e86-8e22-4094-9fbd-43dec803268e@5f72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:943f637b-c4d2-4ad4-87dd-b8ae9bef16d7@943f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:60b1611a-ea42-475c-8842-2ddf3cc351fc@60b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:bf2cf3ec-a611-40ea-8979-31bcd58a6781@bf2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1179b165-9ad9-41d9-8d9f-40fdb5d8b3cc@1179.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Glass
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c45d2f87-4024-483c-a246-a518ce10c2ba@c45d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:52add176-855f-4d1e-a556-639d093fe5b6@52ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:98a43753-6890-4076-9cc2-e6cdfa30197e@98a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0f430943-8577-44ff-a9a3-5eb9bd1bc50e@0f43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:87f93056-c9ed-4325-86a6-86f475927435@87f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:8d294dfc-e10b-4c31-bdb2-752cf282e66e@8d29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:503753f4-c8c4-4f77-a539-706c9002accd@5037.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:44643ed7-52d8-4af9-bc10-c58abb0a9dfd@4464.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:10627e33-151b-4bbf-8fde-ff6cfb9b2c1a@1062.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:88ec3dec-04db-4e39-8b7b-ed11ce10a8dd@88ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e441f02e-bfca-495d-af66-18210578e0f9@e441.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f3ce3c19-7ffa-47a0-a096-61472a4409cd@f3ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:527c91e0-e0ff-402c-bd75-ce8e07920d14@527c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e6932faa-dab8-471d-b4ed-9528d4bdc29c@e693.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Glass
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c7db3928-3ba6-418e-af3a-7bc23a7cfcef@c7db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cf7bfbd4-cc97-4a47-bd44-c3dbc5173755@cf7b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f3c621ad-2c20-47d0-b4fa-76d261d4c789@f3c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Rambrouch\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d885fd08-a8cc-4c63-8f5c-1cb016d0597e@d885.org
+END:VEVENT
+END:VCALENDAR

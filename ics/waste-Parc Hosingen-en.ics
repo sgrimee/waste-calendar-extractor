@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e476235a-14f3-44a4-9d21-0894f41ef31e@e476.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:cbaf14af-ed1a-4636-bf4e-2f884057cf01@cbaf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6d88a091-7058-4eda-91aa-7e5198e30b53@6d88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8b733478-8635-440c-9546-0da3d8d4ada4@8b73.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:8725189a-3529-4f68-bec2-403c543e9595@8725.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:37149f38-5377-4cce-b278-120a4afbded6@3714.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e6297189-0735-4ad7-a428-7a0454f067f3@e629.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5423f9ac-97f6-4fcc-bfde-df472d5dc57c@5423.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:98cf6844-c741-45f8-9c12-e981299a23ce@98cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:40f40d84-c210-4c87-9025-d17fb41f6035@40f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:36692049-ed39-4471-998b-497586d59113@3669.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7507dd79-3b4f-468c-b0df-22f461246ad4@7507.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2a13dafc-2a2e-40a4-9ca3-1d5f7547ddd2@2a13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glass
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Glass
+UID:abfeb17a-1939-416e-ab4d-cd8e77104c6d@abfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:06ee5e71-e3fd-4222-8a8d-9f2f167b7244@06ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3afb8dbe-68ec-4959-86c9-67b9059b313d@3afb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:09fc78c5-6b8a-40b0-9dc8-68fca915e7ee@09fc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3d2fa66c-8a7d-4554-b9f0-cefff4b8b186@3d2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0714105a-51dc-40a8-9d48-87d4927f60ba@0714.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4a51ba82-a1ac-4ae7-93cd-14dea98f90bf@4a51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ff67b399-2b9b-4bfc-9a6a-289f98406f78@ff67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:6d097ce4-aa11-4371-aeca-cf1d3e392a6e@6d09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8c20266d-d727-484a-9a53-f04cb347ae37@8c20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:bb0919c8-2095-4731-abcc-74c2d18ac1ee@bb09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4dd6cf6c-2c13-4461-bf11-55c2f4922900@4dd6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3783602c-9e97-4f77-a785-2793e56c9a29@3783.org
+END:VEVENT
+END:VCALENDAR

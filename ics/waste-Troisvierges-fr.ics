@@ -1,0 +1,299 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b2f7b127-d0dd-43b4-92da-cf4ab92aee8d@b2f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b126972e-1c0d-48aa-b0aa-59a881fb5d42@b126.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6eb0546a-d1ae-43bb-b836-677e662553f9@6eb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a9d0bbde-5eb2-4f83-9104-9551351e04ec@a9d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:82378405-ec52-46c6-8272-a41014e7a0f3@8237.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2c823942-607d-4ca7-aa34-3c9974972530@2c82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fb0cfa4a-1a17-4338-9009-e399918fda92@fb0c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:99846d35-e9ec-44bb-b35e-a358a5230d59@9984.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d2dc96d3-30d5-4ab6-a287-83cee15a350d@d2dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c6d75623-802b-4eec-89af-c9f0d9ed276b@c6d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:188d1e42-1d0b-432e-b5e8-2734fbf083f6@188d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4f737f15-1dc5-4034-bca5-f91bd8e7dd79@4f73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0a60d660-c832-4e60-ad00-0e427a938106@0a60.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:22573cc5-766a-45f6-8188-fd1e4a91cc9c@2257.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:13a73f56-2e94-4fa6-8a95-35df8b5fd927@13a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:482c049b-86a9-40cb-9eba-fe43bbea0a45@482c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5411a27c-1fa8-4967-87c8-26c46c28c191@5411.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4e38ee1b-ee70-4fa5-a606-d1efbf0b5bfe@4e38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8dfac541-2cb7-4b1b-8100-688ebaed4a7c@8dfa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7b705988-a2eb-4f1b-8d25-d4a0292e442e@7b70.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍾 Verre
+UID:74ce7404-b3b4-4077-a6bc-f485f1d6bf2d@74ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:210fc0ef-200d-4ed3-be7a-afc6950c9ec4@210f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d10c5a66-2feb-4b13-a9d5-7989c3c2da0d@d10c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:239a4ef0-4ab9-4ac1-b666-66e028ed7149@239a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Troisvierges\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dfe92909-743e-471c-bf81-e0903e945b1d@dfe9.org
+END:VEVENT
+END:VCALENDAR

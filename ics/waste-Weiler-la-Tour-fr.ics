@@ -1,0 +1,566 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7d5b19d7-6ebe-4c0d-af68-acd54f7553c8@7d5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0682c5b5-9f21-45c1-8897-67c562487590@0682.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b0e7dda7-1dce-46ec-8094-2d6b22a54814@b0e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:bf06f045-a89e-4239-a25b-fd23eccb5127@bf06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e88c1dc4-8d2f-4dc0-9391-719eee2e7142@e88c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:570a4ddd-c4d6-4b6f-a729-6a2c7a3c8b2b@570a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Verre
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Verre
+UID:da58328b-9cb4-4a4c-8c53-2b0324bef2be@da58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5ef0de71-eacf-48a0-b1d4-7bc5a9a24983@5ef0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6d1bbb46-b889-4dcf-b8f9-2a6f1b943071@6d1b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1a5cf961-d2a3-45c8-a590-44589a929752@1a5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9ac7f95a-72fe-42d7-83e8-8828826ff3b6@9ac7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:46127802-c691-4966-b283-cdcfa5025ce0@4612.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:dd5a0e1f-c2ae-4b5c-a946-134906244ede@dd5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:160f03bc-8d60-4118-87e1-7c1486415d9c@160f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c5e366d3-5df6-4f5e-bf5a-8651cae7ce71@c5e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:087da130-200e-4952-bdbe-4585ffd6c397@087d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:de9fa237-0103-4bfa-bbaa-bfc05c2e0584@de9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1a531e11-b2bd-484d-9594-6c9c086f4048@1a53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e2e24ff4-8332-4316-b2b0-8cc8821669a5@e2e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:20d52f2b-6ae7-4f3e-ba38-db7a65139dd8@20d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4cf4e7bd-f0d5-444f-becb-3e3d9cb24464@4cf4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Verre
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2b03e9fa-d0fa-4fb4-90b6-87df26e43f64@2b03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0049fafa-f8f7-40a4-acb5-736a9bdcb209@0049.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d28fd593-840d-47a2-8e9c-fc29b7afdb0c@d28f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:738af643-e449-4652-9dd9-65129d37dc1c@738a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:86ac0e06-9fe2-420f-bf57-119cc0d42c47@86ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2e26f2fd-102b-49f1-a874-386c6e22f836@2e26.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:d19fb857-8c28-4751-a6ef-83fa2a77fda8@d19f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:1c9b40bf-8d3f-4a82-8859-3f67bd1c8002@1c9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:43f06283-f04c-4737-ab53-4eec64d7b893@43f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:95f55f5d-fe0c-401e-83e1-c043030f46bb@95f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cd52d7d9-a4e7-478b-b814-62db72482d02@cd52.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Ferraille
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🔩 Ferraille
+UID:216ca1c1-1eb1-431b-8059-102c574eb47e@216c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a4ec1683-4838-436b-aef6-c7a1e2c91713@a4ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9d473b1a-181d-4a18-9aba-d00772b8359d@9d47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fa5536d6-eaeb-4a4a-950a-126e7391bfd1@fa55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:eea16c97-9c1c-449d-8b8e-e58f2d0d9a42@eea1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f40f46ee-56a6-4191-a8ec-a3d3e1ca7619@f40f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:67d0a92f-335e-4f1a-af56-f158cc0dafc7@67d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7970cb58-eb5b-428f-8418-575a4cf33741@7970.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2ff18ba5-bd62-4200-854e-0913056e39ac@2ff1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:00984542-8733-41bf-a2ae-36555ce38f52@0098.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:ae5c60bf-3fad-449e-a078-2c21b600a587@ae5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:703aa1e2-d388-4cb5-852c-1ee8561f0ff6@703a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5f2c3124-e6cd-4ed6-8aaf-c2beb6f4d630@5f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0305809b-7c66-45b3-9371-b2baf5acdbf7@0305.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e9b21cb2-8546-4a77-b0ef-c4db3bb1b532@e9b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6eb98a2f-4de7-4410-b2bc-d42c6900108d@6eb9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6a38f680-8678-4327-899f-17ad8b42d698@6a38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:af1e8b1c-494e-40f0-8a84-f1b42e1acab5@af1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Weiler-La-Tour\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:245ac399-a6f1-465f-bf38-47a20c38dddf@245a.org
+END:VEVENT
+END:VCALENDAR

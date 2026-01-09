@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:8312c5cc-0d7c-4dac-b2df-f5c6b9b9cc2f@8312.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:525cca9f-80a7-42f4-9fc0-5c3aa0d5295d@525c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:359f5965-1595-4ec1-9d1e-22ef84db2a79@359f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:78c30b59-fff2-441e-84a2-7b5ef36bd9c8@78c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:42219f9d-7a79-4aca-94be-f450a7ce809f@4221.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:78bbb649-cda5-4f5f-aee7-9fa36a3db8b3@78bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Dippach\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:db48a646-7d70-4ed5-9d94-45aaa2d72951@db48.org
+END:VEVENT
+END:VCALENDAR

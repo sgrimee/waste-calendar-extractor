@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:2f3b223f-7fdd-4bc6-ac2d-b120775611fd@2f3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glass
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glass
+UID:008c54c4-962b-451a-a8d6-6d00159696b7@008c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:eb3a6431-cbbe-41da-baa3-0991059dea99@eb3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6b690769-ce9c-4379-b2ab-58c767c5a4b9@6b69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:198ac8f8-00a5-4f1e-a8bb-051097d08a57@198a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fbb4f74c-7116-413c-95f2-09c71a99b7da@fbb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2e9f29e1-9383-4543-bdf2-29d7fec73a50@2e9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6605da95-a583-4dfc-b787-9625196b69e6@6605.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e3139fc7-e492-428e-830a-078917ba09d0@e313.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a0b431d5-8bfd-4cf9-9db6-35b6f5635d49@a0b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glass
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c9b1a24a-4858-4cf5-bd9f-0dcf255d7c6b@c9b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:06731650-2f7a-4933-b6e7-49fbaee6428c@0673.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1fdff3f7-012a-486b-9e48-2777bdb232bd@1fdf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glass
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b2cf79fa-c725-43a8-97c5-076088f0e044@b2cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:290314f7-cc94-4b69-b1c0-76b3d735fd36@2903.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:abec6905-73b4-47c8-b86d-b781e13ae5e9@abec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:d0a68863-f2ea-4086-8b9b-b1f7b403a914@d0a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:27f51917-ba10-4e34-8a37-ed6467b86388@27f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7ecffd8a-5d6f-4af2-9922-d5899863ae12@7ecf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:290a4a29-5d82-4467-9ebd-e072515aa06f@290a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0e302af7-f142-4d71-8334-708b2ef75473@0e30.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d6f62085-e050-4e63-b4aa-8ac36c810f5c@d6f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:b80af222-605d-421c-bec9-5ad3ab6777af@b80a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b85bda42-c114-4c9e-ad68-00d4ef4a8821@b85b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ea8285da-ce6d-493a-bdf6-e48209e8e0fa@ea82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cbc7a7a0-ae4e-455f-89ff-53a0668e00f4@cbc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Clervaux\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:665d7dfe-acbf-47cf-bd8d-1fd017b439e6@665d.org
+END:VEVENT
+END:VCALENDAR

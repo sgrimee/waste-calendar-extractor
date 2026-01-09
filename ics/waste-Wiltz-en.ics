@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9d7a9e1c-7386-48af-8000-366f986130bc@9d7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3fc09848-3b01-4151-8913-482d36e2ca2c@3fc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:79fbc617-724f-48fc-bb20-4a4febb63b5c@79fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:55749cbd-a509-4eab-b162-7749f89cc146@5574.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:95ce764d-1bdd-48cf-ad7f-16f05c78e22f@95ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:efd90238-cb62-46e3-ad6b-404188fd4ad2@efd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:43ec4a00-850f-4ecd-a3bd-5e6b72a01725@43ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:657fa9d9-57ab-4fc9-8f2e-207cf9b3c43d@657f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a2edbed9-cf04-4505-9165-e61961e3d423@a2ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d6ccf0dd-3fc5-4db9-bc99-f72d96048161@d6cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:605f0c8e-47c3-44c1-93a5-86d1429a6a02@605f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:622dabf2-ebad-410f-b4c9-5aa90d951ad5@622d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:26eced38-cdcf-46c6-a93b-62af475a8192@26ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aaec36c8-9c4a-48c5-97a9-1890b9dddf1d@aaec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:47760478-fb06-446f-b96a-b5d2fc9c317a@4776.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f8336a5c-0b48-4ae0-95c2-5615c99f1d07@f833.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:505b35cd-41d6-4add-841a-1eee37ec97b2@505b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:69886942-94cf-4f09-943a-f8a9317d965b@6988.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:7b221e1f-5ed8-4752-8fa3-9c8581c81f12@7b22.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:9ed96417-e7a4-4173-be29-a5694f143bba@9ed9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d2102f30-eb71-45dd-b833-788a4b2db2d5@d210.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ecd8af04-cc08-4601-8e89-b789e422d3ae@ecd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:823dec46-fef5-401d-84ce-575f84779ba7@823d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d1e9b55f-b722-4dfe-91b6-1a06b4957966@d1e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:afecc2d6-d374-43e7-8d6d-bb7a69a2b036@afec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍾 Glass
+UID:4f842063-5190-4bbe-b530-ca75045e82c1@4f84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0897c072-5993-403c-864f-9c74647d4196@0897.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glass
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍾 Glass
+UID:cd2a0995-eb93-47e1-9726-e535cc4e642b@cd2a.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:8f86ff68-332b-4b0a-a2e2-49b8be74549c@8f86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:e65a1893-68aa-4066-aef4-876fac81f22a@e65a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ab4ea0e4-db6d-459a-87e7-cbcad88146cd@ab4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e81801fc-cfe6-4ded-94d0-270197295441@e818.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:40012e56-9df3-46a5-98ab-65e83713e44c@4001.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:840dc4aa-4cc4-4960-993e-f4e1e23848d9@840d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:55c23244-cbea-4fa5-91b3-f84f41963445@55c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:fe4ffe24-2e7f-4915-b572-e10bfaf91e03@fe4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:93202d94-ced0-4a62-8dd7-f5b5abbfd07c@9320.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glass
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍾 Glass
+UID:8e4fbb53-4d9c-40cd-af78-23221dbadb84@8e4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glass
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍾 Glass
+UID:b9813cdb-bdd1-4e89-a721-2ca8d01cac9d@b981.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3481f356-0c96-4bf6-abe7-75aad9f75192@3481.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ecfabea2-a57c-4302-b19d-10dc76875874@ecfa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0ba4dc9b-36db-4818-a0bd-c1ed6254fc75@0ba4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0b220cf3-3cc9-4a37-b7c8-bb2a72a0a69a@0b22.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f316ad05-7c04-424f-983f-a2048b0a6769@f316.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f9d92fa9-c75c-4334-b2a5-6bf345492811@f9d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:72762e8c-48ec-4929-bf64-63c8740f188c@7276.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:28db0a58-591c-4bfa-a94c-c9a98750b0cc@28db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a8f6996e-1979-44a5-8671-4f58f025bd83@a8f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:98bf6142-52cb-49cf-9743-be57dd1cd972@98bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:76a33986-ba7d-416f-a2ae-3c6ccf1d8482@76a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d75ff81b-da2f-4dbc-b787-f61dabaad5dc@d75f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1d8db7dd-b38d-4a51-a457-4981c5ff5e7b@1d8d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:509fc7e7-2c11-46a2-8dff-bd4276b1d3bd@509f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:22e02322-5fdb-4d27-9ef4-4638629a6361@22e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:98897442-3cf9-49f4-a789-49622651e3b3@9889.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Kiischpelt\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d2aa15be-8ce3-4689-801a-fb2423a06dae@d2aa.org
+END:VEVENT
+END:VCALENDAR

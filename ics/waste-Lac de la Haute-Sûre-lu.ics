@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:d8b3a99a-ab5e-4c6b-8ffc-ab2724dff626@d8b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a1b10a42-5f4e-4bfb-8467-dfa0f4bf8e66@a1b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:62c02138-a134-424c-8d22-3e3efb3138d0@62c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f6ed1198-ce1f-4dd4-b273-ca38ad3d064c@f6ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glas
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Glas
+UID:d8a790b2-00fc-42c9-930f-400ef6e27a88@d8a7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:b5206c53-610b-4ad3-a02a-b869912d7dfb@b520.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:21c8223a-fd56-41db-8532-a6fbb4837c43@21c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f07a6876-54b8-4226-b604-808d0b932f17@f07a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:69738dc7-a043-4fbd-bd21-78748f2cddf2@6973.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:df00c2f4-cc68-4337-adba-9f86ef5ce32b@df00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glas
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Glas
+UID:60d08c85-f482-4449-a543-b3059e9562c0@60d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:68ea7acb-39b2-4409-9025-2d76bf169b3a@68ea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:00ecd964-b4bb-4a0e-ab34-310a4b4b36f4@00ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:23c3bf50-d14e-4cbc-9965-30add070a480@23c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a502a7cf-e1eb-4664-9bae-c3e9616616c9@a502.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:c1cd204c-5482-466a-97b3-d9996aa3ae6b@c1cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2a36c708-9277-47ad-a38e-35c85ca2651b@2a36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:21db9004-3527-4fa7-8eb1-4348078429ce@21db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:eabe870d-d78c-4bd6-bb05-c17b35035bd8@eabe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:3634cdbf-8518-457f-b2a5-454e63525f2d@3634.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ba764340-a646-4bfc-b222-a3feb7f1204c@ba76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:f344b9a6-5142-4ba2-af36-40a6b6d40757@f344.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:67c70629-a13a-4710-a0f4-efc48e314d98@67c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:acb17cc8-f498-44a8-8edb-41481bf86565@acb1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:9b00e2d1-1f4b-4d36-8d33-9c0d51d46c36@9b00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b5ff5fc9-d9a3-4dec-951d-19edfe10cede@b5ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:fab1f999-7fdb-46c2-a7b9-c0e0f0cb3065@fab1.org
+END:VEVENT
+END:VCALENDAR

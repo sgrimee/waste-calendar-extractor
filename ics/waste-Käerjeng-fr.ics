@@ -1,0 +1,533 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9a00930a-ed74-41eb-9115-3d80f83408ba@9a00.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:a81f531c-1445-4afa-bbb8-537b4d9890c7@a81f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:52a8ac4c-aa4e-473d-adad-c847f53f76b5@52a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:40fb02b1-a8bf-4180-80b2-89bc10fcda28@40fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2e940163-9454-41b5-a2b5-768b92a56e3b@2e94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3b380833-e4b4-48cb-9b2d-6948762d8fbc@3b38.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3c9823ab-2348-488f-ade6-47be233fd301@3c98.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:6ecffca4-7699-4f3d-a671-8f58a2c2e612@6ecf.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:443e6bee-b440-48a9-93bf-74595c701f88@443e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2f1a04d8-4bcf-4918-b561-653980963eee@2f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:2ddff379-5412-42d0-8783-5ed68c37f5d6@2ddf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verre
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1959e521-b46d-46a8-9519-cbd0ea781a50@1959.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4fcbeab0-5bfd-4f04-81c4-e8b8a83fad0f@4fcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:abf00dad-1588-402e-ae3b-2d1e9e7e35cd@abf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:54dac67f-8e4a-4fc3-a3b9-62b7dc3f2e86@54da.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:30d10fce-cf7d-40e4-8b16-05f40722f03a@30d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d36a4c29-2331-4cc8-902e-bf4ce07c5a35@d36a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0df6d835-0fb8-479d-bd58-fd8b2dde58f8@0df6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b171c08e-20fd-496f-ac71-7c6e540dabdb@b171.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:afb38be8-8fd3-4620-af2f-e9a59583c761@afb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fc61a2eb-b240-4a18-8654-7513acae3255@fc61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3e1e2d18-0c3a-40b4-a705-41e364ac743c@3e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:d4c3935f-2130-41d1-abb9-24059d9b0ac2@d4c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6a23ad28-7028-4a09-bcf6-6ff325da63e2@6a23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8bbcf71d-9f9d-44be-8e22-dcff4b99b406@8bbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:db9d250a-5937-4a0e-b695-dc48086b598f@db9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:53f131c6-849a-4769-8937-b1d539e02468@53f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:e778e883-0619-4569-9cb2-486eb332144f@e778.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:5ca2159d-44cf-4f9c-b67d-7a7c3612fa0e@5ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:855aab0f-22ac-4efd-9a19-c6918a47f562@855a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:388e5d28-9731-4796-a4c1-45488fe2e762@388e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ad449aad-f46a-47f9-b901-68c187c9556b@ad44.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:345f3fd3-ad5d-4260-a7ad-dece657accdf@345f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:63f092c7-f500-403f-b1f8-8db48710f7c9@63f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:c292aaf4-e903-4593-ad7a-14b79f5ede6e@c292.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bb6abf49-15a3-4c6c-9322-282e98235c0e@bb6a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1927bfce-004a-4279-a390-d875c282b74f@1927.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c5d8b965-2a3a-4a1f-865c-a06c87549e40@c5d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:84190603-6f4a-4dc4-bfde-e18aabb68fcc@8419.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:7f2cd7de-2e3c-4886-9c74-b7520257741e@7f2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b60e7eed-407f-4bf6-b55d-ad642027af6d@b60e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4d412847-49db-4423-a8cc-205c329c1d64@4d41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f5270d6f-dca2-4244-9c35-4f2169e04e0d@f527.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:470c8648-02a0-43ea-a945-966baba33d66@470c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:07586153-4526-44cd-b38b-66ef1feff488@0758.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0231445d-b36f-4ed5-bc8d-084f62879895@0231.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:90c6d243-b8aa-47fd-b457-7524274869ec@90c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍾 Verre
+UID:836e93a7-66f0-4501-bb77-0ca26ed2406f@836e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:27afc9d8-654d-44d0-bffc-7e8ff915cf17@27af.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:b7f3e1bd-5ea7-4dd9-80d5-60650801ea29@b7f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f359beb8-74ee-4e92-bf27-98e7d61dee84@f359.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Käerjeng\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1531e8e1-145e-44da-aef8-764b254b3167@1531.org
+END:VEVENT
+END:VCALENDAR

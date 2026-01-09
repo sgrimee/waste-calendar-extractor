@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:4953ad4d-f331-4896-baf0-3deba93247e0@4953.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c7b3e177-d5a4-48f1-8450-8e6b32413c3e@c7b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c6b4fb46-7deb-4f52-b699-71a215569570@c6b4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:93956e2f-6c26-4426-aa0d-6445df330d2d@9395.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:029a7807-eceb-4480-b64f-1e8ff9549130@029a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6f905376-5541-4796-9c7e-844a0a0c4695@6f90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6f1a7a31-07e7-4aaa-8165-2d344af006da@6f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:b756574f-ffb7-45a1-9553-7114a9fa7a55@b756.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5c583496-58f0-4b6b-aa96-74dfc7f3957c@5c58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:982acf71-25f6-4cfe-a10d-2627d92bd180@982a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:20e0e472-f627-4b02-af62-71ea4cbe6d85@20e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e428c5dd-9ad6-4c5d-8deb-274b33ac91ee@e428.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:c7bceb3b-f947-45bf-9a60-49ee07d2d4e2@c7bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:eb15ce26-affd-47d8-a566-6f6e7cd5a37e@eb15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1ce47bad-283a-4c27-b4a4-5678a918b681@1ce4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cb547512-cf26-4f93-a0ac-fefe7594f724@cb54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ecbc763b-773f-45b8-8c1b-450a4fa548fe@ecbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:48fb5baa-acdd-44d7-aaf7-082ec2cf4fc5@48fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:46c254df-0221-48db-bd9a-092f79c9b537@46c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:702468bf-a464-4189-8879-8e9bbf7d83f8@7024.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ca140a18-8962-443c-ab99-13be3a2a1a07@ca14.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fd475015-45c8-4e73-ae3c-2b1670d42c9d@fd47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8e754705-e299-42eb-99f4-0be052c04a98@8e75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:32512f18-9158-4736-90da-c20371321477@3251.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1a20e8d5-bc93-4cc8-93f6-5426e6dab962@1a20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2b158952-4545-4919-8087-ca1552be9c3c@2b15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4c9f1179-4c07-4942-af2e-b2b24a812be9@4c9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Wiltz\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:71278e51-8e91-48e1-bab2-d703dcca7a08@7127.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,538 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:49aa14db-5271-413b-9069-883d11f13b93@49aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d0596111-3ab6-4fbb-97a7-e696cb6e9937@d059.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:73a2ddde-6042-4d22-9861-f6229d75cede@73a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Glass
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:97c3172b-ee93-483b-8085-b839c83b8613@97c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:913a9339-8d28-44fd-9c52-2efe38bf08ee@913a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c69e7c8a-d72f-44f6-9279-2acd20b6d003@c69e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4b3f5456-6bb7-45aa-8581-d6698ef12997@4b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:1fbdde68-86e3-4154-a243-db373a222b98@1fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:611a0d8b-2d52-4942-baa0-809bff8da301@611a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a29a5aea-84df-42b3-94c0-0721f82af848@a29a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e0c1a996-2352-4024-a4db-8fd5033d9a69@e0c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:f70cdab5-c956-4577-8922-ee3c2eb79c2a@f70c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4f419cf1-963c-4836-9058-ac4225222088@4f41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Glass
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e8f07362-4d77-49b9-885c-59dc36abbde2@e8f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:214b4179-2ae3-460a-8f89-cc51337a8c50@214b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0e22d786-064b-4220-83f5-e1a76c832c5e@0e22.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0ada8281-655f-435f-89f7-5dc281b9c9ba@0ada.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:680b7e15-1455-444c-b41c-de12edd9a873@680b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:3fd89f4a-8e2f-4c03-b301-6a2bb5dcdb93@3fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:78597552-1007-47b0-b59e-ef1cf9b5e1c8@7859.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:fbd61e66-84aa-40c4-b814-51d74d22da41@fbd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:b92523ec-78e0-4ace-94d7-75563f1ca2ca@b925.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:79c78bea-4cfa-42f1-8a86-62977b01139e@79c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:11ef46c1-4b4a-4f0a-8641-10cc6d3b3344@11ef.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a97b3347-5985-41d1-a150-c58525598ea1@a97b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:41581a0b-7dd9-49ab-973f-461027f828a9@4158.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:69b044ed-c811-4dda-9cf4-ef3b00b4faf7@69b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:8aea5739-ac64-4b8e-ac52-9742d9d00300@8aea.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ff3908ea-4378-4a7a-83b2-11f4ab7732b9@ff39.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:118e404b-1298-40d8-9524-6f839b4e2cd1@118e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:17062d7e-687c-4c40-95d6-4a43f402340f@1706.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:eeb0573c-9802-4d90-9aaa-7969ae7488dc@eeb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:44adc16c-0934-4a03-802f-11292d9eb7e9@44ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7c6377fb-b142-4914-98b1-f6bcb7d30dab@7c63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3b92ca5b-53c2-450b-af23-fc7d2e1ad466@3b92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:8b90f13b-0014-4012-9739-275ee019298a@8b90.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:e7c4aa92-4efc-472e-8df9-c5bd377935e3@e7c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6494e7d9-8c2e-4643-a640-5f8c7d538dac@6494.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:bb5cf37a-4b50-4349-8aec-aa8b90ac8836@bb5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:85bbb7e5-1fd8-446d-882f-db83f36393d1@85bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:25241859-d195-47d4-abb4-5230885cc697@2524.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:682a4cdc-bcc6-450f-b980-57fec1c861ad@682a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b8a4d619-72b7-4136-8c05-499d83c91557@b8a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:400c49f6-5e7c-4576-b6cd-40a654092463@400c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:c48a0197-8b4c-4933-bc03-91908e49f432@c48a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:91d0ec0c-0b22-4252-abfc-425d466cc2b0@91d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d11edbf0-a183-4af3-98e6-88c09fac32f8@d11e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:4bc3e162-432b-4842-9f9a-67d3090cf749@4bc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c11bad66-f13d-478c-aa32-d0bfae6086b8@c11b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Scrap metal
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🔩 Scrap metal
+UID:5d0b1ef4-986c-455e-8a72-e56f16296df8@5d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:b17cf117-4c62-4169-af1d-b715fe9f01d7@b17c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Walferdange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:db925481-0630-4168-9224-ed59d0c7aa2b@db92.org
+END:VEVENT
+END:VCALENDAR

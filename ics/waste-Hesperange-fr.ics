@@ -1,0 +1,483 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7bff79c5-47a8-4781-9ab0-f3d5cd43a540@7bff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:38a82ca0-6eb6-4d15-9fa5-df538df2aba9@38a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verre
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:330bb38c-1589-4706-8ac0-d5d99c157b3c@330b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:80c7b22f-3220-425a-9e4c-cb9c5720ea6f@80c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d21fc9df-ff4d-4270-a7d2-2382b68d3c6d@d21f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c4f8fabd-3816-4eef-b2e5-0ea1fd9dcb01@c4f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e5982532-52f3-4808-b7ef-93b5572df504@e598.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e85ddb70-022b-47ad-badc-84056b93c414@e85d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c4c23f8f-da91-41f8-9b68-5710e7c59721@c4c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a1ba2e9a-2288-4e70-9449-9446786b9bda@a1ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:90cc1e36-e007-48b2-b79c-4a803e4d668c@90cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0b0592c2-efc5-494b-957b-aeedb4aecd7e@0b05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8c2bb2c4-a45e-4f9f-8a28-3b0a53dced32@8c2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c28b0860-3ca3-4d7f-aa70-de47add0cee4@c28b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:78f31f1f-516d-4900-b303-953e6e37fd28@78f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4c0a6ca0-85cc-4972-a7a8-9ed13959ee39@4c0a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6e45612a-1818-4a4f-b96a-b2609cec2c37@6e45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c160c3b4-31cf-466a-95fe-fb3ae4aec54a@c160.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ce31be4a-86bc-4ec8-b108-b705620a1253@ce31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fb5bff3a-dda8-4d91-bbde-1d80171a3070@fb5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e7aad615-eaec-48e0-90c5-d4761cb4568a@e7aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4b8a0c0a-17a3-4f5e-9ed7-4567576fded8@4b8a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:26beaba5-79c3-492c-bfb2-07c58b68a51c@26be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:524c711f-1732-4c0d-a587-a954d57a874a@524c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5dfe742f-c6b8-4810-b3b2-e5df91209df7@5dfe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1fa541e3-81e3-4e68-bb83-e685e28c7dd3@1fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:f3953d83-3710-4825-9ee5-45dc3e14f70d@f395.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:22d7cc5f-8ab4-46cc-aec7-c9a2cbd8488f@22d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:c52c87e5-bd31-4cc8-a93e-a6efa3e78ce5@c52c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dc35862b-074c-4cec-88ec-d228798fcd51@dc35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4c61fd57-a42b-4a31-979f-93265ec38098@4c61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cae78968-91a0-4ac1-88af-f55d62cb6e9d@cae7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:825ff6be-e5fa-47ed-82be-6cefd8e00fc6@825f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dcfa945b-ec40-4d8a-9bbf-a6612ff7f080@dcfa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:be76e400-97b2-4222-bc54-ced4e87d012c@be76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f6a8f977-f557-4107-955f-ee4dc755f29e@f6a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:a6c5de26-8f1c-4045-b69c-88ef9012ed5e@a6c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e296d102-e715-4273-a4ec-1365ed71a696@e296.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b2fb7e97-068a-49a1-9d04-0303779cdb6a@b2fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4c5a7638-d0a6-4aef-9336-2b3ef0ff591d@4c5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:611532d6-d0b6-4ae4-ad82-eb070dd049dd@6115.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Hesperange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2c001d0a-90a0-46db-a035-c3510f596af9@2c00.org
+END:VEVENT
+END:VCALENDAR

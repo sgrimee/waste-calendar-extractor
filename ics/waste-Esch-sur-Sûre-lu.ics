@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:d8ddf2db-905b-4658-8c9f-13ddc279fb4e@d8dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7f05d2ab-32d9-4520-91a6-677df1c35b80@7f05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:03f8f6f3-62a0-4d1b-bc49-a343a23e48fd@03f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Schrottzäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🔩 Schrottzäll
+UID:bcff15d3-5037-447e-b89b-186f856695b1@bcff.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:47d63225-3eba-4d37-b45b-34ac07d70c65@47d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:d6289e8e-5783-4e4d-926f-cdf3bcafc7d6@d628.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:28704720-90a2-4bd3-8690-9e5add56566e@2870.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Sperrmüll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🪑 Sperrmüll
+UID:422533d3-3c6a-44ee-8c7f-4facafd2fe12@4225.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:0194c536-14da-40b6-8950-df43daace34d@0194.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:19290176-f03d-4c4d-bc29-3e998c68f896@1929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:d2873cc0-e4f5-40d5-a3b1-f8f5c8565869@d287.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:2995646b-c250-4542-896d-17d89dc3fcb0@2995.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:01f6d94f-4ef8-4245-a06e-552afed80e90@01f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c2527582-06ce-4139-973e-593ca2829596@c252.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:dfe6050e-6b0c-41ad-89fb-1c41f58bbef5@dfe6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:882cfaec-1bcb-4664-b176-9c986ab37e5f@882c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:435af6b9-4c98-4d99-97bd-e7fc0ce07b0f@435a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:4d8b520c-6d65-4041-b302-f584a927dc93@4d8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:ba9eb1c6-7471-4607-9fe3-6fef3f5b7468@ba9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8ed02244-b886-4522-b760-5c1c5b0e1e8f@8ed0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:590e7612-7276-4910-bf75-d1a77d13a7d2@590e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:f0a555c7-2bb2-43ec-979e-6fe7607ebeaa@f0a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:9749b3ad-ca9e-4323-aed1-f05b61022254@9749.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glas
+UID:01225d42-7279-477e-a274-e2ed3fe09746@0122.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:2bafb681-f31c-4da1-bb09-b2c9f75e2e3d@2baf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:fa333232-b75e-45fe-939e-12ae8a521d25@fa33.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Elektro- an Elektronikapparater
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:⚡ Elektro- an Elektronikapparater
+UID:f1233a38-7c29-4c58-9ed0-342b7ee547f1@f123.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glas
+LOCATION:Esch-Sur-Sûre\, Luxembourg
+SUMMARY:🍾 Glas
+UID:899c45dc-0aa2-4c17-9e99-6f12731c7efb@899c.org
+END:VEVENT
+END:VCALENDAR

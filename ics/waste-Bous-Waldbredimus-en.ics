@@ -1,0 +1,486 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:902b6876-98e6-4ea0-b23b-3146e3e486a5@902b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:dd0cea71-f66c-499f-9b89-7c586ffce949@dd0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:bae02710-8a7b-437b-820b-c496b7021329@bae0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b567f683-5b23-43ff-a7a2-04c4ed22efbe@b567.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:8836936e-1627-42c1-856e-d2ca8e22c82c@8836.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ddb3b208-9e14-40b7-90ee-d72603ff0ec7@ddb3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ce060a1c-4688-4d20-b85f-e45b47bbd5a9@ce06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:353005c6-0222-4401-b412-bc94fa180d27@3530.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a36e5a72-a73b-4a56-8f10-d85ddcefd606@a36e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:bdcbe1d9-bdae-4b82-a10a-bd0ffcba6a5f@bdcb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:e2c9f684-7a95-41cb-81f2-7397dc895572@e2c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:55950ecf-70be-4b42-a799-c5c8d80d0c18@5595.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:778b93d3-1e50-4008-a4ea-7730ce31dff6@778b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:32576185-a408-4f4d-bcaf-416708504651@3257.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:88f729f3-5cbe-42f8-a534-3c26fa9db24f@88f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f207ab61-073e-4453-918e-c0ba3af99409@f207.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5b1afec6-aae5-4101-9154-8f050b6b666e@5b1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e3cd2bfc-0848-4863-b160-c19f7659e82e@e3cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5db952c9-8c28-4f02-9378-b341650afa14@5db9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e985ff24-63e0-44c5-9357-cca5a1e79789@e985.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cc1df5a1-f2e5-46fa-8d8b-361767e3b353@cc1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f85d9e87-a724-40a1-9633-1f2a74ccfbed@f85d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bf8f753e-0236-4a12-a1eb-4697dc280df2@bf8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c7be1cdf-17f2-4def-9827-ff149c779286@c7be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:2263df5d-2b6c-466c-bc4a-539a4b8695dc@2263.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:78518cef-0619-4a36-a52c-bb7d6fa763ee@7851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2f29e498-a91f-4178-a9d8-ebc6ed31bdec@2f29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c29e3b92-a7c6-4585-b2a1-aafc16d4dbe6@c29e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6b868ec8-0961-46db-84a2-8bafd3d85796@6b86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f55d476d-bf87-4249-a34c-2a9480c2c312@f55d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:40928105-b05a-4225-acee-db2523df656a@4092.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0404deb4-07de-46fa-8a1b-638bded4dcbe@0404.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:66e6e74f-790b-4de8-95a4-88ae574f28fe@66e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d2895974-148b-4f33-9515-3623f8d5daae@d289.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3a12cb27-7d35-4e19-9b3b-a369d8d155c6@3a12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍾 Glass
+UID:88f37efa-2440-4256-9548-33b00bb376d1@88f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1fe8b523-42a9-4e68-b60e-f7e83e67eae3@1fe8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:14d2c9f7-b7ec-457a-8abf-2400e2044b61@14d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e940e19f-7c5d-4cf8-b6a8-238fd8a3323b@e940.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e7d680d0-f970-4813-b2f0-59ac68795867@e7d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Bous-Waldbredimus\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cdcdaec7-ed00-4299-8297-3ba60e7866a2@cdcd.org
+END:VEVENT
+END:VCALENDAR

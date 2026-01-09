@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ecf8b35e-95b6-482e-9763-29923d207ddf@ecf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c6120359-2f85-4c09-aaa9-78ed7a7bb056@c612.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:079c6ac8-6190-4e0d-9edf-d9ce419f9950@079c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0703f24c-d7c4-48be-90f9-14ef70a02214@0703.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ef96585b-8cce-4010-b07b-b1192c6bbeae@ef96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5dad669a-a20e-4fc1-8df9-2fd762a2bed2@5dad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ef5b5299-c192-4366-9e6e-392e06e25abe@ef5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d8f4a47d-7520-43e9-8b21-34503ff27942@d8f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e113c17-a918-4c34-af0d-0050713cb711@1e11.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3224188f-7507-4b55-86c3-5076fea90b17@3224.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a910fecf-bfd1-451c-9b8f-950a5736936d@a910.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:afd1757d-bab3-4d2e-9972-e181bce4d770@afd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9e6300cb-f478-4f30-801e-d1bdcdb143b7@9e63.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:4f8ceac7-96c1-4b5b-83af-e5b18ba280ad@4f8c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0fb4fd18-9d7d-4c23-9f39-7d5c958880a9@0fb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:14a19091-50d8-4274-a42a-71ae6a3bd274@14a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Electric appliances
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:⚡ Electric appliances
+UID:b912edfa-6e18-4cbd-af34-217fb12b37ff@b912.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ccf926dd-1f73-4434-ac29-1c0d0237767a@ccf9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Glass
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍾 Glass
+UID:025e1b5f-2588-4254-b948-b49255e6ebd4@025e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:727c5d0e-8be4-4ba4-ad66-58add0345ce7@727c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:51c14c4b-5457-4b7c-acfa-56e44235f7a6@51c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a7c98894-fa0d-43e8-8c36-4ecbe2cfa9c8@a7c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3b6c668a-14ea-4aa1-9c77-af9f1b508171@3b6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0fbbb2c5-e134-450f-988b-162a570540c2@0fbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Glass
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:🍾 Glass
+UID:01321682-f5ae-4562-9da1-afd588f69ba6@0132.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Groussbus-Wal\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:51541eb0-cdc3-41b9-8054-90ab7b95259b@5154.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,433 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ce671e8b-d9c9-4748-b688-a3f4cdb6aef4@ce67.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:b648794f-2cd7-4c63-9721-3bd9bfa1a582@b648.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2a90fcf8-faf3-456e-a0ec-4309f327bc1e@2a90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f0728132-2674-4bf2-b555-329cc8f42aca@f072.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:0cb7ab12-5732-42d6-962b-50a401f878de@0cb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a66141db-1982-44a6-a0e3-02ad348c3737@a661.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a8e3ac2b-033d-4ab0-a154-73c4d0b4cfdf@a8e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b436bfef-e6e3-4acc-a332-f363edfeab60@b436.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7cf6890e-f5fc-414e-a35e-11048d7e211f@7cf6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:147d97df-28d8-41cf-8614-80dd59fa845d@147d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d5d2e60f-c132-4b83-aa61-9ca22725e9b2@d5d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f9ddd9b3-90ab-4d0b-9262-8b6f041be5a3@f9dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1b329128-3cf3-4166-9626-a4e55c079890@1b32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3e7535aa-9e89-4474-939a-68df638c6dc8@3e75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c36bd881-ff6b-43ed-8c7b-b41393cf5aee@c36b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f1d603c-90d4-4c14-9730-2476c2f08cba@8f1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8124d239-9480-470a-911e-d939d47bfd3c@8124.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Appareils électriques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:⚡ Appareils électriques
+UID:3f4889df-3ba2-49ff-adc0-4be6092a1df8@3f48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8dd7df54-971f-43a6-97ba-9943ffb0a048@8dd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:664e2c4b-1267-439c-b29c-3536f6b1e60c@664e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:45f4651c-e495-4a80-a2d8-ea51e37a1c1f@45f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2cc5de77-3023-431a-bd58-dcda2df5134d@2cc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:921b17fe-3b7f-4b52-9aa8-8164aa483dd1@921b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Verre
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bb135ad9-8b7f-4ca2-b07b-d124831b9ce0@bb13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:325d70ee-149e-4f24-be62-d07b23d12bbc@325d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:843b7edc-a664-44c3-8810-041681719225@843b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e5e10a58-6057-48ba-aa25-7ca4e4a0c053@e5e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:79b64d9f-1e5e-4381-b0ae-0074cc626d2f@79b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1392f70b-70ac-49c0-bb10-0ddf0496d8c8@1392.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a3e51964-db10-493d-82ba-7c66171b72ea@a3e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:88503a2d-1f61-4bcb-b48b-1edb634e465d@8850.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9556615a-c381-431c-b6d5-a335bd46addf@9556.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c2a4fa86-4303-48b9-8652-43dcfe868895@c2a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5a86373d-190d-43e6-8e90-c0458e0e1556@5a86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:53dbe114-4886-4423-8b73-1a71f2fab65d@53db.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8e80db7e-ff37-4ff3-92dd-b38a8fa28936@8e80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Bettembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:40b2df08-e912-498b-831e-0c205a6e04bc@40b2.org
+END:VEVENT
+END:VCALENDAR

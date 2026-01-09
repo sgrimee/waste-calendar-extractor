@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1ee1a57a-e459-4df7-b831-4b5e7b67bf8a@1ee1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a5962bb4-404e-43e1-9d6b-b6171a2f1a83@a596.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b13763b2-0fd7-4a32-8eeb-1829ece58f62@b137.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ec941caa-1056-4e9f-9cc5-6ca84bb1f51a@ec94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Glass
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f52e7a12-dffc-4b05-a5b5-aaf3073ae60f@f52e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:f10c584b-1c63-4290-9154-6b5f26bb2de6@f10c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b5c56b55-5958-463f-b3a6-769a11fbeb52@b5c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9decf9ad-3f01-492c-a9df-2d9f59fb2c03@9dec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:59d5236e-00f2-498d-9c61-be1abf57d715@59d5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:577f4397-9b10-450d-9f97-2f36c2830707@577f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f32bc784-50cc-4c3d-892d-1c9026048dcd@f32b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b929016e-f42d-4424-8cdd-a3ec14283f2e@b929.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:6b2d898a-65b3-4922-a070-e4db625ee15f@6b2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d245c090-d323-4289-8aa1-a06c78ca93ed@d245.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:68be13d6-ba88-4df2-9e53-83163c1d03b2@68be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fc0e09c7-48bb-48db-bf6a-621b04a8cfc3@fc0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:84672702-1142-4f42-8d46-6b8cf90fdb24@8467.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5ce29a00-9e8f-4b3a-94bb-8d70ac4e3ca6@5ce2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Glass
+LOCATION:Winseler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:382c5755-4399-4780-b51f-c8badd37b0e7@382c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:48c18582-5d63-49b0-bb2e-05917fcd657f@48c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Winseler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:6a27775a-d2a7-4e9e-9d24-3bd687bda648@6a27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:044beab4-f208-4233-a8d6-12dd70606795@044b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:4a85ad82-708e-460c-8adb-2c6e3e7dfc3a@4a85.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Winseler\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:5cc7974c-03e3-4e9b-a2ba-92df1af0de63@5cc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5bafa185-3f79-4703-8b6e-043595d03116@5baf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Winseler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f53c8d4f-cd58-4751-8099-82a1227ee294@f53c.org
+END:VEVENT
+END:VCALENDAR

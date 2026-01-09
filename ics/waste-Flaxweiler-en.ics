@@ -1,0 +1,520 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:14e0bb38-6db1-4abd-9bd1-07a9351abc40@14e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:30d0c0c6-d659-43e8-a72c-efcc4d8f17ce@30d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:eb7ea0da-8cee-4e3f-8bb8-d4aa24f2c7de@eb7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:09c2b677-c5be-43dd-9f44-ea6ade42b89f@09c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:799c2441-5ba2-4b2f-9ff5-a1e7f890bcc7@799c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b960dad9-31ee-4964-b906-d5bd361ba778@b960.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ac2c27b8-a82f-44c6-883c-bcea4013a161@ac2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:03e6d5f2-2f32-4b28-a073-5186a287be8b@03e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:72ab520b-cd27-4732-8171-680dda7050bc@72ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:64424952-3a81-4a4f-8722-2e638122bffc@6442.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3e310f34-22e4-434c-a2b5-80d7cd923178@3e31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d8e47008-5f30-4f78-bc4b-d431d372a876@d8e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:53ab4cfb-3cb8-44e5-9489-6a900e73b6c6@53ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:50e27fbc-a426-4411-b183-b47909a607f4@50e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:5fd39240-31e7-428a-a8c3-8a30f6a4b6bb@5fd3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fa0eef4a-964a-49e9-85ec-edbf34db2924@fa0e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:21303355-f9c3-426b-9a18-52fb5549ab0e@2130.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d03b85c4-7c1c-4a22-8a75-102957d76935@d03b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c0017dc6-25c1-4d09-ba41-c2e2d229bfbf@c001.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a5ca7a4d-af9a-4612-b62c-b8c139fd59e6@a5ca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b788e094-304d-430c-b15b-19e7d4fd048a@b788.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:d8097299-8623-4be3-b978-81c36f8ebf7c@d809.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:79a3fa31-e09f-4c3b-bc75-f2ebb106a533@79a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:960dcd4b-da23-4b47-863e-b43fe665849b@960d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dabc89de-459a-4e1d-b1e7-10a4f60b613b@dabc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:310c20fe-b4de-436b-8f18-47573543252b@310c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:aeadfcbc-6c48-4ef6-be92-376113aa604f@aead.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:a99497dd-3df9-44ae-906a-332a80d1e96b@a994.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:ada231b0-4ce0-4552-948d-89641a0fab13@ada2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e5046d28-774f-48e2-88bc-0a266357bcf1@e504.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:18c1ae7f-8028-4c39-8482-5e94e347b0c7@18c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c9573ab6-c0a6-4367-831c-06c3a5d5463b@c957.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7538d26f-980e-4f26-b7f1-8faf44adcea5@7538.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:a6650b78-6cf2-4875-a896-911b9b1c210f@a665.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0ff6f51e-8b4d-46fd-8af5-ceecd09f29f5@0ff6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c52c510a-d325-46a4-ae9c-46347f5cd933@c52c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:69460d59-20ad-4263-a4d1-ea5691de6732@6946.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3c67acc3-7535-445f-a420-633a867f917e@3c67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:e3d449f7-f39a-4447-a3dc-23605b1fff7d@e3d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f4649099-97b0-4b5d-aa1c-46d803267c90@f464.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:3b4e946e-8203-4a82-86a9-d84827880056@3b4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:e6d8edf7-ac27-4349-8f29-dc96b016effa@e6d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Glass
+LOCATION:Flaxweiler\, Luxembourg
+SUMMARY:🍾 Glass
+UID:db65a7a9-46dd-4e25-9d4d-54dbfb3a7470@db65.org
+END:VEVENT
+END:VCALENDAR

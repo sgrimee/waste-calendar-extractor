@@ -1,0 +1,625 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:673e774b-47ea-4f0f-b2a5-b4bd887fd550@673e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:334858ba-5233-41e6-82de-95e18455744d@3348.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Glass
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:67c34039-b560-4ba8-a374-a4a93c374701@67c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2540245e-2fba-40c7-a529-e9c27a9618f7@2540.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2f15dcef-59de-4b6e-bef4-2c25e0c7bb72@2f15.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:dfdb3431-20df-421f-97e3-046cf50e7aed@dfdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7cf171cf-23a7-4b5e-96af-94efd8305944@7cf1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e4281b60-327e-4417-b225-9636dd465dbb@e428.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:38b5e398-d528-4537-847d-b7cb2f8f25c7@38b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:6f7cc81e-1471-4eb0-8f66-4c01b3d8e6ec@6f7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c782f463-0706-48d4-9a82-c3e157936ec5@c782.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:161856ed-83a0-4267-882d-270f4603351e@1618.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b0543b7f-e69a-420b-8b07-c903329c3cda@b054.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0750e959-3a52-4c2e-9809-4a122eb834a8@0750.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:55a671db-3a3e-4291-be19-6b905ac6eba8@55a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0fe91aec-f4b2-4545-9d7f-b54f56e52bd6@0fe9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:829452af-ab88-4f88-8767-400c642fee06@8294.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a6e41345-94e5-4de0-9e61-3973fcb29aaa@a6e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:309ceeb0-b735-4777-8fd8-e795c288eadb@309c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:0455d4c7-17a0-4dd1-b657-9f47b1cd804e@0455.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:dcebf4a6-78af-4f72-985d-eb195589f7b3@dceb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Glass
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:bbfeb3eb-8fb4-436b-8a24-24dbb4c3f829@bbfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Old clothes
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:👕 Old clothes
+UID:5ee92c17-52ed-41a5-9eb6-0889b7b81fda@5ee9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:1c3298ac-e877-4537-8467-d24a9826f989@1c32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7ac1c26f-1b94-42e1-851c-d3dcea8f6eab@7ac1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a8d685e4-27ea-4297-b099-6810a4f66f64@a8d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bfda9030-25ec-4924-a454-c2c385da075e@bfda.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:52e35760-fa67-457f-8e19-93a73f8c3e30@52e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:71bb4f38-4efd-44a3-87c6-65c41de9afcd@71bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:1a2e5d60-5641-4303-acb0-50be53e1bb63@1a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:5e1a36fb-2152-498f-befd-b2fd3075fda0@5e1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e404bd38-d316-43ba-9ae4-1ea4e7fd0ea0@e404.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:d5a3c4e5-0fda-4fb2-a12a-23e3664b142c@d5a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3dd1cc93-42f4-4854-9964-bb68efa241fb@3dd1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a2549c3a-2622-49f1-9191-c60b53a7d0db@a254.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:968a4265-512d-442a-b497-358040240c16@968a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:766b76a7-ce09-41f8-aec8-71ae526c3d66@766b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:4da5c442-5d28-4553-8466-6b00db203af6@4da5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:d711cf49-b609-4598-9c38-30a921618d7f@d711.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:add1c405-6b3d-40f2-87fd-74def38fff07@add1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:af0758c5-3e3f-42f0-b1fa-bfe6d92aae6a@af07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:79b978f0-3f2d-48ad-8b4c-e0f9faa13ff3@79b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:98c89748-ccf1-4275-9704-b79363285200@98c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:74f7bf76-13e0-423b-933a-3419a0f78105@74f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ac6b287a-77ca-43a8-86a6-f6fa02bec1c0@ac6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:477f5e44-4fd9-43cc-b1df-81516bc1d50b@477f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0e1a87c4-9589-4714-860d-be26fa247bae@0e1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3ec0b270-5a07-4dc3-9a13-0278d25d95ae@3ec0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Glass
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍾 Glass
+UID:d97e70b4-350a-46be-b3be-e2e6c44d8a6c@d97e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:2fe07d16-f243-4e47-bc31-8891fbcfefe7@2fe0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:01a9037e-d72a-4f34-9e18-8fbc6ddbfada@01a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3473f332-0764-405d-8764-b6f20b6f4334@3473.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Leudelange\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:ce6e3920-4b16-4ed7-bd5d-663cfff1921e@ce6e.org
+END:VEVENT
+END:VCALENDAR

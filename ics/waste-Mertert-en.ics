@@ -1,0 +1,694 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:42b8d438-141f-4da3-9fbf-bacba5ca8c26@42b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ac363c83-00b5-4c14-ac15-e673f62766eb@ac36.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:028519f5-2359-4cf8-8712-a8813f777b0f@0285.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c8437371-7573-4791-8744-3ba4dcff3f93@c843.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:a7d2e0a9-0f32-46f7-8fdb-f702ad29d979@a7d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:5982f10e-b4ab-490a-9dd3-ee1932366bfe@5982.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:8323f656-fdc8-476f-8a17-d4817a231b4a@8323.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:de9e50a6-902b-49db-a239-bada936779a5@de9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:809936de-38d8-4071-819a-2fe4ea2e3ac9@8099.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:c3fe466c-3e72-4f60-ae58-433796cb3a4f@c3fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:40b37c65-b92b-41a2-83b7-f0455e6e2ae2@40b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:d83056cb-bb89-4494-bde9-deb563b59c41@d830.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:4a4c60b9-8a39-43db-bf50-dd033399c018@4a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:30590a38-fbcd-4abd-8092-c84074728679@3059.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:fb5d0309-b30a-4889-a4cb-133f444ec497@fb5d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:195fdc40-a352-4ada-884a-7e0849d1a96a@195f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:cbfff032-ef7d-4d40-96c2-8273057473ed@cbff.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:1f7c1624-ef08-4a9b-8795-26b0f8829dfa@1f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:d1952742-508f-4ada-bde1-347f4ec57b03@d195.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:92e94db2-0371-449f-93a7-f862ae5aa5cb@92e9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0d424ee2-331b-4312-85ec-ea3885fd1732@0d42.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:9bf5e05e-4b84-4f88-891d-6416136efeb1@9bf5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0c51c38c-1376-4761-a314-4be767e3a987@0c51.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:5147e3f6-3464-4975-9bbd-a5411a68af6c@5147.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:57dd2ec8-d655-4367-a712-1483e7955da2@57dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:be565aaa-4647-4903-9208-2a29a1b4fd2d@be56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:f67a51f7-bcc5-40bd-baf1-5ad25a520e20@f67a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:7052e56f-c10f-4567-8e8c-7864745f0353@7052.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:69e85853-4fdc-4b86-91a9-55e3d492aa8e@69e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b42e0103-6330-4733-9383-36da81badaac@b42e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ed3581a2-f84a-4f52-b89f-4ea008f19e1d@ed35.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:79b0be09-354a-4602-a9fb-db934ee35562@79b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f5e609ae-ef9b-4bb5-9a4f-c243a88a80c8@f5e6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2bd7fe75-f796-4cd8-9aca-5ffb35816ecb@2bd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:83e39500-f2d8-47d6-8aad-4afdf9d8ea4e@83e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:cca064ff-4884-4fcc-8cd3-7071073830d3@cca0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ff190e95-1de6-475f-99c2-f89b57548c2d@ff19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:c3283fc4-a4a3-4c92-8ba4-d1b72a701020@c328.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0950b659-b7fb-4d6c-adac-36eb21d18f2f@0950.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ea7432a7-6f74-451b-89ce-db2517118165@ea74.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b6fad233-d9d0-4144-a6e5-811706e988fb@b6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:0b545da8-cdfc-474a-aa16-f6f63f7111ac@0b54.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:e73227ef-c6fa-42f3-aea1-181c25aae65d@e732.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:66c3edb8-4776-4a49-90e6-81d76df67795@66c3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:81ae2817-0055-4805-9ba4-18c5abdb4e2e@81ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:64e0d062-f1fa-48d3-a70f-bd2bd86119dc@64e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:f60ab2e6-99fe-4a91-bd76-312070531a7c@f60a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c5fd8a29-fa1c-4550-9ba6-bd69dded6731@c5fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:4805df78-98d2-4459-91d4-ead9103cc4f9@4805.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5cf4fbff-40ea-4755-a428-e5144ce263b9@5cf4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5d1c674f-f046-4402-9e11-e90b36155be7@5d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:c186fdea-d220-475b-ae16-727a68448c66@c186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:34395aa1-feb7-439a-b96a-837f80e0139d@3439.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:4d4b4bc0-f063-46b1-b1f7-c0f574c8b34f@4d4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:08c1cebd-a079-4ec7-8b65-efb042b74fa1@08c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:63a5eebd-99a7-47f1-958d-b0d814fff2c2@63a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c3d8a312-29ba-4d1c-b44c-934c6464b594@c3d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:77f07721-dbd1-4f3d-bb89-30c4c381c940@77f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:5cba2d8a-7405-4321-acc4-2bf203f5ad33@5cba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:f39d526a-bb9c-4b62-98b9-0853204fabf3@f39d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:53be917c-eb03-4564-8ddd-41673de128cf@53be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2612753c-467b-47cf-9262-625344047789@2612.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Mertert\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:67752c1f-20da-4a25-9e1b-54a3ba43c144@6775.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Mertert\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:f2d64451-55c4-4f04-a8e2-8cf3bcf9c942@f2d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Glass
+LOCATION:Mertert\, Luxembourg
+SUMMARY:🍾 Glass
+UID:565b0322-8e8e-41ba-ad34-dffb1f4e7e38@565b.org
+END:VEVENT
+END:VCALENDAR

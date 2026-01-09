@@ -1,0 +1,318 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:74f03746-dc62-409d-9273-356d4ca026bc@74f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:98f310c7-ad32-4322-ac46-61ff1f7ba04c@98f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bb8f0d67-055d-49b2-bfd3-37da65820ac9@bb8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1e1345b1-4095-424b-be98-32a7281196e1@1e13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:03f610b4-9b46-4c13-afbf-5143af58ed70@03f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:16016619-79d6-47f6-9082-5b93921d8c97@1601.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:546d29ca-9fb5-4ccd-b750-3b617177c497@546d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5f550854-1f2f-40d8-b5c5-1c0515fdd02e@5f55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e113efba-2a40-49da-ad6c-441e04f7d707@e113.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:84c7a0f5-af1f-475f-9b27-1aeab8a7f125@84c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:32d34c79-7008-4cc7-b3a0-94f97b726d30@32d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4aee2c08-6834-4525-b726-32f3f4ad2465@4aee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:aa8e3ddc-4493-4074-a6a6-c216eae450b5@aa8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍾 Verre
+UID:11146455-f531-4492-a082-c46fb2f38ba7@1114.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6d6d231f-e945-4767-8f8d-bf9082915253@6d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:9bc776b7-5ad4-447e-aa74-b6b75913f759@9bc7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b98f7350-822d-465a-8977-6c48f69fce71@b98f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9ef03ed6-3227-4355-9531-4f7685263223@9ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:1c0fcec5-6675-4f4a-9b16-6141c7a40611@1c0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ad4d8bbd-168a-4c7e-bf28-3a6fd86b0453@ad4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7cbb32fb-f108-4ca7-8bb4-c522b534ca6c@7cbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4b0488ab-c28c-4114-a921-172ac6f797dd@4b04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b5c265e1-bba7-4651-967e-b9543ddefb24@b5c2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:88d6eafb-44c7-485a-8628-ed1843ed3faa@88d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:089c43e2-d730-4c1e-8a3c-150015a2c8ac@089c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2801c6cc-cf87-4b40-9639-c2530c91b271@2801.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Lac De La Haute-Sûre\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9025998c-d618-4caa-8415-30fa52a604a8@9025.org
+END:VEVENT
+END:VCALENDAR

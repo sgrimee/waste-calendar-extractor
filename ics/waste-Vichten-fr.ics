@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ae2c504f-a4c0-472e-820e-91a86767258f@ae2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:29ed0510-af23-40cc-9063-683307fbf356@29ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ed660452-ae5b-4a46-ad4b-cd13d752ce43@ed66.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Encombrants
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🪑 Encombrants
+UID:fce5d6b6-4bee-4f7f-aed2-30aef10e1434@fce5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍾 Verre
+UID:eab994ad-697f-494b-999d-c3e6d63735b1@eab9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:1a068259-849e-4eaf-94e9-3b4d6720b333@1a06.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2f7c97ac-58ea-4af6-8357-5db0ec3f7602@2f7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:25c8fbce-7238-4bc0-9d30-b7e5fc208434@25c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d33f1c3a-afe9-465e-b712-6ca6d90727c8@d33f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:76dd44d0-6e73-4f5f-a260-8becebfbbc09@76dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vichten\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b32ea212-1906-41ea-b04a-4deb944e18dc@b32e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ca673571-a7a0-4b64-a1f2-45522d5ef367@ca67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3a7863ca-3086-4c26-9e81-726d16e4fd6c@3a78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2a09b69b-0da1-4c72-aa56-633edf7c6f3e@2a09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b9bea42d-197b-4a89-8b51-806acdc4ea15@b9be.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vichten\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:92a968ae-6e4b-44ab-ae2b-36b2a89d2599@92a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bc504a02-8e71-42d4-aed1-eaef75292361@bc50.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9edd8d16-580d-4921-8d6f-6c1f90791d6b@9edd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:714be39a-9d3c-4cfd-9bd5-b7ecfb1c5ba8@714b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f0e449ba-387d-4fa6-8499-cd3576982fbb@f0e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Vichten\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:10422f8e-038e-482c-958d-c3706f6b6e91@1042.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:25dc87df-2c98-425f-84ce-5ef0f4b209c0@25dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:460f07b5-bfbe-4ce4-b693-f4c91ef70c78@460f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5d4f1b39-3b9a-41a3-85fe-0af47b64604f@5d4f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Vichten\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:da558c72-7a7c-4933-9111-6fb1d9b91af7@da55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Vichten\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2955df00-6603-4518-b916-e82a7f922ec9@2955.org
+END:VEVENT
+END:VCALENDAR

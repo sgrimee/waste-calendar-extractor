@@ -1,0 +1,301 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:75165277-c55c-440e-99d3-fd7c73bf70a9@7516.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:420e34fe-68cd-41c3-bd76-e5c5fc757182@420e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:fa9d366e-ab76-4a59-beb2-c449a2989082@fa9d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:2ed44772-da47-480e-9a1a-074cf26766f8@2ed4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:0b01fe26-dbcf-4770-a204-2b862a70b801@0b01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:71c137e7-c48e-4b89-978f-4cbea08107a0@71c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Glass
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:3578dbaa-582c-46fe-b34e-be28bd4f689e@3578.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:0f08bf08-eb66-4299-be6c-0e35bdcccaee@0f08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:2acacd43-19a8-4123-8e55-5e2109209379@2aca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:933d0092-e573-4c32-97a2-aacfabb9edab@933d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:c51dfb01-dad8-4ec2-a8c3-9deaf835ee44@c51d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Glass
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7ce95755-d1f9-48c2-a437-88d1a6764190@7ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:f4c52358-4be7-424d-ac25-e30f6bb63fba@f4c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:35f6f793-5186-4d77-8676-60c5e0fd0304@35f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:67905577-0971-423b-b845-5eccad0a37c3@6790.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:270ef20a-0020-4ac8-ab45-87addb68faf1@270e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:40563408-5945-4821-86d6-c5155a140da7@4056.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:cfc3cad2-4425-40a8-abc3-9c52283b163f@cfc3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:859f5cca-f46b-4114-b09b-5e72bacc4cb5@859f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:762472c3-9ba5-4ed9-9d61-22db06e5336c@7624.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:10cb684f-1533-492b-83a6-86f1e7522d81@10cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Larochette\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:e290c0fe-d7ac-4422-89e4-61b708d7790a@e290.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:49dd6610-9a7d-4e84-a38d-263f5cc4a242@49dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Larochette\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:3f31edbd-d4dc-4acb-88ad-f02bb1b6f793@3f31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:00a36fe1-29d4-4f63-a0fb-45d118861d12@00a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Larochette\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7d03bd29-85f5-4035-9d79-c7448968cbe7@7d03.org
+END:VEVENT
+END:VCALENDAR

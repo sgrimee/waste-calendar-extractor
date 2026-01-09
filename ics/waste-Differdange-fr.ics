@@ -1,0 +1,1471 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9e1d0cbb-b067-4d66-b0a0-f9e4a695066c@9e1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f43a3fef-7467-4c69-8e2c-e09709940d62@f43a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f3333e93-5166-44fe-a538-271757e1f456@f333.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:dd9765f4-5b55-474b-89e6-3e72b32d1a14@dd97.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5e0997d7-82ed-4f7f-964a-0233b93db542@5e09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c0f81f1f-f0fc-44a9-8721-9f03dc7e97e8@c0f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:5814c39d-eb92-45ac-8e6d-9739595fd442@5814.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fe070c58-8b84-4e69-a738-056e0e66b16c@fe07.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ab46d2bd-ee9d-4c33-89d7-5c1f2a945c69@ab46.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8451b1df-c9ac-4e63-b882-6b5dfa4fab24@8451.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:78cb922c-54e9-4ccb-9c95-06fb7307d880@78cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:adbd746c-3d86-430b-9b70-644db530f849@adbd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:99000de4-4774-4038-9085-24cca2699949@9900.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:98a8af7c-8034-4417-b781-e882f8e0675a@98a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2a6b1542-47d5-4d4f-85e1-8d1b0602a737@2a6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5c5a52ac-41ae-4dee-b398-136ee95f694b@5c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:54391f2e-3998-46d6-b8c8-7039464ccb01@5439.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:53680b0a-ce1d-4941-a0d6-906b0e84c0d6@5368.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:89603c67-5694-4310-9e1c-72c4336667ab@8960.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fbe1e5f4-567d-4924-914b-4a5f6d1edeb3@fbe1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:dd785a09-8f60-48b0-9fac-f963e07ada99@dd78.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:fe236fd4-29da-4a2f-9f22-9381fac32fe1@fe23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e77d95a4-8461-45c6-9383-004e276abea6@e77d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:93e222c6-a3ac-4c10-a5b3-4bb471a0a23f@93e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:835a800b-335c-4384-8d85-4c62abbeed24@835a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b89ca6b5-73b5-459a-8a28-c4fe5d0fd481@b89c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4e760dad-fcb6-401c-bff4-f966eeae3cad@4e76.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e79f0c9a-6b4d-46f3-94a9-aa14cd76b932@e79f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:731e99ad-c25e-476a-86c4-898a2a51b9d2@731e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7ebdd094-bedd-4244-821e-6f4ff81c986b@7ebd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9d7d0fa1-a07a-4f3a-ac1d-56a68e30e570@9d7d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:33358e52-5801-4257-ab20-8b3f991ed89a@3335.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9d5cadf6-1c97-4fa1-823f-eeef001bac12@9d5c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d13c10a9-d0b1-45b6-905a-fcc5867e2872@d13c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ce26b0e2-c26f-4578-82b3-323cab66fa26@ce26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3b47c592-d799-4502-80ed-0f7ed1643435@3b47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:e08e63cc-2822-4bd6-a1af-857d92fcc34f@e08e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2abeb4fe-98d0-483a-8593-c78247545d33@2abe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:e0bd2270-1e73-40c5-bb8c-f05a2457a7b4@e0bd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1d612de9-551a-45ac-872c-1af8a18c79ac@1d61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8899d70a-7881-4520-8a08-a27a59a96d71@8899.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b4a07133-72a4-4e59-ba88-94b18049fd07@b4a0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:280905e6-1acf-49c9-8ce8-89c63c0a62dd@2809.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1427167c-e55e-439a-847c-bbc669ada762@1427.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2ade0745-e9ab-493a-9e76-5a90a4e47553@2ade.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a022fc90-8252-458c-82da-2085ddaa4b33@a022.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b035a89f-9727-458c-a006-85077fdd3a1a@b035.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:7e374ba2-ea47-4a91-bdfa-4f8e4eb96c52@7e37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3d37d811-0a07-4990-841c-79c64786a754@3d37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8a5b8679-ea73-465a-96dd-63558c2c5d46@8a5b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bc9c2a35-f720-4d2d-af93-0e6c7f7dc6cf@bc9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:90d0cec3-8532-47b5-88c3-af5c666e2ed4@90d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7fc6af3d-1138-4829-9efd-9b6e88722da3@7fc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b61fb4c4-9d12-4a9f-b836-cf080800962b@b61f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:07400949-78a6-46b6-9db0-3ab3681317ca@0740.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ec05f087-a815-4a3b-ae81-70764d39d240@ec05.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7d64f7f4-96e5-4737-a60c-d9e2840ab2c8@7d64.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:73b02f4b-f2d9-4599-8924-313ba86b68fc@73b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e4937562-7570-49b4-9163-54fc2c77a619@e493.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:275ba550-74f3-4a77-b357-0d91b84d0b0d@275b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b56d049e-a16e-41f9-a560-2358dc27df96@b56d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e4dd9707-fca7-42ea-b912-1708a39f5ab3@e4dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8a37c47d-8442-434a-965d-f4573609cd86@8a37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:be1c2c71-8d02-4a5b-970b-5a8a5bd7de2d@be1c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4b3dc71a-9a95-4c3d-83d7-7f64a850a29e@4b3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:65913cd7-bd12-4945-bc3e-c9b39536ec57@6591.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:df2b617c-d139-4163-8b81-7598bdde1539@df2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7fe4b91f-e276-4a12-953f-2b11d9b2eeab@7fe4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:84a38444-1904-4b7b-8e4b-a577a72796e3@84a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e6d6b75d-7700-496c-989a-ae1a53b65b5b@e6d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:784c802c-7120-4f11-9ccb-9620fac8dacc@784c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:08978121-a03c-4769-bfde-756185da8030@0897.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:56653f2c-b1d8-44b9-9607-f2cfb385ec0a@5665.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:915195e1-b41c-42e8-b40b-96d11c2085c1@9151.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a987125a-9ed6-4130-8007-c1bd9a4c5a12@a987.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4ec03801-dfe3-41a7-a1ef-f0afce9615b8@4ec0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:49af34c0-f7f7-4ef1-9341-67d930c1dd84@49af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:48ee25e0-dd18-4fc8-be5d-c656806b7ed4@48ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:88cbd18a-c99f-4c08-b779-072da707fb7b@88cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2cd737d4-7158-42df-be6f-074d665af45e@2cd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:611a7160-40d9-41f4-b68e-61063c72abb2@611a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b4b6cb86-6961-4ce3-b74c-da070ac60216@b4b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2eaa2ced-9ae7-46f5-8b70-e0efa8ea2628@2eaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ed002c1d-3438-4a0a-bf80-1108f4dafd2e@ed00.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:01865f2c-d655-45dd-91c3-4c6c971edbac@0186.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:1a91500c-978d-4e1f-8793-83e34accc06f@1a91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:aa8268b8-83a2-4512-8fa5-f74782e0375b@aa82.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:875fa681-4991-4c12-8d4e-53f4f980f880@875f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Sapins de Noël
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🎄 Sapins de Noël
+UID:6c92ac35-d106-4873-af62-f14a03197bbc@6c92.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:5e0880c6-2255-47fd-8012-64272a258ec7@5e08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fc27f5eb-8f43-4d25-bdbe-fc6c1c6c95ce@fc27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ad03f250-3105-4fc1-bcb5-664391b09ba7@ad03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7ba495a2-736c-4d04-ae76-d29407dbfccf@7ba4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3bb43470-f6df-41fa-ac89-596a0f9a2b45@3bb4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7517d256-f733-464b-a0fd-1cd415e85e1f@7517.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8c67c65e-a237-4efa-ac9f-ec989a513fbc@8c67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:518e2078-1794-4c9d-aecc-b367fef4db38@518e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:12365ece-dc3f-461b-a37a-e2a980428a82@1236.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:57bbf403-2b70-4d39-9842-b0590a6c064c@57bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6b4ba230-17f2-48c4-beb0-b6058927a250@6b4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:63ad9e57-fc94-442e-b40d-43a5c33bb20c@63ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a823902e-882e-4387-a181-0862d228c0ba@a823.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Differdange\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0b96f542-45f7-4468-aa3a-3b32ad1a6a9c@0b96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:94dca1e0-c503-44ce-b394-ad7eb7a7ea52@94dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e99418e0-7afa-4fbb-9fbd-f680ea2ea0a3@e994.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:98f5a609-a1e9-40ed-8dcc-140c86d4cabe@98f5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:61e3c931-d9ea-4a14-b65a-25c758b75c02@61e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1cc5a265-f3be-47e1-ade0-d7bea7630b8b@1cc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:b4383bb2-b08a-4a99-b71f-32e0fb61cf18@b438.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:565817bc-314c-473e-b3ef-9e84caa7bae1@5658.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bdd70e36-1c30-49ef-886a-d2d2d2c77913@bdd7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f9fc49f9-9cc8-4c84-a0ca-f16098e49628@f9fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:4fd498b4-9be2-4703-bf63-3708e016b37a@4fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets problématiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:☢️ Déchets problématiques
+UID:4172d40a-de11-47eb-a91f-205690978009@4172.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e04aa1cc-23e7-4ddb-aca0-67096bbd4a9d@e04a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a8f0d529-1215-414c-8a43-51924aa848a3@a8f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:988dd48d-bf3d-42f1-ad59-e647459609b6@988d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:93cb99fa-d0f2-4259-bff5-ec93534644cb@93cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:69c7581e-0814-4147-b21a-2787558381aa@69c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cba5b44b-e080-4a95-b1ff-c0fb35905570@cba5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3acdaef3-ae35-424a-97f2-70c4753b172e@3acd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Differdange\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5086e369-2b35-4465-b39c-351955f8aa7f@5086.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c05c2a43-5623-4868-a314-53076ac5dcf8@c05c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c807d65c-f6fd-4851-92bf-be25b6dcca6c@c807.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍾 Verre
+UID:964c5bd1-c499-43bf-94af-d47b40ae8930@964c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Differdange\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3bcdf413-4d7f-4382-ad51-c45f132b0d22@3bcd.org
+END:VEVENT
+END:VCALENDAR

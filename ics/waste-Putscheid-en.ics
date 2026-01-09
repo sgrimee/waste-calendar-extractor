@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:be450d3d-e0ec-469d-88dc-7adc6d13dc35@be45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:85f4bbeb-1f72-4448-b03c-ba734d156229@85f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:7819bd40-1d4e-4ab7-8b9d-ce0f31696fba@7819.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:0386976b-e540-4ea9-a24d-0d16efd5ca83@0386.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:94b00199-97e3-49c0-8040-263ea619558d@94b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:7b8f5bd7-9ae7-45c2-a3a3-b0efe5f72637@7b8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:30bfba0b-f3c3-42f9-9070-d9d55ea278ca@30bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d6045b9c-b742-4404-97ea-7bb78df48c34@d604.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:3afa8ee3-f003-4e6d-bdda-138ad38b152a@3afa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:65e25177-2f58-4d66-96c2-5d7c6219e15c@65e2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:7e75c83a-f51b-4fab-9007-45a9b698c360@7e75.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Glass
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Glass
+UID:9cfb42a1-73fe-483f-b3f8-c746e0a7d4ca@9cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Problematic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:☢️ Problematic waste
+UID:b9b1927d-08cf-49b5-8acc-ff5a23f388c2@b9b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:1e4deb5a-6e71-47d2-9585-b392ac6f2302@1e4d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:9e8f76a8-2ebc-4413-a590-820d73075b6f@9e8f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Glass
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Glass
+UID:7961fd2d-0aef-4cda-83f9-834cedc9ea3d@7961.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:966b524e-c890-4400-8658-2f88aa41b865@966b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:bcaa72ed-8af4-4aa3-9a79-9382efa351a3@bcaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7f7f8087-81df-4d34-9bb8-edbc78d7e8b0@7f7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:b543933b-a9de-4d72-ba27-bfc68ab9ee39@b543.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:c99310a1-734e-4efd-a0ef-034d4b1afcac@c993.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:b20620d9-0e7d-4cc5-9c20-eb4b1a67f6d3@b206.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:04ece2f0-42ad-45c6-9121-9fee9bcdbd42@04ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Glass
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍾 Glass
+UID:5b7fc4c7-f16e-4db8-952d-6785d890feab@5b7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fa1782b4-e55f-4865-8958-28fcbffaa23d@fa17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:5b40fdbb-5af4-4d73-949a-3854264e64f9@5b40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:da4e615a-cfd6-4215-9452-b1f12bdb7128@da4e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Putscheid\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:342163e7-a87e-4a57-bec9-a593693dcb2e@3421.org
+END:VEVENT
+END:VCALENDAR

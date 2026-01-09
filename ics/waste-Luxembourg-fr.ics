@@ -1,0 +1,3640 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bf0418cf-9bc9-47da-8b45-d18453319efa@bf04.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:02afa69a-efd0-42ea-b68d-22dcdb55e10f@02af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:219be2e8-5d33-4967-b6fb-fc732d0bce48@219b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:03889480-fe9a-4ef1-aa4d-d63704c15316@0388.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fb01a9e7-9a65-4c32-84a8-3c2e57c13db4@fb01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:28239914-0026-4bad-9afb-d2023fc45988@2823.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8ee7619d-5418-4011-a8a3-73fdf5f1604c@8ee7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:022c0cdb-0359-45a5-8e18-360cb1a0438d@022c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dd8103d9-1f9d-4cff-94a7-cf00b336e5ab@dd81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:38c7658a-e078-476c-8481-e23ceaded83f@38c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b348dcae-7d86-44bd-8221-6e787a92acc5@b348.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:71877755-082c-4340-9bfb-6719c394c3a2@7187.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:38b3d83a-b4a2-4d5e-9f9c-1b305136f2c6@38b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:ff982794-1d04-49a1-833a-3a7dde4febd2@ff98.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:f30ec966-7359-4e32-99a9-f2d3754bd491@f30e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ebe9c4b9-8a1f-48b6-b572-7b6e17bd7e58@ebe9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:41b87ac4-47bf-427d-9e45-bd03cc32fbcf@41b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e2d70b39-23ae-4478-9f0a-4455d69c94bd@e2d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7d81ebb1-2f25-4768-a31b-5b57a458ed4c@7d81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:39b38433-347e-4770-b741-5fb5e2539f55@39b3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:34543e3e-d857-4a20-b6bc-8d95fb5e4184@3454.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:27ab5f06-9ae6-4d16-9d43-d143ff3803dd@27ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:73c4319a-7285-4696-bfdf-434e177c66fa@73c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:87143b09-6ce5-4062-a8be-1201475e78f7@8714.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f5d4e7f2-a89d-4fb8-9092-4c975ec2b674@f5d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:62d9727c-4318-4134-9428-6578e0198d5e@62d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4f5467d4-5ade-44f1-bcc7-73426b6f69c8@4f54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:dee92db3-1bf0-4a4c-8809-40edd046827d@dee9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:84a4e0ed-8b9b-494a-9ccb-01ed7c853513@84a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:89e51afc-a8f7-477c-9447-dc3b9372d7f6@89e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6d9ef942-d4ee-4386-9ff4-e156ab135ee8@6d9e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:97ab33e9-76a3-4020-b726-f4fe708f5548@97ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a0258044-f092-401a-b16d-9309f0fb87c5@a025.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:bfaa3162-2ee0-47ef-9e71-56006bf2a92e@bfaa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:311027ac-e904-403d-bd8d-08c961e8f0b8@3110.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b62aebb4-bc04-4cbb-b9fc-a79b79bf15aa@b62a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:107a12b7-10a7-4bf7-9e93-5de26da12a3b@107a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c67b571a-79d6-4159-8487-11fb631fa49d@c67b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9bd00bc0-fa6b-4728-9d4a-f381066752ea@9bd0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1013a73c-69fd-44bc-9a65-04040eae5d97@1013.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9b9c4f2c-bcad-49a7-90b3-d57f365a04af@9b9c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9afe7f63-bf58-4331-9640-2189c0cde6db@9afe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b38e720d-a727-4815-b253-9ee466c55380@b38e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:888eeb9a-9cd3-4d0c-8b8e-f12a7b7ef152@888e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:69f856b6-82c8-49db-a53a-3169723554c3@69f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:81b2936c-884d-4de8-97b1-bfe550519577@81b2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bb6b7b66-19c1-421e-9aca-006dc198bfb1@bb6b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7224efc3-067a-42e1-bc72-b472e9a7f873@7224.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f47a69c5-633e-44da-8473-893384327faf@f47a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:510b0761-28ca-44af-935b-d1dfbdb8afab@510b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:b87eb210-f697-460a-ae91-a60af8f5ca0c@b87e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1c0fa5d7-9557-4445-a5ef-5c2cfc27fd0e@1c0f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:faded4d5-098e-4462-a675-6ab2c330c2d4@fade.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4c8bb12f-67ce-4574-84cc-ff70d6dcec71@4c8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:de53d41d-1d0b-419f-84e6-fa107855f42b@de53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:62669b72-6732-406b-9772-7795347d804c@6266.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e4cb9fde-33f0-418c-9f5d-dc9e73b1ae3d@e4cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:18b56100-0316-4627-9a71-c9e381dcf501@18b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:5a544038-a073-4224-94ea-3e7cafe17f17@5a54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:48899aa8-4a97-4f43-b38f-f1756308a41b@4889.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:384f88ab-efd3-417e-9391-87b8508a85b5@384f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cac1ef7a-6aa5-4bf0-885d-4c952c75da08@cac1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:de8351a4-94cd-4cd5-a221-69d856d33de8@de83.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ad269a73-9e3c-45df-8d62-6eeadb35089c@ad26.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:57882aa8-78d3-49d7-a89d-92b6be886e57@5788.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4029df3d-b9ec-47bb-911f-800a8831115c@4029.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c633f063-fa6e-4c33-93dc-b641f49ea254@c633.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:739c9abf-dc0a-4d16-b81c-62e1e49049d0@739c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:65604a21-deb3-4d1b-a690-f3281f233c1e@6560.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:cc107e41-53e2-42c7-8e7a-a6b63e29f462@cc10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:af6f4708-75f0-4f17-a765-5d814e4efcb6@af6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3aa591b9-ad63-43a8-a8f2-ecbc59e31ebb@3aa5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6b86c24a-fffa-4a39-b352-3f4e984dea4a@6b86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3c0d3c19-9f7c-4f50-bf4c-746291a86849@3c0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:920e4e38-a789-4121-a41b-fcce5778f088@920e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:be1d6148-5483-4a67-b736-9dd69a7437c1@be1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a3517309-2a8a-4019-91d5-4e3d5211c7b5@a351.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:96996517-564f-4ff8-929e-cad61fd0e1f4@9699.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eed7476b-967a-4f2c-8e24-b021ac1fb799@eed7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e8812a12-8ce1-49b0-822d-ee238d445ddb@e881.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4a890925-092e-490e-a278-931d825147d4@4a89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:57aa953b-ed0c-4116-ad66-bbfd80a5e636@57aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:11c9c6e2-e2fb-4855-bf74-c2e77c941202@11c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9ea87183-2d0b-4d4e-8be0-377493e49fff@9ea8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ab4b0524-e4ca-4d52-b4d0-c7eb13d36d69@ab4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:452f44a6-4feb-4285-84e8-6dc59898a777@452f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:947c6a7f-7011-45df-b7a1-91af2377afee@947c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f0bbe302-c1f1-4708-a85a-5504ab19406e@f0bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:364b418f-f7c4-4962-947a-fb7e7c89cc70@364b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d070509d-56a9-45e5-aca7-fbbccb4f8023@d070.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:37e18067-a31b-4745-aa75-b17cecc33070@37e1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:38cec142-e3e3-4577-bfa4-1c3b7f640821@38ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4b2a8d73-7119-4b38-b5b5-f2662bc4f5b1@4b2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f12568a-b07c-43ef-ad29-045ceec08303@8f12.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a2ced635-98db-42a1-9ccf-42e062c94a5d@a2ce.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:be087ae9-3655-4ec9-aadf-2688f1db8645@be08.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:93763b3d-59fe-4c59-9a31-de0f1e78c1ec@9376.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:53d6853a-e71c-4de0-9696-91329d4d0007@53d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d4c0e68f-e534-4eb8-b21c-97256aa01dda@d4c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cfdcf917-e671-474c-8478-0758ddc501bd@cfdc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bac30c1a-a55f-4ae9-b335-05d812bea1f5@bac3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:8e456744-c76b-4b4c-bd09-368bd84b15c0@8e45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:0c677fb4-79bb-4b38-9093-b9787fc7cffe@0c67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3b8bc5e4-f470-4267-abfc-2a3030ed5da3@3b8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4f2f88f6-4935-467e-b7e8-6bbca61ae55e@4f2f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:67e3b546-5f4f-49b1-a07b-06a9a942cd81@67e3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:9627945c-0969-4cc2-a85c-1f7f9c1b9feb@9627.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4a594c53-6ef1-4262-8b0b-ad5c7248e44e@4a59.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:512a86d9-5667-4b60-8a6c-410983452048@512a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:91b1708f-847a-455a-bf4d-6bbce7fbf47a@91b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:4ca37e96-ca4d-4aeb-b5d9-f98a0f5681d7@4ca3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:08f91ba6-96e9-4f7e-bae2-76be0504c283@08f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b58a47de-e767-450e-9482-449745bd77bf@b58a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a332cc01-9250-4e9f-a495-59f14bf957f6@a332.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:95c83a9a-5217-4f0a-a5c5-3da0d8f05553@95c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:92cbe9c0-5e6c-402d-a870-1a1cf9bf3c30@92cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:71ee45ec-4c0c-4107-b113-22a1c85fb8d5@71ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:9e92f835-a85a-42f0-b1a6-f4071907b4cd@9e92.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:778f53ab-dc3e-4d2c-9669-426d499a9f2b@778f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:95ede0ba-546e-4339-a55a-0bb44d444b2f@95ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:702bd7eb-bf7b-4a9c-beb0-76fe38428a26@702b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:da1689c2-3982-492d-939a-2160fee69710@da16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:0649b85f-47e8-405a-bd10-844009b9a03d@0649.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:7eba454f-6b15-486f-9ee3-f810b493ca14@7eba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:0b16ce95-6be8-4c0c-bd65-6b18a6fe14cd@0b16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:08cdd186-c878-4fb1-afa7-3920af1c4ea3@08cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d5f211b6-ff7e-413a-959f-a8fb0b98b9b8@d5f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:23765e06-92dc-4640-ab16-3c5961dca089@2376.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2b1eb4d0-c618-476e-8774-fcea3443db09@2b1e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:98e8fbe6-d535-4716-93b8-2b6521cb9337@98e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:5ee71b68-6be5-4bad-9a79-66fbab46116c@5ee7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a8628ccc-e666-47dd-90c3-205760e2a84a@a862.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:4a96ac08-95a4-40bd-8177-be479e23f7a2@4a96.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4052d65d-7fe1-4f01-a84a-6df23db1fad5@4052.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5afec10b-5cd0-4fd9-b6a2-185fa9b3e5a5@5afe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:51fe0d39-3333-4e0f-a7f1-5be128919a0f@51fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:6e478d3e-f54f-4a82-a530-98e49e03940d@6e47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:14447cf9-2fa9-4e1b-b9cf-3cc523331d70@1444.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d0bfa957-8e5c-4d81-9867-e52e0d1b8f63@d0bf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:44d6afe1-4850-435a-82de-78f18eb78d0d@44d6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:41917e36-d6a1-4375-a3cd-41144f931600@4191.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e623b798-7739-412a-a4fb-5af9710e4a69@e623.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c856ba12-620c-4d6b-9f65-596a61ced80e@c856.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c22b0e27-dc64-4645-ba07-349b5659e030@c22b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7842968e-cd15-4a15-bcca-33da9b56a662@7842.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c5ad4f0e-31da-4b3a-92b9-cf1b34f1b0ff@c5ad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:585fd3c0-81e8-4bd0-b831-01b871a0d2a6@585f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c321eaf8-bcf1-478c-a5a7-cb1b68c3816f@c321.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2335163a-52fd-4d98-ae4a-1078f385aada@2335.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:189c4367-fa1c-4c52-bcc3-dcb7a427eb14@189c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:b017c3ff-0fbb-4b51-8da9-5135bf629650@b017.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:1bfb1014-0ded-4265-bf3c-9607f3e5ad2b@1bfb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:412b99ba-2094-487d-a45b-cc50b39c091d@412b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:612ca396-cc98-48ef-b08c-0f87cca516f1@612c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8700775f-5bcf-4b48-9419-95e12ad25abf@8700.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e4b0e5c0-cfc1-40ae-9736-8149085f834d@e4b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2c516a6d-8bd9-4c2a-8d50-33811ee2452d@2c51.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:570c751a-78b3-43c6-9c73-cd15d14a75c0@570c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:c3f84eef-a1cc-4ddb-8be1-2204c6b556c9@c3f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fb433bfd-0db2-462c-8f11-f00a90a1699d@fb43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e71276db-8d9b-4a10-86f1-17b504502b38@e712.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2bedc11f-d06d-41bc-afae-8a020a6b21fa@2bed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:71617d13-6e21-4f7a-bba8-27bf3e84f4fd@7161.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:26b7c404-f008-45e0-8d13-fabae6eebfca@26b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b0ee192d-4c9d-41f7-bb68-513896035d89@b0ee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:e87aeb05-d02c-4be0-a9ae-7331ca879955@e87a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:9c0d8686-d2f8-4d53-be79-3a46276556f2@9c0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:203a7f60-d0af-4657-aae4-d15844360445@203a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6969e8bb-0e45-47ef-8019-7bf5ee45b51d@6969.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3bb50bea-380b-489f-8fe8-9bec15bfd130@3bb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:177a071d-34d6-48cb-af59-dbea69fb9ce8@177a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:47dfdbfa-d373-42ca-a26c-3f75052b070c@47df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2dc6932f-4c96-44c4-b1c4-1c9fab59d94c@2dc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:eed8897a-8642-494a-97b1-288c82cbb91b@eed8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cbc1ef87-22d0-4409-ae3f-6b7353f83f86@cbc1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:358281c6-7c4a-4777-bbca-e7440de20cba@3582.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:fea957c6-fdde-4e4c-8ced-fc44318cffa1@fea9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:b06171e0-5765-4ed6-b926-98e4fe5a5eea@b061.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:eaf214c1-04bd-4ebe-84e0-fd6347633274@eaf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:684a842e-d8cc-490c-96b7-538dfc978d77@684a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:200a9817-5d41-46d9-9343-4b61eb5343a4@200a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d9dca3bd-46f7-432e-85e3-105573a21544@d9dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:1079771b-b626-4edb-95c8-73df77830d98@1079.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:42653f3c-6e31-42a2-b117-e710125ad73b@4265.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:9c2dcf58-669f-4141-a277-a6ee2ad7129c@9c2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f0c6a9a8-778d-4d01-b255-0ff08f92aea6@f0c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7b3da70e-2890-4069-9d88-e3ab452e3115@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:2a031a7f-15ee-4f81-9de6-1fc40e8bbb86@2a03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a2a43dcf-57bb-4d29-9e6a-e3931137b78e@a2a4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e374d567-3600-4055-b549-871d4a0d6fdb@e374.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:e6edf735-6f88-430a-8242-b0c8b2978c81@e6ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:3c6972db-926f-4ccc-996d-26b50256f4e8@3c69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:55f25c0a-d347-4c48-9372-b3a194cbb373@55f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8c7ea98a-26ec-4a99-bdb4-8e8c4c254c82@8c7e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:db54a08e-5fd2-4f73-bd52-cd95ee43dc41@db54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c6d7c558-b3ee-43e9-a151-587b9cbe260b@c6d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3e9f934a-a38c-4c4a-a5e8-9439ef1e7e87@3e9f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:17f83a77-368a-46ab-b6b9-bf5690e5ff6c@17f8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:c9da76d4-d94d-48b9-8568-65b29b8b8a6d@c9da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:70d992e7-9467-43fe-bdc3-c4ef590eef3f@70d9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5fe83cf6-aa18-4db8-94bd-7c4df59b8cc5@5fe8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5c86bfa4-8cce-45c9-bd8d-febff3d585f0@5c86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8b8443b8-ee40-436b-8bbe-d236800e07a2@8b84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:85c1f6c4-edf1-49f6-836e-9d91bacf315d@85c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c18485ad-8736-440d-952d-0328a0a7cd31@c184.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ece3911f-a705-4d65-b119-cdb18ae6d17e@ece3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2db7154a-73f5-4848-836f-72cf6132b505@2db7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ffd48cec-1a35-480a-9d08-7e44000accb6@ffd4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:3fb78442-18a4-4729-8f2d-4a36c9fe639e@3fb7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:816cfa87-b94c-464a-a850-e53ad2ad0cd4@816c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:aaabe698-e74a-4f50-a430-89aee7e7b178@aaab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2ca9b7d9-77ba-49b3-9ab4-48ad12042e76@2ca9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a655ad9f-b806-4ad8-aab5-41d20c83073d@a655.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:a86b99fe-4047-4d56-89b2-f11439579621@a86b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:48a129cf-7e27-42b6-840a-1be8f3ec05d9@48a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fe673b37-8f91-4353-b337-20a4a49ffaf2@fe67.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:fb1368ad-38b3-49bc-bdba-ceeb93ebfefa@fb13.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:7becf4db-88fb-4b2e-9876-b7d8e4aa4f3d@7bec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:ddcab8e9-b7fb-4685-b5ff-522897a119f2@ddca.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8b8b16ee-7340-4a8c-975c-0047900f4d25@8b8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7b9a2bf0-736d-4606-a11b-258aebbedd17@7b9a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fc7fd9ac-1e3e-480a-b413-49147389a4f4@fc7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4c581b64-71f1-4368-a78a-27e9cab6101a@4c58.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:57c9a546-d139-4cd7-bb3e-3b6a955088e2@57c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:4898c880-4c0a-481c-b32c-f065fbe1d726@4898.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:2f0d76c0-ff32-4da0-9823-72f4afc8d47b@2f0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d77474ee-b6c2-4d15-92df-4ea7f30be2c1@d774.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:05b1bfb4-67b5-441b-abbb-0076271cc9f2@05b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:3336220a-652a-446c-9dda-294269887c13@3336.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:2e799fe3-271a-47b9-a149-487ef41d0ce6@2e79.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:e991322f-97b5-49c5-b815-3e97b25507d9@e991.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:125e9e69-e23c-4809-88c9-0d2f8c7a6f5e@125e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d85ae8ce-32f6-4ee0-bee1-c2d7f22b0b0f@d85a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f3b039d3-d40a-4320-8389-c9354463c9f4@f3b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:450081c1-62cd-49d2-ba54-bef9ca313f7a@4500.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:e56ce7ff-84cd-4d30-aacd-6b33fff9220c@e56c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:64042501-896b-4bb0-979b-0279d10ead67@6404.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:52a1e7e3-77e3-40c8-9a1a-2277fa2c15e6@52a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:114d7f69-4c34-40d2-b555-bda74ec4d115@114d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a647f98d-df8c-4148-adc4-1c5c669a26bb@a647.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1ad9db43-c1d4-42be-92d3-255369fc31a6@1ad9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:c8f13edb-5a60-4472-98d8-54cf7db055bd@c8f1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:525d1cd7-7f90-488d-82d0-52f3ccd3afc0@525d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:fa4462a0-bfa8-4a3c-8531-a46ab96825af@fa44.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:36d2cb1e-7400-4c7c-8742-5ce188264bf5@36d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a21f4d97-1ab4-4cd1-a1aa-1d604678154b@a21f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:67fe488f-2a04-4a32-832b-8c24d584b23b@67fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ef91e159-3a46-4d88-9041-06bd21fe49b8@ef91.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:0e8868d8-50b6-4623-bdd9-b8dd381d1a6d@0e88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:22452d6e-7a54-47e4-8ad2-1caca1728f17@2245.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ffd9a6c5-7f66-4f56-ade6-c6cf8b4cf9ad@ffd9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260212
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:ed43316f-3196-4e12-a5c9-c04e6721c2b9@ed43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7370ee66-dcf4-4db3-aedd-306a2783473d@7370.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:387fe41e-659d-4e72-b8c9-83fc7d688d68@387f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7c1766f9-1790-48ce-a4ab-adad042e3bc0@7c17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:53b6fdce-4fd3-4c05-954f-bd271bdc6727@53b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d9f75af2-512f-4814-be52-fd62abd12ada@d9f7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:76c7b138-6d50-4176-a789-d9498dfbcf4e@76c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:08951573-6169-4689-840b-5f4573c46490@0895.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:655aa3b0-1424-4c78-93b1-a8ecb6d091b4@655a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:5c68ff45-3d65-4501-a1b7-7c5c57e80461@5c68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:d3405538-ccf0-4c53-a53c-4c493ae8107f@d340.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:8f6f3e42-5a27-405d-a636-f3bae5317173@8f6f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:49f0df0d-f2e3-44ff-b431-d3114fb0cbc4@49f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a8da033e-b751-40a5-9768-84a988c2493f@a8da.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:26f629a1-d5b6-4234-967b-fab337da6a92@26f6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:cc90302b-313e-4f8f-bf67-0153860629f9@cc90.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:078da9bb-d09b-4729-b7c9-9b431a7f626c@078d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:bddb4532-0ec4-40f1-8b62-a3e57d680f10@bddb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:06320506-47ba-4bae-b006-cd8bcc5a2abb@0632.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:20d370b5-3a34-452e-99e7-3e37f0af2b21@20d3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0d17ee82-4cd5-4bfa-a861-d0bd63169507@0d17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:905b9f69-76c9-44f4-9de5-215439cded48@905b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:a2d0f57e-d060-423f-9a57-cd180e375e73@a2d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:36534178-2e18-473e-8993-15302bfe3f3c@3653.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f86a22e1-8456-4d30-a9cd-9985d9d6e36b@f86a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2a8837ab-2298-4d6a-86bf-a4a9b028fa93@2a88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:8474a35d-6354-4e1c-85ac-79ceb856ea10@8474.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:924bca9a-01da-47ea-8294-64edec0beb90@924b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:ac54d4ad-e6df-4696-99e2-4ed87e36644c@ac54.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:52832f5e-3f04-4fae-b9b9-e1dc3df03499@5283.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:5e3c6971-ba94-417f-8946-968efa64152a@5e3c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:37e8c593-2a4c-4397-b7ce-bda3d2900c5b@37e8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:48cb2367-9f33-4cb2-9e0f-7aabbf060d77@48cb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ee53f56a-7326-4c79-b0ef-a4e02a2cfa2f@ee53.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:470fd4d7-56e2-4c35-94e7-113dd3b5c3d3@470f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:fc94dee3-75f7-40d5-bbde-179625946774@fc94.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260312
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:ac18be8e-b0c3-4329-a22b-832c7f61421d@ac18.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bf7c599e-851e-490b-9aaf-e7423a1028af@bf7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:78aba4a9-2a13-4870-87e0-0048ae975acd@78ab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:300d3df8-b0a5-48ab-85b1-5c015e0537ce@300d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260211
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9906a82f-7c0b-4851-8b74-3b69cbc10d02@9906.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260114
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:94b107ae-cb2c-4c25-bc17-f9776837abeb@94b1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:4ce3be0f-e57b-41d7-b914-bca73481f109@4ce3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260311
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:737a79cf-ae0f-40e6-808e-b791142add9f@737a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:aa4100f9-d25c-466f-b6d0-9b5418d6c4b1@aa41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:a896c732-8b4f-4abd-9a7a-2dbf6e7eb5db@a896.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:26aa4efe-ff4c-40e8-8628-d450b8b1b554@26aa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Verre
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍾 Verre
+UID:92936a84-543d-4fdc-9d20-ed0272b57d2c@9293.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f34d99f6-0129-46f6-a764-6cca541e67e6@f34d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:f37c3f72-ceeb-4faf-acc4-3bd6d747c6c8@f37c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:cdbc4771-0a59-46d1-965d-59ff38b59902@cdbc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Luxembourg\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1653aadf-e1cf-426d-aa2f-45488b3b8d49@1653.org
+END:VEVENT
+END:VCALENDAR

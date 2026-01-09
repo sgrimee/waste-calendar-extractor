@@ -1,0 +1,313 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:f62cae8a-5312-401b-a729-bce456bdf7ad@f62c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:008f0df4-865d-4f6f-b249-4217170a51cf@008f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:Waste collection: Glass
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Glass
+UID:c6acbd63-35e4-4f99-9eff-5e02eff0a402@c6ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:118f54c3-39ee-4b15-8abd-f6dc941e538e@118f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:ced62b00-74d2-470d-9182-3bca10e1e496@ced6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:42d2173f-bec3-49f3-abfb-28cd15567486@42d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:113126c8-a7d6-4380-b4ae-62d24bfbc450@1131.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:d1437edc-dcf0-4609-88e0-3c4b0b7120c6@d143.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:7658f9ed-873d-4400-8310-2566eee2f4ef@7658.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ecfa5731-4ac0-4320-82d8-994fbee1cef6@ecfa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Glass will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260122
+DESCRIPTION:Waste collection: Glass
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍾 Glass
+UID:ff234e40-3ab5-444c-805d-d1232e744d1d@ff23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:a917f546-a5f0-4c24-b6af-88a29b6eef18@a917.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Green waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🌿 Green waste
+UID:4ed5f5ac-3978-435f-8861-42f5eb93a6fa@4ed5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:fb4bf29b-a52a-4540-ab96-972bfeeac60f@fb4b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:34dcc5e0-4c8c-4862-ba7b-2fede14df593@34dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:6af12aa4-8dcd-483f-85bf-79a43db84f25@6af1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:54e55763-ac36-4702-ad13-1761b94c32c0@54e5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:fd038f50-48d4-43a2-873e-08c416ca1e21@fd03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:b8b892c9-dd5b-4488-9131-04b612a3f62c@b8b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260121
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:bea2a613-fd76-4ecf-96b3-464416c01abd@bea2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Residual waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:Waste collection: Residual waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🗑️ Residual waste
+UID:ed88ed35-20f1-4910-9767-6e2eff0ec5a7@ed88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Packaging will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Packaging
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:♻️ Packaging
+UID:06f2a395-19cb-45af-8878-20989c0159d2@06f2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:3f8471ad-ab38-4337-bbaf-a3e587353709@3f84.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Organic waste will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Organic waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🍌 Organic waste
+UID:81a811fb-5d86-4f69-b429-21b78fc9de2a@81a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DESCRIPTION:Waste collection: Christmas trees
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🎄 Christmas trees
+UID:8ab5e4eb-936c-4600-b214-bccbe56b8aba@8ab5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Paper and cardboard will be collected tomorrow.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Paper and cardboard
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:📦 Paper and cardboard
+UID:286373ab-4166-4b32-aa9a-5b936f9ae4ec@2863.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Bulky waste
+LOCATION:Ettelbruck\, Luxembourg
+SUMMARY:🪑 Bulky waste
+UID:af4aa623-33c0-46f4-9a6f-ef1b104f4ae7@af4a.org
+END:VEVENT
+END:VCALENDAR

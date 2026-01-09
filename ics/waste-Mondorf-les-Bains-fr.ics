@@ -1,0 +1,610 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:3e485593-2b83-40d9-b5e5-bd75165d98fb@3e48.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:1fe8da90-f178-4e60-b14a-041338069126@1fe8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7a1d2e90-2e92-4ba0-9946-3481ee25dd71@7a1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:c90de3d4-d022-4279-8a4c-07456e1af186@c90d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:08d4a6da-5b7a-441b-b158-fbb5814f451d@08d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:adba9ad0-d650-4d0c-bf91-0918aa59affc@adba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b3a87409-18c6-4e1f-93bb-e2c052824155@b3a8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:a1b7b3c2-ae09-48d6-ace7-25d08ec8023e@a1b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:70b061d6-caed-41a0-a79c-befac8d6e741@70b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:6e63d2e3-812a-46a2-9dc7-8c497140580c@6e63.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:6e10b936-fee5-4829-8c68-25a9bdb88271@6e10.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:2cf8f6cc-a3ea-4396-972f-76798c3feef1@2cf8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260210
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:513f3ecd-130c-4219-b8e3-62e7ab8f33be@513f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2ddccb0c-f4bb-43ad-a09b-4565b95e91a2@2ddc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:8dc09dca-9976-4799-84e8-d0c7bc939133@8dc0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:d581c12f-ce76-4674-8df8-d761ed484d24@d581.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:43cd603d-6732-4edc-ba49-5ce6fa0e3189@43cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:8f27e4f9-94af-4241-98bb-af794c66df8d@8f27.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:681d59a5-1672-41e9-ae13-7ead6ff42f2f@681d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:9150e10d-7aef-48ae-87e6-4cd31ad293f2@9150.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:bc45ca3a-b888-43ca-855e-3e488dd40c39@bc45.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260310
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:4b8e5aca-29de-4d39-bbe9-241dcace2d2e@4b8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:baad2089-de0e-435d-a5e3-514884f04ab5@baad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:9445d2a4-0060-4a77-9964-22b28684bb86@9445.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:7184d4b4-71e6-4663-afe1-15449ca5f040@7184.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:ab88357a-1fed-49d0-a2e1-91f999bfde5e@ab88.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:514c817a-404d-48da-ad4a-13ffa7825d09@514c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:a8acc37c-4547-4b62-8b5b-c4681eb62794@a8ac.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260202
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:b161679a-fd27-4bd4-ba19-800181ef2c98@b161.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:f4dc9cd5-a4fa-4342-a184-77035a7592bf@f4dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:7cfd1237-d3b0-46a4-ad22-97534fd0520d@7cfd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:3adb505d-5c76-40d7-bc33-7d397bac06fb@3adb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:0a94cb24-e332-41be-90ff-f6f59448b295@0a94.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:02dc8ecc-2cbb-4562-9b56-153619b6e35e@02dc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:1e61856f-9671-410b-bc82-a4326f5be501@1e61.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260119
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:61b6da89-f478-4b2c-8b60-b414f738bac3@61b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:f37bad56-5912-404e-8a47-6135b8025b54@f37b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:00a3946e-3cc1-4deb-9c20-87f2c3a701ef@00a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:d3466b77-c219-44d3-875a-de2a46b06a49@d346.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c3350787-6d33-4a29-9339-64d98e5aad75@c335.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Papier et carton sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:Waste collection: Papier et carton
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:📦 Papier et carton
+UID:f08a36f5-8bb0-461f-a95d-25bc9b001992@f08a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:29f32814-5915-474a-a68b-3429b8613ab1@29f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260113
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:bb217f76-ab79-47b6-bb40-7120d478b8a4@bb21.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:997dc97b-b278-46e9-90f2-e58aa3395c81@997d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:c9775223-b775-44a2-a280-da48b412ecac@c977.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:298734a4-ff25-4263-865c-40adc749497b@2987.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:Waste collection: Déchets verts
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🌿 Déchets verts
+UID:14edb270-a3f1-4ce4-a113-a739e31ebe07@14ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:85099f49-96ae-4d74-8531-9946b6ab7663@8509.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:6266afac-e093-4b85-beb2-74c6e5b54305@6266.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Verre sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Verre
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍾 Verre
+UID:d1a19b48-5e27-4a63-b3d0-d1c785c70b8a@d1a1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Emballages sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:Waste collection: Emballages
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:♻️ Emballages
+UID:d6c92220-a829-4689-99ff-6fa1a56c3473@d6c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets ménagers sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Déchets ménagers
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🗑️ Déchets ménagers
+UID:22e0bc5d-de98-4e63-a36f-d8231357ff09@22e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Rappel: Déchets organiques sera collecté demain.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:Waste collection: Déchets organiques
+LOCATION:Mondorf-Les-Bains\, Luxembourg
+SUMMARY:🍌 Déchets organiques
+UID:2a657eba-fdf2-42a7-b0fa-cc21982f80cf@2a65.org
+END:VEVENT
+END:VCALENDAR

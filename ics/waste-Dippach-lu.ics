@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:97f067ec-626a-4539-93b7-7a1e43db10c9@97f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:04b84d85-6286-4075-834c-3dd7a7685c1d@04b8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:0573ffda-c272-4502-8b16-16b890c695c4@0573.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:21880b48-ca47-47f4-baa4-604231d5fbff@2188.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Dippach\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:c9b64315-6c29-4bbd-96c0-5c3e2bb9331d@c9b6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260123
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:e37f4554-bf99-4d0a-a0a3-3463a9ed4851@e37f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Dippach\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b410a8fa-5fc3-4235-bc5b-8ea980b35ea3@b410.org
+END:VEVENT
+END:VCALENDAR

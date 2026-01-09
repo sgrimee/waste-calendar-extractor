@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:647cae20-73b4-4b5e-b8d9-909b4c8be9b4@647c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:319b0b10-ae43-4e7f-a0fc-f1d9e3582028@319b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:7fab75c1-42d2-4612-bae0-821ff986920e@7fab.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:b3c7fd20-616c-4381-ab8e-57fbda4e96b6@b3c7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:e6cdb80a-ef12-4411-a352-8d7f7eeb87d2@e6cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:cc6ee371-710f-44da-9665-e41db4ba0da6@cc6e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:730a70b7-d407-47bd-97de-2070b4751ade@730a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Glas
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Glas
+UID:9c8108c8-f726-448d-a865-c24f4408fa5c@9c81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260116
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:26ec0b0d-c8c2-4170-87bd-87b605252432@26ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:9ea11982-fd95-4e23-a1d1-4954ca9b0eba@9ea1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260115
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:aa371d09-63f6-4207-ac65-f1cd5e795f27@aa37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:8ebed66d-033f-41ce-a7b8-30f9a9a0eed2@8ebe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260404
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:3c8b4556-8393-427e-8a32-fc1625e38c4e@3c8b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:cb329cb8-ba82-41a6-88f9-3bb557712ca3@cb32.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:a4832f6a-d60b-4f47-af25-6ec81b895e2e@a483.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:Waste collection: Problemoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:☢️ Problemoffäll
+UID:38ed0327-510e-4bcd-8179-fac0a59b1fec@38ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:cce18c08-2a3c-4586-9751-45057c15a256@cce1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260313
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:8fd6cdd2-52b9-4f93-ae89-9a10fa8ad6f8@8fd6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260120
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:1311e041-5375-4f54-99e8-35eb57f982fe@1311.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260209
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:c62b52e2-163f-4817-8feb-645a76247179@c62b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:18240b3d-9b17-4cb0-97e7-c3f9d96c2f21@1824.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Organesch Ressourcen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:Waste collection: Organesch Ressourcen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍌 Organesch Ressourcen
+UID:be2a3ffc-852e-4e47-8e4a-ac326f931464@be2a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Glas gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260309
+DESCRIPTION:Waste collection: Glas
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🍾 Glas
+UID:288c2690-8a4b-4e84-a746-63b3b0bc15af@288c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Pabeier a Kartong gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:Waste collection: Pabeier a Kartong
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:📦 Pabeier a Kartong
+UID:0f721c10-2153-46fc-a8b7-ba9dc1f84f77@0f72.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Verpackungen gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260112
+DESCRIPTION:Waste collection: Verpackungen
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:♻️ Verpackungen
+UID:765e825d-0838-4c2f-a48c-514c7693a1b9@765e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Moien! Denkt drun: Reschtoffäll gëtt muer ofgeholl.
+TRIGGER:-PT3H30M
+END:VALARM
+DTSTART;VALUE=DATE:20260213
+DESCRIPTION:Waste collection: Reschtoffäll
+LOCATION:Parc Hosingen\, Luxembourg
+SUMMARY:🗑️ Reschtoffäll
+UID:038136bf-ca1a-4e7f-bfe5-a5f79076e38a@0381.org
+END:VEVENT
+END:VCALENDAR
