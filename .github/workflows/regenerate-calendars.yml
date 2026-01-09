@@ -1,0 +1,56 @@
+name: Regenerate Calendars
+
+on:
+  push:
+    branches: [ public-data ]
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "latest"
+    
+    - name: Install dependencies
+      run: uv sync
+    
+    - name: Download latest CSV from data.public.lu
+      run: |
+        curl -L "https://data.public.lu/fr/datasets/r/c3805ec5-7836-49a4-9983-effaf81910d0" \
+          -o sources/waste-data-public.csv
+        echo "CSV downloaded successfully"
+        wc -l sources/waste-data-public.csv
+    
+    - name: Generate calendars for all communes
+      run: |
+        PYTHONPATH=src uv run python -m waste_cal --csv sources/waste-data-public.csv --all-communes
+    
+    - name: Generate COMMUNES.md
+      run: |
+        PYTHONPATH=src uv run python scripts/generate_communes_md.py
+    
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add ics/ COMMUNES.md
+        
+        # Only commit if there are changes
+        if ! git diff --staged --quiet; then
+          git commit -m "chore: regenerate calendars from latest CSV data"
+          git push
+        else
+          echo "No changes to commit"
+        fi
