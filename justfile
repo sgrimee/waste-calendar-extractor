@@ -69,22 +69,20 @@ generate-commune commune year:
 
 # === CSV-BASED CALENDAR GENERATION ===
 
+# Default CSV file path
+default_csv := "sources/waste-data-public.csv"
+
 # List all available communes in CSV
-list-csv-communes csv:
+list-csv-communes csv=default_csv:
     uv run waste-cal --csv {{csv}} --list-communes
 
 # Generate calendar for a commune from CSV
-generate-csv-commune csv commune:
+generate-csv-commune commune csv=default_csv:
     uv run waste-cal --csv {{csv}} --commune {{commune}}
     @echo "Generated waste-{{commune}}-*.ics files from CSV"
 
-# Generate calendar for a commune from CSV in specific language
-generate-csv-commune-lang csv commune lang:
-    uv run waste-cal --csv {{csv}} --commune {{commune}} --language {{lang}}
-    @echo "Generated waste-{{commune}}-{{lang}}.ics from CSV"
-
 # Generate calendars for all communes in CSV
-generate-all-csv csv:
+generate-all-csv csv=default_csv:
     uv run waste-cal --csv {{csv}} --all-communes
     @echo "Generated calendars for all communes in CSV"
 

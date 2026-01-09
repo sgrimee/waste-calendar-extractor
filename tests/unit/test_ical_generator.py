@@ -124,6 +124,32 @@ class TestGenerateCommuneIcalFile:
             expected_commune_file = f"waste-niederanven-{expected_suffix}.ics"
             assert any(expected_commune_file in fp for fp in filepaths)
 
+    def test_commune_name_normalized_to_lowercase(self):
+        """Test that commune names are normalized to lowercase in filenames."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            # Input with Title Case (as from CSV)
+            filepaths = generate_commune_ical_file(calendar_data, "Schuttrange", Languages.EN, 2025, temp_dir)
+
+            # Output should be lowercase
+            assert len(filepaths) == 1
+            assert "waste-schuttrange-en.ics" in filepaths[0]
+
+    @pytest.mark.parametrize("commune_variant", ["niederanven", "Niederanven", "NIEDERANVEN"])
+    def test_niederanven_case_insensitive_legacy(self, commune_variant: str):
+        """Test that Niederanven generates legacy files regardless of input case."""
+        calendar_data = create_mock_calendar_data()
+
+        with tempfile.TemporaryDirectory() as temp_dir:
+            filepaths = generate_commune_ical_file(calendar_data, commune_variant, Languages.EN, 2025, temp_dir)
+
+            filenames = [os.path.basename(fp) for fp in filepaths]
+            # All variants should produce lowercase filename
+            assert "waste-niederanven-en.ics" in filenames
+            # All variants should produce legacy file
+            assert "waste-en.ics" in filenames
+
 
 class TestGenerateAllCommuneIcalFiles:
     """Test generate_all_commune_ical_files function."""

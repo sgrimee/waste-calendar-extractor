@@ -77,7 +77,7 @@ def generate_commune_ical_file(
     }
 
     language_code = language_codes[language]
-    filename = f"waste-{commune}-{language_code}.ics"
+    filename = f"waste-{commune.lower()}-{language_code}.ics"
     filepath = os.path.join(output_dir, filename)
 
     # Write the calendar to file
@@ -87,7 +87,7 @@ def generate_commune_ical_file(
     generated_files = [filepath]
 
     # For niederanven, also generate legacy duplicate files
-    if commune == "niederanven":
+    if commune.lower() == "niederanven":
         legacy_filename = f"waste-{language_code}.ics"
         legacy_filepath = os.path.join(output_dir, legacy_filename)
         shutil.copy2(filepath, legacy_filepath)
