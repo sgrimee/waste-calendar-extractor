@@ -5,9 +5,9 @@ import tempfile
 from datetime import date, timedelta
 
 import pytest
+from ics.alarm import DisplayAlarm
 
 from ics import Calendar
-from ics.alarm import DisplayAlarm
 from waste_cal.calendar_processor import CalendarData
 from waste_cal.ical_generator import (
     generate_adys_ical_file,

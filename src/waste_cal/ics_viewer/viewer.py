@@ -23,8 +23,9 @@ from pathlib import Path
 from typing import Any
 
 try:
-    from ics import Calendar
     from ics.event import Event
+
+    from ics import Calendar
 except ImportError:
     print("Error: ics library not found. Install with: uv add ics")
     sys.exit(1)

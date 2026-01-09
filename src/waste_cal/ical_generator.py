@@ -11,8 +11,9 @@ from datetime import date as date_class
 from datetime import datetime, timedelta
 from pathlib import Path
 
-from ics import Calendar, Event
 from ics.alarm import DisplayAlarm
+
+from ics import Calendar, Event
 from waste_cal.calendar_processor import CalendarData
 from waste_cal.waste_types import AdysEventType, Languages
 
